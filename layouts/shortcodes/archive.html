@@ -1,0 +1,15 @@
+{{ $prev := 3000}}
+{{range .Site.RegularPages}}
+{{if .Date}}
+{{if gt $prev (.Date.Format "2006")}}
+{{ if ne $prev 3000}}
+</ul>
+{{ end }}
+<h2>{{ .Date.Format "2006" }}</h2>
+<ul>
+{{end}}
+    <li>{{.Date.Format "Jan 02"}} - <a class="no-underline" href="{{.Permalink}}">{{.Title}}</a></li>
+{{ $prev = .Date.Format "2006"}}
+{{end}}
+{{end}}
+</ul>

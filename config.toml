@@ -1,0 +1,105 @@
+baseURL = "https://mjcb.io/"
+languageCode = "en-us"
+title = "mjcb.io"
+copyright = "Copyright © 2018 - 2022 Matthew Burr. All rights reserved."
+theme = "hugo-clarity"
+paginate = 8
+googleAnalytics = "G-CN15CP4JCD"
+
+[params]
+    mainSections = ["blog", "publications", "retro"]
+    intro = true
+    headline = "A website about Network and System Administration and other things that interest me."
+    description = "A website about Network and System Administration and other things that interest me."
+    email = "matthew@tenfifteen.ca"
+    opengraph = true
+    dateFormat = "Monday, January 2, 2006"
+    numberOfTagsShown = 14
+    author = "Matthew Burr"
+    introDescription = "A website about Network and System Administration and other things that interest me."
+    autoHeadingID = true
+    rssSummary = true
+    largeTwitterCard = true
+    enforceLightMode = true
+    ga_analytics = "G-CN15CP4JCD"
+    enableSearch = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[permalinks]
+    blog = "/blog/:year/:month/:day/:slug/"
+    publications = "/publications/:slug/"
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+[privacy]
+    [privacy.youtube]
+        disable = true
+        privacyEnhanced = true
+
+[menu]
+    [[menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        title = "Publications"
+        url = "/publications/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "guides"
+        name = "Guides"
+        title = "Guides"
+        url = "/guides/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        title = "Archive"
+        url = "/archive/"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
+        weight = 40
+
+    [[menu.main]]
+        identifier = "docs"
+        name = "Docs"
+        url = "https://docs.mjcb.io/"
+        target = "_blank"
+        weight = 50
+
+    [[menu.main]]
+        identifier = "tfs"
+        name = "Ten Fifteen Solutions"
+        url = "https://tenfifteen.ca/"
+        target = "_blank"
+        weight = 60
+
+    [[menu.social]]
+        name = "github"
+        url = "https://github.com/matthew-tfs/"
+        weight = 10
+
+    [[menu.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/matthewburr/"
+        weight = 20
+
+    [[menu.social]]
+        name = "rss"
+        url = "index.xml"
+        weight = 30

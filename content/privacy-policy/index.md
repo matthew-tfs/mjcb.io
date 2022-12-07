@@ -12,13 +12,13 @@ This privacy policy for **mjcb.io** describes how and why this website might col
 * Visit the [https://mjcb.io](https://mjcb.io) website, or any website that links to this privacy policy.
 * Engage with this website in other related ways, including any sales, marketing or other events.
 
-Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with the policies and practices outlines in this notice, then do not use this website. If you still have any questions or concerns, please send an email to [privacy@mjcb.io](mailto:privacy@mjcb.io) with your questions.
+Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with the policies and practices outlines in this notice, then do not use this website. If you still have any questions or concerns, please send an email to **privacy**[at]**mjcb**[dot]**io** with your questions.
 
 {{< toc >}}
 
 ## Commitment To Privacy
 
-Your privacy is important, and to better protect your privacy this notice has been provided to better explain the online information that is transmitted to and from this website. To make this notice easy to find, it is always available on the [https://mjcb.io/](/) homepage, and at every point where personally identifiable information may be requested by this website.
+Your privacy is important, and to better protect your privacy this notice has been provided to better explain the online information that is transmitted to and from this website. To make this notice easy to find, it is always available on the [https://mjcb.io](/) homepage, and at every point where personally identifiable information may be requested by this website.
 
 ## Information That is Collected
 

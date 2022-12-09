@@ -42,7 +42,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## 3.1 Export the Root and Subordinate Certificates
+## 3.1 Export the Root and Subordinate Certificates ##
 
 The easiest method to deploy the Certificates to your organization is to use Group Policy to deploy them automatically to your devices.
 
@@ -53,7 +53,7 @@ The easiest method to deploy the Certificates to your organization is to use Gro
 5. Copy the **C:\TFS Labs Certificate Authority.cer** and **C:\TFS Labs TFS Labs Enterprise CA.cer** files from the **TFS-CA01** Server to the **C:\Certificates** folder on the **TFS-DC01** Server.
 6. **Optional:** If you are going to be using IIS to deploy Certificates within your organization as defined in **Step 2.15**, you can copy the **C:\TFS Labs Certificate Authority.cer** and **C:\TFS Labs TFS Labs Enterprise CA.cer** files to the **C:\Certificates** folder on the **TFS-CA01** Server. You will need to change the extension on these files from ***.cer** to ***.crt** for iOS to be able to download them.
 
-## 3.2 Deploy the Root and Subordinate Certificates to the Domain
+## 3.2 Deploy the Root and Subordinate Certificates to the Domain ##
 
 For initial deployment of the Certificates to the TFS Labs Domain, it will be applied to the root of the Active Directory Domain. This is something that can be refined later depending on your requirements.
 
@@ -66,7 +66,7 @@ For initial deployment of the Certificates to the TFS Labs Domain, it will be ap
 7. Close the **Group Policy Management** Console.
 8. Once the Certificates have been added to Group Policy, allow up to **1 hour** for the Certificates to be deployed to the entire **Active Directory** Forest.
 
-## 3.3 Optional: Deploy Certificates to iOS
+## 3.3 Optional: Deploy Certificates to iOS ##
 
 Since the **Root and Subordinate Certificates** are ready for deployment, you can now test that they work correctly on an iOS Device. If you do not have an iOS Device for testing, you can skip this section.
 
@@ -78,7 +78,7 @@ Since the **Root and Subordinate Certificates** are ready for deployment, you ca
 6. Click on the **TFS Labs Enterprise CA.crt** file. You should get a popup stating **This website is trying to download a configuration profile. Do you want to allow this?** and click the **Allow** button to confirm it. You will then get a prompt that the **SSL Profile** was downloaded. Click the **Close** button to continue.
 7. Open the **Settings** on your iOS device and select the **Profile Downloaded** menu option. A prompt should appear with the **Install Profile** options for the **TFS Labs Enterprise CA**. Click the **Install** button. You may be prompted to enter your credentials. On the **Warning** prompt, click the **Install** button to continue. Click **Done** to finish the installation.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)

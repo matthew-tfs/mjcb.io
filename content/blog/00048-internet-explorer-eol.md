@@ -18,13 +18,13 @@ Internet Explorer 11 has officially gone end of life and it had a good run despi
 
 The first time that I ever used the Internet was on Windows 95 using Internet Explorer 3, so there is a bit of a nostalgia feeling for me.
 
-## Internet Explorer 11 End of Life
+## Internet Explorer 11 End of Life ##
 
 On Wednesday June 15, 2022, Internet Explorer 11 has officially gone end of life and is no longer supported by Microsoft. There are a few exceptions where it is still supported to some degree by Microsoft, such as on Windows Server and on certain LTSC versions of Windows 10.
 
 Internet Explorer will live on to a degree with the **IE mode** functionality that is available in Microsoft Edge. I haven't really tested this feature since I can't think of a service that I use that even requires Internet Explorer anymore, but 
 
-## Internet Explorer Legacy
+## Internet Explorer Legacy ##
 
 Supporting the browser and all of the legacy functionality for Internet Explorer over the last 10 years has certainly been challenging. There is nothing more frustrating than trying to get legacy ActiveX or Java plugins working in very outdated environments, and it has certainly been a best effort approach. 
 

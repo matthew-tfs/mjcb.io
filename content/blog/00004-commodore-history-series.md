@@ -23,53 +23,53 @@ I will update this post occasionally as this particular series is a work in prog
 
 {{< toc >}}
 
-## Commodore History Series
+## Commodore History Series ##
 
-### Part 1 - The PET
+### Part 1 - The PET ###
 
 {{< youtube eP9y_7it3ZM >}}
 
-### Part 2 - The VIC 20
+### Part 2 - The VIC 20 ###
 
 {{< youtube yg04GyhS3ss >}}
 
-### Part 3 - The Commodore 64
+### Part 3 - The Commodore 64 ###
 
 {{< youtube BpXFB8ZEH30 >}}
 
-### Part 4 - The Plus4, C16, and C116
+### Part 4 - The Plus4, C16, and C116 ###
 
 {{< youtube ICiZbUypMlQ >}}
 
-### Part 5 - The C128
+### Part 5 - The C128 ###
 
 {{< youtube wzMsgnnDIRE >}}
 
-### Part 6 - The PC Compatibles
+### Part 6 - The PC Compatibles ###
 
 {{< youtube e63XWCW2ADY >}}
 
-### Part 7 - Disk Drives
+### Part 7 - Disk Drives ###
 
 {{< youtube 6QBXY8dx8ZA >}}
 
-### Part 8 - The Amiga 1000
+### Part 8 - The Amiga 1000 ###
 
 {{< youtube kjapiUQOi2s >}}
 
-### Part 9 - Amiga 1000 Expansion and PC Sidecar
+### Part 9 - Amiga 1000 Expansion and PC Sidecar ###
 
 {{< youtube PPfArIhoy0s >}}
 
-### Part 10 - Running Mac OS on your Amiga in the 1980s
+### Part 10 - Running Mac OS on your Amiga in the 1980s ###
 
 {{< youtube 8v4BaWwoyA0 >}}
 
-### Part 11 - How the Commodore REU Works
+### Part 11 - How the Commodore REU Works ###
 
 {{< youtube 3c2jhh1f5FE >}}
 
-## Links
+## Links ##
 
 * **The 8-Bit Guy Website**: [https://www.the8bitguy.com/](https://www.the8bitguy.com/)
 * **The 8-Bit Guy YouTube Channel**: [https://www.youtube.com/c/The8BitGuy](https://www.youtube.com/c/The8BitGuy)

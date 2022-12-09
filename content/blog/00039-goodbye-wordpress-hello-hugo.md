@@ -20,13 +20,13 @@ I have spent the last few days performing the migration from WordPress to Hugo a
 
 {{< toc >}}
 
-## WordPress
+## WordPress ##
 
 When I decided to start this website a few years ago I was in the middle of an important contract role that was taking up a lot of my time. I had been putting off creating a website for some time, and I just wanted to get started as I kept delaying it and making excuses. I wanted to create a new website without having to worry about the details of setting up a new server, web server applications, databases, CMS software, and most importantly, configuring everything securely. Not that any of this was a problem for me, because that is part of what I do for a living. The major issue was that I dealt with things like that all day at work and I didn't want to bother with that for a personal project.
 
 I looked at several CMS solutions, and I ultimately decided to go with [WordPress](https://wordpress.org/) for the CMS, and use [WordPress.com](https://wordpress.com/) for hosting it. A simple, but ultimately complicated solution that I am willing to admit caused issues in the long run.
 
-### Why WordPress?
+### Why WordPress? ###
 
 Choosing WordPress for the CMS seemed like a very easy decision to make at the time, and I went with WordPress for a couple of reasons:
 
@@ -42,13 +42,13 @@ I never cared about the whole **Classic** to **Gutenberg** conversion on the Wor
 
 Once I had settled on using WordPress for my website, I had to pick somewhere to host it.
 
-### Why WordPress.com?
+### Why WordPress.com? ###
 
 I decided to use [WordPress.com](https://wordpress.com/) to host my website instead of other hosting providers. Finding a host for a WordPress website is not an issue, I could probably throw a rock out of my window and hit a hosting service that could do it. I wanted something that was easy to setup and maintain, and I wanted the hassle of managing the backend server and software to be handled by someone else. I wanted a hosting provider that would keep everything up-to-date for me and provide things like analytics without requiring additional add-ons and configuration changes.
 
 WordPress.com also supported custom themes and plugins, which was important to me as I wasn't quite sure what the website would require, so I wanted to cover every option just in case.
 
-### What's Wrong With WordPress.com?
+### What's Wrong With WordPress.com? ###
 
 There were some downsides to using WordPress.com as a hosting provider, and that was mostly the cost of the service and the speed of the service. It is very expensive to host a basic website with basic customizations (themes, plugins, etc), and unlocking basic customizations seemed like a rip-off to me. My website also seemed slow and unresponsive to me on multiple locations, and that seemed unacceptable to me for virtually static content that didn't change. I would occasionally get alerts that the site was unresponsive or had high packet loss, which to me was unacceptable. I also utilized Cloudflare to try and alleviate the issues, which worked to a degree, but that is unacceptable to me.
 
@@ -56,11 +56,11 @@ I also ended up not using a lot of WordPress plugins for multiple reasons. I fel
 
 I was also not a fan of the way that WordPress handled the media library. I found it very cumbersome to manage images and other media and images would randomly stop appearing for no reason. I found out while migrating from WordPress.com to Hugo that images that I had deleted were still online and accessible, despite not appearing in the media library. I am not sure if that is a bug specific to WordPress or the hosting provider, but needless to say I was very unimpressed.
 
-## Hugo
+## Hugo ##
 
 I looked at static site generators at the time when I chose to use WordPress for my website, including [Jekyll](https://jekyllrb.com/), but at the time I decided that I wanted to go with something with less of a learning curve. After revisiting Hugo a few months ago, I realized that I just hadn't put in enough time to get to understand how it worked, and I am certainly glad that I did, as Hugo was exactly what I wanted from the beginning. I ultimately chose Hugo and Netlify as the platforms for my website, and those reasons and details are explained below.
 
-### Why Hugo?
+### Why Hugo? ###
 
 [Hugo](https://gohugo.io) is a static site generator, which takes plaintext content (Markdown files) and outputs an entire static website whenever a change is made. The best way to summarize Hugo is that is it boring, simple, fast and has very little overhead. It uses the [Go](https://go.dev/) programming language, which is insanely fast and easy to work with. It is also designed to be easily deployed without requiring complex dependencies, and supports automated deployments with Git. This means that you can stage your changes to your website on your local computer, commit your changes to Git, and those changes are automatically deployed to your website if the hosting platform supports it.
 
@@ -74,11 +74,11 @@ Other reasons why I wanted to go with Hugo included:
 
 The other benefit is the ease of use for creating content for my website. So much of my daily workflow is already in VS Code and Git, so moving my website to that was a no-brainer to me. It is incredibly easy to write content, test it, and deploy it, as it should be for anything.
 
-### Why Netlify?
+### Why Netlify? ###
 
 One of the ways to deploy websites created with Hugo is to use Git and third-party hosting services such as [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/). These platforms, combined with Hugo and Git, allow for automated and rapid deployments that use these solutions. I ultimately settled on using Netlify since I use Atlassian Bitbucket as my main Git hosting provider. Netlify offers free tiers, analytics, custom domain names, DNS hosting and SSL encryption, so using it was not an issue for me.
 
-### Hugo and Netlify Workflow
+### Hugo and Netlify Workflow ###
 
 A typical workflow for deploying a new post using Hugo and Netlify typically looks like this:
 
@@ -90,13 +90,13 @@ A typical workflow for deploying a new post using Hugo and Netlify typically loo
 
 Static content such as images are easy to embed at the same time, and don't require any additional consideration except for ensuring that the file path locations are correct.
 
-## Installing and Running Hugo
+## Installing and Running Hugo ##
 
 Installing and running Hugo is not difficult to do at all, and a complete [Quick Start](https://gohugo.io/getting-started/quick-start/) guide is available on the Hugo website. This guide is very well done and there should be no issues in getting Hugo up and running if you follow it. I have included below the steps that I used to get Hugo running for me on Windows 11. Hugo is very simple, it installs as a single executable file at around 50 MB in size.
 
 I am providing instructions on how to install Hugo on Windows 11, but I have also installed and tested Hugo using macOS. I am in the middle of migrating everything of mine to the macOS platform, and I tested it on the M1 MacBook Air as part of my migration testing for Hugo.
 
-### Install Scoop
+### Install Scoop ###
 
 There are multiple ways to install Hugo using package managers that are available for modern versions of Windows. I decided to use [Scoop](https://scoop.sh/), which is a package management tool that works on Windows 10 and Windows 11. The installation method for installing Scoop is not difficult, but will require the **ExecutionPolicy** to be temporarily modified to allow for the installer to work correctly:
 
@@ -141,7 +141,7 @@ C:\Users\Matthew\AppData\Local\Microsoft\WindowsApps
 C:\Users\Matthew\AppData\Local\Programs\Microsoft VS Code\bin
 ```
 
-### Install Hugo
+### Install Hugo ###
 
 Installing Hugo can be performed using a single command:
 
@@ -163,7 +163,7 @@ PS C:\Users\Matthew> hugo version
 hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
 ```
 
-### Running Hugo
+### Running Hugo ###
 
 I won't go into the details on how to create a website with Hugo and install a theme, but it is fairly straightforward. Instructions on how to do this are included on the Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) guide.
 
@@ -212,7 +212,7 @@ Total in 153 ms
 
 Some changes, such as changing menu items or changing the **config.toml** file may require restarting the service entirely.
 
-## So, It Was a 1:1 Conversion Right?
+## So, It Was a 1:1 Conversion Right? ##
 
 Yes and no, but it went well considering the differences between the platforms. I have performed migrations in the past that included database conversions and other complex changes, and those were always a real pain to get right and validate.
 
@@ -228,11 +228,11 @@ I probably spent around 6 hours converting everything and validating the changes
 
 Overall, the conversion was painless, worked perfectly and I am happy with the results.
 
-### Missing Features
+### Missing Features ###
 
 I removed the contact page from the website entirely. There is no native functionality for supporting the forms and the email functionality, but there are third-party solutions if I really wanted it. There is also no native support for comments, but there are third-party solutions as well if that is required.
 
-## Using VS Code
+## Using VS Code ##
 
 VS Code is the perfect IDE in my opinion, and of course I use it for managing my website:
 
@@ -244,11 +244,11 @@ For extensions, I ended up using **Better Toml** for managing the Hugo configura
 
 Overall, VS Code and the extensions make managing a Hugo website very easy.
 
-## Conclusion
+## Conclusion ##
 
 Hugo is an excellent option for creating static websites, and I was able to move from WordPress to Hugo without any major issues. My only issue with it was that I did not make the change earlier. I will very likely convert the [Ten Fifteen Solutions](https://tenfifteen.ca/) website in the future, as it is the last website I am running that uses WordPress.
 
-## Links
+## Links ##
 
 * **Better TOML**: [https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 * **Front Matter**: [https://frontmatter.codes/](https://frontmatter.codes/)

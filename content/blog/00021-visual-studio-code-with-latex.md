@@ -25,7 +25,7 @@ I have written a follow-up post about using Visual Studio Code with LaTeX, mostl
 
 {{< toc >}}
 
-## Introduction
+## Introduction ##
 
 I try my best to make an effort to update my resume at least 2 or 3 times a year. Not necessarily because I am looking for a new job, but because I don't want to forget about certain accomplishments. 2019 was a very busy year for me and for the first time in almost 10 years I didn't update it once. The last time I updated it was in mid-2018, and at that time I had converted my resume from Word to [LaTeX](https://www.latex-project.org/).
 
@@ -43,13 +43,13 @@ For this guide I am using Windows 10 Pro 1909 64-bit on my Workstation, and here
 * LaTeX Workshop v8.6.0
 * LaTeX Utilities v0.3.4
 
-## Installing Visual Studio Code
+## Installing Visual Studio Code ##
 
 I won't go into the installation of VS Code since it is fairly straightforward, and accepting all of the default options should be fine. When you download it there are three options for installing it, User Installer, System Installer and Zip. It is your preference, and no matter how you install it there should be no issues using the LaTeX plugins with it.
 
 ![VS Code](/images/blog/00021/vs-code-installation-09.png "Default VS Code Window after installation.")
 
-## Installing MiKTeX
+## Installing MiKTeX ##
 
 Like the installation of VS Code, I also won't go into the details on how to install it since it is very straightforward to do. Just accept all of the default options and everything should work. There are two post-installation tasks to do, and one thing to confirm after installation.
 
@@ -67,7 +67,7 @@ You should also take a moment to confirm that the MiKTeX executables have been a
 
 If everything looks good then proceed with installing Strawberry Perl.
 
-## Installing Strawberry Perl
+## Installing Strawberry Perl ##
 
 For the installation of Strawberry Perl, accept all of the default options. When the installation has completed, the Strawberry Perl executables should also have been automatically added to the System PATH:
 
@@ -77,7 +77,7 @@ If the System PATH looks okay, then you can install the LaTeX plugins in VS Code
 
 It is probably a good idea at this point to logout and log back in to ensure that the PATH has been picked up correctly by your user account.
 
-## Installing LaTeX Workshop and LaTeX Utilities
+## Installing LaTeX Workshop and LaTeX Utilities ##
 
 The two plugins can be easily installed directly through VS Code by going to the Extensions Marketplace window.
 
@@ -97,7 +97,7 @@ After the first extension is installed, click on "LaTeX Utilities" and then clic
 
 That is all there is to it to install both extensions.
 
-## Create a Basic LaTeX Document
+## Create a Basic LaTeX Document ##
 
 To quickly test if the LaTeX plugins are working, create a new folder that will contain the test LaTeX document and create a new file called **hello.tex** in it. Here is a basic document that you can use to test LaTeX:
 
@@ -121,7 +121,7 @@ MiKTeX is a great tool since it will automatically prompt you to install any mis
 
 I won't go into the details on how to do more advanced configuration with the LaTeX Workshop plugin. The plugin is very well documented in the [LaTeX Workshop Wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki).
 
-## Links
+## Links ##
 
 * **LaTeX Project**: [https://www.latex-project.org/](https://www.latex-project.org/)
 * **MiKTeX**: [https://miktex.org/](https://miktex.org/)

@@ -22,7 +22,7 @@ The issue that I kept encountering was the installer would constantly crash duri
 
 {{< toc >}}
 
-## Software
+## Software ##
 
 For this guide I used the following software/environment:
 
@@ -32,17 +32,17 @@ For this guide I used the following software/environment:
 
 At the end of the installation I upgraded Windows NT 3.51 Server and Windows NT 3.51 Workstation to Service Pack 5. I also installed [NewShell](https://en.wikipedia.org/wiki/Windows_NT_3.51#NewShell) as an experiment just to see how it worked.
 
-## Windows NT 3.51
+## Windows NT 3.51 ##
 
 Before I started this project I realized that I have never actually used this Operating System, or have even seen it installed anywhere. My first Windows computer was running Windows 95, and I just never encountered Windows NT 3.51 (why would I, it was targeted towards businesses primarily). I used to run into Windows NT 4.0 all the time when I worked for an MSP a few years ago, but that was it. I think I only ever used Windows 3.1 once or twice and that was it, so I wasn't even very familiar with the Program Manager/File Manager User Interface.
 
 The history on the creation of Windows NT is definitely an interesting one and I recommend reading more about it if you get the chance. Operating System history and Retro Computing is an interest of mine, and with the availability of Virtualization it is very easy to try out these old Operating Systems without too much effort. The fact that I have to write a guide to get this particular Operating System up and running is a small annoyance, but it is possible.
 
-## Why Hyper-V?
+## Why Hyper-V? ##
 
 I definitely had a lot of options for how I would undertake this project. I was certainly was not going to attempt using real hardware for it, so Virtualization was my only real option. I also did not have the option to use Azure or AWS (not because of the obvious lack of support for Windows NT 3.51), but because I will need to host multiple Virtual Machines later in the project and I simply did not want to pay for that. It doesn't help that there a lot of options for Virtualization nowadays (QEMU, VirtualBox, VMware), but I settled on Hyper-V because it runs natively on my Surface Laptop without having to install anything extra and I wanted to see if it was possible to do his project with only using Microsoft products.
 
-## Virtual Machine Settings
+## Virtual Machine Settings ##
 
 There are a few specific settings that needs to be created in order for these Virtual Machines to work correctly. I won't go into the specifics on how to create a Virtual Machine in Hyper-V, but here are the details on what the Virtual Machine settings need to be for both Windows NT 3.51 Server and Workstation:
 
@@ -80,11 +80,11 @@ CompatibilityForOlderOperatingSystemsEnabled : True
 
 I did try the installation with and without this setting and I can’ say for certain if it helps or not. I know that it is required for Windows NT 4.0 and Windows 2000.
 
-## Pre-Installation
+## Pre-Installation ##
 
 Windows NT 3.51 does not boot from CD for the installation, and you will need three boot disks in order to install the Operating System. I won't go into details on how to get these disks, but they are easy to find online (you can also create them by using a Windows 9x boot disk and the NT 3.51 CD). To convert them to work with Hyper-V, all you need to do is change the file extensions from **img** to **vfd**.
 
-## Installation
+## Installation ##
 
 I won't go into all of the steps on how to go through the MS-DOS and GUI installation of Windows NT 3.51, I am only going to focus on the Networking components.
 
@@ -112,7 +112,7 @@ I am not entirely sure what is causing the error and given the age of the Operat
 
 Once the Network settings have been configured you can continue setting up Windows NT 3.51.
 
-## Post-Installation
+## Post-Installation ##
 
 If you installed Windows NT 3.51 without a Network Adapter, you can now safely add it to the Virtual Machine. You will need the installation CD in order to install the drivers and you will be able to configure the Network however you want. You can install it by going to the Control Panel and going to the Network settings.
 
@@ -124,7 +124,7 @@ To correct this issue all you need to do is go to the Control Panel, open the Ne
 
 Once the Network settings have been configured, you should fix the Screen Resolution by changing it from 640x480 to 800x600. You will need to restart the Virtual Machine to apply the settings.
 
-## Windows NT 3.51 Service Pack 5
+## Windows NT 3.51 Service Pack 5 ##
 
 It is fairly straight-forward to install Service Pack 5 on Windows NT 3.51 Server and Workstation. I added the file to an ISO image and mounted it on both Virtual Machines and copied it to the C drive in it's own directory. There are only two commands that you need to run in order to install the Service Pack:
 
@@ -135,7 +135,7 @@ UPDATE.EXE
 
 The installation only takes a minute and you will need to reboot the Virtual Machine at the end of the installation.
 
-## NewShell
+## NewShell ##
 
 The installation of NewShell is entirely optional. I put the files onto an ISO image to move the files over to both Virtual Machines just like the Service Pack files. It only requires one command to install the update:
 
@@ -155,7 +155,7 @@ If you want to go back to the old Program Manager/File Manager user interface, y
 SHUPDATE.CMD /U
 ```
 
-## Hyper-V Limitations with Windows NT 3.51
+## Hyper-V Limitations with Windows NT 3.51 ##
 
 There are a few limitations to running Windows NT 3.51 on Hyper-V, all of which will never be resolved. Hyper-V Guest Additions do not work and will never work. The drivers for the video adapter can only work at 16 colours and maxes out at 800x600 for the resolution. I looked around for third-party drivers but I was not able to find any.
 

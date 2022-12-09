@@ -35,7 +35,7 @@ As an aside, the first time that I saw the portals list it immediately reminded 
 
 So, this particular issue is not new to Microsoft, this has been going on for several years.
 
-## Single Pane of Glass
+## Single Pane of Glass ##
 
 There are a few administration portals that Microsoft has gotten right, but there are a lot of cases where they have moved too much functionality to other portals for seemingly no reason. The Microsoft Azure portal is very convenient, and if I am managing an Azure environment, I can effectively manage everything directly from that portal, including accessing the CLI through the portal (which is a very convenient feature).
 
@@ -49,13 +49,13 @@ If the organization is in a hybrid mode with on-premises Active Directory for us
 
 With on-premises Exchange versions this used to be a fairly trivial process and it was easy to find these settings without too much effort. It also helped that these could all be found on the same server in most cases, so there was much less switching around windows to find what you are looking for. As these services become more advanced, I don't think the issue will get much better.
 
-## Poor Unified Search
+## Poor Unified Search ##
 
 Something that is seriously lacking in the Microsoft administration portals is the ability to search for these portals or for settings that are not in the portal that you are using. There is the ability to search for some settings, but only if you know exactly what you are looking for. Microsoft has certainly laid the groundwork for it, I would just like if they added more search criteria for things that you aren't exactly sure about.
 
 For example, in Windows I can type "what happens when I close the lid" to get to certain power settings, and that takes me where I want to go. Adding that type of functionality in the Microsoft portals would go a long way.
 
-## Unfinished or Work in Progress Portals
+## Unfinished or Work in Progress Portals ##
 
 I have no issue with Microsoft updating their portals and adding features. I kind of expect them to do so as the platforms that they offer mature, but I have a big issue with seeing this slider on their portals:
 
@@ -63,11 +63,11 @@ I have no issue with Microsoft updating their portals and adding features. I kin
 
 I have an issue with Microsoft advertising the new portal when it is missing the functionality of the old portal. This was especially annoying with the **Security and Compliance** portals with Office 365, as there was a considerable amount of missing functionality on the new portals. If I have to constantly switch from the new to the old portals, then the new one is not ready and should not be advertised as being ready for production usage.
 
-## What Am I Complaining About?
+## What Am I Complaining About? ##
 
 Nothing, I am just ranting about Microsoft and inconsistencies in their products. I would rather Microsoft take the time to refine their existing products instead of just adding features constantly, without adequately integrating those features into their existing products.
 
-## Links
+## Links ##
 
 * **Microsoft Portals**: ([https://msportals.io/](https://msportals.io/))
 * **GitHub Repository**: ([https://github.com/adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io))

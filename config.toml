@@ -23,6 +23,7 @@ googleAnalytics = "G-CN15CP4JCD"
     enforceLightMode = true
     ga_analytics = "G-CN15CP4JCD"
     enableSearch = true
+    ignoreErrors = [ "error-remote-getjson" ]
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]

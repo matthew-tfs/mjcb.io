@@ -22,6 +22,6 @@ I have had a bit of downtime while Canada is basically shutdown due to COVID-19 
 
 To learn more about this initiative you should take time to visit the World Backup Day website at [http://www.worldbackupday.com/](http://www.worldbackupday.com/) (they should really enable SSL on their site).
 
-## Links
+## Links ##
 
 * **World Backup Day**: [https://www.worldbackupday.com/](https://www.worldbackupday.com/)

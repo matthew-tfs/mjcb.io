@@ -42,7 +42,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## 4.1 Enable the Online Responder Role
+## 4.1 Enable the Online Responder Role ##
 
 The **OCSP Responder** role is a component of **Active Directory Certificate Services** that is used to reduce overhead with CRLs on your Network. It can check for revoked Certificates much faster than with regular CRLs and can update clients of their status.
 
@@ -58,7 +58,7 @@ The **OCSP Responder** role is a component of **Active Directory Certificate Ser
 10. Once the installation is completed, click the **Close** button.
 11. Restart the **TFS-CA01** Server if it did not restart automatically as part of the installation.
 
-## 4.2 Configure the Online Responder Role
+## 4.2 Configure the Online Responder Role ##
 
 Once the **OCSP Responder** role has been added to the **TFS-CA01** Server, it can be configured.
 
@@ -78,7 +78,7 @@ Certutil -vocsproot
 
 The **IIS Service** will need to be restarted afterwards if this command is run.
 
-## 4.3 Add the OCSP URL to the Enterprise CA
+## 4.3 Add the OCSP URL to the Enterprise CA ##
 
 Once the **OCSP Role** has been installed, the URL can now be added to the **Subordinate CA** Certificate.
 
@@ -88,7 +88,7 @@ Once the **OCSP Role** has been installed, the URL can now be added to the **Sub
 4. Select **Include in the online certificate status protocol (OCSP) extension** and click the **OK** button (ensure that the **Include in the AIA extension of issued certificates** is not selected).
 5. When prompted by the Certification Authority dialog box to restart **Active Directory Certificate Services**, click **Yes**.
 
-## 4.4 Configure and Publish the OCSP Response Signing Certificate
+## 4.4 Configure and Publish the OCSP Response Signing Certificate ##
 
 The **OCSP Response Signing Certificate** will be used by the **OCSP Responder Service** in order to manage the OCSP Services for the organization.
 
@@ -102,7 +102,7 @@ The **OCSP Response Signing Certificate** will be used by the **OCSP Responder S
 8. In the **Certification Authority** Console, right-click **Certificate Templates**, then select **New > Certificate Template to Issue**.
 9. In the **Enable Certificate Templates** dialog box, click **TFS Labs OCSP Response Signing** and then click **OK**.
 
-## 4.5 Configure Revocation Configuration on the Online Responder
+## 4.5 Configure Revocation Configuration on the Online Responder ##
 
 Once the **OCSP Certificates** have been configured, the **OCSP Responder Role** can now be configured.
 
@@ -120,7 +120,7 @@ Once the **OCSP Certificates** have been configured, the **OCSP Responder Role**
 12. In the **Online Responder Management** Console, expand **Array Configuration** and then click **TFS-CA01.corp.tfslabs.com**.
 13. Review the **Revocation Configuration Status** in the middle pane to ensure there is a signing certificate present and the status reports as **OK**. If so, the provider is successfully using the current configuration.
 
-## 4.6 Add the OCSP URL to Group Policy
+## 4.6 Add the OCSP URL to Group Policy ##
 
 Once the **OCSP Role** has been installed, the URL can now be added to the **Subordinate CA** Certificate in Group Policy to ensure that it is being deployed to the organization.
 
@@ -132,7 +132,7 @@ Once the **OCSP Role** has been installed, the URL can now be added to the **Sub
 6. Close the **Group Policy Management** Console.
 7. Once the Certificates have been added to Group Policy, allow up to 1 hour for the Certificates to be deployed to the entire **Active Directory** Forest.
 
-## 4.7 Verify OCSP Status
+## 4.7 Verify OCSP Status ##
 
 Once the **OCSP Role** has been configured, you can now verify if it is working correctly within the PKI Infrastructure.
 
@@ -154,7 +154,7 @@ certutil -cainfo xchg
 6. On the **TFS-CA01** Server, open the **Enterprise PKI** Console (PKIView.msc).
 7. Under the **Enterprise PKI** node, click on the **TFS Labs Certificate Authority** Server and check that the status of **OCSP** is **OK**.
 
-## 4.8 Verify OCSP Connectivity
+## 4.8 Verify OCSP Connectivity ##
 
 To verify that the **OCSP Responder** Server can communicate with devices on the **TFS Labs** Domain a certificate will need to be exported and run through the **URL Retrieval Tool**. This can be easily accomplished on the **TFS-CA01** Server.
 
@@ -172,7 +172,7 @@ Certutil -URL “C:\TFS Labs Enterprise CA.cer”</code></pre>
 
 **Note:** This step may not return a result immediately and that is nothing to be concerned about. If you run this test and nothing is returned in the results, you may want to run this test later using the **TFS-WIN10** Workstation once Certificate Deployments is completed.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)

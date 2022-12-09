@@ -42,7 +42,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## 6.1 User Certificate Template Creation
+## 6.1 User Certificate Template Creation ##
 
 The following **Certificate Templates** will need to be created in the **Certification Authority** Console on the **TFS-CA01** Server:
 
@@ -54,7 +54,7 @@ The following **Certificate Templates** will need to be created in the **Certifi
 
 These **Certificate Templates** will be used for issues **Certificates** to the organization. Some will be issued automatically, and the others can be requested by users or devices. The procedure for creating these **Certificate Templates** is mostly the same.
 
-### User and Workstation Templates
+### 6.1.1 User and Workstation Templates ###
 
 The settings for these templates will vary based on the needs of your organization, and the settings being used in this guide may or may not work for you. Ensure that you understand what the template settings are and how they will affect the users and devices in your organization.
 
@@ -70,11 +70,11 @@ The settings for these templates will vary based on the needs of your organizati
 10. In the **Certification Authority** Console, right-click on **Certificate Templates**, then select **New** and then select **Certificate Template to Issue**.
 11. In the **Enable Certificate Templates** dialog box, click **TFS Labs User Certificate** and then click **OK**.
 
-### User Certificate Template
+### 6.1.2 User Certificate Template ###
 
 Ensure that the user has their e-mail address entered into Active Directory, otherwise this Certificate will not deploy correctly to the User Account.
 
-## 6.2 Workstation Certificate Template Creation
+## 6.2 Workstation Certificate Template Creation ##
 
 1. In the **Certification Authority** Console on the **TFS-CA01** Server, ensure that the **TFS Labs Enterprise CA** Server is expanded in the Console tree.
 2. Right-click on **Certificate Templates** and then click **Manage**. The **Certificate Templates Console** window will open and display the **Certificate Templates** that are currently stored in **Active Directory**.
@@ -88,7 +88,7 @@ Ensure that the user has their e-mail address entered into Active Directory, oth
 10. In the **Certification Authority** Console, right-click on **Certificate Templates**, then select **New** and then select **Certificate Template to Issue**.
 11. In the **Enable Certificate Templates** dialog box, click **TFS Labs Workstation Certificate** and then click **OK**.
 
-## 6.3 Web Server Certificate Template Creation
+## 6.3 Web Server Certificate Template Creation ##
 
 1. In the **Certification Authority** Console on the **TFS-CA01** Server, ensure that the **TFS Labs Enterprise CA** Server is expanded in the Console tree.
 2. Right-click on **Certificate Templates** and then click **Manage**. The **Certificate Templates Console** window will open and display the **Certificate Templates** that are currently stored in **Active Directory**.
@@ -101,7 +101,7 @@ Ensure that the user has their e-mail address entered into Active Directory, oth
 9. In the **Certification Authority** Console, right-click on **Certificate Templates**, then select **New** and then select **Certificate Template to Issue**.
 10. In the **Enable Certificate Templates** dialog box, click **TFS Labs Web Server Certificate** and then click **OK**.
 
-## 6.4 Active Directory Certificate Services Web Enrollment
+## 6.4 Active Directory Certificate Services Web Enrollment ##
 
 The **Active Directory Certificate Services Web Enrollment** website is a feature that allows **Authenticated Users** in the organization the ability to submit **Certificate Requests** and download the completed **Certificates**. It can be found by going to the following URL:
 
@@ -133,7 +133,7 @@ The only minor issue with this is that SSL should be enabled on this site, but w
 
 If you go to the SSL Certificate properties of the web page, you will be able to see that the Certificate has been issued by the **TFS Labs Enterprise CA** and is valid for only 1 year.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)

@@ -19,7 +19,7 @@ It has been a rumour for many years that Apple was finally going to ditch Intel 
 
 {{< toc >}}
 
-## Apple Silicon
+## Apple Silicon ##
 
 Moving to Intel back in 2005 was probably one of the best decisions that Apple made at the time for the Mac, since the PowerPC architecture was not catching up to Intel’s performance and the thermals with PowerPC chips were getting worse with every new iteration. On Monday June 22, 2020 the announcement finally came out that they were not only going to use their own ARM processors on new Mac computers, which will officially be known as Apple Silicon, they would be migrating their entire product line in 2 years. It is a massive undertaking and I would be impressed that by late 2022 if they are able to do this or get close to completing this task. Fortunately they have a plan in place to allow for the co-existence of two different architectures for the future, so just because you have an Intel Mac it doesn’t mean that you are stuck with a dead platform.
 
@@ -29,7 +29,7 @@ You can view the entire event on Apple's website. It was definitely a much diffe
 
 The big takeaways from the presentation, Intel and Apple are parting ways, iOS 14 is finally introducing new features to the home screen, Apple's new processors and chipsets are coming to Apple's entire product line, Rosetta is back, macOS Big Sur is the successor to macOS Catalina, and the macOS 10.0 line is finished after 19 years and 16 major releases.
 
-## Why is ARM Important to Me?
+## Why is ARM Important to Me? ##
 
 I have written about several Windows-based ARM devices in this blog before, for some reason it is something that I have been interested in for the last few years. I have always liked the idea of having a low powered and efficient device that is capable of all-day battery life, something that is instant-on, something that is lightweight and something that doesn't generate a lot of heat. Having built-in LTE is something that was nice to have as well, but since I always have my phone with me I only need to take an extra few seconds to setup a hotspot so I never really cared about that.
 
@@ -43,7 +43,7 @@ I am confident that Apple will be successful with their transition to ARM becaus
 
 Oddly enough the best Windows ARM device I ever owned was the Nokia 830 Windows Phone running Windows Phone 8.1. It had the benefit of the Metro design interface without any of the legacy features from other versions of Windows.
 
-## Benefits of Apple Silicon Mac Computers
+## Benefits of Apple Silicon Mac Computers ##
 
 There are definitely some advantages that Mac computers will have using Apple Silicon over conventional x86 computers that is currently is use:
 
@@ -56,7 +56,7 @@ There are definitely some advantages that Mac computers will have using Apple Si
 
 Apple also has the benefit of having pretty much perfected the current iPad Pro line with their latest release (the 4th generation). They will be able to take the lessons learned from that platform and apply it to their Mac line as well. I have been using the iPad Air 3 for the last 6 months and I have no complaints about the performance of it and I find it works amazingly well considering it's apparent limitations compared to more powerful x86 computers. The idea of Apple taking an iPad Pro and converting it to a proper and conventional computer would not be the worst idea in the world.
 
-## Apple Silicon Transition Period
+## Apple Silicon Transition Period ##
 
 Apple has a plan to allow for the transition to their Apple Silicon based Mac computers. Their current offering is a development kit that will give developers the ability to port their applications in advance of the introduction of new Apple Silicon Mac computers. The development kit, known as the **Developer Transition Kit**, will be a modified Mac Mini with the A12Z SoC Processor, 16GB of memory and a 512GB SSD and a Beta version of the macOS Big Sur Operating System. This is the exact same processor that the current iPad Pro uses:
 
@@ -66,7 +66,7 @@ Also coming with macOS Big Sur is Rosetta 2 which will bridge the gap between th
 
 ![Apple Architectures](/images/blog/00035/apple-silicon-xcode-alert.jpg)
 
-## Downsides of Apple Silicon for Mac
+## Downsides of Apple Silicon for Mac ##
 
 Even though there are a lot of benefits to moving to ARM through Apple Silicon, there are some downsides, but they aren’t as bad as it seems. The most obvious downsides are:
 
@@ -82,7 +82,7 @@ As part of their demonstration during the June 22nd event, they did showcase sev
 
 The further lockdown of the Mac platform is an interesting thing to consider. At the end of the day, Apple is essentially turning the Mac line into giant iOS devices, with the same hardware and software. I personally don’t have any issues with this, but there will definitely be people who have issues with it, voicing the same concerns that they already have the iOS.
 
-## Will I Buy an Apple Silicon Mac?
+## Will I Buy an Apple Silicon Mac? ##
 
 I’m undecided right now. As much as I am a fan of the iPhone and the iPad, I have never been particularly fond of the Mac itself as a platform. This is probably because I never even used a Mac device until I was in University, and I rarely dealt with them at any of my workplaces. I have never liked the way the macOS interface and workflow works, but I blame that on being a Windows user for the last 25 years. I should like macOS because it is a UNIX derived Operating System, but that is not enough for me. Oddly enough, the iPhone XS is without a doubt the best phone that I have ever owned and it is running the same software and Operating System that macOS will be in the next few years.
 

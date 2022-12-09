@@ -43,7 +43,7 @@ In this picture are the following computers from top to bottom:
 
 I will post some content about these computers when I have time to do so, and detail anything that I needed to do to get them working with their original Operating Systems. Some of these computers are quite old and may require component replacements, which I will definitely go into details on.
 
-## Links
+## Links ##
 
 * **Adrian's Digital Basement**: [https://www.youtube.com/c/adriansdigitalbasement](https://www.youtube.com/c/adriansdigitalbasement)
 * **Jan Beta**: [https://www.youtube.com/c/JanBeta](https://www.youtube.com/c/JanBeta)

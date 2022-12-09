@@ -18,7 +18,7 @@ To say that 2020 has not been going well would be a big understatement. The COVI
 
 There is going to be a lot of very interesting side effects once this Pandemic is over. Some of these are already apparent. A lot of companies were completely unprepared for shifting their entire workforce from their Corporate Offices to their Employee's homes. I personally received a lot of calls in the first few weeks of March from Recruiters that were desperate to find people who knew how to implement VPN services and people who knew how to scale it out rapidly. At least for me and the company I have been working with since early 2019, I took care of that long before it became an issue and it has been mostly smooth sailing.
 
-## Let's Send Everyone Home and Figure Out the Details Later?
+## Let's Send Everyone Home and Figure Out the Details Later? ##
 
 For the first time, all of the laptops that have been issued to Employees are being used at home during work hours since their offices should be closed. Remote access systems that were only ever used part of the time or used for only a small number of people are actually being utilized by a majority of employees during regular business hours. I have been working remotely on and off for most of my career so going to 100% remote was not really that big of a deal for me, but it has definitely been a learning experience for a lot of people.
 
@@ -40,7 +40,7 @@ Let me explain in case you are not familiar. Picking any software or hardware so
 
 I could go on, but bottom line, it is not easy to implement a new solution quickly or easily.
 
-## What's Next?
+## What's Next? ##
 
 Well, it has been a few months since this all began, and your mileage will vary depending on what company you work for. Here is what we know at least:
 

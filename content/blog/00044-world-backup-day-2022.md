@@ -20,7 +20,7 @@ Much like the times that I have posted about this topic before, I have known sev
 
 I spent a lot of time at the end of 2021 going through around 10 years worth of my data, removing duplicates, better organizing it, and I was able to streamline my regular backup regiment to ensure that I never lose any data. I wanted to ensure that I was following best practices, and the **3-2-1** backup rule which is still the standard that I follow for managing backups.
 
-## 3-2-1 Backup Rule
+## 3-2-1 Backup Rule ##
 
 The 3-2-1 backup rule means having your data backed up and available in the following manner:
 
@@ -49,7 +49,7 @@ I have reminders in my calendar to ensure that the offsite backups are being mai
 
 Aside from that, I also backup all of my code to Git on a daily basis if I am working on anything important. I also use other solutions such as Google Photos for backing up photos, but those are included in my regular physical backups.
 
-## Use Your Own Backup System
+## Use Your Own Backup System ##
 
 The 3-2-1 backup rule can be extreme if you are just backing up your personal data but use your own judgement. Do yourself a favour, open your documents folder on your computer and ask yourself these questions:
 
@@ -61,6 +61,6 @@ If the data is important, if you can't afford to lose it and you can never get i
 
 Like with a lot of things in life, it is better to have something just in case, because you never know what is going to happen. You would rather be looking at a backup copy of your data, than looking for a backup copy of your data.
 
-## Links
+## Links ##
 
 * **World Backup Day**: [https://www.worldbackupday.com/](https://www.worldbackupday.com/)

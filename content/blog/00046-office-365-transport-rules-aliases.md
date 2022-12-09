@@ -21,13 +21,13 @@ Creating these Mail Flow Rules is not a difficult task to perform, but if you us
 
 {{< toc >}}
 
-## Purpose
+## Purpose ##
 
 I have spent a lot of time over the last few months trying to consolidate a lot of my online services, both on my personal accounts and on my business-related accounts. This was for several reasons, but it was mostly to reduce the complexity of maintaining multiple accounts and to simplify access, but also to save some money on services. I have been using Office 365 for my [Ten Fifteen Solutions](https://tenfifteen.ca/) business for the last few years, as well as on another unrelated Office 365 tenant that I also maintain for other purposes.
 
 While I like the functionality of Office 365 and all the services that come with it (especially Teams), the cost has gotten a bit out of control since I started using it and I feel like I needed to consolidate those costs. Email aliases are a convenient way to assign a lot of rarely used email addresses onto a single account and simplify a lot of things.
 
-## Email Aliases
+## Email Aliases ##
 
 An email alias is a way to add an "alternate" email address to a primary email account. Aliases are very useful for several reasons which can include:
 
@@ -39,7 +39,7 @@ An email alias is a way to add an "alternate" email address to a primary email a
 
 There is another way to handle email aliases on email servers, and that is with the "catch-all" email address. This is a setting on an email server that forwards all "unknown" email addresses to a specific user or account. When something like this is setup, any emails sent to a domain will be sent to a specific account, regardless of who the recipient is. I personally do not like this setting for an email server, as it can easily flood an email server with unsolicited email. Exchange Online does not actually support this setting without a lot of hacks (at least as of early 2022), and even if it were supported, I would not use it for the security implications.
 
-## Exchange Online Mail Flow Rules
+## Exchange Online Mail Flow Rules ##
 
 Mail Flow Rules (formerly known as Transport Rules in on-premises Exchange) are rules that are applied on an email domain that can identify and perform actions on emails that flow in and out of an organization. They are similar to regular Inbox rules that are applied in Outlook, except they are applied to all email rather than an individual mailbox and support many more options.
 
@@ -54,7 +54,7 @@ They support multiple options and conditions, but have many purposes such as:
 
 Configuring Mail Flow Rules is a straightforward process, and they can be configured through PowerShell or through the Exchange Online Portal.
 
-## Account Aliases
+## Account Aliases ##
 
 For this post, the following Mail Flow Rule will be setup for the following user:
 
@@ -92,7 +92,7 @@ The email subject line name is based on the categories outlined in RFC 2142.
 
 In this example, a Mail Flow Rule named **MJCB RFC 2141 - Business** will be created for the **INFO**, **MARKETING**, **SALES**, and **SUPPORT** aliases for the **matthew**[at]**mjcb**[dot]**io** email address. The subject line for any emails that are sent to those aliases will be prepended with **[MJCB Business]**.
 
-### PowerShell Configuration
+### PowerShell Configuration ###
 
 The fastest way to setup a Mail Flow Rule is to use PowerShell instead of using the Exchange Online web interface. The current method of connecting to the Exchange Online service is to use the [EXO V2 PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell) module, which can be downloaded from Microsoft.
 
@@ -116,7 +116,7 @@ New-TransportRule `
     -Mode Enforce
 ```
 
-### Exchange Admin Center Configuration
+### Exchange Admin Center Configuration ###
 
 The Exchange admin center is offered with a new and updated user interface, as well as the classic interface. The Mail Flow Rules interface is the exact same regardless of which admin center that you use, the only difference is where it is located within the interface. In these instructions, Step 3 will specify the difference in accessing the Mail Flow Rules configuration.
 
@@ -157,7 +157,7 @@ The Mail Flow Rule how now been created and should be visible in the list of rul
 
 If an email is sent to any of the aliases specified within it, should have the subject name modified.
 
-## Links
+## Links ##
 
 * **Exchange Admin Center (New)**: [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/)
 * **Exchange Admin Center (Classic)**: [https://outlook.office365.com/ecp/](https://outlook.office365.com/ecp/)

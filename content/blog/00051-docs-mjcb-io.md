@@ -31,7 +31,7 @@ I have recently migrated all of my Git repos to GitHub (in contrast to my [Sorry
 
 This new website is going to be a continual work in progress, and I won't post updates about it to this blog unless I need to. I will continue to post items to my main website, it is not going away.
 
-## Links
+## Links ##
 
 * **Docs**: [https://docs.mjcb.io/](https://docs.mjcb.io/)
 * **Geekdoc**: [https://github.com/thegeeklab/hugo-geekdoc/](https://github.com/thegeeklab/hugo-geekdoc/)

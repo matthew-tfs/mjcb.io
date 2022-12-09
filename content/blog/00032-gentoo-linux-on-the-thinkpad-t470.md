@@ -27,13 +27,13 @@ I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed th
 
 {{< toc >}}
 
-## Lenovo ThinkPad T470
+## Lenovo ThinkPad T470 ##
 
-### Gentoo Installation
+### Gentoo Installation ###
 
 I am not going to get into the details on how to perform a valid Stage 3 installation on this laptop, but I will post the relevant details on what needs to be done during installation and after installation in order to get everything working (and what I wasn't able to get working).
 
-### Lenovo ThinkPad T470 Specifications
+### Lenovo ThinkPad T470 Specifications ###
 
 At the end of the day this is a fairly basic 14" laptop and there isn't really a whole lot to say about it. The build quality feels slightly cheap compared to the more high-end Lenovo laptops such as the Lenovo ThinkPad T480s that I also use for work and the Lenovo ThinkPad P51 that is my daily driver. The port selection is actually very good, it has 3 USB ports, an SD Card slot and Thunderbolt 3 of all things, and even has a built-in Ethernet adapter. The screen is terrible, I can't think of anything positive to say about it. It is low resolution and not very bright, and I find it sometimes hard to read compared to better displays. There is also no backlit keyboard on this particular model, but it is available.
 
@@ -58,7 +58,7 @@ Here are the specifications for the particular model of Lenovo ThinkPad T470 tha
 | Dimensions        | 13.25" x 9.15" x 0.79" / 336.6mm x 232.5mm x 19.95mm          |
 | Ports             | <ul><li>3 x USB 3.1 Gen 1 (USB 3.0, one always on)</li><li>1 x Thunderbolt 3 port (USB Type-C)</li><li>1 x 3.5 mm Combo Audio Jack</li><li>1 x HDMI</li><li>1 x RJ45 Gigabit LAN</li><li>1 x CS13 Docking Adapter</li><li>1 x Media Card Reader (SD 3.0, UHS-I)</li><li>1 x Smart Card Reader</li</ul> |
 
-### lscpu
+### lscpu ###
 
 ```ini
 Architecture:        x86_64
@@ -87,7 +87,7 @@ L3 cache:            3072K
 Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
 ```
 
-### lspci
+### lspci ###
 
 ```ini
 00:00.0 Host bridge: Intel Corporation Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers (rev 08)
@@ -108,7 +108,7 @@ Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cm
 04:00.0 Network controller: Intel Corporation Wireless 8260 (rev 3a)
 ```
 
-### lsusb
+### lsusb ###
 
 ```ini
 Bus 0001 Device 0004: ID 13d3:5619 IMC Networks
@@ -119,7 +119,7 @@ Bus 0002 Device 0003: ID 0bda:0316 Realtek Semiconductor Corp.
 Bus 0002 Device 0001: ID 1d6b:00003 Linux Foundation 3.0 root hub
 ```
 
-### Hardware Status
+### Hardware Status ###
 
 With Gentoo installed and configured, here is the status of all of the hardware after installing all software and configuring the Kernel:
 
@@ -137,11 +137,11 @@ With Gentoo installed and configured, here is the status of all of the hardware 
 | **External Battery**  | Yes      | Recognized as /sys/class/power_supply/BAT1      |
 | **Docking Adapter**   | Untested | Untested because I don't have a Dock available. |
 
-## Configuration
+## Configuration ##
 
 I am using **gentoo-sources-5.4.28** as the Kernel for this guide. I will post the full Kernel configuration as well.
 
-### Graphics
+### Graphics ###
 
 The Intel HD Graphics 520 support can be enabled in the Kernel, but you will require the **linux-firmware** package to be present. It can be installed easily:
 
@@ -176,7 +176,7 @@ VIDEO_CARDS="intel i965"
 
 I was able to get output through the HDMI port to work correctly.
 
-### Audio
+### Audio ###
 
 The Intel HD Audio support can be enabled by activating the ALSA modules and the **snd_hda_intel** modules:
 
@@ -200,7 +200,7 @@ The Intel HD Audio support can be enabled by activating the ALSA modules and the
 
 Audio works correctly through the speakers and through the headphone jack. With HDMI output, I was not able to get the audio working correctly. I believe this is a configuration issue and not an issue with the Kernel. I will try and fix this later.
 
-### Wired Ethernet
+### Wired Ethernet ###
 
 The Wired Ethernet card can be enabled by activating the **e1000e** module:
 
@@ -214,7 +214,7 @@ The Wired Ethernet card can be enabled by activating the **e1000e** module:
             [*] Support HW cross-timestamp on PCH devices
 ```
 
-### Wireless Ethernet and Bluetooth
+### Wireless Ethernet and Bluetooth ###
 
 The Wireless Ethernet card also contains the Bluetooth card for the laptop and can be enabled at the same time. It can be enabled by activating the **iwlwifi** and **bluetooth** modules and by enabling Bluetooth support:
 
@@ -255,7 +255,7 @@ I was able to test Bluetooth by pairing a Bluetooth mouse to the laptop. I also 
 
 I was having an issue with the Wifi disconnecting constantly, but it turns out I had misconfigured the WPA Supplicant package at the time of testing. It is working perfectly now that it is configured correctly.
 
-### Webcam
+### Webcam ###
 
 The Webcam can be enabled by activating the **uvcvideo** module:
 
@@ -271,7 +271,7 @@ The Webcam can be enabled by activating the **uvcvideo** module:
 
 You can quickly test that the Webcam is working by using the **luvcview** package.
 
-### Smart Card Reader
+### Smart Card Reader ###
 
 The Smart Card Reader is an embedded USB device and requires basic USB 3.0 support in order to function. It also requires an additional package to be installed in order to function:
 
@@ -281,7 +281,7 @@ emerge sys-apps/pcsc-lite
 
 Unfortunately I do not have any Smart Cards to test with it, so I cannot verify that it works correctly. The device shows up as being available, so I left it at that.
 
-### SD Card Reader
+### SD Card Reader ###
 
 The SD Card Reader requires a few modules to be enabled in order to function, along with basic USB 3.0 support that should be already included in the Kernel configuration:
 
@@ -293,7 +293,7 @@ The SD Card Reader requires a few modules to be enabled in order to function, al
 
 I tested this using a 2 GB SD Card, which showed up on the laptop as **/dev/sdb**.
 
-### Batteries
+### Batteries ###
 
 This may seem like an odd entry to put in here, but since this laptop has two batteries present (one internal and one external) I wanted to make sure that they were both showing up:
 
@@ -337,7 +337,7 @@ POWER_SUPPLY_SERIAL_NUMBER= 4394
 
 I am not sure how to setup the batteries to drain in parallel or having the external battery drain first, that is something that I will need to check later.
 
-### Other Devices
+### Other Devices ###
 
 Aside from the standard hardware, there are a few other hardware components that I should mention:
 
@@ -348,7 +348,7 @@ Aside from the standard hardware, there are a few other hardware components that
 * The Docking Port on the laptop appears to function (the Audio Drivers recognize that one is present), but I cannot test it right now because I don't have a Dock available.
 * The Smart Card port appears to work, however I don't have a card available to test it with.
 
-## References
+## References ##
 
 * [https://wiki.gentoo.org/wiki/Handbook:AMD64](https://wiki.gentoo.org/wiki/Handbook:AMD64)
 * [https://wiki.gentoo.org/wiki/Quick_Installation_Checklist](https://wiki.gentoo.org/wiki/Quick_Installation_Checklist)

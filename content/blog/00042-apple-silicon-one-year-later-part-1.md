@@ -26,7 +26,7 @@ This post ended up being a lot longer than I had planned and went on some tangen
 
 {{< toc >}}
 
-## Why Do I Care About This?
+## Why Do I Care About This? ##
 
 There are a lot of reasons why I care about this particular subject and it goes back to the first laptop that I ever owned, which was a Compaq Presario R3210CA laptop from mid-2004. It also goes back to the second laptop that I ever owned, which was a Compaq Presario V2305CA laptop from mid-2005. It also relates to all of the other laptops that I have owned up until 2021, when I finally got the MacBook Air with the M1 processor, which ended up becoming the best daily driver device that I have ever owned.
 
@@ -34,7 +34,7 @@ Back in the early 2000's I was very much into using Linux as my primary Operatin
 
 It may seem odd to talk about the older laptops that I have used, but who else is going to write about what are very obscure and obsolete laptops in 2022? I have included some information about those two laptops below if anyone is interested.
 
-### Compaq Presario R3210CA
+### Compaq Presario R3210CA ###
 
 Finding information on an almost 20 year old laptop that was a specific model just for Canada was actually quite difficult, but fortunately the [Wayback Machine](https://web.archive.org/) was helpful in piecing together the important details on the laptop. The Compaq Presario R3000 series had many different revisions, and the "CA" models were mostly just changes to the keyboard to support French.
 
@@ -63,7 +63,7 @@ The laptop shipped with Windows XP Home Edition as the default Operating System,
 
 I only owned this particular laptop for around a year, as I decided to get one that had better Linux support and was smaller, and that was the Compaq Presario V2305CA.
 
-### Compaq Presario V2305CA
+### Compaq Presario V2305CA ###
 
 Information on this laptop was slightly easier to find information on compared to the Compaq Presario R3210CA model. Just like with other models at the time, the Compaq Presario V2000 series had multiple revisions over the lifetime of the series.
 
@@ -94,7 +94,7 @@ The laptop also shipped with Windows XP Home Edition as the default Operating Sy
 
 I owned this laptop for a few years, giving it up in my final year of school for something different.
 
-### Comparing the Compaqs
+### Comparing the Compaqs ###
 
 Even though it was only a one year difference, there were some major differences between two laptops from the same manufacturer. Part of the changes could have been due to the fact that Compaq had been acquired by HP two years earlier, and there were differences in the way that HP designed their laptops. The Compaq Presario V2000 series was essentially a rebranded HP DV1000 laptop with a different exterior look and a few minor differences.
 
@@ -110,7 +110,7 @@ Something that is taken for granted is the use of solid-state drives compared to
 
 Like with everything in life, your mileage may vary with these things. If you don't know what you are looking for with something or have never bought one before, you may experience some issues, especially if you decide to run software that wasn't designed for it.
 
-## What Were the Issues?
+## What Were the Issues? ##
 
 Until 2004 I had only owned large, complicated desktop computers up until that point and I thought that desktops were just needlessly complicated. When I got my first laptop I was finally able to actually be portable, and not rely on things like lab computers or carrying around USB drives to be able to access my files. I actually got rid of my desktop computer around a year after I got my first laptop, as I had almost completely stopped using it and it was just taking up space in my dorm room. I also got tired of dragging it around with me as I moved between cities, which as a post-secondary student is quite annoying.
 
@@ -120,7 +120,7 @@ The main problem was that laptops in the early 2000's were usually fairly clunky
 
 I had a horrible habit for many years on buying multiple AC adapters for any laptop that I had for personal use or for work so that I didn't need to carry AC adapters them around with me. Docking stations were expensive back then, and not all laptops had the option to use them. Fortunately, USB C has made this much simpler in the last few years for charging laptops and expanding port selections through a single interface. Battery life in general has also greatly improved in the last 20 years, which made it less of an issue overall, at least for me. Vendors like Apple did a much better job of creating laptops in the early 2000's, especially with the iBook line. As interested as I was in the iBook in the early 2000's, the price for them was a bit out of my reach.
 
-## Why Compare Old Laptops?
+## Why Compare Old Laptops? ##
 
 I wanted to establish what my first experiences were and how far things have come since then. Technology has changed a lot in almost 20 years, so issues that I was experiencing have gradually decreased over time. I just didn't think it would take this long to get to this point.
 
@@ -139,7 +139,7 @@ I also ended up owning and using multiple others over the years including:
 
 This does not include any of the laptops that I used at any of my places of employment, but they were always business laptops from Dell, HP and Lenovo. I have never been offered anything from Apple from an employer.
 
-## What Did I Want?
+## What Did I Want? ##
 
 So what does this have to do ARM-based laptops and why did I want one? It really comes down to a few things, the main reasons why I have even wanted such a device are:
 
@@ -157,6 +157,6 @@ Over the last 10 years I have tried several options for ARM-based laptops, inclu
 
 This all changed in the summer of 2020 when Apple announced that they were bringing their ARM processors to the MacBook line in the form of Apple Silicon. I wrote about this when it was announced ([Apple ARM Transition](/blog/2020/06/28/apple-arm-transition/)), and I finally picked up one of those devices when they became available. Needless to say, I am very impressed and happy with what Apple has done with a first-generation device and I changed a lot of my opinions on what those devices were capable of. I am no fanboy of Apple, but when they decide to bring a major new product to market, they won't do it unless it works perfectly.
 
-## Continued Reading
+## Continued Reading ##
 
 I will post the link for part two of this post when it has been written.

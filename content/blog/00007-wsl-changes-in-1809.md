@@ -23,6 +23,6 @@ I managed to install the 1809 update on my Surface Laptop and ThinkPad before th
 
 Also mentioned was support for WSL on ARM devices, so once I am able to get my Lenovo Miix 630 up to the 1809 update I will test to see if it works. This was an annoyance for me before with the WoA implementation, so if this works it will make the device even better than it already is for my usage.
 
-## Links
+## Links ##
 
 [What’s New for WSL in the Windows 10 October 2018 Update](https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/)

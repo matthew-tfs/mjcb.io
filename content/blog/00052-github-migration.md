@@ -20,13 +20,13 @@ I migrated this website from WordPress.com to Hugo and Netlify in late 2021. I w
 
 I decided to make the repository public for this website. I did the same for the [docs.mjcb.io](blog/2022/10/05/docs-mjcb-io/) website as well. If someone really wants to take a look at Markdown files, you are free to look around.
 
-## License
+## License ##
 
 I had to pick a license for the website and the GitHub repository. I ended up just using the MIT license, since it is the simplest, and I am not overly concerned with people stealing anything.
 
 The license can be viewed [here](https://github.com/matthew-tfs/mjcb.io/blob/main/LICENSE).
 
-## Additional Information
+## Additional Information ##
 
 I have also removed all sharing options for Facebook, LinkedIn and Twitter. The ability to copy the link to each post is still available, should someone want to share any posts on this website.
 

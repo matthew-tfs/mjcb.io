@@ -43,7 +43,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## Goals of this Guide
+## Goals of this Guide ##
 
 The goal of this guide is to deploy an internal Certificate Authority and a Public Key Infrastructure (PKI) using **Active Directory Certificate Services** in Windows Server 2019. This provides a lot of benefits to an organization, including features like:
 
@@ -60,7 +60,7 @@ The procedure for creating a Certificate Authority has not changed considerably 
 
 I apologize for the length of this document but creating a Certificate Authority is a very complicated process. I tried to document every single step that I could, as missing even the smallest detail can cause a lot of issues that are very difficult to correct.
 
-## Guide
+## Guide ##
 
 Since this is such a complicated subject there are multiple parts to this guide. Here are the links to each part of the guide:
 
@@ -73,7 +73,7 @@ Since this is such a complicated subject there are multiple parts to this guide.
 * [Part 7 - Certificate Auto-Enrollment](/blog/2020/03/09/certificate-authority-windows-server-2019-part-7)
 * [Part 8 - Final Steps](/blog/2020/03/09/certificate-authority-windows-server-2019-part-8)
 
-## Environment Assumptions
+## Environment Assumptions ##
 
 All Servers in this guide are using **Windows Server 2019 Standard (Desktop Experience)**, but this should work correctly using Windows Server 2016. In this guide, the Active Directory Domain and Forest Functional Levels are set to Windows Server 2016 levels, but this should work for Windows Server 2012 R2 functional levels.
 
@@ -81,7 +81,7 @@ This guide should work perfectly fine using Hyper-V, VirtualBox or VMware. This 
 
 For this guide I am using VMware Workstation 15 Pro (15.5.1 build-15018445) on Windows 10 Pro 1909 (Build 18363.657). I am using a Lenovo P51 Mobile Workstation (Intel Core i7-7820HQ @ 2.90GHz and 64 GB RAM).
 
-## Environment Design and Overview
+## Environment Design and Overview ##
 
 This guide uses a simplified and very basic Server Infrastructure and is the bare minimum that is required for Active Directory Certificate Services to operate correctly. It is technically possible to run Active Directory Certificate Services on the same Server as a Domain Controller, but this is very bad practice and can have some unintended consequences if there is ever an issue with it. It is also incredibly insecure to have your Root Certificate Server available at all times.
 
@@ -107,7 +107,7 @@ Here is breakdown of the Servers and Workstations in this environment:
 * **TFS-CA01** is the Subordinate Certificate Authority and issues all Certificates within the **TFS Labs** Domain. It also handles the OCSP Role and CRL roles. It is a **TFS Labs** Domain member.
 * **TFS-WIN10** is a Workstation that is a member of the **TFS Labs** Domain, and it is used to ensure Certificates that are issued by the two Certificate Authorities are operating correctly. It is also used to ensure that Group Policy deployment of these certificates are working correctly. **This guide assumes that you can configure a Windows 10 Pro Virtual Machine prior to starting this guide.**
 
-## Certificate Hierarchy Overview
+## Certificate Hierarchy Overview ##
 
 For the Certificates that will be issued for the **TFS Labs** Domain, there will be one Root and one Subordinate Certificate in a **Two-Tier Certificate Authority**:
 
@@ -125,7 +125,7 @@ The Validity Period for the Certificates in the **TFS Labs** Domain is set to th
 * The Enterprise Subordinate CA Certificate is set to expire after 5 years. This Certificate is used to Sign all Certificates that are issued to the **TFS Labs** Domain. Unlike the Root CA, it is always online.
 * Any Certificates that are issued from the Enterprise CA is limited to 1 year only. A lot of vendors, the most recent being Apple have specifically restricted SSL lifetimes to 1 year only. This forces Vendors to keep their SSL Certificates up to date, and to make sure that modern security practices and technologies are being used.
 
-## Design Considerations
+## Design Considerations ##
 
 In the deployment of Active Directory Certificate Services on the **TFS Labs** Domain, the following design considerations will be made:
 
@@ -138,7 +138,7 @@ In the deployment of Active Directory Certificate Services on the **TFS Labs** D
 * Auditing will be enabled on all Servers that are performing Certificate related tasks. This will write events to the Windows Event Log every time a Certificate is Issued, Revoked, Requested, etc.
 * CNAME records will be used when possible in the deployment to allow for the **TFS-CA01** Server to be split up in the future if needed.
 
-## Why Use an Offline CA?
+## Why Use an Offline CA? ##
 
 There are a lot of very good reasons to use an Offline Root CA in your environment and it is pretty much expected in a Certificate Authority that is created today. Unauthorized access to your Certificate Authority can put your organization at risk and can cause a lot of headaches in order to fix it, especially if you depend heavily on a PKI for critical functions in your environment.
 
@@ -146,11 +146,11 @@ The Root CA is critical to your PKI and you don’t want to risk having the Root
 
 The best way to protect the Root CA is always to have it be completely unavailable to people on the network. It isn’t needed in day to day operations, so having it online is not necessary and can put it at unnecessary risk. This also means that it is not enough to just have it turned off until needed, it shouldn’t be accessible by anyone even when it is temporarily powered on. A lot of administrators don’t even have a network connection to it and use Virtual Floppy Disks to transfer data between it and other Servers. It is cumbersome, but this happens so infrequently that it shouldn’t be an issue. Some Virtualization platforms allow for Copy/Paste, but that should be disabled for the Root CA in order to minimize the attack surface on it.
 
-## Registered IANA Number
+## Registered IANA Number ##
 
 When you are dealing with an Internal CA you don’t really need to worry about utilizing a properly registered IANA Number. This is only ever required if you are going to be using your Certificate Authority outside of your organization. This is beyond the scope of this guide.
 
-## Active Directory Certificate Services Internal URLs
+## Active Directory Certificate Services Internal URLs ##
 
 The following URLs will be in use once the Active Directory Certificate Services implementation has been completed.
 
@@ -164,11 +164,11 @@ The following URLs will be in use once the Active Directory Certificate Services
 | TFS-CA01 (OCSP) | Online Certificate Status Protocol         | http​://ocsp.corp.tfslabs.com/ocsp/         |
 | TFS-CA01 (PKI)  | Root and Subordinate Certificates Download | http​://pki.corp.tfslabs.com/Certificates/  |
 
-### SSL Enabled Services
+### SSL Enabled Services ###
 
 SSL is not used for securing many of the Web Sites that a Certificate Server uses. The one exception is the Active Directory Web Enrollment Service, since it is used to securely submit a Certificate Request. This is because you cannot always assume that the device connecting to the HTTPS service has your Certificates on it, and therefore the connection would not be secure anyways.
 
-## Disclaimer
+## Disclaimer ##
 
 I cannot guarantee that this guide will work in your environment and I cannot take responsibility if this guide causes any potential issues in your environment. If you or anyone else has attempted to create a Certificate Authority in the past you should check your Active Directory setup to see if you have any failed Certificate Authorities in there already. You should remove these first before starting this guide.
 
@@ -176,7 +176,7 @@ I cannot guarantee that there are no errors in this guide as well. I have implem
 
 As with everything else, you should build this out in a lab at least once prior to attempting this on a production environment. You should not attempt to implement this guide for your organization if you don’t have a good understanding of how a Certificate Authority and PKI works.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)

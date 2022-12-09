@@ -19,7 +19,7 @@ I saw a post over at [OSnews](https://www.osnews.com/) a few days ago about the 
 
 I decided to give it a try on my oldest laptop, which is an **IBM ThinkPad 380ED**, and it worked exceptionally well. It functioned and performed exactly the same way as MS-DOS.
 
-## FreeDOS
+## FreeDOS ##
 
 FreeDOS is a free Operating System that is a clone of the MS-DOS Operating System. It is an Open Source project that has been actively developed for almost 30 years, and it is intended to be a drop-in replacement for MS-DOS. The idea is that if a computer supports MS-DOS, then there should be zero issues with using FreeDOS in it's place.
 
@@ -31,11 +31,11 @@ I also purchased several computers from Dell that gave me the option of shipping
 
 FreeDOS is also used by some vendors for BIOS and Firmware updates, and I have seen multiple instances of this as well over the years. I have been sent utilities over the years from vendors that used FreeDOS to run low-level diagnostics on hardware during troubleshooting processes.
 
-## FreeDOS on the IBM ThinkPad 380ED
+## FreeDOS on the IBM ThinkPad 380ED ##
 
 I used my IBM ThinkPad 380ED to test the installation of FreeDOS, and it worked exceptionally well. Below are some details on the laptop itself, as well as my experience on running some applications on it.
 
-### IBM ThinkPad 380ED Specifications
+### IBM ThinkPad 380ED Specifications ###
 
 | Component        | Hardware                                     |
 |:-----------------|:---------------------------------------------|
@@ -54,7 +54,7 @@ I used my IBM ThinkPad 380ED to test the installation of FreeDOS, and it worked 
 | Dimensions       | 11.8" x 9.2" x 2.4"                          |
 | Weight           | 3.2 kg                                       |
 
-### FreeDOS Installation
+### FreeDOS Installation ###
 
 I won't go into the details on the process for installing FreeDOS as it is fairly straightforward and well documented. The only issue that I did have was that I was not able to get the provided FreeDOS boot disk to work correctly. I tried writing the image to a floppy disk several times, but it did not work for whatever reason.
 
@@ -64,7 +64,7 @@ I ended up using a Windows 98 SE boot disk to load the FreeDOS installation CD a
 
 All of the hardware was detected, including a PS/2 Mouse that I had attached to the laptop. I did not test the PCMCIA slots as I did not have any devices available for testing right now. I did not spend any time trying to change the resolution of the screen or try to fill the entire screen.
 
-### Games
+### Games ###
 
 FreeDOS ships with several DOS games on the installation CD, and among them is the latest version of Freedoom. It is a free game based on the Doom engine, and is actually pretty fun to play. Everything worked for the game, including audio and mouse support.
 
@@ -76,13 +76,13 @@ I still have my original Command & Conquer (Tiberian Dawn) disks that I have had
 
 The original Command & Conquer games included multiplayer support using Null Modem cables, which enabled local multiplayer support. It would be interesting to take one of my other laptops and attempt to use a Null Modem cable to test this functionality as I have not tried it in over 20 years, but that is definitely a test for another day.
 
-## Final Thoughts
+## Final Thoughts ##
 
 Overall, I was fairly impressed with the FreeDOS Operating System after my most recent exposure to it. I have always found it to be a very well made Operating System that is relatively easy to use, considering what it is trying to duplicate. At the end of the day, if I am just looking to play some older games it is considerably easier to just use an application such as [DOSBox](https://www.dosbox.com/) to do that, but there is nothing quite like playing a game on the original hardware.
 
 Sure I can just reboot into MS-DOS from Windows 9x (except with Windows Me), but if I have the option to use Open Source software instead I usually take it.
 
-## Links
+## Links ##
 
 * **DOSBox**: [https://www.dosbox.com/](https://www.dosbox.com/)
 * **Freedoom**: [https://freedoom.github.io/](https://freedoom.github.io/)

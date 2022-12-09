@@ -12,13 +12,13 @@ categories: [ "Blog" ]
 draft: false
 ---
 
-## 2021 in General
+## 2021 in General ##
 
 To start off, 2021 went much better than 2020 for me. Even though COVID-19 is still a worldwide problem and the pandemic is far from over, I was able to accomplish a lot more than I though I would. This was both professionally and personally.
 
 I would have to say that my biggest accomplishment in 2021 was the completion and the publication of my first book, [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/). This was a project that I had started in the fall of 2020, and completing it was a huge relief. Now that it is completed, I can now focus on new things going into 2022. I have really neglected posting on this website as a result of that project, as I wanted to commit to finishing it before I started anything else. I have no regrets for neglecting this website, but I will make more of an effort in 2022 to post more often.
 
-## This Website in Statistics
+## This Website in Statistics ##
 
 Even though I did not post very often in 2021, I did have a record year for page views. The entire [Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide did extremely well once again, as well as the [LaTeX with Visual Studio Code](/blog/2020/01/23/visual-studio-code-with-latex/) guide which has also remained popular.
 
@@ -26,7 +26,7 @@ Since migrating to Hugo and Netlify, I find the statistics provided by Netlify t
 
 Despite the record page views in 2021, I am still never going to use advertisements on this website. I make an effort to block advertisements on the Internet, so it would be hypocritical of me to expect people to not do that to me. Since I use Hugo and Netlify, the site costs me nothing to operate (with the exception of the domain hosting), so it really doesn't matter to me.
 
-## Professional and Personal Life
+## Professional and Personal Life ##
 
 Similar to 2020, things went well for me considering everything else that was going on. I have continued to work from home as a result of COVID-19. I did manage to travel for work to the US several times in the summer and fall, but I did not feel comfortable at all during those trips, so I will avoid that in 2022 unless absolutely necessary.
 
@@ -34,11 +34,11 @@ I feel as though I haven't done much professionally since the pandemic began, an
 
 Personally, I am also going to make more of an effort to take extended time off this year and try to focus on things not at all related to my work.
 
-## Website Changes
+## Website Changes ##
 
 The original tagline for this website was "Networking, System Administration and Other Stuff", but I no longer feel like that is relevant so I removed it. I also feel the tagline was something I just made up to fill a box in WordPress while I was setting it up, and since I don't WordPress anymore I can get rid of it. Good riddance I guess, the less remnants from WordPress that I keep around the better.
 
-## 2022 Goals
+## 2022 Goals ##
 
 During the pandemic I purchased a lot of "Retro" computers and devices off of eBay and Kijiji that I wanted to do restoration on just for something to do during the various lockdowns. I wanted to collect a lot of the computers and devices that I had back in the early 2000's as I had gotten rid of them over the years for various reasons, and I guess I was feeling nostalgic. Window shopping on eBay while watching Netflix is never a good idea. I'm not really planning on making any posts on them as it isn't really that interesting (go to YouTube for things like that), but I may make a post on one of them.
 

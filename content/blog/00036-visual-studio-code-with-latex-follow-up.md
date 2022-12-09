@@ -23,11 +23,11 @@ All of the extensions that I have added can be found within [Visual Studio Code]
 
 {{< toc >}}
 
-## Extensions
+## Extensions ##
 
 There are a few extensions that I use in addition to the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension in order to make writing complex documents easier to do within Visual Studio Code.
 
-### Bookmarks
+### Bookmarks ###
 
 The [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) extension does exactly what is sounds like, it gives you the ability to easily add bookmarks within your documents that are easy to search through. I have used this extension long before I used it with LaTeX, and it is very handy to have in VS Code.
 
@@ -37,11 +37,11 @@ The [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) extension does 
 
 This extension makes it very easy to find your place (or places) within large and complex LaTeX documents by adding an additional section in the Visual Studio Code sidebar and adds a quick shortcut (CTRL+ALT+K) to add the bookmarks.
 
-### Code Spell Checker
+### Code Spell Checker ###
 
 The [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker) extension is a very basic spell checker extension which isn't the greatest around, but allows you to quickly catch obvious spelling errors in your LaTeX documents. It also supports the ability to whitelist words and make exceptions as needed.
 
-### Jira and Bitbucket (Official)
+### Jira and Bitbucket (Official) ###
 
 I have been using Atlassian products since late 2009 and for many reasons I favour Bitbucket over GitHub. At the end of the day it is all Git, so the hosting provider makes no real difference to me, I only like Bitbucket because it integrates with all of the other Atlassian products that I also use alongside it. Atlassian provides an official plugin for Bitbucket in the [Jira and Bitbucket (Official)](https://bitbucket.org/atlassianlabs/atlascode/src/main/) extension, which provides excellent integration with Visual Studio Code. It works even better when you also use the [Sourcetree](https://www.sourcetreeapp.com) application from Atlassian. If you don't use Jira you can disable that functionality if you want.
 
@@ -51,15 +51,15 @@ The extension allows the ability to view changes and make commits to Bitbucket d
 
 ![If you don't use Sourcetree or another Git frontend you can commit directly from VS Code.](/images/blog/00036/vs-code-bitbucket-options.png "If you don't use Sourcetree or another Git frontend you can commit directly from VS Code.")
 
-### latex-count
+### latex-count ###
 
 The latex-count extension is a basic extension that is able to get a more accurate word count within your LaTeX documents. It does this by ignoring all of the LaTeX markup and comments within a LaTeX document to give a mostly accurate word count. It shows the word count in the footer of the VS Code window.
 
-## Additional Configuration
+## Additional Configuration ##
 
 There are a few additional configuration tasks that can be completed in order to further customize the LaTeX environment in Visual Studio Code.
 
-### Customize the LaTeX Compiler
+### Customize the LaTeX Compiler ###
 
 The recipe system that LaTeX Workshop uses for compiling your documents is very powerful and allows you a lot of control over the way documents are generated. This is the proper way to generate your documents, but if you don't want to go to the trouble of modifying the recipes there is a way to specify the compiler within the LaTeX document.
 
@@ -73,7 +73,7 @@ This method is not preferred, but it is available if you need it. For more infor
 
 [https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile](https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile)
 
-### Git Exceptions
+### Git Exceptions ###
 
 If you use Git for your LaTeX document management there are a few extensions that you can add to your **.gitignore** file to keep them our of your repository. In my opinion these extensions don't need to be committed:
 
@@ -94,7 +94,7 @@ If you use Git for your LaTeX document management there are a few extensions tha
 *.xdv
 ```
 
-### Remove Extra Files from VS Code Explorer
+### Remove Extra Files from VS Code Explorer ###
 
 There are a few LaTeX and other files that you can exclude from the VS Code Explorer view if you don't want to see them while you are working on your project. The **files.exclude** setting can be used to remove extra LaTeX documents from the file manager to make it easier to filter through entries. If you use Git you can also remove extra files and folders as well.
 
@@ -112,7 +112,7 @@ The files and folders that I always exclude are:
 *.out
 ```
 
-### Default PDF Viewer
+### Default PDF Viewer ###
 
 You can customize the way that the PDF file that is generated is displayed when you compile your LaTeX documents. The setting can be found in the LaTeX Workshop Settings under the **Latex-workshop > View > Pdf: Viewer** option. There are a few options available:
 
@@ -121,7 +121,7 @@ You can customize the way that the PDF file that is generated is displayed when 
 * tab - Shows the PDF in a side-by-side tab in the VS Code window.
 * external - Runs a custom command to view the PDF file.
 
-### Backing Up and Synchronizing VS Code Extensions
+### Backing Up and Synchronizing VS Code Extensions ###
 
 I am certain that this is probably not the best way to do this, but it works well for me so do this at your own risk. If you are like me and use OneDrive to synchronize and backup your files between multiple computers, you may want your VS Code environment to be the same between those devices. You can synchronize VS Code settings by moving the **.vscode** directory in the root of your user profile to your OneDrive folder so that it is automatically backed up and synchronized. There is an extension called [CodeSync](https://github.com/golf1052/code-sync) that is supposed to do this for you automatically, but I haven't had much luck with it.
 
@@ -141,7 +141,7 @@ symbolic link created for C:\Users\Matthew\.vscode <<===>> C:\Users\Matthew\OneD
 
 Once this has been completed you should have the same extensions and settings between multiple computers.
 
-## Links
+## Links ##
 
 * **Bookmarks**: [https://github.com/alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)
 * **Code Spell Checker**: [https://github.com/streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)

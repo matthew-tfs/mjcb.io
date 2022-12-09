@@ -24,6 +24,6 @@ I settled on using WordPress.com for hosting the website. I went back and forth 
 
 I plan on using this site for a few things. I will use it to upload things of interest for other IT Professionals, share articles/guides that I have written and occasionally ramble about things that will probably never be read by anyone.
 
-## Links
+## Links ##
 
 **Ten Fifteen Solutions**: [https://tenfifteen.ca/](https://tenfifteen.ca/)

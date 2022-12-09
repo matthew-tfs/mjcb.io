@@ -42,7 +42,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## 2.1 Subordinate Certificate Authority Server Setup
+## 2.1 Subordinate Certificate Authority Server Setup ##
 
 Provision and configure a new Virtual Machine called **TFS-CA01** and install Windows Server 2019 Standard (Desktop Experience) using the following settings:
 
@@ -54,7 +54,7 @@ Provision and configure a new Virtual Machine called **TFS-CA01** and install Wi
 
 Join the **TFS-CA01** Virtual Machine to the **TFS Labs** Domain. Once it has been completely setup you can proceed to the next steps on configuring the **Active Directory Certificate Services** role.
 
-## 2.2 Create CNAME Records in DNS
+## 2.2 Create CNAME Records in DNS ##
 
 By splitting the **Active Directory Certificate Authority** services into separate **CNAME** records, it would make it possible to split up the role in the future if needed. On the **TFS-DC01** Domain Controller, create the following **CNAME** records pointing the **TFS-CA01** Server:
 
@@ -64,7 +64,7 @@ By splitting the **Active Directory Certificate Authority** services into separa
 4. In **Alias name (uses parent domain if left blank)**, enter **PKI** as the name. In the **Fully qualified domain name (FQDN)** field, enter **tfs-ca01.corp.tfslabs.com.** and then click **OK**.
 5. Close the **DNS Manager** Console.
 
-## 2.3 Enterprise CA CAPolicy.inf Installation
+## 2.3 Enterprise CA CAPolicy.inf Installation ##
 
 On the **TFS-CA01** Server, create a file in the **C:\Windows** folder called **CAPolicy.inf** (ensure that it is saved with the **inf** extension and not with the **txt** extension, otherwise these settings will be ignored). Copy the following contents into this file:
 
@@ -104,7 +104,7 @@ LoadDefaultTemplates=1
 
 The **AlternateSignatureAlgorithm=0** flag in the CAPolicy.inf file explicitly uses SHA256 for the algorithm instead of RSASSA-PSS. This can cause issues with some devices (especially iOS) and by ensuring that it is disabled you shouldn’t have issues with these certificates.
 
-## 2.4 Active Directory Certificate Services Role Installation
+## 2.4 Active Directory Certificate Services Role Installation ##
 
 The **Active Directory Certificate Services** Role needs to be installed on the **TFS-CA01** Server now that the **CAPolicy.inf** file is in place and ready to be used.
 
@@ -123,7 +123,7 @@ The **Active Directory Certificate Services** Role needs to be installed on the 
 13. On the **Confirmation** screen, select the option to **Restart the destination server automatically if required**. When prompted with a warning about restarting the Server, click the **Yes** button (the Server must restart in order to continue). Click the **Install** button to continue.
 14. Once the installation is completed, click the **Close** button.
 
-## 2.5 Active Directory Certificate Services Role Configuration
+## 2.5 Active Directory Certificate Services Role Configuration ##
 
 Once the **Active Directory Certificate Services** role has been added, it will need to be properly configured. In the process of configuring the role for the **TFS Labs** Domain, the following will be configured:
 
@@ -158,7 +158,7 @@ Once the Request file has been successfully generated, it will need to be copied
 2. Browse to the **C:\ Drive** and copy the **TFS-CA01.corp.tfslabs.com_corp-TFS-CA01-CA.req** to the **A:\ Drive**.
 3. Leave the **RootCAFiles** Virtual Floppy Disk inserted.
 
-## 2.6 Install the Root Certificate
+## 2.6 Install the Root Certificate ##
 
 On the **TFS-CA01** Server, the TFS Labs Root Certificate needs to be installed to complete the Certificate Chain after the Subordinate Certificate has been issued:
 
@@ -169,7 +169,7 @@ On the **TFS-CA01** Server, the TFS Labs Root Certificate needs to be installed 
 5. Click the **Finish** button to complete the wizard.
 6. Click the **OK** button to close the wizard.
 
-## 2.7 Create the CertData Virtual Directory
+## 2.7 Create the CertData Virtual Directory ##
 
 On the **TFS-CA01** Server, create a folder that will be used to host important Certificate Files for the Domain Users, Workstations and Servers:
 
@@ -185,7 +185,7 @@ On the **TFS-CA01** Server, create a folder that will be used to host important 
 10. In **Actions** pane click **Enable**.
 11. Close the **Internet Information Services (IIS) Manager** Console.</ol>
 
-## 2.8 Enable Double Escaping
+## 2.8 Enable Double Escaping ##
 
 On the **TFS-CA01** Server, enable Double Escaping in IIS in order to allow for proper CRL publication on the **TFS Labs** Domain.
 
@@ -200,7 +200,7 @@ Appcmd set config "Default Web Site" /section:system.webServer/Security/requestF
 4. Restart IIS service by typing **iisreset** and pressing **ENTER**.
 5. Close the Command Prompt.
 
-## 2.9 Subordinate Certificate Creation
+## 2.9 Subordinate Certificate Creation ##
 
 Once the Subordinate CA has been configured and the request successfully generated, it is now time to complete the Subordinate CA Certificate by using the **TFS-ROOT-CA** Server.
 
@@ -228,7 +228,7 @@ Once the Subordinate CA has been configured and the request successfully generat
 
 Eject the **RootCAFiles** Virtual Floppy Disk.
 
-## 2.10 Set Maximum Certificate Age
+## 2.10 Set Maximum Certificate Age ##
 
 Since all Certificates that will be created by the Subordinate CA will only be valid for 1 year, the setting can be forced so that a Certificate Template does not attempt to sign a Certificate for a longer time period.
 
@@ -241,7 +241,7 @@ Certutil -setreg CA\ValidityPeriod "Years"</code></pre>
 
 2. Once that is completed, restart the **Active Directory Certificate Services** service.
 
-## 2.11 Subordinate Certificate Authority CDP and AIA Configuration
+## 2.11 Subordinate Certificate Authority CDP and AIA Configuration ##
 
 Before the **Subordinate CA CDP and AIA Configuration** can be added to the **Subordinate Certificate**, the **CertEnroll** folder in IIS will need to have **Directory Browsing** enabled:
 
@@ -283,7 +283,7 @@ Certutil -getreg CA\CACertPublicationURLs
 11. In the **Certification Authority** Console, right-click on **Revoked Certificates** under **TFS Labs Enterprise CA** and select **All Tasks > Publish**.
 12. On the **Publish CRL** window, verify that **New CRL** is selected and click the **OK** button.
 
-## 2.12 Enable Auditing on the Subordinate Certificate Authority
+## 2.12 Enable Auditing on the Subordinate Certificate Authority ##
 
 Auditing is needed on any Server running **Active Directory Certificate Services**. This will write logs to the Windows Event Log whenever a Certificate is issued or revoked.
 
@@ -296,7 +296,7 @@ Certutil -setreg CA\AuditFilter 127
 
 3. Restart the **Active Directory Certificate Services** Service.
 
-## 2.13 CPS Document Placeholders
+## 2.13 CPS Document Placeholders ##
 
 Open the **C:\inetpub\wwwroot** folder and create a file called **cps.html** (C:\inetpub\wwwroot\cps.html). This is a very basic placeholder for the **Certification Practice Statement** that can be filled out later based on the requirements of your organization.
 
@@ -311,7 +311,7 @@ TFS Labs Certification Practice Statement
 </html>
 ```
 
-## 2.14 Verify PKI Infrastructure
+## 2.14 Verify PKI Infrastructure ##
 
 Before continuing with the **OCSP Role** configuration and the deployment of the Root and Intermediate Certificates to the **TFS Labs** Domain, verify that there are no issues with the **Active Directory Certificate Services** Configuration:
 
@@ -320,7 +320,7 @@ Before continuing with the **OCSP Role** configuration and the deployment of the
 
 If there are no issues with the **Enterprise PKI** configuration, then the initial deployment is now complete.
 
-## 2.15 Optional: Create Folder for Certificate Files
+## 2.15 Optional: Create Folder for Certificate Files ##
 
 On the **TFS-CA01** Server, create a folder that will be used to host the Root and Subordinate Certificate Files for ease of deployment to internal users:
 
@@ -334,7 +334,7 @@ On the **TFS-CA01** Server, create a folder that will be used to host the Root a
 8. In the **Actions** pane, click the **Enable** button.
 9. Close the **Internet Information Services (IIS) Manager** Console.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)

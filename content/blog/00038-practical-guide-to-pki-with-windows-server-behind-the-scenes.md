@@ -20,7 +20,7 @@ For the page for the book, go to [Practical Guide to PKI with Windows Server](/p
 
 {{< toc >}}
 
-## Writing a Book
+## Writing a Book ##
 
 I have gone back and forth over the last few years about writing a book on a networking topic, but could never really get started on it. At the end of 2019 I finally decided that I wanted to attempt to write a book and made it a goal in 2020 to actually write one (not exactly a New Year's Resolution, but more of a goal). I didn't think I would actually get to publish anything in a year (which turned out to be true), but I wanted to at least get started on a book. I knew that once I got started I would be motivated to finish it, regardless of the amount of time that it took me.
 
@@ -28,7 +28,7 @@ I brainstormed a few topics on networking and security but I could not come up w
 
 At the same time, a few things happened all at once. COVID-19 forced a lockdown in Ontario in March 2020. My employer put an immediate stop to all projects until further notice, and I just ended up having a lot of free time all of a sudden in the evenings and weekends. If I was going to actually write a book now was the time to do it, and it was mostly to give myself something to do. It turns out that this was easier said than done.
 
-## Getting Started
+## Getting Started ##
 
 After a few weeks of working on the book I started to run into a few issues. Before I even started working I read several guides on the best process for writing a technical book, what to do and what to avoid. As expected, a lot of things came up that were causing me issues:
 
@@ -52,7 +52,7 @@ A few months prior I had created a PDF version of the guide in LaTeX, but I had 
 
 I looked at a few examples of technical book templates to ensure that the format and structure of the book made sense. I wanted to get that part of the process figured out before I started writing anything else.
 
-## Original Guide and Statistics
+## Original Guide and Statistics ##
 
 In early 2020 I wrote a 9 part guide called [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) and published it to my site. I wrote this guide since I had recently created a Two-Tier Certificate Authority for a contract I was doing at the time, and I wanted to create a complete guide for any future projects that I might be doing. I had created multiple Certificate Authorities since 2010, and I had notes on how to create them starting from Windows Server 2008 R2 all the way up to Windows Server 2019. I spent a few weeks formalizing the process, and once I was done creating the guide I wanted to release it for anyone to use. I had not seen too many “complete” guides online that showed the Certificate Authority process from start to finish that went into any details on the process. I also found that some guides were missing a lot of important details, and I like to be thorough and not assume that everyone will understand every single step.
 
@@ -62,7 +62,7 @@ One of the drawbacks to using WordPress for creating a guide like this is embedd
 
 I intentionally disable comments on my site as I don't have any interest in attempting to moderate them, but I did have a few people send me feedback about the guide which was very helpful. They had found a few spelling mistakes and small typos, which made the guide much more complete and accurate.
 
-## Tools for Writing the Book
+## Tools for Writing the Book ##
 
 There were several tools that I used for creating the book:
 
@@ -96,7 +96,7 @@ Editing the book was a whole other story. I tried my best to correct issues as t
 
 I read the book cover to cover twice looking for any issues. I did find a lot of issues, but they were mostly grammar issues that Word didn't find. I had to come to realization that I was never going to make the book perfect, and unless I had a professional editor look at it there would always be minor issues with it.
 
-## Publishing the Book
+## Publishing the Book ##
 
 I ended up going with Gumroad for the first release of the book. The platform allowed for easy publishing of PDF files (which is the current book format) and was the easiest to use. I was going to use WooCommerce through WordPress, but I was having some issues getting it setup. I will likely release the book on other platforms in the near future, if there is any demand.
 
@@ -108,7 +108,7 @@ With Kindle Direct Publishing (KDP), I am able to offer the book in a printed ed
 
 ![Spine](/images/blog/00038/pki-book-spine.jpg)
 
-## Final Statistics
+## Final Statistics ##
 
 I am not sure how much total time I spent working on the book, but working on it for around 6 hours a week for 12 months puts the total time at around 300 hours. There were some days when I worked on it for only 1 hour and some where I did for more than 2 or 3 hours, but that is when I was "on a roll", so the total time was likely much longer. I did end up taking a few weeks off from writing once or twice due to other commitments. In the future, should I write another book I will track my time better.
 
@@ -116,13 +116,13 @@ I checked the statistics for the book on the day that I finalized it, it is defi
 
 ![Statistics for the book.](/images/blog/00038/pki-book-word-count.png)
 
-## Lessons Learned
+## Lessons Learned ##
 
 **Don't write a book!**
 
 In all seriousness, my first lesson learned is to not underestimate the amount of time required to write a book from start to finish. In hindsight, I am glad that I did it and I had the time to do it, but in the future I will definitely set my expectations a bit better in regards to how much time is required. It was an interesting exercise, and even though I don't think the book will be popular at all, I am glad that I did it.
 
-## Links
+## Links ##
 
 * **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L](https://www.amazon.com/dp/B09HHLZ36L)
 * **Gumroad**: [https://mjcb.gumroad.com/l/pki-book](https://mjcb.gumroad.com/l/pki-book)

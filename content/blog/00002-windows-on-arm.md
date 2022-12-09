@@ -22,7 +22,7 @@ I am not a Microsoft apologist (as I have been accused of in the past by some pe
 
 {{< toc >}}
 
-## Windows NT and Non-x86 Platforms
+## Windows NT and Non-x86 Platforms ##
 
 Not a lot of people realize that Windows can be used on more than just x86 and x64-based hardware. Windows NT was designed from day one to be portable on multiple hardware platforms and was supported at one time on the MIPS, Alpha, PowerPC and Itanium platforms. I am not 100% certain if Windows on ARM (WoA) is the latest hardware platform that Windows has been ported to (I admit that Windows IoT as a platform is not something I follow too closely), but it seems to be the most talked about over the last year with Microsoft’s announcement about their partnership with Qualcomm ([https://www.zdnet.com/article/microsoft-to-pc-makers-lets-make-some-windows-10-arm-based-pcs/](https://www.zdnet.com/article/microsoft-to-pc-makers-lets-make-some-windows-10-arm-based-pcs/)) and the actual release of devices with this architecture.
 
@@ -32,7 +32,7 @@ It has been a few years since I have really used a non-x86 device running Window
 
 The first device that I ever used running Windows in a normal sense (Windows desktop/shell) on a non-x86 platform was the first generation Surface running Windows RT.
 
-## Windows on ARM (Round One - First Generation Surface)
+## Windows on ARM (Round One - First Generation Surface) ##
 
 When the Surface line was first announced I was very excited, I bought the original Surface the day it became available for pre-order back in early October 2012. At the time it was certainly an interesting device, and the specifications are pretty modest in comparison to devices that are available today:
 
@@ -63,7 +63,7 @@ As time went on there were some fun little workarounds to the limitations that p
 
 After a few months I ended up selling it and buying an ASUS ultrabook instead since I ran into several issues with some applications that I absolutely needed on a portable Windows device. Obviously the Surface brand went on to be quite successful for Microsoft and my personal daily driver is a Surface Laptop, which I think is an absolutely fantastic device.
 
-## Chromebooks, ChromeOS and the iPad Pro
+## Chromebooks, ChromeOS and the iPad Pro ##
 
 Between the time I had my first Surface device and today my work life has changed quite a bit. I decided to move on from full time roles and moved into contract and consulting work. Since I was never sure where I would be working everyday and I was using transit, I wanted a device that was small and lightweight but also had all day battery life. For connectivity, LTE would be nice to have, but not necessarily a deal breaker since I always had my cell phone with me.
 
@@ -77,7 +77,7 @@ After trying out a Chromebook I wanted to also try out the iPad Pro. I will say 
 
 As a side note, why did I not just get the Surface Pro with LTE? The cost is pretty much the main reason (over $2300 CAD with a keyboard), so I never even really considered it because of that.
 
-## Windows on ARM (Round Two - Qualcomm)
+## Windows on ARM (Round Two - Qualcomm) ##
 
 When the announcement for WoA came out I was a bit skeptical that it would ever produce any actual results. Microsoft announces new products and partnerships all the time, but it does not always mean that a product will make it to market. I knew that it depended on a lot of different parties coming together; Microsoft, Qualcomm and OEM partners in order to actually produce a WoA device. This is part of Microsoft's Always Connected PC initiative, and the first devices that were released were running the Qualcomm Snapdragon 835 SoC. The other question that I and a lot of other people had was about everything would work and would it be a repeat of Windows RT?
 
@@ -103,7 +103,7 @@ There are a few Windows on ARM limitations that you should be aware of:
 
 These are not necessarily issues for some people. Depending on your work load and how you use these devices, these are probably not issues for most people. For one I couldn't imagine using Hyper-V (or any virtualization) on a device with these specifications. Since Windows 10 on ARM will be using emulation for non ARM64 applications and non UWP apps, there will be a slowdown depending on the application that is running. To expect a large application such as Photoshop to run at the same speed as x86 is unreasonable, but a smaller and simpler application such as Notepad++ should run at the same speed as an x86 device of similar specifications.
 
-## Windows 10 S
+## Windows 10 S ##
 
 I talked about the original Surface earlier for a reason, because a lot of things have changed in 6 years on the Windows platform and the Microsoft Store. Even though it seems as though Windows 10 S is exactly the same as Windows RT, this is no longer the case and the limitations can be easily removed if you want.
 
@@ -117,18 +117,18 @@ I believe that the last point really applies to most people, and only a few exce
 
 Some annoying restrictions that are a bit of a pain on S mode are lack on Command Line support, but Microsoft is supposed to be working to resolve this in future updates to the platform.
 
-## The Future of Windows on ARM
+## The Future of Windows on ARM ##
 
 All I can say is that I hope the platform continues to evolve. The Snapdragon 1000 was announced and Qualcomm released their roadmap up until 2023. Since Qualcomm basically never releases a roadmap, this was certainly a surprise to me. Intel has been struggling for the last few years with their product line, and since ARM does not have the same legacy baggage that x86 does, it may be possible with ARM to overtake Intel in the near future.
 
 Microsoft also is planning on retiring the Windows 10 S branding, since it is confusing to people. They are going to enhance the S mode functionality and make it easier to go back and forth between this mode without the need to reinstall the Operating System.
 
-## My Experience with Windows on ARM
+## My Experience with Windows on ARM ##
 
 There are only a few options right now on what devices you can use with the Windows on ARM platform. The HP Envy was pretty much the first to market and it had a lot of negative comments for performance, mostly concerning the choice of SSD in the device.
 
 I ended up trying out the Lenovo Miix 630 which I was testing for a contract that I am working on, and I will be posting a comprehensive review shortly since I have been using it for over a month.
 
-## Links
+## Links ##
 
 * [Lenovo Miix 630](/blog/2018/10/04/lenovo-miix-630/)

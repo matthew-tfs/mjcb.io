@@ -11,7 +11,7 @@ categories: [ "Blog" ]
 draft: false
 ---
 
-## 2019 in General
+## 2019 in General ##
 
 Once again I made a promise that I would post a lot more often to this site, but once again a lot of things got in the way and I wasn't able to get as much done as I hoped. I was doing very well in the earlier part of the year, but after the middle of April I ran into a lot of issues that prevented me from focusing my attention on the site.
 
@@ -25,7 +25,7 @@ I also made more of an effort to volunteer and spend more time not focusing on I
 
 Overall, 2019 went very well for me, but there are a lot of things that I need to do in 2020.
 
-## 2020 Goals
+## 2020 Goals ##
 
 I planned on taking care of a lot of unfinished work in 2019, and I am still working on that. I have 2 dozen articles in various stages of completion, and I intend to get those completed before I start anything else. I also plan on published something to this site at least twice a month.
 

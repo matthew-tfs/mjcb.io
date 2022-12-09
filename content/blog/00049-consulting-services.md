@@ -30,7 +30,7 @@ For complicated questions and requests, I do offer full consulting and contracti
 
 I usually get back to potential clients within 24 hours. My rates are negotiable and depending on the amount of work to be done and the type of organization, I will usually offer a flat rate. If you are having an urgent issue such as your network is down, I may not be able to help you due to timing and availability.
 
-## Links
+## Links ##
 
 * [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/)
 * [Building a Certificate Authority in Windows Server 2019](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019) - Gumroad

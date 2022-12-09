@@ -42,7 +42,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 {{< toc >}}
 
-## 1.1 Root Certificate Authority Server Setup
+## 1.1 Root Certificate Authority Server Setup ##
 
 The Server that will be hosting the Offline Root Certificate Authority requires minimal resources in order to operate. It is only to ever be used for issuing Subordinate Certificates to other **TFS Labs** Domain Servers and is also used to revoke or add new Subordinate Certificates if necessary. It is also used to refresh the CRL at least once a year.
 
@@ -125,7 +125,7 @@ Provision and configure a new Virtual Machine using the following settings:
     24. Enter the password that you set for the drive to ensure that it is working correctly.
     25. Login to the **TFS-ROOT-CA** Server, you should receive a notification that the drive is encrypting. You can also check the status of BitLocker at anytime by going to **File Explorer**, then to **This PC**, right-clicking on the **C:\ Drive** and selecting the **Manage BitLocker** option.
 
-## 1.2 Root CA CAPolicy.inf Installation
+## 1.2 Root CA CAPolicy.inf Installation ##
 
 The **CAPolicy.inf** file is used to add configuration details to the Certificate at the time of creation. Create a file in the **C:\Windows** folder called **CAPolicy.inf** (ensure that it is saved with the **inf** extension and not the **txt** extension, otherwise these settings will be ignored). Copy the following contents into this file:
 
@@ -170,7 +170,7 @@ CRLDeltaPeriodUnits=0
 
 The **AlternateSignatureAlgorithm=0** flag in the CAPolicy.inf file explicitly uses SHA256 for the algorithm instead of RSASSA-PSS. This can cause issues with some devices (especially iOS) and by ensuring that it is disabled you shouldn’t have issues with these certificates.
 
-## 1.3 Active Directory Certificate Services Role Installation
+## 1.3 Active Directory Certificate Services Role Installation ##
 
 Once the **TFS-ROOT-CA** Server has been installed and configured properly, the **Active Directory Certificate Services** Role needs to be installed.
 
@@ -186,7 +186,7 @@ Once the **TFS-ROOT-CA** Server has been installed and configured properly, the 
 10. On the **Confirmation** screen, select the option to **Restart the destination server automatically if required**. When prompted with a warning about restarting the Server, click the **Yes** button (the Server must restart in order to continue). Click the **Install** button to continue.
 11. Once the installation is completed, click the **Close** button.
 
-## 1.4 Active Directory Certificate Services Role Configuration
+## 1.4 Active Directory Certificate Services Role Configuration ##
 
 Once the **Active Directory Certificate Services** Role has been added, it will need to be configured. In the process of configuring the role for the **TFS Labs** Domain, the following Root Certificate will be created:
 
@@ -219,7 +219,7 @@ Once the **Active Directory Certificate Services** Role has been added, it will 
 
 It is not advised to have the Root Certificate and the Subordinate Certificate set to have the same Validity Period. For example, if both Certificates have a 5 Year expiration date, it is possible that the Root Certificate will expire before the Subordinate Certificate since it was signed first. If this happens it will be extremely difficult to re-sign both Certificates because they will both be invalid at the same time.
 
-## 1.5 Root Certificate Authority CRL Configuration
+## 1.5 Root Certificate Authority CRL Configuration ##
 
 The CRL Configuration for the Root CA is configured in this step to give greater control over when this takes place, and the time is extended to 52 weeks since the CRL does not need to be updated often on the Root CA. It also ensures that the Subordinate CA lifetime is extended from 1 Year to 5 Years.
 
@@ -275,7 +275,7 @@ net start CertSvc
 
 As defined in Step 4 in Section 1.5, the CRL Period on the Root CA is set to 52 weeks. This means that every 52 weeks you will need to power on the TFS-ROOT-CA Server and renew the CRL. You should set a reminder in your calendar to do perform this task every 50 weeks to ensure that it is renewed in time.
 
-## 1.6 Enable Auditing on the Root Certificate Authority
+## 1.6 Enable Auditing on the Root Certificate Authority ##
 
 Auditing is needed on any Server running **Active Directory Certificate Services**. This will write logs to the Windows Event Log whenever a Certificate is issued or revoked.
 
@@ -288,7 +288,7 @@ Certutil -setreg CA\AuditFilter 127
 
 3. Restart the **Active Directory Certificate Services** Service.
 
-## 1.7 Root Certificate Authority CDP and AIA Configuration
+## 1.7 Root Certificate Authority CDP and AIA Configuration ##
 
 Before the **Subordinate Certificate Authority** can be properly configured, the **Certificate Revocation List** needs to be configured on the **Root CA Certificate**. This configuration will be present in the **Subordinate Certificate** that will be issued on the **Enterprise CA** which will be installed on the **TFS-CA01** Server.
 
@@ -324,7 +324,7 @@ Certutil -getreg CA\CACertPublicationURLs
 14. On the **Publish CRL** window, verify that **New CRL** is selected and click the **OK** button.
 15. Close the **Certification Authority** Console.
 
-## 1.8 Root Certificate and CRL List Export
+## 1.8 Root Certificate and CRL List Export ##
 
 Exporting the **Root Certificate CRL List** is needed in order to make it available on the **TFS-CA01** Server. The links to these files were referenced in the Certificate configuration, so they will need to be copied to the **Subordinate CA** Server for users to access these files.
 
@@ -341,7 +341,7 @@ A:\TFS-ROOT-CA_TFS Labs Certificate Authority.crt
 
 5. Eject the **RootCAFiles** Virtual Floppy Disk.
 
-## Certificate Authority in Windows Server 2019
+## Certificate Authority in Windows Server 2019 ##
 
 * [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * Part 1 - Offline Root CA Setup

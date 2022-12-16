@@ -239,34 +239,34 @@ Once the **Active Directory Configuration Partition Distinguished Name** has bee
 1. Open an **Administrative Command Prompt**.
 2. To define the **Active Directory Configuration Partition Distinguished Name**, run the following command:
 
-```
+```cmd
 Certutil -setreg CA\DSConfigDN "CN=Configuration,DC=corp,DC=tfslabs,DC=com"
 ```
 
 3. To define **Validity Period Units** for all issued certificates by this CA, run following commands:
 
-```
+```cmd
 Certutil -setreg CA\ValidityPeriodUnits 5
 Certutil -setreg CA\ValidityPeriod "Years"
 ```
 
 4. To define **CRL Period Units** and **CRL Period**, run the following commands:
 
-```
+```cmd
 Certutil -setreg CA\CRLPeriodUnits 52
 Certutil -setreg CA\CRLPeriod "Weeks"
 ```
 
 5. To define **CRL Overlap Period Units** and **CRL Overlap Period**, run the following commands:
 
-```
+```cmd
 Certutil -setreg CA\CRLOverlapPeriodUnits 12
 Certutil -setreg CA\CRLOverlapPeriod "Hours"
 ```
 
 6. Restart the **Active Directory Certificate Services** service:
 
-```
+```cmd
 net stop CertSvc
 net start CertSvc
 ```
@@ -282,7 +282,7 @@ Auditing is needed on any Server running **Active Directory Certificate Services
 1. Open the **Local Security Policy** Console (secpol.msc) and modify the **Security Settings > Local Policies > Audit Policy > Audit object access** setting to audit **Success** and **Failure**.
 2. Enable auditing for the Certificate Authority by running the following command from an **Administrative Command Prompt**:
 
-```
+```cmd
 Certutil -setreg CA\AuditFilter 127
 ```
 
@@ -315,7 +315,7 @@ http://pki.corp.tfslabs.com/CertData/<ServerDNSName>_<CaName><CertificateName>.c
 11. Click the **OK** button to commit the changes. When prompted to restart **Active Directory Certificate Services**, click the **Yes** button.
 12. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:</li></ol>
 
-```
+```cmd
 Certutil -getreg CA\CRLPublicationURLs
 Certutil -getreg CA\CACertPublicationURLs
 ```

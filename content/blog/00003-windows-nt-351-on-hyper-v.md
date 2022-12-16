@@ -67,10 +67,16 @@ For the Network Adapter you have two options depending on how you intend on usin
 An additional step that will help with the installation is to enable compatibility for older Operating Systems on the Virtual Machine. There is nowhere to set this in the Hyper-V Manager, it must be set with PowerShell:
 
 ```powershell
-PS C:\WINDOWS\system32> Set-VMProcessor "Windows NT 3.51 Server" -CompatibilityForOlderOperatingSystemsEnabled $true
+Set-VMProcessor "Windows NT 3.51 Server" -CompatibilityForOlderOperatingSystemsEnabled $true
 ```
 
 You can confirm that it has been setup correctly with this command:
+
+```powershell
+C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server"  | fl CompatibilityForOlderOperatingSystemsEnabled
+```
+
+The output should show that the compatibility is setup correctly for older Operating Systems:
 
 ```powershell
 C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server"  | fl CompatibilityForOlderOperatingSystemsEnabled
@@ -128,7 +134,7 @@ Once the Network settings have been configured, you should fix the Screen Resolu
 
 It is fairly straight-forward to install Service Pack 5 on Windows NT 3.51 Server and Workstation. I added the file to an ISO image and mounted it on both Virtual Machines and copied it to the C drive in it's own directory. There are only two commands that you need to run in order to install the Service Pack:
 
-```powershell
+```cmd
 SP5_351I.EXE -d
 UPDATE.EXE
 ```
@@ -139,7 +145,7 @@ The installation only takes a minute and you will need to reboot the Virtual Mac
 
 The installation of NewShell is entirely optional. I put the files onto an ISO image to move the files over to both Virtual Machines just like the Service Pack files. It only requires one command to install the update:
 
-```powershell
+```cmd
 SHUPDATE.CMD
 ```
 
@@ -151,7 +157,7 @@ Reboot the Virtual Machine to apply the update. Once the system restarts you wil
 
 If you want to go back to the old Program Manager/File Manager user interface, you can uninstall NewShell by going into the installation directory and running this command:
 
-```powershell
+```cmd
 SHUPDATE.CMD /U
 ```
 

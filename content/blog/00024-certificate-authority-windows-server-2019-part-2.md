@@ -193,7 +193,7 @@ On the **TFS-CA01** Server, enable Double Escaping in IIS in order to allow for 
 2. Type **cd C:\Windows\System32\inetsrv\** and press **ENTER**.
 3. Type following command and press **ENTER**:
 
-```
+```cmd
 Appcmd set config "Default Web Site" /section:system.webServer/Security/requestFiltering -allowDoubleEscaping:True
 ```
 
@@ -234,7 +234,7 @@ Since all Certificates that will be created by the Subordinate CA will only be v
 
 1. To define the maximum age of any Certificate that the Subordinate CA issues, run the following commands from an **Administrative Command Prompt**:
 
-```
+```cmd
 Certutil -setreg CA\ValidityPeriodUnits 1
 Certutil -setreg CA\ValidityPeriod "Years"</code></pre>
 ```
@@ -275,7 +275,7 @@ http://pki.corp.tfslabs.com/CertEnroll/<ServerDNSName>_<CaName><CertificateName>
 9. Click the **OK** button to commit the changes. When prompted to restart **Active Directory Certificate Services**, click the **Yes** button.
 10. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:</ol>
 
-```
+```cmd
 Certutil -getreg CA\CRLPublicationURLs
 Certutil -getreg CA\CACertPublicationURLs
 ```
@@ -290,7 +290,7 @@ Auditing is needed on any Server running **Active Directory Certificate Services
 1. Open the **Local Security Policy** Console (secpol.msc) and modify the **Security Settings > Local Policies > Audit Policy > Audit object access** setting to audit **Success** and **Failure**.
 2. Enable auditing for the Certificate Authority by running the following command from an **Administrative Command Prompt**:
 
-```
+```cmd
 Certutil -setreg CA\AuditFilter 127
 ```
 

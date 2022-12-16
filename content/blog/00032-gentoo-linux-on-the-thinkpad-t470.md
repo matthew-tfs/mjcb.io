@@ -60,7 +60,7 @@ Here are the specifications for the particular model of Lenovo ThinkPad T470 tha
 
 ### lscpu ###
 
-```ini
+```
 Architecture:        x86_64
 CPU op-mode(s):      32-bit, 64-bit
 Byte Order:          Little Endian
@@ -89,7 +89,7 @@ Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cm
 
 ### lspci ###
 
-```ini
+```
 00:00.0 Host bridge: Intel Corporation Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers (rev 08)
 00:02.0 VGA compatible controller: Intel Corporation Skylake GT2 [HD Graphics 520] (rev 07)
 00:14.0 USB controller: Intel Corporation Sunrise Point-LP USB 3.0 xHCI Controller (rev 21)
@@ -110,7 +110,7 @@ Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cm
 
 ### lsusb ###
 
-```ini
+```
 Bus 0001 Device 0004: ID 13d3:5619 IMC Networks
 Bus 0001 Device 0002: ID 058f:9540 Alcor Micro Corp. AU9540 Smartcard Reader
 Bus 0001 Device 0003: ID 8087:0a2b Intel Corp.
@@ -145,7 +145,7 @@ I am using **gentoo-sources-5.4.28** as the Kernel for this guide. I will post t
 
 The Intel HD Graphics 520 support can be enabled in the Kernel, but you will require the **linux-firmware** package to be present. It can be installed easily:
 
-```
+```bash
 emerge sys-kernel/linux-firmware
 ```
 
@@ -275,7 +275,7 @@ You can quickly test that the Webcam is working by using the **luvcview** packag
 
 The Smart Card Reader is an embedded USB device and requires basic USB 3.0 support in order to function. It also requires an additional package to be installed in order to function:
 
-```
+```bash
 emerge sys-apps/pcsc-lite
 ```
 

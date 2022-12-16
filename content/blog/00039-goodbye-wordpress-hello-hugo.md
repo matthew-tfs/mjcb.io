@@ -100,19 +100,19 @@ I am providing instructions on how to install Hugo on Windows 11, but I have als
 
 There are multiple ways to install Hugo using package managers that are available for modern versions of Windows. I decided to use [Scoop](https://scoop.sh/), which is a package management tool that works on Windows 10 and Windows 11. The installation method for installing Scoop is not difficult, but will require the **ExecutionPolicy** to be temporarily modified to allow for the installer to work correctly:
 
-```
+```powershell
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
 Once the **ExecutionPolicy** has been set, there is a single command that will install Scoop:
 
-```
+```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
 
 If there were no issues with the installation, it should complete quickly:
 
-```
+```powershell
 PS C:\Users\Matthew> Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 Initializing...
 Downloading scoop...
@@ -128,7 +128,7 @@ Type 'scoop help' for instructions.
 
 As part of the installation of Scoop, it should automatically add the Scoop directory to your PATH variable, which makes it much easier to run programs that you download and install (you may want to logout and login again to ensure that it is added correctly):
 
-```
+```powershell
 PS C:\Users\Matthew> $env:path -split ";"
 C:\Windows\system32
 C:\Windows
@@ -145,7 +145,7 @@ C:\Users\Matthew\AppData\Local\Programs\Microsoft VS Code\bin
 
 Installing Hugo can be performed using a single command:
 
-```
+```powershell
 PS C:\Users\Matthew> scoop install hugo
 Installing 'hugo-extended' (0.91.1) [64bit]
 hugo_extended_0.91.1_windows-64bit.zip (16.1 MB) [============================================================] 100%
@@ -158,7 +158,7 @@ Creating shim for 'hugo'.
 
 To validate that Hugo was installed, you can run a command to check the version that was installed:
 
-```
+```powershell
 PS C:\Users\Matthew> hugo version
 hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
 ```
@@ -169,13 +169,13 @@ I won't go into the details on how to create a website with Hugo and install a t
 
 One of the benefits of using Hugo over more complex solutions is the ability to quickly load your website and validate that things are working correctly. In this case, I can go right to the Git folder that has a copy of my website and run a local copy of the website:
 
-```
+```powershell
 hugo.exe server -D
 ```
 
 The command runs Hugo (the **-D** option shows draft posts) and tells you which port it is running the web server on:
 
-```
+```powershell
 PS C:\Users\Matthew\Bitbucket\mjcb.io> hugo.exe server -D
 Start building sites …
 hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
@@ -203,7 +203,7 @@ Press Ctrl+C to stop
 
 You can go to your web browser and view the website locally to validate your content before publishing the updated website. Whenever you make a change to the website content while the server is running, it will update and rebuild the website automatically:
 
-```
+```powershell
 Change detected, rebuilding site.
 2021-12-22 13:44:03.167 -0500
 Source changed "C:\\Users\\Matthew\Bitbucket\\mjcb.io\\content\\blog\\00039-goodbye-wordpress-hello-hugo.md": WRITE

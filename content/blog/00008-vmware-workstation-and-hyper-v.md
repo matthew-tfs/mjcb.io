@@ -27,7 +27,7 @@ An easy solution to this issue is to create a new boot entry that disables Hyper
 
 To do this, launch a Command Prompt as Administrator (PowerShell will not work). To see the existing boot entries run the **bcdedit** command:
 
-```
+```cmd
 C:\WINDOWS\system32>bcdedit
 
 Windows Boot Manager
@@ -70,25 +70,25 @@ hypervisorlaunchtype    Auto
 
 There is one command that needs to be run in order to duplicate the existing Windows 10 boot entry:
 
-```
+```cmd
 bcdedit /copy {current} /d "Windows 10 No Hyper-V"
 ```
 
 The output of this command will look something like this:
 
-```
+```cmd
 The entry was successfully copied to {533a4d12-c6a3-11e8-bd65-ddac20a2be71}.
 ```
 
 Take the identifier from the command that was executed (don't use the one from above, it won't work for you) and use it in the next command that will disable Hyper-V in that boot entry:
 
-```
+```cmd
 bcdedit /set {533a4d12-c6a3-11e8-bd65-ddac20a2be71} hypervisorlaunchtype off
 ```
 
 Once the commands have been entered, the new boot entry should now show up in the list of boot entries:
 
-```
+```cmd
 C:\WINDOWS\system32>bcdedit
 
 Windows Boot Manager

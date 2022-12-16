@@ -72,7 +72,7 @@ Once the Role has been installed, verify that the OCSP folder is present in the 
 
 If the **ocsp** folder is not present, run the following command in an **Administrative Command Prompt**:
 
-```
+```cmd
 Certutil -vocsproot
 ```
 
@@ -147,8 +147,8 @@ If there are no issues being reported with OCSP then you can proceed to the next
 4. On the **Certificate Revocation** window, click the **Yes** button to revoke the Certificate.
 5. Open an **Administrative Command Prompt** and run the following command request a new certificate:
 
-```
-certutil -cainfo xchg
+```cmd
+Certutil -cainfo xchg
 ```
 
 6. On the **TFS-CA01** Server, open the **Enterprise PKI** Console (PKIView.msc).
@@ -161,7 +161,7 @@ To verify that the **OCSP Responder** Server can communicate with devices on the
 1. On the **TFS-CA01** Server, export the **TFS Labs Enterprise CA** Certificate as a **DER Encoded Binary** the root of the **C:\ Drive** (C:\TFS Labs Enterprise CA.cer).
 2. Run the following command in an **Administrative Command Prompt** to launch the **URL Retrieval Tool**:
 
-```
+```cmd
 Certutil -URL “C:\TFS Labs Enterprise CA.cer”</code></pre>
 ```
 

@@ -6,8 +6,9 @@
 {{- $iconsDir := default "icons/" .Site.Params.iconsDir }}
 {{- $defaultFooterLogo := printf "%s%s" $iconsDir "apple-touch-icon.png"}}
 <footer class="footer">
-    <div class="footer_inner wrap pale">
-        &nbsp;<p><strong>mjcb.io</strong> | <a href="https://mjcb.io/privacy-policy/">Privacy Policy</a> | Copyright © 2018 - 2022 Matthew Burr</p>
-        {{- partialCached "top" .}}
-    </div>
+  <div class="footer_inner wrap pale">
+    <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $t }}">
+    <p><strong><a href="https://mjcb.io/">mjcb.io</a></strong> | <strong><a href="https://mjcb.io/privacy-policy/">Privacy Policy</a></strong> | Copyright © 2018 - 2022 Matthew Burr</p>
+    {{- partialCached "top" .}}
+  </div>
 </footer>

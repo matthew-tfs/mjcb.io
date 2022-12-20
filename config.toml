@@ -17,6 +17,7 @@ googleAnalytics = "G-CN15CP4JCD"
     numberOfTagsShown = 14
     author = "Matthew Burr"
     introDescription = "A website about Networking, System Administration and other things that interest me."
+    logo = "/images/logos/mjcbio.png"
     autoHeadingID = true
     rssSummary = true
     largeTwitterCard = true
@@ -50,46 +51,53 @@ googleAnalytics = "G-CN15CP4JCD"
 
 [menu]
     [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        title = "Home"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
         identifier = "publications"
         name = "Publications"
         title = "Publications"
         url = "/publications/"
-        weight = 10
+        weight = 20
 
     [[menu.main]]
         identifier = "guides"
         name = "Guides"
         title = "Guides"
         url = "/guides/"
-        weight = 20
+        weight = 30
 
     [[menu.main]]
         identifier = "archive"
         name = "Archive"
         title = "Archive"
         url = "/archive/"
-        weight = 30
+        weight = 40
 
     [[menu.main]]
         identifier = "about"
         name = "About"
         title = "About"
         url = "/about/"
-        weight = 40
+        weight = 50
 
     [[menu.main]]
         identifier = "docs"
         name = "Docs"
         url = "https://docs.mjcb.io/"
         target = "_blank"
-        weight = 50
+        weight = 60
 
     [[menu.main]]
         identifier = "tfs"
         name = "Ten Fifteen Solutions"
         url = "https://tenfifteen.ca/"
         target = "_blank"
-        weight = 60
+        weight = 70
 
     [[menu.social]]
         name = "github"

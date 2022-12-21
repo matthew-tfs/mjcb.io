@@ -9,6 +9,7 @@ tags: [
     "WordPress"
 ]
 categories: [ "Blog" ]
+thumbnail: "/images/blog/00001/mjcbio.png"
 draft: false
 ---
 

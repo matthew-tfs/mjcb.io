@@ -11,8 +11,8 @@ tags: [
     "Windows"
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/publications/pki-book/pki-book-thumbnail.png"
-featureImage: "/images/publications/pki-book/pki-book-featured.png"
+thumbnail: "/images/blog/00050/pki-book-thumbnail.png"
+featureImage: "/images/blog/00050/pki-book-featured.png"
 draft: false
 ---
 

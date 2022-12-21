@@ -72,10 +72,10 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 30
 
     [[menu.main]]
-        identifier = "archive"
-        name = "Archive"
-        title = "Archive"
-        url = "/archive/"
+        identifier = "archives"
+        name = "Archives"
+        title = "Archives"
+        url = "/archives/"
         weight = 40
 
     [[menu.main]]

@@ -61,4 +61,4 @@ If there are any updates for the guide or additional materials, they will be pos
 
 ## Links
 
-* Gumroad: [https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019)
+* **Gumroad**: [https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019)

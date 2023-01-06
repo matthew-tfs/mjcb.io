@@ -36,5 +36,8 @@
     {{- partialCached "footer" . }}
     {{- partialCached "scripts" . }}
     {{- partialCached "hooks/body-end" . }}
+
+    {{ partial "gdpr-notice.html" }}
+
   </body>
 </html>

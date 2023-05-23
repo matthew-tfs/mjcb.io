@@ -22,7 +22,7 @@ I was always disappointed with those devices and I never really found something 
 
 What ended up happening is that I ended up finding the perfect device, and it is now the only device that I use.
 
-This post ended up being a lot longer than I had planned and went on some tangents, so it is going to be split into two separate posts (the second part will be linked later once it has been written).
+This post ended up being a lot longer than I had planned and went on some tangents, but you can find the second part [here](/blog/2023/05/22/apple-silicon-two-years-later-part-2/).
 
 {{< toc >}}
 
@@ -55,7 +55,7 @@ For hardware specifications, they were fairly standard for the time for a mid-ra
 | Dimensions       | 4.60 cm x 36.20 cm x 28.40 cm          |
 | Weight           | 3.59 kg                                |
 
-The Compaq Presario R3210CA was fairly basic compared to modern laptops, shipping with only 256 MB of RAM and with a fairly low-end AMD Athlon XP mobile processor. It was definitely a product of it's time, shipping with a Parallel port on the back of the laptop. Consumer printers at the time did not always use USB, so Parallel ports were commonly used and present on laptops to support printers. The only surprise was that there was no Serial port, as there was definitely enough room to have one on the laptop.
+The Compaq Presario R3210CA was fairly basic compared to modern laptops, shipping with only 256 MB of RAM and with a fairly low-end AMD Athlon XP mobile processor. It was definitely a product of it's time, shipping with a Parallel port on the back of the laptop. Consumer printers at the time did not always use USB, so Parallel ports were commonly used and present on laptops to support printers. The only surprise was that there was no serial port, as there was definitely enough room to have one on the laptop.
 
 The two main issues that I had with the laptop was that it weighed over 8 pounds and had less than 2 hours of battery life with the supplied battery, so it wasn't exactly portable compared to modern laptops. I used it when I was in University and I always had to take the AC adapter with me in order to make it through the day.
 
@@ -147,7 +147,7 @@ So what does this have to do ARM-based laptops and why did I want one? It really
 * I wanted a cool and fan-less design
 * I wanted instant on capability
 * I wanted long battery life
-* I wanted modern ports and the ability to use one port for charging and for a dock
+* I wanted modern ports and the ability to use one port for charging and for a dock (without proprietary ports)
 
 I also wanted a more simplified Operating System, as I was getting tired of a lot of the cruft that had accumulated in most Operating Systems over the years (Windows had gotten pretty bad around the time of Vista and 7). Windows at it's core can be a lean Operating System if it wants to be, but Microsoft has a habit of intentionally slowing it down with unnecessary services that most people don't use. Prior to Windows 7, Windows at it's core was extremely monolithic in nature.
 
@@ -155,8 +155,16 @@ Windows 10 S Mode was supposed to fix a lot of the issues by only allowing appli
 
 Over the last 10 years I have tried several options for ARM-based laptops, including the original [Surface RT](/blog/2018/08/05/windows-on-arm/) and more modern solutions such as the [Lenovo Miix 630](/blog/2018/10/04/lenovo-miix-630/) and the Surface Pro X. While these devices were ARM-based, the software and hardware was never really there and most of the blame goes to a lack of optimization. The ARM processors that those systems used were never specialized for the hardware and software, they were designed to work on anything which meant that there was no optimization whatsoever. I had an Apple iPad Air 3 with the Smart Keyboard for a few months, and while I liked it, there was always those few issues with it that caused me to stop using it. iPadOS did go through a lot of advancements and Apple listened to user feedback on issues, but there were always little problems keeping me from using it. I even tried using it as my only device for an entire week as an experiment, but by the last day I was ready to be done with it. The issue that I really had with devices like the Surface line or the iPad, was that I didn't want a tablet with a keyboard awkwardly attached, I just wanted a normal laptop. I tried Chromebooks with this mindset, but there were just too many limitations for my liking, but the devices that I tried worked very well and I have recommended them to many people looking for a simple computer.
 
-This all changed in the summer of 2020 when Apple announced that they were bringing their ARM processors to the MacBook line in the form of Apple Silicon. I wrote about this when it was announced ([Apple ARM Transition](/blog/2020/06/28/apple-arm-transition/)), and I finally picked up one of those devices when they became available. Needless to say, I am very impressed and happy with what Apple has done with a first-generation device and I changed a lot of my opinions on what those devices were capable of. I am no fanboy of Apple, but when they decide to bring a major new product to market, they won't do it unless it works perfectly.
+This all changed in the summer of 2020 when Apple announced that they were bringing their ARM processors to the MacBook line in the form of Apple Silicon. I wrote about this when it was announced ([Apple ARM Transition](/blog/2020/06/28/apple-arm-transition/)), and I finally picked up one of those devices, a MacBook Air (M1, 2020) in February 2021 and have been using it as my daily driver for over 2 years.
+
+Needless to say, I am very impressed and happy with what Apple has done with a first generation device and I changed a lot of my opinions on what those devices were capable of. I am no fanboy of Apple, but when they decide to bring a major new product to market, they won't do it unless it works perfectly.
 
 ## Continued Reading ##
 
-I will post the link for part two of this post when it has been written.
+You can find the second part of this post [here](/blog/2023/05/22/apple-silicon-two-years-later-part-2/), where I talk about my experience with using an Apple Silicon device as my daily driver for over 2 years.
+
+## Links ##
+
+* [Apple ARM Transition](/blog/2020/06/28/apple-arm-transition/)
+* [Lenovo Miix 630](/blog/2018/10/04/lenovo-miix-630/)
+* [Windows on ARM](/blog/2018/08/05/windows-on-arm/)

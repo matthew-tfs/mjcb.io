@@ -11,7 +11,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00055/apple-m1.png"
-draft: true
+draft: false
 ---
 
 So, this post ended up taking a lot longer to put together than I thought it would. I am still using the same MacBook Air (M1, 2020) that I was using 16 months ago when I wrote the first post, and I am still happy with the performance and the capabilities of it. I have owned it since February 2021 and been using it as my primary machine for over 2 full years now. Enough has been written on the capabilities and performance of Apple Silicon chips, so I am just going to talk about my experiences with it.

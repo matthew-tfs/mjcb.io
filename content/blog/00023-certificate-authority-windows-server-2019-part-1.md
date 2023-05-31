@@ -232,7 +232,7 @@ To determine what the correct format of this name would be for your domain you c
 3. Right-click on the root of your **Domain** and select **Properties**.
 4. Go to the **Attribute Editor** tab.
 5. Scroll down until you find the **distinguishedName** Attribute Field and click the **View** button.
-6. Copy the value in the **Attribute Field**, this is the information needed for **Step 2** below.</li></ol>
+6. Copy the value in the **Attribute Field**, this is the information needed for **Step 2** below.
 
 Once the **Active Directory Configuration Partition Distinguished Name** has been determined, the rest of the configuration can continue.
 
@@ -295,7 +295,7 @@ Before the **Subordinate Certificate Authority** can be properly configured, the
 1. Open the **Certification Authority** Console (certsrv.msc) for the **TFS-ROOT-CA** Server.
 2. Right-click on **TFS Labs Certificate Authority** Server and select **Properties**.
 3. On the **Extensions** tab, verify that the **CRL Distribution Point (CDP)** extension is selected and click the **Add** button.
-4. Under the **Location** field, enter the following address and click the **OK** button:</li></ol>
+4. Under the **Location** field, enter the following address and click the **OK** button:
 
 ```
 http://pki.corp.tfslabs.com/CertData/<CaName><CRLNameSuffix><DeltaCRLAllowed>.crl
@@ -313,7 +313,7 @@ http://pki.corp.tfslabs.com/CertData/<ServerDNSName>_<CaName><CertificateName>.c
 9. Back on the **Extensions** tab, verify that the **Include in the AIA extension of issued certificates** option is selected for the location that was just entered.
 10. Select the **file://<ServerDNSName>/CertEnroll/<ServerDNSName>_<CaName><CertificateName>.crt** list item and click the **Remove** button. Click the **Yes** button to confirm that you want to remove the location.
 11. Click the **OK** button to commit the changes. When prompted to restart **Active Directory Certificate Services**, click the **Yes** button.
-12. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:</li></ol>
+12. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:
 
 ```cmd
 Certutil -getreg CA\CRLPublicationURLs

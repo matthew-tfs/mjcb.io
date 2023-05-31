@@ -183,7 +183,7 @@ On the **TFS-CA01** Server, create a folder that will be used to host important 
 8. In the **Connections** pane, under the **Default Web Site**, ensure the **CertData** virtual directory is selected.
 9. In the **CertData Home** pane, double-click on **Directory Browsing**.
 10. In **Actions** pane click **Enable**.
-11. Close the **Internet Information Services (IIS) Manager** Console.</ol>
+11. Close the **Internet Information Services (IIS) Manager** Console.
 
 ## 2.8 Enable Double Escaping ##
 
@@ -236,7 +236,7 @@ Since all Certificates that will be created by the Subordinate CA will only be v
 
 ```cmd
 Certutil -setreg CA\ValidityPeriodUnits 1
-Certutil -setreg CA\ValidityPeriod "Years"</code></pre>
+Certutil -setreg CA\ValidityPeriod "Years"
 ```
 
 2. Once that is completed, restart the **Active Directory Certificate Services** service.
@@ -265,7 +265,7 @@ http://pki.corp.tfslabs.com/CertEnroll/<CaName><CRLNameSuffix><DeltaCRLAllowed>.
 
 5. Back on the **Extensions** tab, verify that the **Include in CRLs. Clients use this to find Delta CRL locations.** and **Include in the CDP extension of issued certificates** options are selected for the location that was just entered.
 6. On the **Extensions** tab, verify that the **Authority Information Access (AIA)** extension is selected and click the **Add** button.
-7. Under the **Location** field, enter the following address and click the **OK** button:</ol>
+7. Under the **Location** field, enter the following address and click the **OK** button:
 
 ```
 http://pki.corp.tfslabs.com/CertEnroll/<ServerDNSName>_<CaName><CertificateName>.crt
@@ -273,7 +273,7 @@ http://pki.corp.tfslabs.com/CertEnroll/<ServerDNSName>_<CaName><CertificateName>
 
 8. Back on the Extensions tab, verify that the **Include in the AIA extension of issued certificates** option is selected for the location that was just entered.
 9. Click the **OK** button to commit the changes. When prompted to restart **Active Directory Certificate Services**, click the **Yes** button.
-10. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:</ol>
+10. Verify that the settings are correct by running the following commands in an **Administrative Command Prompt**:
 
 ```cmd
 Certutil -getreg CA\CRLPublicationURLs

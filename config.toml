@@ -1,7 +1,7 @@
 baseURL = "https://mjcb.io/"
 languageCode = "en-us"
 title = "mjcb.io"
-copyright = "Copyright © 2018 - 2022 Matthew Burr. All rights reserved."
+copyright = "Copyright © 2018 - 2023 Matthew Burr. All rights reserved."
 theme = "hugo-clarity"
 paginate = 8
 googleAnalytics = "G-CN15CP4JCD"
@@ -58,31 +58,31 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 10
 
     [[menu.main]]
-        identifier = "publications"
-        name = "Publications"
-        title = "Publications"
-        url = "/publications/"
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
         weight = 20
-
-    [[menu.main]]
-        identifier = "guides"
-        name = "Guides"
-        title = "Guides"
-        url = "/guides/"
-        weight = 30
 
     [[menu.main]]
         identifier = "archives"
         name = "Archives"
         title = "Archives"
         url = "/archives/"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "guides"
+        name = "Guides"
+        title = "Guides"
+        url = "/guides/"
         weight = 40
 
     [[menu.main]]
-        identifier = "about"
-        name = "About"
-        title = "About"
-        url = "/about/"
+        identifier = "publications"
+        name = "Publications"
+        title = "Publications"
+        url = "/publications/"
         weight = 50
 
     [[menu.main]]

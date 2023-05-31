@@ -16,11 +16,11 @@ Reading this privacy notice will help you understand your privacy rights and cho
 
 {{< toc >}}
 
-## Commitment To Privacy
+## Commitment To Privacy ##
 
 Your privacy is important, and to better protect your privacy this notice has been provided to better explain the online information that is transmitted to and from this website. To make this notice easy to find, it is always available on the [https://mjcb.io](/) homepage, and at every point where personally identifiable information may be requested by this website.
 
-## Information That is Collected
+## Information That is Collected ##
 
 This notice applies to all information that is collected or submitted on this website. This website does not require registration in order to use it, and as a result no information is collected from users. This website is static in nature by design, so there is nothing in place to allow for submitting any content by users.
 
@@ -34,26 +34,26 @@ Google Analytics collects log and usage data to determine how this website is us
 
 This service is used for optimizing page content and determining how users interact with the website. It is not used for any other purposes.
 
-## How Your Information Is Used
+## How Your Information Is Used ##
 
 Any third-party tracking services that are used on this website are used specifically for optimizing page content and determining how users interact with the website. It is not used for any other purposes.
 
 Should you choose to block cookies on this website, the functionality of the website should not be degraded in any way.
 
-## Commitment To Data Security
+## Commitment To Data Security ##
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, this site has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information that has been collected online.
 
-## How You Can Access Or Correct Your Information
+## How You Can Access Or Correct Your Information ##
 
 You can inquire about all your personally identifiable information that has been collected online by contacting this website by sending an email to **privacy**[at]**mjcb**[dot]**io**.
 
 To protect your privacy and security, reasonable steps will be taken to verify your identity before granting access or making corrections.
 
-## Contact Information
+## Contact Information ##
 
 If you have any questions or comments about the privacy policy as outlined above, please send an email to **privacy**[at]**mjcb**[dot]**io**.
 
-## Privacy Policy Updates
+## Privacy Policy Updates ##
 
 This privacy policy was last updated on August 1, 2022.

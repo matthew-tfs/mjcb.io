@@ -82,7 +82,7 @@ If you would like to contact me by email, feel free to send me a message at **ma
 
 ## Privacy Policy ##
 
-Click [here](/privacy-policy/) to view the complete privacy policy for this website.
+Click [here](/privacy-policy/) to view the complete Privacy Policy for this website.
 
 ## Links ##
 

@@ -3,7 +3,7 @@ title: "Windows 8.1 End of Life"
 slug: "windows-8-1-end-of-life"
 date: "2023-01-10T07:02:00-05:00"
 author: "Matthew Burr"
-summary: "Today is the last time that Microsoft will publish any updates for Windows 8.1. Today marks the end of extended support for Windows 8.1, and Windows 8.1 is now officially end of life. To say that Windows 8 and Windows 8.1 were controversial is an understatement, but at the end of the day they were both solid improvements over Windows 7."
+summary: "Today is the last time that Microsoft will publish any updates for Windows 8.1. Today marks the end of extended support for Windows 8.1, and Windows 8.1 is now officially end of life. To say that Windows 8 and Windows 8.1 were controversial is an understatement, but at the end of the day they were both solid improvements over Windows 7, despite the issues that they introduced."
 tags: [
     "Microsoft",
     "Windows",
@@ -14,7 +14,11 @@ featureImage: "/images/blog/00054/windows-8-logo.png"
 draft: false
 ---
 
-Today is the last time that Microsoft will publish any updates for Windows 8.1. Today marks the end of extended support for Windows 8.1, and Windows 8.1 is now officially end of life. To say that Windows 8 and Windows 8.1 were controversial is an understatement, but at the end of the day they were both solid improvements over Windows 7.
+Today is the last time that Microsoft will publish any updates for Windows 8.1.
+
+Today marks the end of extended support for Windows 8.1, and Windows 8.1 is now officially end of life.
+
+To say that Windows 8 and Windows 8.1 were controversial is an understatement, but at the end of the day they were both solid improvements over Windows 7, despite the issues that they introduced.
 
 I don't really have anything negative to say about Windows 8.1, or Windows 8. I found them both to be very good Operating Systems and much better than Windows 7. Things like the inclusion of Hyper-V in the Pro versions was extremely useful, and allowed me to test Hyper-V without requiring a separate server. I never found much use for the Store, but it was the early days of that platform. Metro was interesting, but Microsoft never really made much of an effort to push developers to use it.
 

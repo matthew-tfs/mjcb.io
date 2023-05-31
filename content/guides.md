@@ -7,7 +7,7 @@ showShare: false
 
 I will use this page to highlight some of the guides and other articles that I have written. Some of these were made specifically for this site, and I will also post other some of the other guides that I have written in the past, assuming they are still relevant.
 
-## Building a Certificate Authority in Windows Server 2019
+## Building a Certificate Authority in Windows Server 2019 ##
 
 This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2019. I spent a lot of time on this since this is a very difficult subject and the configuration is quite involved. I originally wrote a basic version of this guide back in mid-2015 when I was using Windows Server 2012 R2 as the Server Operating System. I have updated it for use with Windows Server 2019 and I have also added a lot more details and configuration details.
 
@@ -26,7 +26,7 @@ As part of the **Building a Certificate Authority in Windows Server 2019** guide
 * Available for free, is the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide, which quickly demonstrates how to setup a Two-Tier Certificate Authority.
 * Available for purchase, is the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book, which offers a comprehensive guide to creating a PKI with Windows Server.
 
-## LaTeX with VS Code
+## LaTeX with VS Code ##
 
 I started a few projects in late 2019 that heavily utilized LaTeX, and it had been many years since I had used it. I ended up utilizing VS Code with several plugins in order to create a very versatile LaTeX environment. Here are links to all of the posts that I have written about using Visual Studio Code with LaTeX:
 

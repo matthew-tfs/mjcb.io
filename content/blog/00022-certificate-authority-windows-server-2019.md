@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:01:00-05:00"
 author: "Matthew Burr"
-summary: "This is the start of an 8-part series on building a Certificate Authority using Active Directory Certificate Services in Windows Server 2019. The process is quite involved, but with this guide and planning on your part, you should be able to build this important Infrastructure component with ease."
+summary: "This is the start of an 8-part series on building a Certificate Authority using Active Directory Certificate Services in Windows Server 2019. The process is quite involved, but with this guide and planning on your part, you should be able to build this important infrastructure component with ease."
 tags: [
     "ADCS",
     "Guides",
@@ -41,7 +41,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 </div>
 </div>
 
-**Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.io/microsoft/adcs/adcs-windows-server-2019-guide/) that can be found on [docs.mjcb.io](https://docs.mjcb.io/).
+**Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019-guide/) that can be found on [docs.mjcb.io](https://docs.mjcb.io/).
 
 {{< toc >}}
 
@@ -89,7 +89,7 @@ This guide uses a simplified and very basic Server Infrastructure and is the bar
 
 The example that is going to be used in this guide is the **TFS Labs** Domain (**corp.tfslabs.com**). It is very basic in design, and there is a total of 3 Servers, 1 Workstation and 1 iOS Device:
 
-![](/images/blog/00022/ca-infrastructure-overview.png)
+![TFS Labs Certificate Authority Infrastructure Overview](/images/blog/00022/ca-infrastructure-overview.png)
 
 The Virtual Machines that are being used in this guide are using the following specifications:
 
@@ -113,7 +113,7 @@ Here is breakdown of the Servers and Workstations in this environment:
 
 For the Certificates that will be issued for the **TFS Labs** Domain, there will be one Root and one Subordinate Certificate in a **Two-Tier Certificate Authority**:
 
-![](/images/blog/00022/ca-certificates-structure.png)
+![TFS Labs Certificate Authority Hierarchy](/images/blog/00022/ca-certificates-structure.png)
 
 | Certificate Type | Certificate Name               | Server Name | Validity Period |
 |:-----------------|:-------------------------------|:------------|:----------------|

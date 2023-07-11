@@ -190,7 +190,7 @@ Once the **TFS-ROOT-CA** Server has been installed and configured properly, the 
 
 Once the **Active Directory Certificate Services** Role has been added, it will need to be configured. In the process of configuring the role for the **TFS Labs** Domain, the following Root Certificate will be created:
 
-|                              |                                             |
+| **Root Certificate Setting** | Value                                       |
 |:-----------------------------|:--------------------------------------------|
 | **Cryptographic Provider**   | RSA#Microsoft Software Key Storage Provider |
 | **Key Length**               | 4096 Bits                                   |

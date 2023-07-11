@@ -127,14 +127,14 @@ The **Active Directory Certificate Services** Role needs to be installed on the 
 
 Once the **Active Directory Certificate Services** role has been added, it will need to be properly configured. In the process of configuring the role for the **TFS Labs** Domain, the following will be configured:
 
-|                              |                                             |
-|:-----------------------------|:--------------------------------------------|
-| **Cryptographic Provider**   | RSA#Microsoft Software Key Storage Provider |
-| **Key Length**               | 4096 Bits                                   |
-| **Signature Algorithm**      | SHA256RSA                                   |
-| **Signature Hash Signature** | SHA256                                      |
-| **CA Common Name**           | TFS Labs Enterprise CA                      |
-| **Validity Period**          | 5 Years (Configured from Root CA)           |
+| **Subordinate Certificate Setting** | Value                                       |
+|:------------------------------------|:--------------------------------------------|
+| **Cryptographic Provider**          | RSA#Microsoft Software Key Storage Provider |
+| **Key Length**                      | 4096 Bits                                   |
+| **Signature Algorithm**             | SHA256RSA                                   |
+| **Signature Hash Signature**        | SHA256                                      |
+| **CA Common Name**                  | TFS Labs Enterprise CA                      |
+| **Validity Period**                 | 5 Years (Configured from Root CA)           |
 
 1. To begin the configuration of **Active Directory Certificate Services**, open the **Server Manager** Console (servermanager.exe). Click the **Notifications** icon in the upper-right hand corner and click the **Configure Active Directory Certificate Services on the destination server** link in the **Post-deployment Configuration** box.
 2. On the **Credentials** screen, verify that the Administrator credentials is set to a **Domain Administrator Account** and click the **Next** button to continue. If you do not use a Domain Administrator account, then the installation will not allow you to install the **Active Directory Certificate Services** service correctly.

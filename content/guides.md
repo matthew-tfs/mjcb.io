@@ -7,11 +7,25 @@ showShare: false
 
 I will use this page to highlight some of the guides and other articles that I have written. Some of these were made specifically for this site, and I will also post other some of the other guides that I have written in the past, assuming they are still relevant.
 
+## AD CS on Windows Server 2022 ##
+
+This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2022. This is an updated version of the **Building a Certificate Authority in Windows Server 2019** guide that I created in 2020.
+
+* [Introduction - AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/)
+* [Part 1 - Domain Controller and Workstation Setup](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-1/)
+* [Part 2 - Offline Root CA Setup](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-2/)
+* [Part 3 - Subordinate CA Setup](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-3/)
+* [Part 4 - Deploy Certificates](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-4/)
+* [Part 5 - Online Responder Role Configuration](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-5/)
+* [Part 6 - Private Key Archive and Recovery](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-6/)
+* [Part 7 - Certificate Template Deployment](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-7/)
+* [Part 8 - Certificate Auto-Enrollment](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-8/)
+
 ## Building a Certificate Authority in Windows Server 2019 ##
 
-This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2019. I spent a lot of time on this since this is a very difficult subject and the configuration is quite involved. I originally wrote a basic version of this guide back in mid-2015 when I was using Windows Server 2012 R2 as the Server Operating System. I have updated it for use with Windows Server 2019 and I have also added a lot more details and configuration details.
+This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2019. I spent a lot of time on this since this is a very difficult subject and the configuration is quite involved. I originally wrote a basic version of this guide back in mid-2015 when I was using Windows Server 2012 R2. I have updated it for use with Windows Server 2019 and I have also added a lot more details and configuration details.
 
-* [Introduction](/blog/2020/03/09/certificate-authority-windows-server-2019)
+* [Introduction - Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019)
 * [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)
 * [Part 2 - Subordinate CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-2)
 * [Part 3 - Deploy Root and Subordinate Certificate](/blog/2020/03/09/certificate-authority-windows-server-2019-part-3)

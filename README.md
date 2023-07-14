@@ -8,7 +8,7 @@ This website uses the [Hugo Clarity](https://github.com/chipzoller/hugo-clarity)
 
 ## License ##
 
-This website is licensed under the MIT License. See the [LICENSE](https://github.com/matthew-tfs/docs.mjcb.io/blob/main/LICENSE) file for details.
+This website is licensed under the MIT License. See the [LICENSE](https://github.com/matthew-tfs/mjcb.io/blob/main/LICENSE) file for details.
 
 ## Netlify Status ##
 

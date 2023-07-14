@@ -16,7 +16,6 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00022/adcs.png"
-featureImage: "/images/blog/00022/active-directory-certificate-services.png"
 featured: true
 draft: false
 ---

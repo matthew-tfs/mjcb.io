@@ -16,7 +16,6 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00029/adcs.png"
-featureImage: "/images/blog/00029/active-directory-certificate-services.png"
 draft: false
 ---
 
@@ -39,6 +38,8 @@ Now available for purchase, a complete book version of this guide. Includes an e
     <a href="/publications/practical-guide-to-pki-with-windows-server/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Learn More">Learn More</a>
 </div>
 </div>
+
+**Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/adcs-windows-server-2019-part-7/) that can be found on [docs.mjcb.io](https://docs.mjcb.io/).
 
 {{< toc >}}
 

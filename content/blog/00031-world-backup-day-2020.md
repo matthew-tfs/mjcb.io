@@ -24,4 +24,4 @@ To learn more about this initiative you should take time to visit the World Back
 
 ## Links ##
 
-* **World Backup Day**: [https://www.worldbackupday.com/](https://www.worldbackupday.com/)
+* [World Backup Day](https://www.worldbackupday.com/)

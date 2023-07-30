@@ -84,7 +84,7 @@ Sure I can just reboot into MS-DOS from Windows 9x (except with Windows Me), but
 
 ## Links ##
 
-* **DOSBox**: [https://www.dosbox.com/](https://www.dosbox.com/)
-* **Freedoom**: [https://freedoom.github.io/](https://freedoom.github.io/)
-* **FreeDOS**: [https://freedos.org/](https://freedos.org/)
-* **OSNews**: [https://www.osnews.com/](https://www.osnews.com/)
+* [DOSBox](https://www.dosbox.com/)
+* [Freedoom](https://freedoom.github.io/)
+* [FreeDOS](https://freedos.org/)
+* [OSNews](https://www.osnews.com/)

@@ -23,4 +23,4 @@ I won't say too much more about this, to learn more about this initiative you sh
 
 ## Links ##
 
-* **World Backup Day**: [https://www.worldbackupday.com/](https://www.worldbackupday.com/)
+* [World Backup Day](https://www.worldbackupday.com/)

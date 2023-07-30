@@ -33,7 +33,7 @@ This new website is going to be a continual work in progress, and I won't post u
 
 ## Links ##
 
-* **docs.mjcb.io**: [https://docs.mjcb.io/](https://docs.mjcb.io/)
-* **Geekdoc**: [https://github.com/thegeeklab/hugo-geekdoc/](https://github.com/thegeeklab/hugo-geekdoc/)
-* **Hugo**: [https://gohugo.io/](https://gohugo.io/)
-* **Netlify**: [https://www.netlify.com/](https://www.netlify.com/)
+* [docs.mjcb.io](https://docs.mjcb.io/)
+* [Geekdoc](https://github.com/thegeeklab/hugo-geekdoc/)
+* [Hugo](https://gohugo.io/)
+* [Netlify](https://www.netlify.com/)

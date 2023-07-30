@@ -350,6 +350,6 @@ Aside from the standard hardware, there are a few other hardware components that
 
 ## References ##
 
-* [https://wiki.gentoo.org/wiki/Handbook:AMD64](https://wiki.gentoo.org/wiki/Handbook:AMD64)
-* [https://wiki.gentoo.org/wiki/Quick_Installation_Checklist](https://wiki.gentoo.org/wiki/Quick_Installation_Checklist)
-* [https://wiki.gentoo.org/wiki/Intel](https://wiki.gentoo.org/wiki/Intel)
+* [Gentoo AMD64 Handbook](https://wiki.gentoo.org/wiki/Handbook:AMD64)
+* [Gentoo Quick Installation Checklist](https://wiki.gentoo.org/wiki/Quick_Installation_Checklist)
+* [Gentoo Intel](https://wiki.gentoo.org/wiki/Intel)

@@ -63,4 +63,4 @@ Like with a lot of things in life, it is better to have something just in case, 
 
 ## Links ##
 
-* **World Backup Day**: [https://www.worldbackupday.com/](https://www.worldbackupday.com/)
+* [World Backup Day](https://www.worldbackupday.com/)

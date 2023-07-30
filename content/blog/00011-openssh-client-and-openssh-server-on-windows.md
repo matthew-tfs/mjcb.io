@@ -199,5 +199,5 @@ You will need to restart the OpenSSH Server service in order to apply the change
 
 ## Links ##
 
-* [https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/](https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/)
-* [https://github.com/PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
+* [SSH on Windows Server 2019](https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/)
+* [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)

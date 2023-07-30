@@ -9,7 +9,7 @@ I will use this page to highlight some of the guides and other articles that I h
 
 ## AD CS on Windows Server 2022 ##
 
-This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2022. This is an updated version of the **Building a Certificate Authority in Windows Server 2019** guide that I created in 2020.
+This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2022. This is an updated version of the **Building a Certificate Authority in Windows Server 2019** guide that I created in 2020. It has been updated for Windows Server 2022 and Windows 11.
 
 * [Introduction - AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/)
 * [Part 1 - Domain Controller and Workstation Setup](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/adcs-windows-server-2022-part-1/)

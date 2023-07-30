@@ -159,7 +159,7 @@ If an email is sent to any of the aliases specified within it, should have the s
 
 ## Links ##
 
-* **Exchange Admin Center (New)**: [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/)
-* **Exchange Admin Center (Classic)**: [https://outlook.office365.com/ecp/](https://outlook.office365.com/ecp/)
-* **EXO V2 Module**: [https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell](https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell)
-* **Microsoft 365 Admin Center**: [https://admin.microsoft.com/AdminPortal/](https://admin.microsoft.com/AdminPortal/)
+* [Exchange Admin Center (New)](https://admin.exchange.microsoft.com/)
+* [Exchange Admin Center (Classic)](https://outlook.office365.com/ecp/)
+* [EXO V2 Module](https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell)
+* [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/)

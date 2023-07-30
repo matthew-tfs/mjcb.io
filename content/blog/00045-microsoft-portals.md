@@ -69,5 +69,5 @@ Nothing, I am just ranting about Microsoft and inconsistencies in their products
 
 ## Links ##
 
-* **Microsoft Portals**: ([https://msportals.io/](https://msportals.io/))
-* **GitHub Repository**: ([https://github.com/adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io))
+* [Microsoft Portals](https://msportals.io/)
+* [GitHub Repository](https://github.com/adamfowlerit/msportals.io)

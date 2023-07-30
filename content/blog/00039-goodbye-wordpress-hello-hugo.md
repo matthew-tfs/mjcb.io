@@ -250,10 +250,10 @@ Hugo is an excellent option for creating static websites, and I was able to move
 
 ## Links ##
 
-* **Better TOML**: [https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
-* **Front Matter**: [https://frontmatter.codes/](https://frontmatter.codes/)
-* **GitHub Pages**: [https://pages.github.com/](https://pages.github.com/)
-* **Go**: [https://go.dev/](https://go.dev/)
-* **Hugo**: [https://gohugo.io/](https://gohugo.io/)
-* **Netlify**: [https://www.netlify.com/](https://www.netlify.com/)
-* **Scoop**: [https://scoop.sh/](https://scoop.sh/)
+* [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+* [Front Matter](https://frontmatter.codes/)
+* [GitHub Pages](https://pages.github.com/)
+* [Go](https://go.dev/)
+* [Hugo](https://gohugo.io/)
+* [Netlify](https://www.netlify.com/)
+* [Scoop](https://scoop.sh/)

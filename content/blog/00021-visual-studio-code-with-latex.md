@@ -123,11 +123,11 @@ I won't go into the details on how to do more advanced configuration with the La
 
 ## Links ##
 
-* **LaTeX Project**: [https://www.latex-project.org/](https://www.latex-project.org/)
-* **MiKTeX**: [https://miktex.org/](https://miktex.org/)
-* **Strawberry Perl**: [http://strawberryperl.com/](http://strawberryperl.com/)
-* **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* **LaTeX Workshop**: [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-* **LaTeX Workshop Wiki**: [https://github.com/James-Yu/LaTeX-Workshop/wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki)
-* **LaTeX Utilities**: [https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
-* **Visual Studio Code with LaTeX - Follow-up**: [https://mjcb.io/blog/2020/07/20/visual-studio-code-with-latex-follow-up/](/blog/2020/07/20/visual-studio-code-with-latex-follow-up/)
+* [LaTeX Project](https://www.latex-project.org/)
+* [MiKTeX](https://miktex.org/)
+* [Strawberry Perl](http://strawberryperl.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+* [LaTeX Workshop Wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki)
+* [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
+* [Visual Studio Code with LaTeX - Follow-up](/blog/2020/07/20/visual-studio-code-with-latex-follow-up/)

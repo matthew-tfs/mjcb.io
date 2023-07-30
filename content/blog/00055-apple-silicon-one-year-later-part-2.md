@@ -227,7 +227,7 @@ I have made copies of the technical specifications of the laptops mentioned in t
 * [MacBook Air (M1, 2020) - Technical Specifications](/docs/blog/00055/macbook-air-m1-2020-technical-specifications.pdf)
 * [MacBook Pro (M1, 2020) - Technical Specifications](/docs/blog/00055/macbook-pro-m1-2020-technical-specifications.pdf)
 
-## Links
+## Links ##
 
 * [Apple ARM Transition](/blog/2020/06/28/apple-arm-transition/)
 * [Apple M1](https://en.wikipedia.org/wiki/Apple_M1)

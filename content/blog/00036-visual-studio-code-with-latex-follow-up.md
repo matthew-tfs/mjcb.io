@@ -143,12 +143,12 @@ Once this has been completed you should have the same extensions and settings be
 
 ## Links ##
 
-* **Bookmarks**: [https://github.com/alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)
-* **Code Spell Checker**: [https://github.com/streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
-* **Jira and Bitbucket (Official)**: [https://bitbucket.org/atlassianlabs/atlascode/src/main/](https://bitbucket.org/atlassianlabs/atlascode/src/main/)
-* **Sourcetree**: [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
-* **LaTeX Project**: [https://www.latex-project.org/](https://www.latex-project.org/)
-* **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* **LaTeX Workshop**: [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-* **LaTeX Workshop Wiki**: [https://github.com/James-Yu/LaTeX-Workshop/wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki)
-* **LaTeX Utilities**: [https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
+* [Bookmarks](https://github.com/alefragnani/vscode-bookmarks)
+* [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
+* [Jira and Bitbucket (Official)](https://bitbucket.org/atlassianlabs/atlascode/src/main/)
+* [Sourcetree](https://www.sourcetreeapp.com/)
+* [LaTeX Project](https://www.latex-project.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+* [LaTeX Workshop Wiki](https://github.com/James-Yu/LaTeX-Workshop/wiki)
+* [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)

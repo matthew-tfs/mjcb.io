@@ -124,5 +124,5 @@ In all seriousness, my first lesson learned is to not underestimate the amount o
 
 ## Links ##
 
-* **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L](https://www.amazon.com/dp/B09HHLZ36L)
-* **Gumroad**: [https://mjcb.gumroad.com/l/pki-book](https://mjcb.gumroad.com/l/pki-book)
+* [Amazon Book Profile](https://www.amazon.com/dp/B09HHLZ36L)
+* [Gumroad Book Profile](https://mjcb.gumroad.com/l/pki-book)

@@ -45,7 +45,7 @@ I will post some content about these computers when I have time to do so, and de
 
 ## Links ##
 
-* **Adrian's Digital Basement**: [https://www.youtube.com/c/adriansdigitalbasement](https://www.youtube.com/c/adriansdigitalbasement)
-* **Jan Beta**: [https://www.youtube.com/c/JanBeta](https://www.youtube.com/c/JanBeta)
-* **LGR**: [https://www.youtube.com/c/Lazygamereviews](https://www.youtube.com/c/Lazygamereviews)
-* **The 8-Bit Guy**: [https://www.youtube.com/c/The8BitGuy](https://www.youtube.com/c/The8BitGuy)
+* [Adrian's Digital Basement](https://www.youtube.com/c/adriansdigitalbasement)
+* [Jan Beta](https://www.youtube.com/c/JanBeta)
+* [LGR](https://www.youtube.com/c/Lazygamereviews)
+* [The 8-Bit Guy](https://www.youtube.com/c/The8BitGuy)

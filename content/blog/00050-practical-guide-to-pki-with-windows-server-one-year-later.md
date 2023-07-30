@@ -79,5 +79,5 @@ My next book project will be about a completely different topic, and I will be h
 
 ## Links ##
 
-* **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L](https://www.amazon.com/dp/B09HHLZ36L)
-* **Gumroad**: [https://mjcb.gumroad.com/l/pki-book](https://mjcb.gumroad.com/l/pki-book)
+* [Amazon Book Profile](https://www.amazon.com/dp/B09HHLZ36L)
+* [Gumroad Book Profile](https://mjcb.gumroad.com/l/pki-book)

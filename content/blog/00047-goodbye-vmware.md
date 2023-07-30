@@ -38,5 +38,4 @@ It is hard to say if VMware will still be a viable product to use for virtualiza
 
 ## Links ##
 
-* [https://www.broadcom.com/company/news/financial-releases/60271](https://www.broadcom.com/company/news/financial-releases/60271)
-* [https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/company/vmware-broadcom.pdf](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/company/vmware-broadcom.pdf)
+* [Broadcom to Acquire VMware for Approximately $61 Billion in Cash and Stock](https://www.broadcom.com/company/news/financial-releases/60271)

@@ -71,5 +71,5 @@ I will update this post occasionally as this particular series is a work in prog
 
 ## Links ##
 
-* **The 8-Bit Guy Website**: [https://www.the8bitguy.com/](https://www.the8bitguy.com/)
-* **The 8-Bit Guy YouTube Channel**: [https://www.youtube.com/c/The8BitGuy](https://www.youtube.com/c/The8BitGuy)
+* [The 8-Bit Guy Website](https://www.the8bitguy.com/)
+* [The 8-Bit Guy YouTube Channel](https://www.youtube.com/c/The8BitGuy)

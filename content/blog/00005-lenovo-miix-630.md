@@ -150,6 +150,6 @@ This is a definitely a generation one device and I think it has promise. The per
 
 At the time of this writing, I was using the Windows 10 1803 update. When the 1809 update is released I will update this post if I notice any changes with the device.
 
-## Additional Information ##
+## Links ##
 
 * [Lenovo Miix 630-12Q35 User Guide](/docs/blog/00005/lenovo-miix-630-12q35-user-guide.pdf)

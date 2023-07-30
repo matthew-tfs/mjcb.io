@@ -16,9 +16,9 @@ draft: false
 
 The Microsoft Services Secure Infrastructure Team recently published a three part series on the most common mistakes that they encountered in Active Directory deployments. It was a very informative series to go through, the links can be found below:
 
-* Part 1: [Most Common Mistakes in Active Directory and Domain Services – Part 1](https://blogs.technet.microsoft.com/meamcs/2018/12/31/most-common-mistakes-in-active-directory-and-domain-services-part-1/)
-* Part 2: [Most Common Mistakes in Active Directory and Domain Services – Part 2](https://blogs.technet.microsoft.com/meamcs/2019/01/08/most-common-mistakes-in-active-directory-and-domain-services-part-2/)
-* Part 3: [Most Common Mistakes in Active Directory and Domain Services – Part 3](https://blogs.technet.microsoft.com/meamcs/2019/01/27/most-common-mistakes-in-active-directory-and-domain-services-part-3/)
+* [Most Common Mistakes in Active Directory and Domain Services – Part 1](https://azurecloudai.blog/2018/12/31/most-common-mistakes-in-active-directory-and-domain-services-part-1/)
+* [Most Common Mistakes in Active Directory and Domain Services – Part 2](https://azurecloudai.blog/2019/01/08/most-common-mistakes-in-active-directory-and-domain-services-part-2/)
+* [Most Common Mistakes in Active Directory and Domain Services – Part 3](https://azurecloudai.blog/2019/01/27/most-common-mistakes-in-active-directory-and-domain-services-part-3/)
 
 As someone who has worked in many Active Directory Environments (probably over 50 separate environments in 10 years) and as someone who has created and migrated multiple Active Environments, I have run into most of these issues before and I am probably guilty of creating some of these mistakes in the first place.
 

@@ -8,7 +8,7 @@ featureImage: "/images/author/matthew-burr.png"
 
 ## Overview ##
 
-My name is Matthew Burr and I am an IT Consultant and Contractor in the Greater Toronto Area. I have over 13 years of experience specializing in Network and Server Administration, as well as Network Security and Network Architecture. I have worked in various industries in my career including Government, Social Media, Non-Profits, Software Development, Managed Service Providers, Retail and Financial Services.
+My name is Matthew Burr and I am an IT Consultant and Contractor in the Greater Toronto Area. I have over 14 years of experience specializing in Network and Server Administration, as well as Network Security and Network Architecture. I have worked in various industries in my career including Government, Social Media, Non-Profits, Software Development, Managed Service Providers, Retail and Financial Services. I have also volunteered with various non-profit organizations in the GTA, both in IT and non-IT roles.
 
 I have also been providing independent contracting services for the last few years. I own and operate [Ten Fifteen Solutions](https://tenfifteen.ca), which is my IT Consulting and Contracting business that I have been running since early 2016. I provide various services, including:
 
@@ -35,10 +35,11 @@ As I have told employers in the past, I am not a developer. Even though I have a
 
 ## Daily Drivers ##
 
-I am currently using the following equipment for my daily usage (excluding anything from my employer):
+I am currently using the following equipment for my daily usage (excluding anything that is provided from my employers):
 
 * Apple MacBook Air (M1, 2020)
 * Apple iPhone 12 Pro Max
+* Dell Inspiron 14 2-in-1 (7435)
 
 Even though I don't like to keep old things, I collect a few old laptops including several IBM ThinkPads and other legacy devices. I have also been getting into the whole Retro Computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
 
@@ -74,20 +75,26 @@ I also don't allow for public comments to be posted on this website. I don't hav
 
 ## Disclaimer ##
 
-The views and opinions that are expressed on this website are mine alone, and do not reflect those of my current or past employers.
+The views and opinions that are expressed on this website are mine alone, and do not reflect those of my current or past employers. I will never post anything on this website that is related to any of my employers or clients without their express permission.
 
 ## Contact ##
 
 If you would like to contact me by email, feel free to send me a message at **matthew**[at]**mjcb**[dot]**io**. Please use this [PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec) for encryption, otherwise the email will probably not be read.
 
-## Privacy Policy ##
+I have a LinkedIn profile only for professional purposes. I don't interact with people on the site and I don't post anything. I ignore all unsolicited messages and usually reject people trying to add me to their network. If it weren't for the fact that I use LinkedIn for job searching and applications, I would immediately delete my profile.
+
+## Cookie and Privacy Policy ##
+
+Click [here](/cookie-policy/) to view the complete Cookie Policy for this website.
 
 Click [here](/privacy-policy/) to view the complete Privacy Policy for this website.
 
+There are third party cookies used on this website, and that is only for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way.
+
 ## Links ##
 
-* **Amazon Author Profile**: [https://www.amazon.com/author/matthewburr/](https://www.amazon.com/author/matthewburr/)
-* **GitHub**: [https://github.com/matthew-tfs/](https://github.com/matthew-tfs/)
-* **Gumroad Profile**: [https://mjcb.gumroad.com/](https://mjcb.gumroad.com/)
-* **LinkedIn**: [https://www.linkedin.com/in/matthewburr/](https://www.linkedin.com/in/matthewburr/)
-* **Ten Fifteen Solutions**: [https://tenfifteen.ca/](https://tenfifteen.ca/)
+* [Amazon Author Profile](https://www.amazon.com/author/matthewburr/)
+* [GitHub](https://github.com/matthew-tfs/)
+* [Gumroad Profile](https://mjcb.gumroad.com/)
+* [LinkedIn](https://www.linkedin.com/in/matthewburr/)
+* [Ten Fifteen Solutions](https://tenfifteen.ca/)

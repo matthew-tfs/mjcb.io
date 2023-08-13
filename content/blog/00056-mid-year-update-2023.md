@@ -14,13 +14,13 @@ draft: false
 
 We are over halfway through 2023 and I wanted to provide a few updates on what I am working on since I have been receiving a few emails from people about it. I wanted to get into details on what I am working on now, what I plan on releasing in the next few weeks, and what the rest of my plans are for the remainder of the year.
 
-## AD CS in Windows Server 2022 - Web Version ##
+## AD CS on Windows Server 2022 - Web Version ##
 
 I published an updated version of my original [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide a few weeks ago. The [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide is updated for Windows Server 2022 and Windows 11, and makes a lot of changes to the order in some steps and marks which steps are required and which ones are optional. The guide is still a work in progress, but it is fully tested.
 
 I also did some cleanup of the original [guide](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/), which was migrated to my [docs.mjcb.io](https://docs.mjcb.io/) website in late 2022. The original version of the guide that is still hosted on this website is no longer updated.
 
-## AD CS in Windows Server 2022 - PDF Version ##
+## AD CS on Windows Server 2022 - PDF Version ##
 
 When I originally released my [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book I added a chapter at the end of the book which was a quick start guide that was meant to deploy a functioning Two-Tier Certificate Authority by using only the CLI. The idea was that after going through the contents of the book once, you could skip the chapters and just deploy the PKI as quickly as possible.
 
@@ -54,4 +54,4 @@ Oddly enough the first time that I had ever heard of Twitter was way back in lat
 
 I checked recently and I have three posts on this site that had embedded tweets, and last week I removed them and replaced them with screenshots. I am honestly not sure what it going to happen to that platform in the future, but there is enough link rot on the internet. I can at least preserve what was said in those tweets, even if the link to Twitter stops working in the future.
 
-If you look into the GitHub for this website I have a folder for external [sources](https://github.com/matthew-tfs/mjcb.io/tree/main/static/docs/blog). I try and put the sources of all referenced content on this site in case they are changed or disappear in the future. I will try and go through my existing posts and backup any existing external references as I can.
+If you look into the GitHub for this website I have a folder for [external sources](https://github.com/matthew-tfs/mjcb.io/tree/main/static/docs/blog). I try and put the sources of all referenced content on this site in case they are changed or disappear in the future. I will try and go through my existing posts and backup any existing external references as I can.

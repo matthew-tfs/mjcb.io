@@ -11,8 +11,8 @@ tags: [
     "Windows Server"
 ]
 categories: [ "Publications" ]
-thumbnail: "/images/publications/pki-book/pki-book-thumbnail.png"
-featureImage: "/images/publications/pki-book/pki-book-featured.png"
+thumbnail: "/images/publications/practical-guide-to-pki-with-windows-server/practical-guide-to-pki-with-windows-server-thumbnail.png"
+featureImage: "/images/publications/practical-guide-to-pki-with-windows-server/practical-guide-to-pki-with-windows-server-featured.png"
 featured: true
 ---
 
@@ -30,7 +30,7 @@ The book is also available for purchase on Gumroad in PDF format, should you not
     <a href="https://mjcb.gumroad.com/l/pki-book" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
 </div>
 
-## What's Inside?
+## What's Inside? ##
 
 * A 398-page complete guide to implementing a Two-Tier Certificate Authority using Windows Server 2019.
 * An in-depth step-by-step guide for building all components of a CA.
@@ -42,7 +42,7 @@ The book is also available for purchase on Gumroad in PDF format, should you not
 * Over 350 screenshots and diagrams.
 * Over 125 configuration commands and sample configurations.
 
-## Table of Contents
+## Table of Contents ##
 
 Included in the book are 12 Chapters which explain the process for creating a Certificate Authority using Active Directory Certificate Services:
 
@@ -61,7 +61,7 @@ Included in the book are 12 Chapters which explain the process for creating a Ce
 
 Also included is a Glossary, a list of all commands used in the book and a complete Index.
 
-## Who Is This Book For?
+## Who Is This Book For? ##
 
 The purpose of this book is to create a Certificate Authority using Active Directory Certificate Services (AD CS) with Microsoft Windows Server. This book offers a comprehensive step-by-step guide that demonstrates how to successfully create a Certificate Authority using those technologies.
 
@@ -73,17 +73,17 @@ This book is also meant to be used by developers, network administrators and sys
 
 The contents of this book are presented in a thorough, but easy to follow manner. Screenshots are provided for important steps for verification purposes and to demonstrate how the environment should be configured.
 
-## Behind the Scenes
+## Behind the Scenes ##
 
 For more information on how I wrote the book and what challenges I encountered while writing it, check out the [Practical Guide to PKI with Windows Server – Behind the Scenes](/blog/2021/09/23/practical-guide-to-pki-with-windows-server-behind-the-scenes/) page.
 
 For a follow-up on this book, check out the [Practical Guide to PKI with Windows Server - One Year Later](/blog/2022/09/27/practical-guide-to-pki-with-windows-server-one-year-later/) page.
 
-## Updates and Additional Materials
+## Updates and Additional Materials ##
 
 If there are any updates for the book or additional materials, they will be posted to this page.
 
-## Links
+## Links ##
 
 * **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L](https://www.amazon.com/dp/B09HHLZ36L)
 * **Gumroad**: [https://mjcb.gumroad.com/l/pki-book](https://mjcb.gumroad.com/l/pki-book)

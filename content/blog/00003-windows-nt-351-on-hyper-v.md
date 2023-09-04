@@ -11,8 +11,8 @@ tags: [
     "Windows",
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00003/nt-3-51-oldshell.png"
-featureImage: "/images/blog/00003/nt-3-51-oldshell.png"
+thumbnail: "/images/blog/00003/windows-nt-3-51-oldshell.png"
+featureImage: "/images/blog/00003/windows-nt-3-51-oldshell.png"
 draft: false
 ---
 
@@ -106,7 +106,7 @@ If you setup the Virtual Machine without a Legacy Network Adapter, the installer
 
 If you setup the Virtual Machine with a Legacy Network Adapter, there is a quick change that you need to make in order to allow the installation to complete successfully. For whatever reason the Windows NT 3.51 installer cannot automatically determine the speed of the network, which is set to **AutoSense** by default. If you change the speed to something else (10 Mbps for instance), the installer will not crash. If you leave it on **AutoSense** you will very likely run into this error that will crash the installer:
 
-![Windows NT 3.51 Installation Error](/images/blog/00003/windows-nt-3-51-installation-error1.png "Thanks for the help Dr. Watson.")
+![Windows NT 3.51 Installation Error](/images/blog/00003/windows-nt-3-51-installation-error-1.png "Thanks for the help Dr. Watson.")
 
 I am not entirely sure what is causing the error and given the age of the Operating System and the fact that it is being run in a Virtual Environment (which is was never designed to do) I don't think I will ever know the true reason. I think it might have something to do with the installer thinking that the Network is up and running when it actually isn't, and it can't recover gracefully from the error. To prevent this, make the following changes to the <strong>DEC PCI Fast Ethernet DECchip 21140</strong> adapter:
 
@@ -124,7 +124,7 @@ If you installed Windows NT 3.51 without a Network Adapter, you can now safely a
 
 If you installed Windows NT 3.5 with a Network Adapter you will be greeted with an error message the first time the system boots up:
 
-![Windows NT 3.51 Network Error](/images/blog/00003/windows-nt-3-51-network-error1.png "If you check the Event Viewer, the error states that the Network failed to start.")
+![Windows NT 3.51 Network Error](/images/blog/00003/windows-nt-3-51-network-error-1.png "If you check the Event Viewer, the error states that the Network failed to start.")
 
 To correct this issue all you need to do is go to the Control Panel, open the Network settings and set the Connection Type of the Network Adapter to **AutoSense**. Once the Virtual Machine restarts, the error message will be gone and the Network will be available.
 
@@ -151,9 +151,9 @@ SHUPDATE.CMD
 
 Reboot the Virtual Machine to apply the update. Once the system restarts you will immediately notice the change:
 
-![OldShell](/images/blog/00003/nt-3-51-oldshell.png "OldShell, plain old Windows NT 3.51")
+![OldShell](/images/blog/00003/windows-nt-3-51-oldshell.png "OldShell, plain old Windows NT 3.51")
 
-![NewShell](/images/blog/00003/nt-3-51-newshell.png "NewShell, looks familiar to another Microsoft product from the mid-90's.")
+![NewShell](/images/blog/00003/windows-nt-3-51-newshell.png "NewShell, looks familiar to another Microsoft product from the mid-90's.")
 
 If you want to go back to the old Program Manager/File Manager user interface, you can uninstall NewShell by going into the installation directory and running this command:
 

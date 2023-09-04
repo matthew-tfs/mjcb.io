@@ -30,7 +30,7 @@ I took a trip to Portugal for three weeks in September with my family. I started
 
 At least the view was amazing:
 
-![Lenovo Chromebook Duet 2-in-1, with a Vodafone LTE hotspot and a beverage](/images/blog/00053/chromebook-portugal.png "Lenovo Chromebook Duet 2-in-1, with a Vodafone LTE hotspot and a beverage")
+![Lenovo Chromebook Duet 2-in-1, with a Vodafone LTE hotspot and a beverage](/images/blog/00053/chromebook-portugal.jpg "Lenovo Chromebook Duet 2-in-1, with a Vodafone LTE hotspot and a beverage")
 
 I have been to Portugal several times in the last 8 years, and this was the first time that I was able to get reliable and fast Internet access for a reasonable price. The next time that I travel there it will be for an extended period as I will be able to work remotely the entire time.
 

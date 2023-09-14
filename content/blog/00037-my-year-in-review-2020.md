@@ -5,6 +5,7 @@ date: "2021-01-01T16:27:00-05:00"
 author: "Matthew Burr"
 summary: "So to start off, COVID-19 just completely messed up all of my 2020 plans. This is both with my professional plans as well as my personal plans."
 tags: [
+    "COVID-19",
     "Website"
 ]
 categories: [ "Blog" ]

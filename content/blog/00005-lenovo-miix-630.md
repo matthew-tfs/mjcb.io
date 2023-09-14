@@ -7,7 +7,6 @@ summary: "I wanted to do a follow up my previous post about Windows on ARM since
 tags: [
     "ARM",
     "Lenovo",
-    "Microsoft",
     "Reviews",
     "Windows",
     "WoA"

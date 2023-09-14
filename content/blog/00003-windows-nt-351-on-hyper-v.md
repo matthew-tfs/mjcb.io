@@ -108,7 +108,7 @@ If you setup the Virtual Machine with a Legacy Network Adapter, there is a quick
 
 ![Windows NT 3.51 Installation Error](/images/blog/00003/windows-nt-3-51-installation-error-1.png "Thanks for the help Dr. Watson.")
 
-I am not entirely sure what is causing the error and given the age of the Operating System and the fact that it is being run in a Virtual Environment (which is was never designed to do) I don't think I will ever know the true reason. I think it might have something to do with the installer thinking that the Network is up and running when it actually isn't, and it can't recover gracefully from the error. To prevent this, make the following changes to the <strong>DEC PCI Fast Ethernet DECchip 21140</strong> adapter:
+I am not entirely sure what is causing the error and given the age of the Operating System and the fact that it is being run in a Virtual Environment (which is was never designed to do) I don't think I will ever know the true reason. I think it might have something to do with the installer thinking that the Network is up and running when it actually isn't, and it can't recover gracefully from the error. To prevent this, make the following changes to the **DEC PCI Fast Ethernet DECchip 21140** adapter:
 
 ![Windows NT 3.51 Network Adapter Message 1](/images/blog/00003/windows-nt-3-51-network-adapter-message-1.png "The Connection type is set to ''AutoSense'' by default.")
 
@@ -151,7 +151,7 @@ SHUPDATE.CMD
 
 Reboot the Virtual Machine to apply the update. Once the system restarts you will immediately notice the change:
 
-![OldShell](/images/blog/00003/windows-nt-3-51-oldshell.png "OldShell, plain old Windows NT 3.51")
+![OldShell](/images/blog/00003/windows-nt-3-51-oldshell.png "OldShell, plain old Windows NT 3.51.")
 
 ![NewShell](/images/blog/00003/windows-nt-3-51-newshell.png "NewShell, looks familiar to another Microsoft product from the mid-90's.")
 

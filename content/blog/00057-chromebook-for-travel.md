@@ -13,7 +13,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00057/google-chrome.png"
 featureImage: "/images/blog/00057/chromebook-portugal.jpg"
-draft: true
+draft: false
 ---
 
 **This post has been seriously delayed for multiple reasons, but I still wanted to post it despite starting it over a year ago. I still think that the content is relevant, and I already wrote this post, so I wanted to publish it anyways.**

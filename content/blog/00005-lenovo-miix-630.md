@@ -33,7 +33,7 @@ The hardware is very well built, and looks very professional:
 
 ![The Lenovo Miix 630 with the keyboard open](/images/blog/00005/gallery/lenovo-miix-630-overview.jpg)
 
-![The Lenovo Miix 630 USB C port](/images/blog/00005/gallery/lenovo-miix-630-usb-c-port.jpg)
+![The Lenovo Miix 630 USB-C port](/images/blog/00005/gallery/lenovo-miix-630-usb-c-port.jpg)
 
 ![The Lenovo Miix 630 headphone jack](/images/blog/00005/gallery/lenovo-miix-630-headphone-jack.jpg)
 
@@ -43,7 +43,7 @@ Just like the Surface Pro, the keyboard serves as a cover for the front of the d
 
 The Lenovo Digital Pen attaches to the cover with a built-in holder that cannot be removed, and just like the Surface Pro the pen can also magnetically attach to the right side of the device when you are not using it. I would definitely recommend using the built-in holder when transporting the Pen, since it is very likely to fall off. I don't have a lot to say about the accuracy or quality of the Pen itself, I only ever use it for annotating documents and never for drawing anything, but it seems to work well and is fairly similar to the Surface Pen.
 
-The device itself has very few ports on it, just a single USB C Port and a Headphone jack. To save space on the device, the SD Card and SIM Card share the same slot and is easily opened with the removal tool. If you require additional ports or would like to use USB A devices you have the option of using the device with a USB C Hub. I had the [MECO 7 in 1 USB C Hub](https://www.amazon.ca/gp/product/B07C5V1GJD/) and it worked perfectly and supported charging as well. It also works perfectly with a regular USB C to USB A adapter as well. I normally use Bluetooth headphones now, but the few times I had to plug in my headphones it sounded perfectly fine. It even supported the microphone on my Jabra headset.
+The device itself has very few ports on it, just a single USB-C Port and a Headphone jack. To save space on the device, the SD Card and SIM Card share the same slot and is easily opened with the removal tool. If you require additional ports or would like to use USB A devices you have the option of using the device with a USB-C Hub. I had the [MECO 7 in 1 USB-C Hub](https://www.amazon.ca/gp/product/B07C5V1GJD/) and it worked perfectly and supported charging as well. It also works perfectly with a regular USB-C to USB A adapter as well. I normally use Bluetooth headphones now, but the few times I had to plug in my headphones it sounded perfectly fine. It even supported the microphone on my Jabra headset.
 
 ## Hardware Specifications ##
 
@@ -127,7 +127,7 @@ The onboard storage seems to have fairly good performance (Samsung KLUDG4U1EA-B0
 
 ![Lenovo Miix 630 Task Manager with CPU Statistics](/images/blog/00005/lenovo-miix-630-task-manager.png)
 
-Most of my usage so far has been with Edge, Outlook, OneNote and Remote Desktop. It handles media very well (VLC and Netflix mostly) and I don't have any issues with it. I have used the device with a USB C to HDMI adapter and the Microsoft Wireless adapter to project media to a monitor/TV and it handled it without any issues as well.
+Most of my usage so far has been with Edge, Outlook, OneNote and Remote Desktop. It handles media very well (VLC and Netflix mostly) and I don't have any issues with it. I have used the device with a USB-C to HDMI adapter and the Microsoft Wireless adapter to project media to a monitor/TV and it handled it without any issues as well.
 
 Overall I am happy with the performance and the Lenovo Miix 630 fits well into my workflow. I know of the limitations of the device the second I go to use it, so I always keep that in mind so I am not disappointed with it.
 

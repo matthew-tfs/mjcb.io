@@ -30,7 +30,7 @@ Even though I was happy with the Chromebook, I ended up not keeping it and sold 
 
 ## Lenovo Chromebook Duet (10.1") 2-in-1 ##
 
-I was able to get the Lenovo Chromebook Duet for under $300 when it was on sale at a local retailer. It included the tablet itself, detachable keyboard with touchpad, a magnetic kickstand, USB C to audio dongle, and a charger with a USB C cable. Overall, it was a good deal for a complete 2-in-1 Chromebook that included everything needed out of the box. It somewhat reminds me of the Surface Go with the size and look of the device, but this device was just slightly smaller.
+I was able to get the Lenovo Chromebook Duet for under $300 when it was on sale at a local retailer. It included the tablet itself, detachable keyboard with touchpad, a magnetic kickstand, USB-C to audio dongle, and a charger with a USB-C cable. Overall, it was a good deal for a complete 2-in-1 Chromebook that included everything needed out of the box. It somewhat reminds me of the Surface Go with the size and look of the device, but this device was just slightly smaller.
 
 This particular Chromebook has support for using a stylus should you want one, but it requires a USI (Universal Stylus Initiative) stylus. There are multiple options available for these types of stylus devices, but since I don't have a need for one, I never tried one of them out.
 
@@ -42,7 +42,7 @@ The hardware is well built, and it certainly has the same look and feel of the S
 
 ![The Lenovo Chromebook Duet with the keyboard open.](/images/blog/00057/gallery/lenovo-chromebook-duet-02.jpg)
 
-![The Lenovo Chromebook Duet USB C port (and only port).](/images/blog/00057/gallery/lenovo-chromebook-duet-03.jpg)
+![The Lenovo Chromebook Duet USB-C port (and only port).](/images/blog/00057/gallery/lenovo-chromebook-duet-03.jpg)
 
 ![The Lenovo Chromebook Duet tablet (closed).](/images/blog/00057/gallery/lenovo-chromebook-duet-05.jpg)
 
@@ -128,7 +128,7 @@ For ChromeOS, the inclusion of Linux apps and the existing option to use Android
 
 A major issue that I have is that I have no real "investment" in the Google ecosystem. I don't have an Android phone, I don't use Photos, Gmail, or Google Drive, and I don't use Google Docs. I really only use YouTube and that is about it. Trying to adapt my workflow to ChromeOS is somewhat cumbersome as I do most of my work in Office 365 and iCloud.
 
-Overall, it did everything I needed it to do, although it was slow. It was also a $300 device, so my expectations were low and I wasn't disappointed.
+Overall, it did everything that I needed it to do, although it could be a bit slow at times. However, it was also a $300 device, so my expectations were low and I wasn't disappointed.
 
 ## Links ##
 

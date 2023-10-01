@@ -50,7 +50,9 @@ I am currently using the following equipment for my daily personal usage:
 * Apple iPhone 12 Pro Max
 * Dell Inspiron 14 2-in-1 (7435)
 
-VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub.
+I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all of my important virtual machines in Azure, I don't run anything locally.
+
+VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub for tracking purposes.
 
 Even though I don't like to keep old things, I collect a few old laptops including several IBM ThinkPads and other legacy devices. I have also been getting into the whole retro computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
 

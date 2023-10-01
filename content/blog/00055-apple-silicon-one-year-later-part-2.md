@@ -151,7 +151,7 @@ Despite my MacBook Air only having 8 GB of memory, I do not find that amount to 
 
 The only time that I find it limiting is when I am running multiple virtual machines, which I don't do as often anymore as I run most of those workflows in Azure.
 
-### Virtualization Options
+### Virtualization Options ###
 
 I ended up getting a subscription for [Parallels Desktop](https://www.parallels.com/ca/products/desktop/) for virtualization and it works exceptionally well. It is obviously limited by the architecture of the MacBook Air as it uses ARM instead of x64, but that isn't really a problem since there are multiple options that are easy to setup using the Installation Assistant:
 
@@ -173,11 +173,11 @@ Overall, the performance is quite usable and I don't have any complaints. The Ta
 
 At the end of the day, I only ever use Windows 11 on my MacBook Air to run the odd application, and it is not something that I do very often. It is nice that it is available should I require it, so I usually turn it on every few weeks to ensure that it is up to date.
 
-## Thoughts After 2 Years with Apple Silicon
+## Thoughts After 2 Years with Apple Silicon ##
 
 Since I have been using the MacBook Air (M1, 2020) for just over 2 years, I definitely have some things that I like and dislike about it (in no particular order).
 
-### Likes
+### Likes ###
 
 * The laptop ditches all of the legacy ports and just uses USB-C, and supports almost any dock solution.
 * The laptop holds up to the promise of instant on and instant sleep.
@@ -190,7 +190,7 @@ Since I have been using the MacBook Air (M1, 2020) for just over 2 years, I defi
 
 I had never owned an Apple device other than an iPhone or iPad, and I never realized how convenient the integration is with things like iMessage and the ability to quickly transfer my AirPods between my laptop and my phone. Normally this is a pain to do on other platforms, but it works very well and very seamlessly.
 
-### Dislikes
+### Dislikes ###
 
 * The look of the MacBook Air is somewhat dated, but it is still a professional looking device.
 * Having only two USB-C ports is definitely a downside. Using a USB-C dock removes the issue altogether, and I travel with a USB-C dock in my laptop bag (Anker PowerExpand 8-in-1 USB-C) which works perfectly with the laptop.
@@ -198,7 +198,7 @@ I had never owned an Apple device other than an iPhone or iPad, and I never real
 
 I had a bit of a learning curve with macOS as I never used a Mac as my daily driver, and I was used to certain Windows-like shortcuts and features. After a week of using it I got the hang of it and I no longer have any major issues.
 
-## Recent Advancements with Apple Silicon
+## Recent Advancements with Apple Silicon ##
 
 Since the M1 processor was released in November, 2020, there have been several new versions and iterations of the processor family:
 
@@ -214,7 +214,7 @@ These processors have been used in the iPad Pro tablets, the MacBook Pro, the Ma
 
 As of this writing, the M3 processor is on track to be released at some point in late 2023, and it too will continue to iterate on the performance and capabilities of the M1 and the M2 processor.
 
-## Final Thoughts
+## Final Thoughts ##
 
 The Apple Silicon platform is exactly what I was looking for in an ARM device. It does everything that I want, and everything works exactly as it is supposed to. I am going to continue following what changes with the Apple Silicon platform and what new devices are released using those chips.
 

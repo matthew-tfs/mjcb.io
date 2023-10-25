@@ -7,7 +7,6 @@ summary: "Now available for sale, the book version of the Building a Certificate
 tags: [
     "ADCS",
     "Books",
-    "Microsoft",
     "Windows Server"
 ]
 categories: [ "Publications" ]
@@ -18,7 +17,7 @@ featured: true
 
 Now for sale, the book version of the [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide. The guide has been greatly expanded and includes many additional details and steps that were not included in the original guide.
 
-The book is currently available for sale on Amazon in Kindle and Paperback formats:
+The book is currently available for sale on Amazon in Paperback and Kindle formats:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
     <a href="https://www.amazon.com/dp/B09HHLZ36L" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Amazon">Buy on Amazon</a>
@@ -32,8 +31,8 @@ The book is also available for purchase on Gumroad in PDF format, should you not
 
 ## What's Inside? ##
 
-* A 398-page complete guide to implementing a Two-Tier Certificate Authority using Windows Server 2019.
-* An in-depth step-by-step guide for building all components of a CA.
+* A 398 page complete guide for implementing a Two-Tier Certificate Authority using Windows Server 2019.
+* An in-depth, step-by-step guide for building all components of a CA.
 * A quick start guide for quickly creating a CA using AD CS.
 * A guide to implementing an Offline Root CA and an Enterprise CA.
 * A guide to implementing OCSP with AD CS.

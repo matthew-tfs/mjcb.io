@@ -20,13 +20,13 @@ Now for sale, the book version of the [Building a Certificate Authority in Windo
 The book is currently available for sale on Amazon in Paperback and Kindle formats:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://www.amazon.com/dp/B09HHLZ36L" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Amazon">Buy on Amazon</a>
+    <a href="https://www.amazon.com/dp/B09HHLZ36L/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Amazon">Buy on Amazon</a>
 </div>
 
 The book is also available for purchase on Gumroad in PDF format, should you not want to purchase it from Amazon:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://mjcb.gumroad.com/l/pki-book" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
+    <a href="https://mjcb.gumroad.com/l/pki-book/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
 </div>
 
 ## What's Inside? ##
@@ -84,5 +84,5 @@ If there are any updates for the book or additional materials, they will be post
 
 ## Links ##
 
-* **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L](https://www.amazon.com/dp/B09HHLZ36L)
-* **Gumroad**: [https://mjcb.gumroad.com/l/pki-book](https://mjcb.gumroad.com/l/pki-book)
+* **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L/](https://www.amazon.com/dp/B09HHLZ36L/)
+* **Gumroad**: [https://mjcb.gumroad.com/l/pki-book/](https://mjcb.gumroad.com/l/pki-book/)

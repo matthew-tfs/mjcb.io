@@ -6,6 +6,7 @@ author: "Matthew Burr"
 summary: "Now available for download, a version of the Building a Certificate Authority in Windows Server 2019 guide that I published in early 2020. This guide offers a rapid deployment of a Two-Tier Certificate Authority using Windows Server without advanced features."
 tags: [
     "ADCS",
+    "Free",
     "Guides",
     "Windows Server"
 ]

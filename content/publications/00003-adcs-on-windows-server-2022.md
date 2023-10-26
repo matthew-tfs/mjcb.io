@@ -6,6 +6,7 @@ author: "Matthew Burr"
 summary: "Now available for download, the AD CS on Windows Server 2022 guide for creating a Two-Tier Certificate Authority using Active Directory Certificate Services and Windows Server 2022. This guide offers a rapid deployment of a Two-Tier Certificate Authority using Windows Server."
 tags: [
     "ADCS",
+    "Free",
     "Guides",
     "Windows Server"
 ]

@@ -74,8 +74,6 @@ I was born and raised in Lindsay, Ontario. I have lived and worked in the Greate
 
 I made a decision several years ago to not use social media. I deleted my Facebook, Instagram and Twitter accounts in early 2018, and I have no plan on ever using those platforms again. I do not like the way that social media propagates false information and I do not want to participate in those platforms as a result of that.
 
-I will never use this website to talk about any previous employers of mine. I may have non-disclosure agreements in place or other things of that nature that prevent discussions at all. Most importantly, out of respect for all of my previous employers I will never write about them, whether it be positive or negative in nature.
-
 ## Why Did I Create This Website? ##
 
 I created this website for a few reasons, mostly because I haven't had a significant web presence in a long time. I actually had a blog back in the early 2000's, but I never put a lot of effort into it at the time and it ended up being lost to the web (I actually don't even remember where it was hosted or what the address was). I wanted a permanent presence on the web that was completely under my control where I could showcase that I am currently working on, share my thoughts on certain topics, and share things that I find interesting.
@@ -88,7 +86,7 @@ I also don't allow for public comments to be posted on this website. I don't hav
 
 ## Disclaimer ##
 
-The views and opinions that are expressed on this website are mine alone, and do not reflect those of my current or past employers. I will never post anything on this website that is related to any of my employers or clients without their express permission.
+The views and opinions that are expressed on this website are mine alone, and do not reflect those of my current or previous employers. I will never post anything on this website that is related to any of my employers or clients without their express permission.
 
 ## Cookie and Privacy Policy ##
 
@@ -102,9 +100,7 @@ Click [here](/privacy-policy/) to view the complete Privacy Policy for this webs
 
 If you would like to contact me by email, feel free to send me a message at **matthew**[at]**mjcb**[dot]**io**. Please use this [PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec) for encryption. I am not always prompt with responding to messages, so if you don't hear from me immediately it is not because I am ignoring the message, I just haven't had the chance to properly respond to it.
 
-I have a LinkedIn profile only for professional purposes. I don't interact with people on the site and I don't post anything. I ignore all unsolicited messages, and I almost always reject people trying to add me to their network. I don't even post my current position on LinkedIn, I only ever do that after I have already left a position.
-
-If it weren't for the fact that I use LinkedIn for job searching and applications, I would immediately delete my profile as I find the idea of LinkedIn to be ridiculous in nature.
+I have a LinkedIn profile only for professional purposes. I don't interact with people on the site and I don't post anything. I ignore all unsolicited messages, and I almost always reject people trying to add me to their network. I don't even post my current position on LinkedIn, I only ever do that after I have already left a position. If it weren't for the fact that I use LinkedIn for job searching and applications, I would immediately delete my profile as I find the idea of LinkedIn to be ridiculous in nature.
 
 ## Links ##
 

@@ -29,6 +29,8 @@ I posted the [Building a Certificate Authority in Windows Server 2019](/blog/202
 
 I have recently migrated all of my Git repos to GitHub (in contrast to my [Sorry, I Don’t Have a GitHub Page](blog/2019/04/02/sorry-no-github-page/) post). I decided to make the website on a public repository so anyone could look at the source, but I am not making it a community repository or anything. I'll probably move this website to a public repository as well, there isn't anything secret here or anything so there isn't a reason to keep it private.
 
+The website uses the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The license can be viewed [here](https://github.com/matthew-tfs/docs.mjcb.io/blob/main/LICENSE).
+
 This new website is going to be a continual work in progress, and I won't post updates about it to this blog unless I need to. I will continue to post items to my main website, it is not going away.
 
 ## Links ##

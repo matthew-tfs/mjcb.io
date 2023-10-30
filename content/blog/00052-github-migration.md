@@ -22,7 +22,7 @@ I decided to make the repository public for this website. I did the same for my 
 
 ## License ##
 
-I had to pick a license for the website and the GitHub repository. I ended up just using the MIT license, since it is the simplest, and I am not overly concerned with people stealing anything. At the end of the day it requires minimal effort to copy content from the web, so I'll save you a step.
+I originally used the MIT license for this website, but I have since changed it to the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The same license is also applied to my companion [docs.mjcb.io](https://docs.mjcb.io/) website.
 
 The license can be viewed [here](https://github.com/matthew-tfs/mjcb.io/blob/main/LICENSE).
 

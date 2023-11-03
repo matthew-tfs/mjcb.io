@@ -195,7 +195,7 @@ On the **TFS-CA01** Server, enable Double Escaping in IIS in order to allow for 
 3. Type following command and press **ENTER**:
 
 ```cmd
-Appcmd set config "Default Web Site" /section:system.webServer/Security/requestFiltering -allowDoubleEscaping:True
+appcmd.exe set config /section:requestfiltering /allowdoubleescaping:true
 ```
 
 4. Restart IIS service by typing **iisreset** and pressing **ENTER**.

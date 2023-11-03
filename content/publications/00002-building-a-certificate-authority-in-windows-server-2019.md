@@ -49,7 +49,7 @@ This guide is a slight modification of the last chapter from the [Practical Guid
 
 ## What's Inside? ##
 
-* A 38 page guide for implementing a Two-Tier Certificate Authority using Windows Server 2019 and Active Directory Certificate Services.
+* A 42 page guide for implementing a Two-Tier Certificate Authority using Windows Server 2019 and Active Directory Certificate Services.
 * A guide for installing and configuring Active Directory Domain Services.
 * A guide for creating an offline Standalone/Root CA.
 * A guide for creating an online Enterprise/Subordinate CA.
@@ -77,8 +77,30 @@ This guide is also meant to be used by developers, network administrators and sy
 
 ## Updates and Additional Materials ##
 
-If there are any updates for the guide or additional materials, they will be posted to this page.
+### November 1, 2023 Update ###
+
+I have released an updated version of this guide, here are the changes in this version:
+
+* Added a proper Introduction section to the guide, which is used to explain how the guide is organized. It also establishes requirements for testing the steps in the guide.
+* Added additional details to the Active Directory Domain Services setup and deployment.
+* Added additional details to the Root CA and Subordinate CA setup and deployment.
+* Fixed several typos and grammatical errors in the guide.
+* Increased the size of the images and screenshots in the guide to make them easier to read.
+* Modified the formatting of the embedded configuration files to make them easier to read.
+* Replaced the command to enable double escaping in IIS, as the previous command was outdated.
+* Updated the look of the guide to match the style of the [AD CS on Windows Server 2022](/publications/adcs-on-windows-server-2022/) guide. This improves readability for CLI commands that need to be entered, as well as standardizes the look of all elements the guide.
+* Updated the page size of the guide to letter, which makes it easier to print the guide if needed. 
+* Updated the title page of the guide to differentiate it from the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book.
+
+This is not a second edition or version 2.0 of the guide, it is a small quality of life update. I do not plan on updating this guide again since Windows Server 2019 is getting older and AD CS will not receive any major updates on that Operating System.
+
+### Additional Materials ###
+
+There are several resources for expanding upon the functionality of this guide:
+
+* [AD CS on Windows Server 2019](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
+* [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
 
 ## Links ##
 
-* **Gumroad**: [https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/)
+* [Building a Certificate Authority in Windows Server 2019 (Gumroad)](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/)

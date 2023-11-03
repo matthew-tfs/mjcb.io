@@ -59,8 +59,13 @@ This guide is also meant to be used by developers, network administrators and sy
 
 ## Updates and Additional Materials ##
 
-If there are any updates for the guide or additional materials, they will be posted to this page.
+### Additional Materials ###
+
+There are several resources for expanding upon the functionality of this guide:
+
+* [AD CS on Windows Server 2019](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
+* [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide on [docs.mjcb.io](https://docs.mjcb.io/).
 
 ## Links ##
 
-* **Gumroad**: [https://mjcb.gumroad.com/l/adcs-on-windows-server-2022/](https://mjcb.gumroad.com/l/adcs-on-windows-server-2022/)
+* [AD CS on Windows Server 2022 (Gumroad)](https://mjcb.gumroad.com/l/adcs-on-windows-server-2022/)

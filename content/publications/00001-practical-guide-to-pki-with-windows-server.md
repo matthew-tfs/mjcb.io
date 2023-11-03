@@ -84,5 +84,5 @@ If there are any updates for the book or additional materials, they will be post
 
 ## Links ##
 
-* **Amazon**: [https://www.amazon.com/dp/B09HHLZ36L/](https://www.amazon.com/dp/B09HHLZ36L/)
-* **Gumroad**: [https://mjcb.gumroad.com/l/pki-book/](https://mjcb.gumroad.com/l/pki-book/)
+* [Practical Guide to PKI with Windows Server (Amazon)](https://www.amazon.com/dp/B09HHLZ36L/)
+* [Practical Guide to PKI with Windows Server (Gumroad)](https://mjcb.gumroad.com/l/pki-book/)

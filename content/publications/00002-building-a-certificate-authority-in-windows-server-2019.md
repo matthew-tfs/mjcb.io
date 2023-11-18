@@ -43,9 +43,9 @@ Now available for download, the **Building a Certificate Authority in Windows Se
     <a href="https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
 </div>
 
-This guide is based on the [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide series that I released in early 2020, as well as the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book that I published in the fall of 2021.
+This guide is based on the [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide series that I released in early 2020, as well as the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book that I published in the fall of 2021.
 
-This guide is a slight modification of the last chapter from the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book, which demonstrates how to rapidly deploy a PKI using Active Directory Certificate Services. It does not add any additional functionality such as automatic deployment using Group Policy or configuring the Online Responder role, but those can be added in the future if needed.
+This guide is a slight modification of the last chapter from the book, which demonstrates how to rapidly deploy a PKI using Active Directory Certificate Services. It does not add any additional functionality such as automatic deployment using Group Policy or configuring the Online Responder role, but those can be added in the future if needed.
 
 ## What's Inside? ##
 
@@ -90,7 +90,7 @@ I have released an updated version of this guide, here are the changes in this v
 * Replaced the command to enable double escaping in IIS, as the previous command was outdated.
 * Updated the look of the guide to match the style of the [AD CS on Windows Server 2022](/publications/adcs-on-windows-server-2022/) guide. This improves readability for CLI commands that need to be entered, as well as standardizes the look of all elements the guide.
 * Updated the page size of the guide to letter, which makes it easier to print the guide if needed. 
-* Updated the title page of the guide to differentiate it from the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book.
+* Updated the title page of the guide to differentiate it from the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book.
 
 This is not a second edition or version 2.0 of the guide, it is a small quality of life update. I do not plan on updating this guide again since Windows Server 2019 is getting older and AD CS will not receive any major updates on that Operating System.
 

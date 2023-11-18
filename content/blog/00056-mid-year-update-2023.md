@@ -22,7 +22,7 @@ I also did some cleanup of the original [guide](https://docs.mjcb.io/microsoft/w
 
 ## AD CS on Windows Server 2022 - PDF Version ##
 
-When I originally released my [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book I added a chapter at the end of the book which was a quick start guide that was meant to deploy a functioning Two-Tier Certificate Authority by using only the CLI. The idea was that after going through the contents of the book once, you could skip the chapters and just deploy the PKI as quickly as possible.
+When I originally released my [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book I added a chapter at the end of the book which was a quick start guide that was meant to deploy a functioning Two-Tier Certificate Authority by using only the CLI. The idea was that after going through the contents of the book once, you could skip the chapters and just deploy the PKI as quickly as possible.
 
 I ended up taking this final chapter of the book, made some minor changes to remove references to the actual book and released it for free as the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide. It is available on Gumroad, and like I said it is a free download.
 

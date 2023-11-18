@@ -30,12 +30,12 @@ draft: false
 </style>
 
 <div class="pki-header">
-<strong>Practical Guide to PKI with Windows Server</strong>
+<strong>Practical Guide to PKI with Windows Server - First Edition</strong>
 
 Now available for purchase, a complete book version of this guide. Includes an expanded version of this guide which includes over 300 screenshots, CLI configuration commands, quick start guide, additional details and more.
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="/publications/practical-guide-to-pki-with-windows-server/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Learn More">Learn More</a>
+    <a href="/publications/practical-guide-to-pki-with-windows-server-first-edition/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Learn More">Learn More</a>
 </div>
 </div>
 

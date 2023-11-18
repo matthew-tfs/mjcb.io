@@ -16,7 +16,7 @@ draft: false
 
 I wanted to go into the details on why I wrote this book and focus on what I learned while writing it. I will also go into the details on the process of writing the book and what tools I used. Writing a book was definitely much harder than I ever thought it would be, but I wanted to document the process as best as I could should other people be interested in doing the same. As difficult as it was, I would certainly do it again now that I know what to expect.
 
-For the page for the book, go to [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/).
+For the page for the book, go to [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/).
 
 {{< toc >}}
 
@@ -124,5 +124,5 @@ In all seriousness, my first lesson learned is to not underestimate the amount o
 
 ## Links ##
 
-* [Amazon Book Profile](https://www.amazon.com/dp/B09HHLZ36L)
-* [Gumroad Book Profile](https://mjcb.gumroad.com/l/pki-book)
+* [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
+* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://mjcb.gumroad.com/l/pki-book)

@@ -38,7 +38,7 @@ This guide is a multi-part series on how to configure Active Directory Certifica
 As part of the **Building a Certificate Authority in Windows Server 2019** guide series, there are two related publications available from this website:
 
 * Available for free, is the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide, which quickly demonstrates how to setup a Two-Tier Certificate Authority.
-* Available for purchase, is the [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book, which offers a comprehensive guide to creating a PKI with Windows Server.
+* Available for purchase, is the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book, which offers a comprehensive guide to creating a PKI with Windows Server.
 
 ## LaTeX with VS Code ##
 

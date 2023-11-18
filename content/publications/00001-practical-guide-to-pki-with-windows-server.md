@@ -1,6 +1,9 @@
 ---
-title: "Practical Guide to PKI with Windows Server"
-slug: "practical-guide-to-pki-with-windows-server"
+title: "Practical Guide to PKI with Windows Server - First Edition"
+slug: "practical-guide-to-pki-with-windows-server-first-edition"
+aliases: [
+    "/publications/practical-guide-to-pki-with-windows-server/"
+]
 date: "2021-09-22T20:16:00-05:00"
 author: "Matthew Burr"
 summary: "Now available for sale, the book version of the Building a Certificate Authority in Windows Server 2019 guide that I published in early 2020. The guide has been greatly expanded and includes many additional details and steps that were not included in the original guide."
@@ -10,20 +13,20 @@ tags: [
     "Windows Server"
 ]
 categories: [ "Publications" ]
-thumbnail: "/images/publications/practical-guide-to-pki-with-windows-server/practical-guide-to-pki-with-windows-server-thumbnail.png"
-featureImage: "/images/publications/practical-guide-to-pki-with-windows-server/practical-guide-to-pki-with-windows-server-featured.png"
+thumbnail: "/images/publications/practical-guide-to-pki-with-windows-server-first-edition/practical-guide-to-pki-with-windows-server-first-edition-thumbnail.png"
+featureImage: "/images/publications/practical-guide-to-pki-with-windows-server-first-edition/practical-guide-to-pki-with-windows-server-first-edition-featured.png"
 featured: true
 ---
 
 Now for sale, the book version of the [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide. The guide has been greatly expanded and includes many additional details and steps that were not included in the original guide.
 
-The book is currently available for sale on Amazon in Paperback and Kindle formats:
+The book is currently available for sale on Amazon in Paperback format:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://www.amazon.com/dp/B09HHLZ36L/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Amazon">Buy on Amazon</a>
+    <a href="https://a.co/d/1UDoSit" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Amazon">Buy on Amazon</a>
 </div>
 
-The book is also available for purchase on Gumroad in PDF format, should you not want to purchase it from Amazon:
+The book is also available for sale on Gumroad in PDF format:
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
     <a href="https://mjcb.gumroad.com/l/pki-book/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Buy on Gumroad">Buy on Gumroad</a>
@@ -84,5 +87,5 @@ If there are any updates for the book or additional materials, they will be post
 
 ## Links ##
 
-* [Practical Guide to PKI with Windows Server (Amazon)](https://www.amazon.com/dp/B09HHLZ36L/)
+* [Practical Guide to PKI with Windows Server (Amazon)](https://a.co/d/1UDoSit)
 * [Practical Guide to PKI with Windows Server (Gumroad)](https://mjcb.gumroad.com/l/pki-book/)

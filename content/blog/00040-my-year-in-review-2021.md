@@ -17,7 +17,7 @@ draft: false
 
 To start off, 2021 went much better than 2020 for me. Even though COVID-19 is still a worldwide problem and the pandemic is far from over, I was able to accomplish a lot more than I though I would. This was both professionally and personally.
 
-I would have to say that my biggest accomplishment in 2021 was the completion and the publication of my first book, [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/). This was a project that I had started in the fall of 2020, and completing it was a huge relief. Now that it is completed, I can now focus on new things going into 2022. I have really neglected posting on this website as a result of that project, as I wanted to commit to finishing it before I started anything else. I have no regrets for neglecting this website, but I will make more of an effort in 2022 to post more often.
+I would have to say that my biggest accomplishment in 2021 was the completion and the publication of my first book, [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/). This was a project that I had started in the fall of 2020, and completing it was a huge relief. Now that it is completed, I can now focus on new things going into 2022. I have really neglected posting on this website as a result of that project, as I wanted to commit to finishing it before I started anything else. I have no regrets for neglecting this website, but I will make more of an effort in 2022 to post more often.
 
 ## This Website in Statistics ##
 

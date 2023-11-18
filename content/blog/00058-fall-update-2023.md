@@ -36,9 +36,9 @@ I did a test print of a hardcover version of the existing book to see what was i
 
 ### Copyright Violation ###
 
-I had something rather unusual happen a few weeks ago. A complete stranger emailed me regarding an issue they had found about my [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book. I won't go into the specifics, but someone had created an online training course for creating a PKI using AD CS, and they used my book as the primary source. The course was quite popular and there were many glowing reviews on how good the course content was.
+I had something rather unusual happen a few weeks ago. A complete stranger emailed me regarding an issue they had found about my [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book. I won't go into the specifics, but someone had created an online training course for creating a PKI using AD CS, and they used my book as the primary source. The course was quite popular and there were many glowing reviews on how good the course content was.
 
-The main problem here was that it was a blatant copyright violation of my work. The course used a considerable amount of content from my [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) book. A large portion of the course structure and content was copied directly from my book word for word, including images and diagrams.
+The main problem here was that it was a blatant copyright violation of my work. The course used a considerable amount of content from my [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book. A large portion of the course structure and content was copied directly from my book word for word, including images and diagrams.
 
 This individual never got permission to use my book in this manner, and until this incident occurred, I had never heard of them or talked to them. I took immediate action upon finding out about it and the site hosting the training course removed it for me.
 

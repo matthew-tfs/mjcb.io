@@ -16,7 +16,7 @@ featureImage: "/images/blog/00050/pki-book-featured.png"
 draft: false
 ---
 
-I published my book, [Practical Guide to PKI with Windows Server](/publications/practical-guide-to-pki-with-windows-server/) on September 22, 2021 and it has now been over a full year since I made it generally available for purchase. I wanted to reflect on what I have learned since releasing the book, what issues I have encountered, and what the next steps are.
+I published my book, [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) on September 22, 2021 and it has now been over a full year since I made it generally available for purchase. I wanted to reflect on what I have learned since releasing the book, what issues I have encountered, and what the next steps are.
 
 Overall it has been a great experience, but I want to be fully transparent on any issues I have encountered so that anyone who is looking to write their own book will know what to expect.
 
@@ -79,5 +79,5 @@ My next book project will be about a completely different topic, and I will be h
 
 ## Links ##
 
-* [Amazon Book Profile](https://www.amazon.com/dp/B09HHLZ36L)
-* [Gumroad Book Profile](https://mjcb.gumroad.com/l/pki-book)
+* [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
+* [Practical Guide to PKI with Windows Server - (Gumroad)](https://mjcb.gumroad.com/l/pki-book)

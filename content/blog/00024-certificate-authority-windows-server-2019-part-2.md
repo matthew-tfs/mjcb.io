@@ -249,7 +249,7 @@ Before the **Subordinate CA CDP and AIA Configuration** can be added to the **Su
 1. Open the **Internet Information Services (IIS) Manager** Console.
 2. On the **Connections** pane, expand **TFS-CA01** and then expand **Sites**.
 3. In the **Connections** pane, under the **Default Web Site**, ensure the **CertEnroll** virtual directory is selected.
-4. In the **CertData** pane, double-click on **Directory Browsing**.
+4. In the **CertEnroll** pane, double-click on **Directory Browsing**.
 5. In **Actions** pane click **Enable**.
 6. Close the **Internet Information Services (IIS) Manager** Console.
 

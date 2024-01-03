@@ -8,7 +8,7 @@
 <footer class="footer">
   <div class="footer_inner wrap pale">
     <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $t }}">
-    <p><strong><a href="/">mjcb.io</a></strong> | <strong><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a></strong> | <strong><a href="/privacy-policy/">Privacy Policy</a></strong> | Copyright © 2018 - 2023 Matthew Burr</p>
+    <p><strong><a href="/">mjcb.io</a></strong> | <strong><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a></strong> | <strong><a href="/privacy-policy/">Privacy Policy</a></strong> | {{ .Site.Copyright }}</p>
     {{- partialCached "top" .}}
   </div>
 </footer>

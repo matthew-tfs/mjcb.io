@@ -46,7 +46,7 @@ The book is also available for sale on Gumroad in PDF format:
 
 ## Table of Contents ##
 
-Included in the book are 12 Chapters which explain the process for creating a Certificate Authority using Active Directory Certificate Services:
+Included in the book are 12 chapters which explain the process for creating a Certificate Authority using Active Directory Certificate Services:
 
 1. Public Key Infrastructure Overview
 2. Certificate Authority Test Environment
@@ -84,6 +84,10 @@ For a follow-up on this book, check out the [Practical Guide to PKI with Windows
 ## Updates and Additional Materials ##
 
 If there are any updates for the book or additional materials, they will be posted to this page.
+
+### Command Listing ###
+
+For customers who purchased the paperback version of this book, you can find all of the commands that are printed in the book by visiting this [page](https://docs.mjcb.io/publications/practical-guide-to-pki-with-windows-server/first-edition/command-listing/).
 
 ## Links ##
 

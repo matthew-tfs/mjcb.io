@@ -85,11 +85,11 @@ For a follow-up on this book, check out the [Practical Guide to PKI with Windows
 
 If there are any updates for the book or additional materials, they will be posted to this page.
 
-### Command Listing ###
+### January 21, 2024 Update ###
 
-For customers who purchased the paperback version of this book, you can find all of the commands that are printed in the book by visiting this [page](https://docs.mjcb.io/publications/practical-guide-to-pki-with-windows-server/first-edition/command-listing/).
+* Added a command listing for customers who purchased the paperback version of the book, which can be found on this [page](https://docs.mjcb.io/publications/practical-guide-to-pki-with-windows-server/first-edition/command-listing/).
 
 ## Links ##
 
-* [Practical Guide to PKI with Windows Server (Amazon)](https://a.co/d/1UDoSit)
-* [Practical Guide to PKI with Windows Server (Gumroad)](https://mjcb.gumroad.com/l/pki-book/)
+* [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
+* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://mjcb.gumroad.com/l/pki-book/)

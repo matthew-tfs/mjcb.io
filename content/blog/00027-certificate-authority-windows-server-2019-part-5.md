@@ -1,5 +1,5 @@
 ---
-title: "Building a Certificate Authority in Windows Server 2019 Part 5 - Configure Private Key Archive and Recovery"
+title: "Building a Certificate Authority in Windows Server 2019 Part 5 - Private Key Archive and Recovery"
 slug: "certificate-authority-windows-server-2019-part-5"
 aliases: [
     "/blog/2020/03/09/certificate-authority-windows-server-2019-part-5/",

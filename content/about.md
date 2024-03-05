@@ -34,13 +34,17 @@ I look back fondly of my time at Cambrian College, I thank all of my success to 
 
 At the end of my time at Cambrian College I was chosen to represent Cambrian College at the [Skills Ontario Competition](http://www.skillsontario.com/) in Waterloo, Ontario for IT and Networking Skills competition on May 5, 2009. I ended up winning first place in that category for that year. Several weeks later I went to the [Skills Canada Competition](https://www.skillscompetencescanada.com/) in Charlottetown, PEI for the IT and Networking Skills competition on May 21, 2009, and also got first place in that category as well.
 
-I strongly believe in this competition and what it stands for, and I have even volunteered as a Judge for that competition in May 2018, 2019 and 2021 at the Skills Ontario Competition in Toronto, Ontario.
+I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019 and 2021 at the Skills Ontario Competition in Toronto, Ontario.
 
 ## Experience ##
 
 I mainly support Palo Alto Firewalls, Cisco Devices (Switches/Routers/Firewalls), AWS/Azure and virtually all Microsoft technologies. I have a great deal of experience with network design and implementation, and I have successfully deployed and supported complex networking solutions for several companies.
 
 As I have told employers in the past, I am not a developer. Even though I have a very good understanding of several programming languages (C, C++, C# and Java), I do not program for a living. I prefer the networking and systems administration side of IT and I only program as a hobby. I take those skills and I am able to apply it to the DevOps philosophy that has become so popular and necessary in the last few years.
+
+## Publications ##
+
+I have released several publications over the last few years, all of which can be found on the [Publications](/publications/) page. Some of these publications are available for free, and some are available for purchase. All publications that I have released are available on [Gumroad](https://mjcb.gumroad.com/) and [Amazon](https://www.amazon.com/author/matthewburr/), and those are the only two platforms that I use to release content on. If you find any of my publications elsewhere, please [contact](/about/#contact) me.
 
 ## Daily Drivers ##
 
@@ -52,7 +56,7 @@ I am currently using the following equipment for my daily personal usage:
 
 I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all of my important virtual machines in Azure, I don't run anything locally.
 
-VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub for tracking purposes.
+VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub involved.
 
 Even though I don't like to keep old things, I collect a few old laptops including several IBM ThinkPads and other legacy devices. I have also been getting into the whole retro computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
 

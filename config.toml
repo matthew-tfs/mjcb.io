@@ -58,38 +58,38 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 10
 
     [[menu.main]]
-        identifier = "about"
-        name = "About"
-        title = "About"
-        url = "/about/"
+        identifier = "publications"
+        name = "Publications"
+        title = "Publications"
+        url = "/publications/"
         weight = 20
-
-    [[menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        title = "Archives"
-        url = "/archives/"
-        weight = 30
 
     [[menu.main]]
         identifier = "guides"
         name = "Guides"
         title = "Guides"
         url = "/guides/"
-        weight = 40
-
-    [[menu.main]]
-        identifier = "publications"
-        name = "Publications"
-        title = "Publications"
-        url = "/publications/"
-        weight = 50
+        weight = 30
 
     [[menu.main]]
         identifier = "docs"
         name = "Docs"
         url = "https://docs.mjcb.io/"
         target = "_blank"
+        weight = 40
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
+        weight = 50
+
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        title = "Archives"
+        url = "/archives/"
         weight = 60
 
     [[menu.social]]

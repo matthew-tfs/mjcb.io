@@ -102,9 +102,9 @@ Click [here](/privacy-policy/) to view the complete Privacy Policy for this webs
 
 ## Contact ##
 
-If you would like to contact me by email, feel free to send me a message at **matthew**[at]**mjcb**[dot]**io**. Please use this [PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec) for encryption. I am not always prompt with responding to messages, so if you don't hear from me immediately it is not because I am ignoring the message, I just haven't had the chance to properly respond to it.
+If you would like to contact me by email, feel free to send me a message at **matthew**[at]**mjcb**[dot]**io**. Please use this [PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec) for encryption if possible. I am not always prompt with responding to messages, so if you don't hear from me immediately it is not because I am ignoring the message, I just haven't had the chance to properly respond to it.
 
-I have a LinkedIn profile only for professional purposes. I don't interact with people on the site and I don't post anything. I ignore all unsolicited messages, and I almost always reject people trying to add me to their network. I don't even post my current position on LinkedIn, I only ever do that after I have already left a position. If it weren't for the fact that I use LinkedIn for job searching and applications, I would immediately delete my profile as I find the idea of LinkedIn to be ridiculous in nature.
+I have a LinkedIn profile only for professional purposes. I don't interact with people on the site and I don't post anything. I ignore all unsolicited messages, and I almost always reject people trying to add me to their network. I usually don't even post my current position on LinkedIn, I tend to only do that after I have already left a position. If it weren't for the fact that I use LinkedIn for job searching, I would immediately delete my profile as I find the idea of LinkedIn to be ridiculous in nature and not especially useful for everyday usage.
 
 ## Links ##
 

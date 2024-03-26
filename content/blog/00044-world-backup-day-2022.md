@@ -26,7 +26,9 @@ The 3-2-1 backup rule means having your data backed up and available in the foll
 
 * Create one primary backup and two copies of your data.
 * Save your backups to two different types of media.
-* Keep at least one backup file offsite.
+* Keep at least one backup offsite.
+
+Not that this is a particularly useful diagram explaining the process, but on a high-level it looks something like this:
 
 ![The 3-2-1 backup rule in a simplified workflow.](/images/blog/00044/321-backup-rule.png)
 

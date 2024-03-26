@@ -3,7 +3,7 @@ title: "Gentoo Linux on the ThinkPad T470"
 slug: "gentoo-linux-on-the-thinkpad-t470"
 date: "2020-04-14T20:14:00-05:00"
 author: "Matthew Burr"
-summary: "Just a quick tutorial on getting Gentoo Linux running on a Lenovo ThinkPad T470 laptop."
+summary: "Just a quick tutorial on getting Gentoo Linux running on a Lenovo ThinkPad T470 laptop. Created out of boredom as the result of being in lockdown because of COVID-19."
 tags: [
     "COVID-19",
     "Gentoo",
@@ -19,9 +19,9 @@ draft: false
 
 I have had a bit of downtime due to the entire COVID-19 pandemic, so I decided to try installing some new Operating Systems on a spare laptop that I had brought home for work. I should really be studying for a few Certification exams, but since the testing centres are all closed and I don't really want to do any exams with an online proctor, I had to try and fill the time. I wanted to see if any of the laptops that I had at home was compatible enough to be used as a Hackintosh (which the Lenovo ThinkPad T470 apparently is), but I wanted to setup a laptop with only Linux since it has been a while that I have used Linux as a Workstation and I will be needing one in the next few weeks for a work project.
 
-I was an avid user of Gentoo Linux in the mid 2000's up to around 2011 and I realized that I haven't used Gentoo at all since. I have only ever used Linux in the Enterprise in the last 10 years, and I was using CentOS and RHEL since it was the most widely supported and the easiest to use for Linux Administrators. Obviously if I wanted to use Linux in 2020 there are lots of easier alternatives such as Ubuntu (which supports this laptop 100% out of the box), but where is the fun in that?
+I was an avid user of Gentoo Linux in the mid-2000's up until around 2011 and I realized that I haven't used Gentoo at all since. I have only ever used Linux in the Enterprise in the last 10 years, and I was using CentOS and RHEL since it was the most widely supported and the easiest to use for Linux Administrators. Obviously if I wanted to use Linux in 2020 there are lots of easier alternatives such as Ubuntu (which supports this laptop 100% out of the box), but where is the fun in that?
 
-I was originally brought to Gentoo years ago due to lack of proper wireless support from the other Distributions at the time, and the general lack of support for laptops that Linux had in the early 2000's. I was able to customize it to function very well on the Compaq Presario V2305CA laptop that I had at the time and I was able to get everything working.
+I was originally brought to Gentoo years ago due to lack of proper wireless support from the other Linux distributions at the time, and the general lack of support for laptops that Linux had in the early 2000's. I was able to customize it to function very well on the Compaq Presario V2305CA laptop that I had at the time and I was able to get everything working.
 
 I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed the same. The last time I used it was on a single boot PC with an Intel Core 2 Duo and 8 GB of RAM. I had never used UEFI and I didn't own an SSD because they were expensive. I am very curious to see how much I can remember and if I can get this working without too much trouble. I am not going to be dual booting on this particular laptop since I don’t need to, I am actually swapping out the existing hard drive for a new one just so I can preserve the existing Windows installation.
 
@@ -297,7 +297,7 @@ I tested this using a 2 GB SD Card, which showed up on the laptop as **/dev/sdb*
 
 This may seem like an odd entry to put in here, but since this laptop has two batteries present (one internal and one external) I wanted to make sure that they were both showing up:
 
-```bash
+```console
 thinkpad-t470 ~ # cat /sys/class/power_supply/BAT0/uevent
 POWER_SUPPLY_NAME=BAT0
 POWER_SUPPLY_STATUS=Unknown

@@ -1,5 +1,6 @@
+archetypes/*
+resources/*
 *.lock
 *.log
 .DS_Store
-.vscode/*
 Thumbs.db

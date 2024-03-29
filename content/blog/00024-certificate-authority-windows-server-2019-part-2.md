@@ -71,7 +71,7 @@ On the **TFS-CA01** Server, create a file in the **C:\Windows** folder called **
 
 ```ini
 [Version]
-Signature=”$Windows NT$”
+Signature="$Windows NT$"
 
 [PolicyStatementExtension]
 Policies=AllIssuancePolicy,InternalPolicy
@@ -103,7 +103,7 @@ LoadDefaultTemplates=1
 
 **Signature Algorithm Support Issues**
 
-The **AlternateSignatureAlgorithm=0** flag in the CAPolicy.inf file explicitly uses SHA256 for the algorithm instead of RSASSA-PSS. This can cause issues with some devices (especially iOS) and by ensuring that it is disabled you shouldn’t have issues with these certificates.
+The **AlternateSignatureAlgorithm=0** flag in the CAPolicy.inf file explicitly uses SHA256 for the algorithm instead of RSASSA-PSS. This can cause issues with some devices (especially iOS) and by ensuring that it is disabled you shouldn't have issues with these certificates.
 
 ## 2.4 Active Directory Certificate Services Role Installation ##
 

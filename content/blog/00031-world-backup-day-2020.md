@@ -14,7 +14,7 @@ featureImage: "/images/blog/00031/world-backup-day-logo-2020.png"
 draft: false
 ---
 
-It’s that time of year again, March 31st is World Backup Day. I knew several people in 2019 who lost a significant amount of data because they only had one copy of it on their desktop or laptop device (one user lost 10+ years of data when their laptop was stolen). Having to explain to someone that years of data is gone and completely unrecoverable is not the easiest thing to do.
+It's that time of year again, March 31st is World Backup Day. I knew several people in 2019 who lost a significant amount of data because they only had one copy of it on their desktop or laptop device (one user lost 10+ years of data when their laptop was stolen). Having to explain to someone that years of data is gone and completely unrecoverable is not the easiest thing to do.
 
 With the COVID-19 Pandemic going on there is a good chance that you might have a bit of downtime right now, so why not take some time to backup your critical data? With online services such as OneDrive, Google Drive, Dropbox and iCloud, there is a lot of options for where you can easily store your data online. If that isn't something that you are comfortable doing depending on your thoughts about online services, external Hard Drives that are at least 1TB in size are incredibly cheap (just make sure you encrypt the drive).
 

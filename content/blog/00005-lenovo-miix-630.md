@@ -56,7 +56,7 @@ The hardware specifications for the Lenovo Miix 630 are fairly good for a device
 | Memory           | 4 GB LPDDR4 @ 1866MHz                                            |
 | Storage          | 128 GB UFS 2.1                                                   |
 | Operating System | Windows 10 S                                                     |
-| Display          | <ul><li>12.3” FHD+ (1920 x 1280)</li><li>400 nits, IPS and multi-touch</li></ul> |
+| Display          | <ul><li>12.3" FHD+ (1920 x 1280)</li><li>400 nits, IPS and multi-touch</li></ul> |
 | Camera           | <ul><li>Front: 5 MP, infrared camera with Windows Hello support</li><li>Rear: 13 MP, auto-focus camera</li></ul> |
 | Microphones      | 2 x Dual array microphones                                       |
 | Audio            | 2 x 1W speakers                                                  |

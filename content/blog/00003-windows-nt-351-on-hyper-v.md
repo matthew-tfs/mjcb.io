@@ -73,18 +73,18 @@ Set-VMProcessor "Windows NT 3.51 Server" -CompatibilityForOlderOperatingSystemsE
 You can confirm that it has been setup correctly with this command:
 
 ```powershell
-C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server"  | fl CompatibilityForOlderOperatingSystemsEnabled
+C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server" | fl CompatibilityForOlderOperatingSystemsEnabled
 ```
 
 The output should show that the compatibility is setup correctly for older Operating Systems:
 
 ```powershell
-C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server"  | fl CompatibilityForOlderOperatingSystemsEnabled
+C:\WINDOWS\system32> Get-VMProcessor "Windows NT 3.51 Server" | fl CompatibilityForOlderOperatingSystemsEnabled
 
 CompatibilityForOlderOperatingSystemsEnabled : True
 ```
 
-I did try the installation with and without this setting and I can’ say for certain if it helps or not. I know that it is required for Windows NT 4.0 and Windows 2000.
+I did try the installation with and without this setting and I can't say for certain if it helps or not. I know that it is required for Windows NT 4.0 and Windows 2000.
 
 ## Pre-Installation ##
 

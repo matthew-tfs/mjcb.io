@@ -25,4 +25,4 @@ Also mentioned was support for WSL on ARM devices, so once I am able to get my L
 
 ## Links ##
 
-* [What’s New for WSL in the Windows 10 October 2018 Update](https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/)
+* [What's New for WSL in the Windows 10 October 2018 Update](https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/)

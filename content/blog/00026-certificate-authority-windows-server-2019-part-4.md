@@ -163,7 +163,7 @@ To verify that the **OCSP Responder** Server can communicate with devices on the
 2. Run the following command in an **Administrative Command Prompt** to launch the **URL Retrieval Tool**:
 
 ```cmd
-Certutil -URL “C:\TFS Labs Enterprise CA.cer”
+Certutil -URL "C:\TFS Labs Enterprise CA.cer"
 ```
 
 3. In the **Retrieve** box, select the option for **OCSP (from AIA)** and then click the **Retrieve** button.

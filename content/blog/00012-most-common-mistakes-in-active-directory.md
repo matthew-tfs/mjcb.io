@@ -3,7 +3,7 @@ title: "Most Common Mistakes in Active Directory"
 slug: "most-common-mistakes-in-active-directory"
 date: "2019-02-11T15:38:00-05:00"
 author: "Matthew Burr"
-summary: "Active Directory is an incredibly powerful tool that pretty much every business relies on for user authentication and management. That doesn’t mean that people set it up properly though, and Microsoft has provided a very good guide on how to avoid those mistakes."
+summary: "Active Directory is an incredibly powerful tool that pretty much every business relies on for user authentication and management. That doesn't mean that people set it up properly though, and Microsoft has provided a very good guide on how to avoid those mistakes."
 tags: [
     "ADDS",
     "Microsoft",

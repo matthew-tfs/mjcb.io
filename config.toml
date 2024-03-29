@@ -25,6 +25,7 @@ googleAnalytics = "G-CN15CP4JCD"
     ga_analytics = "G-CN15CP4JCD"
     enableSearch = true
     codeLineNumbers = true
+    mobileNavigation = "right"
     ignoreErrors = [ "error-remote-getjson" ]
 
 [outputs]
@@ -34,6 +35,10 @@ googleAnalytics = "G-CN15CP4JCD"
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+    [markup.tableOfContents]
+        endLevel = 5
+        ordered = false
+        startLevel = 2
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:slug/"

@@ -23,7 +23,7 @@ I was an avid user of Gentoo Linux in the mid-2000's up until around 2011 and I 
 
 I was originally brought to Gentoo years ago due to lack of proper wireless support from the other Linux distributions at the time, and the general lack of support for laptops that Linux had in the early 2000's. I was able to customize it to function very well on the Compaq Presario V2305CA laptop that I had at the time and I was able to get everything working.
 
-I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed the same. The last time I used it was on a single boot PC with an Intel Core 2 Duo and 8 GB of RAM. I had never used UEFI and I didn't own an SSD because they were expensive. I am very curious to see how much I can remember and if I can get this working without too much trouble. I am not going to be dual booting on this particular laptop since I don’t need to, I am actually swapping out the existing hard drive for a new one just so I can preserve the existing Windows installation.
+I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed the same. The last time I used it was on a single boot PC with an Intel Core 2 Duo and 8 GB of RAM. I had never used UEFI and I didn't own an SSD because they were expensive. I am very curious to see how much I can remember and if I can get this working without too much trouble. I am not going to be dual booting on this particular laptop since I don't need to, I am actually swapping out the existing hard drive for a new one just so I can preserve the existing Windows installation.
 
 {{< toc >}}
 

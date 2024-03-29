@@ -63,7 +63,7 @@ The hardware specifications for the Lenovo Chromebook Duet (model ZA6F0008CA) ar
 | Memory           | 4 GB LPDDR4X                                                     |
 | Storage          | 128 GB eMMC                                                      |
 | Operating System | ChromeOS (32-bit)                                                |
-| Display          | <ul><li>10.1” FHD (1920 x 1200)</li><li>400 nits, Touch Screen</li></ul> |
+| Display          | <ul><li>10.1" FHD (1920 x 1200)</li><li>400 nits, Touch Screen</li></ul> |
 | Camera           | <ul><li>Front: 2 MP, fixed-focus camera with LED indicator</li><li>Rear: 8 MP, auto-focus camera</li></ul> |
 | Microphones      | 2 x Dual array microphones                                       |
 | Audio            | 2 x Dolby Audio speakers with Smart amp                          |

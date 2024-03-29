@@ -56,7 +56,7 @@ Delete the following files on the **TFS-CA01** Server:
 * C:\TFS Labs Enterprise CA.cer
 * C:\TFS Labs Enterprise CA.p7b
 
-These files should all be present on the **C:\RootCA** folder on the **TFS-ROOT-CA** Server. Those files don’t need to be deleted.
+These files should all be present on the **C:\RootCA** folder on the **TFS-ROOT-CA** Server. Those files don't need to be deleted.
 
 ### 8.1.2 Virtual Floppy Disk ##
 

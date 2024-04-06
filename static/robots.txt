@@ -4,3 +4,6 @@ Sitemap: https://mjcb.io/sitemap.xml
 
 User-agent: GPTBot
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

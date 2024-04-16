@@ -44,7 +44,7 @@ As I have told employers in the past, I am not a developer. Even though I have a
 
 ## Publications ##
 
-I have released several publications over the last few years, all of which can be found on the [Publications](/publications/) page. Some of these publications are available for free, and some are available for purchase. All publications that I have released are available on [Gumroad](https://mjcb.gumroad.com/) and [Amazon](https://www.amazon.com/author/matthewburr/), and those are the only two platforms that I use to release content on. If you find any of my publications elsewhere, please [contact](/about/#contact) me.
+I have released several publications over the last few years, all of which can be found on the [Publications](/publications/) page. Some of these publications are available for free, and some are available for purchase. All publications that I have released are available on [Gumroad](https://mjcb.gumroad.com/) and [Amazon](https://www.amazon.com/author/matthewburr/), and those are the only two platforms that I use to release content on. If you find any of my publications elsewhere, please [contact](#contact) me.
 
 ## Daily Drivers ##
 

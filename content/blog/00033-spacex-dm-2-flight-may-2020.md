@@ -1,7 +1,7 @@
 ---
 title: "SpaceX DM2 Flight"
 slug: "spacex-dm-2-flight-may-2020"
-date: "2020-05-30T22:08:00-05:00"
+date: "2020-05-30T22:08:00"
 author: "Matthew Burr"
 summary: "The SpaceX Demonstration Mission 2 Flight successfully flew on May 30 2020 at 3:22pm EST. Despite a weather delay from a few days prior, the flight went off without a hitch."
 tags: [

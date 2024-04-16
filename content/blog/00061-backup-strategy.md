@@ -1,7 +1,7 @@
 ---
 title: "Backup Strategy"
 slug: "backup-strategy"
-date: "2024-04-09T20:22:00-05:00"
+date: "2024-04-09T20:22:00"
 author: "Matthew Burr"
 summary: "World Backup Day was a few days ago and I wanted to go into the details on my current backup strategy, and the reasons behind the way that I handle the backups of my important data. While it is not overly complex compared to other backup strategies that I have seen, it is important to have a formal process in place to ensure that data is being backed up and correctly protected. It is very easy to just assume that everything is being backed up and that is the end of it, but not properly scheduling, validating, or tracking your backups is what usually causes data loss."
 tags: [
@@ -168,7 +168,7 @@ For storing backup hard drives while onsite I purchased several 3.5" protective 
 
 ![ORICO Hard Drive Protective Cases.](/images/blog/00061/orico-hard-drive-cases.jpg)
 
-Since I am not using any dedicated backup software, the only process needed to prepare the backup drives is to format them with the exFAT file system, encrypt them, and then record the necessary details as stated in the [Backup Tracking](/blog/2024/03/31/backup-strategy/#backup-tracking) section.
+Since I am not using any dedicated backup software, the only process needed to prepare the backup drives is to format them with the exFAT file system, encrypt them, and then record the necessary details as stated in the [Backup Tracking](#backup-tracking) section.
 
 ## Backup Process ##
 

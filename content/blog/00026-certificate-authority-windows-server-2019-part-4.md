@@ -5,7 +5,7 @@ aliases: [
     "/blog/2020/03/09/certificate-authority-windows-server-2019-part-4/",
     "/2020/03/09/certificate-authority-windows-server-2019-part-4/"
 ]
-date: "2020-03-09T19:05:00-05:00"
+date: "2020-03-09T19:05:00"
 author: "Matthew Burr"
 summary: "For every Certificate Authority, it is inevitable that you are eventually going to need to revoke a Certificate for one reason or another. The Online Responder Role in Active Directory Certificate Services is capable of rapidly revoking Certificates and ensuring that users in your organization are notified as quickly as possible."
 tags: [

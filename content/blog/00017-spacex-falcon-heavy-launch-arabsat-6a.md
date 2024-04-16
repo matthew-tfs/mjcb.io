@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Falcon Heavy Launch"
 slug: "spacex-falcon-heavy-launch-arabsat-6a"
-date: "2019-04-11T19:10:00-05:00"
+date: "2019-04-11T19:10:00"
 author: "Matthew Burr"
 summary: "As with all of the SpaceX launches, I will never not be impressed by how easy they make this look."
 tags: [

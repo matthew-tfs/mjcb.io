@@ -1,7 +1,7 @@
 ---
 title: "Consulting Services"
 slug: "consulting-services"
-date: "2022-07-29T20:13:00-05:00"
+date: "2022-07-29T20:13:00"
 author: "Matthew Burr"
 summary: "I have received several emails lately from people who have purchased my Practical Guide to PKI with Windows Server book and from people who have been downloaded my free guide on the same subject. There isn't a problem with this, I am actually glad that people are reading both publications and have questions about it, but I wanted to set expectations with people whenever they have questions about it."
 tags: [

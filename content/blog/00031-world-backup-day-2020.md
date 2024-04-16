@@ -1,7 +1,7 @@
 ---
 title: "World Backup Day 2020"
 slug: "world-backup-day-2020"
-date: "2020-03-31T07:42:00-05:00"
+date: "2020-03-31T07:42:00"
 author: "Matthew Burr"
 summary: "World Backup Day is a yearly event which is a day of awareness for people to learn about the importance of regular backups."
 tags: [

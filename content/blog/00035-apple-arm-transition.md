@@ -1,7 +1,7 @@
 ---
 title: "Apple ARM Transition"
 slug: "apple-arm-transition"
-date: "2020-06-28T09:45:00-05:00"
+date: "2020-06-28T09:45:00"
 author: "Matthew Burr"
 summary: "It has been a rumour for many years that Apple was finally going to ditch Intel and use their own custom processors in all of their devices, the exact same ones that they have been utilizing in their iOS devices for the last few years."
 tags: [

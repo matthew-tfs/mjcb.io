@@ -1,7 +1,7 @@
 ---
 title: "FreeDOS 1.3 Released"
 slug: "freedos-13-released"
-date: "2022-03-07T17:15:00-05:00"
+date: "2022-03-07T17:15:00"
 author: "Matthew Burr"
 summary: "I recently saw a post about the newest release of FreeDOS and I wanted to take some time and see how well it works in 2022 on a laptop that was more or less designed to run it from the late MS-DOS era."
 tags: [

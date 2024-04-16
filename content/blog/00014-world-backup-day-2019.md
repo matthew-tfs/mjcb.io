@@ -1,7 +1,7 @@
 ---
 title: "World Backup Day 2019"
 slug: "world-backup-day-2019"
-date: "2019-03-29T20:44:00-05:00"
+date: "2019-03-29T20:44:00"
 author: "Matthew Burr"
 summary: "World Backup Day is a day of awareness for people to learn about the importance of regular backups for their personal data."
 tags: [

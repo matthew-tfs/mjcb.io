@@ -1,7 +1,7 @@
 ---
 title: "Windows on ARM"
 slug: "windows-on-arm"
-date: "2018-08-05T14:31:00-05:00"
+date: "2018-08-05T14:31:00"
 author: "Matthew Burr"
 summary: "Not a lot of people realize that Windows can be used on more than just x86 and x64-based hardware. Windows NT was designed from day one to be portable on multiple hardware platforms and was supported at one time on the MIPS, Alpha, PowerPC and Itanium platforms."
 tags: [

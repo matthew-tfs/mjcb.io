@@ -1,7 +1,7 @@
 ---
 title: "The Great Work From Home Experiment"
 slug: "the-great-work-from-home-experiment"
-date: "2020-06-23T16:40:00-05:00"
+date: "2020-06-23T16:40:00"
 author: "Matthew Burr"
 summary: "To say that 2020 has not been going well would be a big understatement. The COVID-19 Pandemic came out of nowhere and it has rapidly disrupted the lives of hundreds of millions of people. Entire countries were and still are under full or partial lock down, air travel is virtually non-existent and manufacturing is seriously impacted. I won't even get into the economic repercussions since that will take a long time to determine once the Pandemic is finally over."
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Exchange Online Mail Flow Rules for Aliases"
 slug: "exchange-online-mail-flow-rules-aliases"
-date: "2022-05-11T19:32:00-05:00"
+date: "2022-05-11T19:32:00"
 author: "Matthew Burr"
 summary: "I ran into a somewhat annoying issue with using Mail Flow Rules with Exchange Online to modify the subject header on emails that were sent to aliases on some of my Office 365 accounts. I wanted to modify the email subject of those emails to show what alias it was meant for, and I figured I should share that process here if someone else runs into the same issue. This isn't something that I do very often, and I was doing it wrong from the beginning, hence why I was having an issue."
 tags: [

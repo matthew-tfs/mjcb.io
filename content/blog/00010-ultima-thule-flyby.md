@@ -1,7 +1,7 @@
 ---
 title: "Ultima Thule Flyby"
 slug: "ultima-thule-flyby"
-date: "2019-01-02T21:29:00-05:00"
+date: "2019-01-02T21:29:00"
 author: "Matthew Burr"
 summary: "The New Horizons spacecraft successfully completed it's flyby of Ultima Thule (2014 MU69) at 12:33am on January 1st 2019. So far there has not been a lot of information released due to the slow (but steady) retrieval of data from the spacecraft, but the initial images are amazing."
 tags: [

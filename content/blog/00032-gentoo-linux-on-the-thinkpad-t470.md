@@ -1,7 +1,7 @@
 ---
 title: "Gentoo Linux on the ThinkPad T470"
 slug: "gentoo-linux-on-the-thinkpad-t470"
-date: "2020-04-14T20:14:00-05:00"
+date: "2020-04-14T20:14:00"
 author: "Matthew Burr"
 summary: "Just a quick tutorial on getting Gentoo Linux running on a Lenovo ThinkPad T470 laptop. Created out of boredom as the result of being in lockdown because of COVID-19."
 tags: [

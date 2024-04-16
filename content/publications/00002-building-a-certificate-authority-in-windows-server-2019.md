@@ -1,7 +1,7 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019"
 slug: "building-a-certificate-authority-in-windows-server-2019"
-date: "2022-04-05T06:47:00-05:00"
+date: "2022-04-05T06:47:00"
 author: "Matthew Burr"
 summary: "Now available for download, a version of the Building a Certificate Authority in Windows Server 2019 guide that I published in early 2020. This guide offers a rapid deployment of a Two-Tier Certificate Authority using Windows Server without advanced features."
 tags: [

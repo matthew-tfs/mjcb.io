@@ -1,7 +1,7 @@
 ---
 title: "Practical Guide to PKI with Windows Server - One Year Later"
 slug: "practical-guide-to-pki-with-windows-server-one-year-later"
-date: "2022-09-27T15:57:00-05:00"
+date: "2022-09-27T15:57:00"
 author: "Matthew Burr"
 summary: "I published my book, Practical Guide to PKI with Windows Server on September 22, 2021 and it has now been over a full year since I made it generally available for purchase. I wanted to reflect on what I have learned since releasing the book, what issues I have encountered, and what the next steps are."
 tags: [

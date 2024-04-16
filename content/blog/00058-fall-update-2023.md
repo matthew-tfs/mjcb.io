@@ -1,7 +1,7 @@
 ---
 title: "Fall Update - 2023 Edition"
 slug: "fall-update-2023"
-date: "2023-11-03T21:34:00-05:00"
+date: "2023-11-03T21:34:00"
 author: "Matthew Burr"
 summary: "I have released some new and updated publications in the last week that I wanted to mention. I also wanted to quickly go over what I have planned for the remainder of 2023 and for the beginning of 2024, as some of my plans have changed slightly from the last time that I talked about it."
 tags: [

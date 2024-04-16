@@ -1,7 +1,7 @@
 ---
 title: "VMware Workstation and Hyper-V"
 slug: "vmware-workstation-and-hyper-v"
-date: "2018-11-14T21:09:00-05:00"
+date: "2018-11-14T21:09:00"
 author: "Matthew Burr"
 summary: "I recently ran into an issue with my ThinkPad while trying to run VMware Workstation 15.0 when I had the Hyper-V role installed on Windows 10 Pro 1809. Having VMware installed at the same time as having the Hyper-V role installed is not an issue, but it is not possible to run both of them at the same time."
 tags: [

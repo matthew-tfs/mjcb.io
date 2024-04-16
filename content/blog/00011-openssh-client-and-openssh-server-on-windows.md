@@ -1,7 +1,7 @@
 ---
 title: "OpenSSH Client and OpenSSH Server on Windows"
 slug: "openssh-client-and-openssh-server-on-windows"
-date: "2019-01-15T19:49:00-05:00"
+date: "2019-01-15T19:49:00"
 author: "Matthew Burr"
 summary: "One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. Certainly this was something that I never expected to happen."
 tags: [

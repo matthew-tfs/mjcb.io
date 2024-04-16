@@ -1,7 +1,7 @@
 ---
 title: "Website GitHub Migration"
 slug: "website-github-migration"
-date: "2022-11-03T17:01:00-05:00"
+date: "2022-11-03T17:01:00"
 author: "Matthew Burr"
 summary: "I recently deleted my Atlassian accounts and migrated all of my code from Bitbucket to GitHub. This was for a couple of reasons, but bottom line I am just finished with Atlassian as a company. Their business model is horrible, and they are just not worth it anymore. On the upside, GitHub is pretty much the defacto standard for Git, and Bitbucket is more of a niche at this point."
 tags: [

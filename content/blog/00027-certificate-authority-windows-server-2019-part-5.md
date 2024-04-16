@@ -5,7 +5,7 @@ aliases: [
     "/blog/2020/03/09/certificate-authority-windows-server-2019-part-5/",
     "/2020/03/09/certificate-authority-windows-server-2019-part-5/"
 ]
-date: "2020-03-09T19:06:00-05:00"
+date: "2020-03-09T19:06:00"
 author: "Matthew Burr"
 summary: "The last thing that you ever want to deal with is losing the Private Key for an important Certificate. Luckily, this is easy to avoid with the use of Key Archiving directly to Active Directory."
 tags: [

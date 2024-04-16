@@ -1,7 +1,7 @@
 ---
 title: "Windows NT 3.51 on Hyper-V"
 slug: "windows-nt-351-hyper-v"
-date: "2018-09-25T06:01:00-05:00"
+date: "2018-09-25T06:01:00"
 author: "Matthew Burr"
 summary: "I ran into a few issues with running this very old Operating System as a Virtual Machine on Hyper-V a few days ago. I needed to do this for a personal project that I am working on, one that I have been thinking about doing for a while now. Since I ran into a few issues with getting this to work correctly, I thought I should share my findings and write a quick guide on how to get Windows NT 3.51 Server and Windows NT 3.51 Workstation running on Hyper-V."
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Mid Year Update - 2023 Edition"
 slug: "mid-year-update-2023"
-date: "2023-07-26T01:45:00-05:00"
+date: "2023-07-26T01:45:00"
 author: "Matthew Burr"
 summary: "We are over halfway through 2023 and I wanted to provide a few updates on what I am working on since I have been receiving a few emails from people about it. I wanted to get into details on what I am working on now, what I plan on releasing in the next few weeks, and what the rest of my plans are for the remainder of the year."
 tags: [

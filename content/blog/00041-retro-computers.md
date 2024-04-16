@@ -1,7 +1,7 @@
 ---
 title: "Retro Computers"
 slug: "retro-computers"
-date: "2022-01-14T22:25:00-05:00"
+date: "2022-01-14T22:25:00"
 author: "Matthew Burr"
 summary: "I have been collecting Retro computers for the last few years, mostly replacing devices that I have owned since the early 2000's that I have gotten rid of. I spent a lot of time moving around between 2004 and 2011, and I wasn't always able to store things easily so I got into the habit of traveling light."
 tags: [

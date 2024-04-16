@@ -1,7 +1,7 @@
 ---
 title: "Commodore History Series"
 slug: "commodore-history-series"
-date: "2018-09-28T18:37:00-05:00"
+date: "2018-09-28T18:37:00"
 author: "Matthew Burr"
 summary: "The 8-Bit Guy has been working on a fairly comprehensive history and review of the Commodore Computer family starting from the Commodore PET, to the Commodore 64, all the way to the Commodore C128. I admit that I am complete nerd and I find this entire video series very interesting, mostly because for a brief time when I was a child I had a Commodore 64 and it was technically the first computer that I ever owned."
 tags: [

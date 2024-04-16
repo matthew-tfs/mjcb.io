@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Miix 630"
 slug: "lenovo-miix-630"
-date: "2018-10-04T19:35:00-05:00"
+date: "2018-10-04T19:35:00"
 author: "Matthew Burr"
 summary: "I wanted to do a follow up my previous post about Windows on ARM since I have had some recent hands-on experience with this platform. I was able to obtain a Lenovo Miix 630 through a contract that I am working on and I have been using it in a daily basis for the last 2 months. I had wanted to give this platform a fair chance, and here is what I found out."
 tags: [

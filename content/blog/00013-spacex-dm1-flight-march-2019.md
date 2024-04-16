@@ -1,7 +1,7 @@
 ---
 title: "SpaceX DM1 Flight"
 slug: "spacex-dm1-flight-march-2019"
-date: "2019-03-09T08:28:00-05:00"
+date: "2019-03-09T08:28:00"
 author: "Matthew Burr"
 summary: "The SpaceX Demonstration Mission 1 Flight has successfully completed as of 8:45am EST on Friday March 8, 2019. There were no issues and this is the very successful first step towards the next flight (In-Flight Abort Test) that will take place in the next few weeks, using the same Dragon Capsule that completed the DM1 Mission. If nothing major comes up, the DM2 flight should occur in the Summer of 2019 with two Astronauts on board."
 tags: [

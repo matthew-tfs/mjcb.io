@@ -4,7 +4,7 @@ slug: "practical-guide-to-pki-with-windows-server-first-edition"
 aliases: [
     "/publications/practical-guide-to-pki-with-windows-server/"
 ]
-date: "2021-09-22T20:16:00-05:00"
+date: "2021-09-22T20:16:00"
 author: "Matthew Burr"
 summary: "Now available for sale, the book version of the Building a Certificate Authority in Windows Server 2019 guide that I published in early 2020. The guide has been greatly expanded and includes many additional details and steps that were not included in the original guide."
 tags: [

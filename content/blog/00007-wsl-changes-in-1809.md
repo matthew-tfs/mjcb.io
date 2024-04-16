@@ -1,7 +1,7 @@
 ---
 title: "WSL Changes in Windows 10 1809"
 slug: "wsl-changes-in-1809"
-date: "2018-11-07T18:42:00-05:00"
+date: "2018-11-07T18:42:00"
 author: "Matthew Burr"
 summary: "I found a really good blog article about the changes that were made to the Windows Subsystem for Linux (WSL) in the Windows 10 1809 update (or whatever it will be called when they eventually release it again) on the Windows Command Line Blog."
 tags: [

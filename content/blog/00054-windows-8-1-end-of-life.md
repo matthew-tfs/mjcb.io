@@ -1,7 +1,7 @@
 ---
 title: "Windows 8.1 End of Life"
 slug: "windows-8-1-end-of-life"
-date: "2023-01-10T07:02:00-05:00"
+date: "2023-01-10T07:02:00"
 author: "Matthew Burr"
 summary: "Today is the last time that Microsoft will publish any updates for Windows 8.1. Today marks the end of extended support for Windows 8.1, and Windows 8.1 is now officially end of life. To say that Windows 8 and Windows 8.1 were controversial is an understatement, but at the end of the day they were both solid improvements over Windows 7, despite the issues that they introduced."
 tags: [

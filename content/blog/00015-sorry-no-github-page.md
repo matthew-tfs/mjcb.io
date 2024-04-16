@@ -1,7 +1,7 @@
 ---
 title: "Sorry, I Don't Have a GitHub Page"
 slug: "sorry-no-github-page/"
-date: "2019-04-02T20:16:00-05:00"
+date: "2019-04-02T20:16:00"
 author: "Matthew Burr"
 summary: "In case you have been living under a rock, this thing called DevOps and Automation is a pretty big deal nowadays. The line between Developers, Systems Administrators and Network Administrators is being increasingly blurred, so it is not uncommon to be asked to do code deployments and support when it sort of isn't something you should be doing."
 tags: [

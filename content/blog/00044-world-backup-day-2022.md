@@ -1,7 +1,7 @@
 ---
 title: "World Backup Day 2022"
 slug: "world-backup-day-2022"
-date: "2022-03-31T07:02:00-05:00"
+date: "2022-03-31T07:02:00"
 author: "Matthew Burr"
 summary: "World Backup Day is a day of awareness for people to learn about the importance of regular backups of their important data."
 tags: [

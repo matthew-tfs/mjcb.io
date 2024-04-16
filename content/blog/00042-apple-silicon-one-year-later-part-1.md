@@ -1,7 +1,7 @@
 ---
 title: "Apple Silicon, One Year Later (Part 1)"
 slug: "apple-silicon-one-year-later-part-1"
-date: "2022-01-25T08:05:00-05:00"
+date: "2022-01-25T08:05:00"
 author: "Matthew Burr"
 summary: "I have written about my obsession with ARM processors and why I have wanted one in a daily driver laptop many times before on this website. It has been something that I have wanted in a laptop for a long time, but unfortunately the hardware and software options were never quite there yet. I have tried many ARM devices over the last 10 years which promised that they could be a daily driver device, or at least something close to that. I was always disappointed with those devices and I never really found something that worked reliably for me. As time went on, I realized that I really wanted an ARM-based device as my daily driver, regardless of the form factor."
 tags: [

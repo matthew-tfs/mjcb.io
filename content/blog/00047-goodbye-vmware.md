@@ -1,7 +1,7 @@
 ---
 title: "Goodbye VMware"
 slug: "goodbye-vmware"
-date: "2022-06-02T19:49:00-05:00"
+date: "2022-06-02T19:49:00"
 author: "Matthew Burr"
 summary: "I have had some time to think about it and I don't normally comment on things like this, but the recent news that Broadcom was acquiring VMware from Dell for approximately $61 billion has me quite concerned about the future of on-premises virtualization and what is going to happen to enterprise solutions like VMware. Perpetual software licenses are going away faster than ever, and once it is normalized there will be no going back."
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Practical Guide to PKI with Windows Server - Behind the Scenes"
 slug: "practical-guide-to-pki-with-windows-server-behind-the-scenes"
-date: "2021-09-23T09:08:00-05:00"
+date: "2021-09-23T09:08:00"
 author: "Matthew Burr"
 summary: "I wanted to go into the details on why I wrote this book and focus on what I learned while writing it. I will also go into the details on the process of writing the book and what tools I used. Writing a book was definitely much harder than I ever thought it would be, but I wanted to document the process as best as I could should other people be interested in doing the same. As difficult as it was, I would certainly do it again now that I know what to expect."
 tags: [

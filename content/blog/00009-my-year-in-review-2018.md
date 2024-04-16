@@ -1,7 +1,7 @@
 ---
 title: "My Year in Review - 2018 Edition"
 slug: "my-year-in-review-2018"
-date: "2018-12-31T06:10:00-05:00"
+date: "2018-12-31T06:10:00"
 author: "Matthew Burr"
 summary: "When I decided that I actually wanted to start a dedicated website/blog earlier in 2018, I intended to use it as a way to showcase what I was working on and what I have accomplished overall. I find that I work through a lot of problems and I never share the solutions with people, which is one of the main reasons that I wanted to create this site. I also wanted to use this site as a way to show what I was interested in with subjects other than IT, which I ended up not doing (even though I had several ideas, I never posted anything). I ended up not posting as often as I wanted to, but that will be something that I intend to change in 2019."
 tags: [

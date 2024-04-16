@@ -1,7 +1,7 @@
 ---
 title: "Travel Chromebook Experiment"
 slug: "travel-chromebook-experiment"
-date: "2023-09-25T21:22:00-05:00"
+date: "2023-09-25T21:22:00"
 author: "Matthew Burr"
 summary: "In September 2022 I took a 3 week trip to the Azores to visit family members, and to have my first real vacation since the end of 2019. I wasn't planning on taking my daily driver MacBook Air with me because I was concerned about it getting lost or damaged, but I wanted to take something with me in case I needed to do some work or to connect to anything at home. I ended up getting a Chromebook for the first time in several years, and it worked out exceptionally well, despite some minor limitations. I wanted to see if a Chromebook could actually be useful as a primary device for an extended period of time."
 tags: [

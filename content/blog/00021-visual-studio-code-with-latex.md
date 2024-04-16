@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code with LaTeX"
 slug: "visual-studio-code-with-latex"
-date: "2020-01-23T18:28:00-05:00"
+date: "2020-01-23T18:28:00"
 author: "Matthew Burr"
 summary: "LaTeX is a powerful typesetting language that has been used for decades by people looking to create documents without needing to worry about the look of it. I have been using it for the last few years for important documents, and I wanted to integrate it with my favourite editor prior to undertaking a large project using it."
 tags: [

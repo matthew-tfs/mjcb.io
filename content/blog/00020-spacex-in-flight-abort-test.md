@@ -1,7 +1,7 @@
 ---
 title: "SpaceX In-Flight Abort Test"
 slug: "spacex-in-flight-abort-test"
-date: "2020-01-19T21:29:00-05:00"
+date: "2020-01-19T21:29:00"
 author: "Matthew Burr"
 summary: "Just another critical step that SpaceX needed to complete for NASA's Commercial Crew Program. As usual they nailed the test."
 tags: [

@@ -1,7 +1,7 @@
 ---
 title: "Internet Explorer End of Life"
 slug: "internet-explorer-eol"
-date: "2022-06-15T06:34:00-05:00"
+date: "2022-06-15T06:34:00"
 author: "Matthew Burr"
 summary: "Internet Explorer 11 has officially gone end of life and it had a good run despite the issues associated with it. The first version of Internet Explorer was released on August 16, 1995 and it had a 26+ year run as one of the most well known Web Browsers in the world. Unfortunately, with the widespread adoption of modern Web Browsers, there was no longer a need for IE and it is time to move on."
 tags: [

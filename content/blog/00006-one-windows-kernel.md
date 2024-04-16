@@ -1,7 +1,7 @@
 ---
 title: "One Windows Kernel"
 slug: "one-windows-kernel"
-date: "2018-10-29T12:25:00-05:00"
+date: "2018-10-29T12:25:00"
 author: "Matthew Burr"
 summary: "The Windows Kernel Internals team posted a very interesting article about the architecture of the Windows Kernel and on it's ability to scale up from embedded IoT devices to servers running the Azure Datacentres."
 tags: [

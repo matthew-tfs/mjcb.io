@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 End of Life"
 slug: "windows-7-end-of-life"
-date: "2020-01-14T14:13:00-05:00"
+date: "2020-01-14T14:13:00"
 author: "Matthew Burr"
 summary: "I liked Windows 7 a lot, it was a great Operating System that I deployed and supported very early in my IT career. An end of an era, but it had to happen."
 tags: [

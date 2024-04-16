@@ -1,7 +1,7 @@
 ---
 title: "My Year in Review - 2022 Edition"
 slug: "my-year-in-review-2022"
-date: "2022-12-28T18:37:00-05:00"
+date: "2022-12-28T18:37:00"
 author: "Matthew Burr"
 summary: "Is 2022 over already? I don't have a lot to talk about, but this was the first year that has felt like normal since the beginning of the COVID-19 pandemic."
 tags: [

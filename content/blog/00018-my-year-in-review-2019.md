@@ -1,7 +1,7 @@
 ---
 title: "My Year in Review - 2019 Edition"
 slug: "my-year-in-review-2019"
-date: "2019-12-31T13:34:00-05:00"
+date: "2019-12-31T13:34:00"
 author: "Matthew Burr"
 summary: "Once again I made a promise that I would post a lot more often to this site, but once again a lot of things got in the way and I wasn't able to get as much done as I hoped. I was doing very well in the earlier part of the year, but after the middle of April I ran into a lot of issues that prevented me from focusing my attention on the site."
 tags: [

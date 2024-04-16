@@ -1,7 +1,7 @@
 ---
 title: "My Year in Review - 2023 Edition"
 slug: "my-year-in-review-2023"
-date: "2024-01-03T17:14:00-05:00"
+date: "2024-01-03T17:14:00"
 author: "Matthew Burr"
 summary: "Once again, the year is over and I wanted to take some time to look back on what I accomplished during 2023, and what I am planning to do in 2024. Overall, I think the goals are quite achievable and I should have no issues with getting the things done that I want to get done."
 tags: [

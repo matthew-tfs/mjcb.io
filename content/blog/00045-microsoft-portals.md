@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Administration Portals"
 slug: "microsoft-administration-portals"
-date: "2022-05-01T20:51:00-05:00"
+date: "2022-05-01T20:51:00"
 author: "Matthew Burr"
 summary: "I found a useful resource a few days ago that lists all of the known/major Microsoft Administration Portals on a single website. While it is definitely a great resource, it also represents a lot of the frustrations that I have with Microsoft's online services and how administrators are expected to manage them."
 tags: [

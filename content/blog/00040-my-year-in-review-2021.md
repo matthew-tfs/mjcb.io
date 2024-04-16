@@ -1,7 +1,7 @@
 ---
 title: "My Year in Review - 2021 Edition"
 slug: "my-year-in-review-2021"
-date: "2022-01-01T12:43:00-05:00"
+date: "2022-01-01T12:43:00"
 author: "Matthew Burr"
 summary: "To start off, 2021 went much better than 2020 for me. Even though COVID-19 is still a worldwide problem and the pandemic is far from over, I was able to accomplish a lot more than I though I would. This was both professionally and personally."
 tags: [

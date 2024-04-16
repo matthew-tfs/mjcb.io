@@ -1,7 +1,7 @@
 ---
 title: "Windows XP is Finally Dead"
 slug: "windows-xp-is-finally-dead"
-date: "2019-04-09T21:51:00-05:00"
+date: "2019-04-09T21:51:00"
 author: "Matthew Burr"
 summary: "It had a good run, but the time has finally run out on Windows XP and all of it's variants. It was a great OS (eventually), but ultimately it has been succeeded by more modern Operating Systems and better practices."
 tags: [

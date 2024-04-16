@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code with LaTeX - Follow-up"
 slug: "visual-studio-code-with-latex-follow-up"
-date: "2020-07-20T07:43:00-05:00"
+date: "2020-07-20T07:43:00"
 author: "Matthew Burr"
 summary: "I posted an article about using Visual Studio Code with LaTeX earlier this year and I wanted to do a follow-up with some of the additional extensions that I have been utilizing, as well as some of the extra configuration items that I have been using as I have made this environment my primary LaTeX editor."
 tags: [

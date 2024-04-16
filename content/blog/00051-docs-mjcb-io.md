@@ -1,7 +1,7 @@
 ---
 title: "Docs (docs.mjcb.io)"
 slug: "docs-mjcb-io"
-date: "2022-10-05T19:48:00-05:00"
+date: "2022-10-05T19:48:00"
 author: "Matthew Burr"
 summary: "I am launching a dedicated website that is going to be just for documentation that I have created over the years, and for all documentation that I will be creating going forward. It uses Hugo and Netlify just like this website, and GitHub for hosting the Git repository. I have decided to make the repository for the website public, so anyone can download it if they want."
 tags: [

@@ -31,7 +31,7 @@ The full details of the lawsuit and several related documents can be found below
 * [Justice Department Sues Apple for Monopolizing Smartphone Markets](https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets)
 * [U.S and Plaintiff States v. Apple Inc.](https://www.justice.gov/atr/case/us-and-plaintiff-states-v-apple-inc)
 
-I have also made a local copy of the Press Release and the full complaint document since these things can change or get lost over time, and they can be found [here](/blog/2024/03/26/apple-antitrust-lawsuit/#links). I also mirrored the main contents of the lawsuit [here](https://docs.mjcb.io/apple/lawsuits/2-24-cv-04055/) to make it easier to read.
+I made a local copy of the Press Release and the full complaint document since these things can change or get lost over time, and they can be found [here](#links). I have also mirrored the main contents of the lawsuit [here](https://docs.mjcb.io/apple/lawsuits/2-24-cv-04055/) to make it easier to read.
 
 From the Press Release is the main complaint that prompted the lawsuit to be filed in the first place:
 

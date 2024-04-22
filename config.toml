@@ -108,11 +108,6 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 20
 
     [[menu.social]]
-        name = "linkedin"
-        url = "https://www.linkedin.com/in/matthewburr/"
-        weight = 30
-
-    [[menu.social]]
         name = "rss"
         url = "index.xml"
-        weight = 40
+        weight = 30

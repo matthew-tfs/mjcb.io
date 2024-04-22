@@ -27,5 +27,4 @@ I plan on using this site for a few things. I will use it to upload things of in
 
 ## Links ##
 
-* [LinkedIn Profile](https://www.linkedin.com/in/matthewburr/)
 * [Ten Fifteen Solutions](https://tenfifteen.ca/)

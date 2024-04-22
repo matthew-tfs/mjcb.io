@@ -42,8 +42,6 @@ Several months ago I moved the website from Bitbucket to GitHub, which I talked 
 
 I finally got around to creating a logo/icon for the website, which has been on my todo list for a while. It is basic, but it works.
 
-I also removed sharing links on the website to Facebook, LinkedIn and Twitter. I don't care for any of those platforms, so I don't want the option available. I understand that I have a LinkedIn profile, but I only keep that around for professional purposes.
-
 ## 2023 Goals ##
 
 A project that I started back in 2022 was to cleanup a lot of the accounts that I used, as well as consolidate a lot of data that I have stored in various locations. I also wanted to redo my entire backup strategy, which I will talk about in the next few months. Overall, this has been completed, and I am happy with the outcome, but it is an ongoing process.

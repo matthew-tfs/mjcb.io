@@ -45,7 +45,7 @@ Now available for purchase, a complete book version of this guide. Includes an e
 
 ## 2.1 Subordinate Certificate Authority Server Setup ##
 
-Provision and configure a new Virtual Machine called **TFS-CA01** and install Windows Server 2019 Standard (Desktop Experience) using the following settings:
+Provision and configure a new virtual machine called **TFS-CA01** and install Windows Server 2019 Standard (Desktop Experience) using the following settings:
 
 * Virtual CPU - **2**
 * Virtual Memory - **8192 MB**
@@ -53,7 +53,7 @@ Provision and configure a new Virtual Machine called **TFS-CA01** and install Wi
 * Virtual Floppy Drive - **1**
 * Virtual Network Adapters - **1**
 
-Join the **TFS-CA01** Virtual Machine to the **TFS Labs** Domain. Once it has been completely setup you can proceed to the next steps on configuring the **Active Directory Certificate Services** role.
+Join the **TFS-CA01** virtual machine to the **TFS Labs** Domain. Once it has been completely setup you can proceed to the next steps on configuring the **Active Directory Certificate Services** role.
 
 ## 2.2 Create CNAME Records in DNS ##
 
@@ -153,11 +153,11 @@ Once the **Active Directory Certificate Services** role has been added, it will 
 11. On the **Confirmation** screen, verify that the options are correct and click the **Configure** button to commit the changes.
 12. On the **Results** screen, click the **Close** button.
 
-Once the Request file has been successfully generated, it will need to be copied to the **RootCAFiles** Virtual Floppy Disk since the **Root CA** on **TFS-ROOT-CA** needs the request file in order to issue the **Subordinate Certificate**:
+Once the Request file has been successfully generated, it will need to be copied to the **RootCAFiles** virtual floppy disk since the **Root CA** on **TFS-ROOT-CA** needs the request file in order to issue the **Subordinate Certificate**:
 
-1. Add the **RootCAFiles** Virtual Floppy Disk to the **TFS-CA01** Virtual Machine.
+1. Add the **RootCAFiles** virtual floppy disk to the **TFS-CA01** virtual machine.
 2. Browse to the **C:\ Drive** and copy the **TFS-CA01.corp.tfslabs.com_corp-TFS-CA01-CA.req** to the **A:\ Drive**.
-3. Leave the **RootCAFiles** Virtual Floppy Disk inserted.
+3. Leave the **RootCAFiles** virtual floppy disk inserted.
 
 ## 2.6 Install the Root Certificate ##
 
@@ -176,7 +176,7 @@ On the **TFS-CA01** Server, create a folder that will be used to host important 
 
 1. On the Root of the **C:\ Drive**, create a folder called **CertData** (C:\CertData).
 2. Open the **A:\ Drive** and copy the **TFS Labs Certificate Authority.crl** and **TFS-ROOT-CA_TFS Labs Certificate Authority.crt** files to the **C:\CertData** folder.
-3. Eject the **RootCAFiles** Virtual Floppy Disk.
+3. Eject the **RootCAFiles** virtual floppy disk.
 4. Open the **Internet Information Services (IIS) Manager** Console.
 5. On the **Connections** pane, expand **TFS-CA01** and then expand **Sites**.
 6. Right-click on **Default Web Site** and select **Add Virtual Directory**.
@@ -205,7 +205,7 @@ appcmd.exe set config /section:requestfiltering /allowdoubleescaping:true
 
 Once the Subordinate CA has been configured and the request successfully generated, it is now time to complete the Subordinate CA Certificate by using the **TFS-ROOT-CA** Server.
 
-1. On the **TFS-ROOT-CA** Server insert the **RootCAFiles** Virtual Floppy Disk.
+1. On the **TFS-ROOT-CA** Server insert the **RootCAFiles** virtual floppy disk.
 2. Copy the **A:\TFS-CA01.corp.tfslabs.com_corp-TFS-CA01-CA.req** file to the **C:\RootCA** folder.
 3. On the **TFS-ROOT-CA** Server open **Certification Authority** Console (certsrv.msc).
 4. Right-click on the **TFS Labs Certificate Authority** Server, select **All Tasks** and click on **Submit new request…**.
@@ -219,15 +219,15 @@ Once the Subordinate CA has been configured and the request successfully generat
 12. For the file name, enter **C:\RootCA\TFS Labs Enterprise CA.p7b** and click **Next** to continue.
 13. Click the **Finish** button to complete the wizard.
 14. Copy the **C:\RootCA\TFS Labs Enterprise CA.p7b** file to the **A:\ Drive**.
-15. Eject the **RootCAFiles** Virtual Floppy Disk.
-16. On the **TFS-CA01** Server insert the **RootCAFiles** Virtual Floppy Disk. Copy the **A:\TFS Labs Enterprise CA.p7b** file to root of the **C:\ Drive**.
+15. Eject the **RootCAFiles** virtual floppy disk.
+16. On the **TFS-CA01** Server insert the **RootCAFiles** virtual floppy disk. Copy the **A:\TFS Labs Enterprise CA.p7b** file to root of the **C:\ Drive**.
 17. On the **TFS-CA01** Server, open the **Certification Authority** Console (certsrv.msc).
 18. Right-click on the **TFS Labs Enterprise CA** Server, go to **All Tasks** and select the option to **Install CA Certificate…**.
 19. Browse to the **C:\ Drive** and select the **TFS Labs Enterprise CA.p7b** file and click **Open**.
 20. If there were no errors in installing the Certificate, right-click on the **TFS Labs Enterprise CA** Server, go to **All Tasks** and click the **Start Service** option.
 21. The Subordinate Certificate has now been installed successfully, and the Subordinate Certificate Authority is now running.
 
-Eject the **RootCAFiles** Virtual Floppy Disk.
+Eject the **RootCAFiles** virtual floppy disk.
 
 ## 2.10 Set Maximum Certificate Age ##
 

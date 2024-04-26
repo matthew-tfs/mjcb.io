@@ -60,7 +60,7 @@ These files should all be present on the **C:\RootCA** folder on the **TFS-ROOT-
 
 ### 8.1.2 Virtual Floppy Disk ##
 
-Depending on your Virtualization platform, the location of the **RootCAFiles** Virtual Floppy Disk will vary. This file also needs to be deleted. Ensure that if you setup BitLocker on the **TFS-ROOT-CA** Server that you backup up the recovery key.
+Depending on your virtualization platform, the location of the **RootCAFiles** virtual floppy disk will vary. This file also needs to be deleted. Ensure that if you setup BitLocker on the **TFS-ROOT-CA** Server that you backup up the recovery key.
 
 ## 8.2 Recurring Tasks ##
 
@@ -68,9 +68,9 @@ The only major task that you should need to perform on your PKI Infrastructure i
 
 ## 8.3 Root CA Shutdown ##
 
-Once the Certificate Authority has been successfully implemented, the Root CA needs to be powered off as it is no longer needed. The **TFS-ROOT-CA** Virtual Machine will need to be powered on at least once every 52 weeks in order to update the CRL.
+Once the Certificate Authority has been successfully implemented, the Root CA needs to be powered off as it is no longer needed. The **TFS-ROOT-CA** virtual machine will need to be powered on at least once every 52 weeks in order to update the CRL.
 
-Ensure that you do not delete this Virtual Machine. If you do it will break your entire PKI and there will be no way of recovering from this.
+Ensure that you do not delete this virtual machine. If you do it will break your entire PKI and there will be no way of recovering from this.
 
 ## Certificate Authority in Windows Server 2019 ##
 

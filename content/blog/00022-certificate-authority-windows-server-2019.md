@@ -78,7 +78,7 @@ Since this is such a complicated subject there are multiple parts to this guide.
 
 All Servers in this guide are using **Windows Server 2019 Standard (Desktop Experience)**, but this should work correctly using Windows Server 2016. In this guide, the Active Directory Domain and Forest Functional Levels are set to Windows Server 2016 levels, but this should work for Windows Server 2012 R2 functional levels.
 
-This guide should work perfectly fine using Hyper-V, VirtualBox or VMware. This guide does not assume any Virtualization platform so there should not be any issues using any Virtualization platform.
+This guide should work perfectly fine using Hyper-V, VirtualBox or VMware. This guide does not assume any virtualization platform so there should not be any issues using any virtualization platform.
 
 For this guide I am using VMware Workstation 15 Pro (15.5.1 build-15018445) on Windows 10 Pro 1909 (Build 18363.657). I am using a Lenovo P51 Mobile Workstation (Intel Core i7-7820HQ @ 2.90GHz and 64 GB RAM).
 
@@ -90,7 +90,7 @@ The example that is going to be used in this guide is the **TFS Labs** Domain (*
 
 ![TFS Labs Certificate Authority Infrastructure Overview](/images/blog/00022/ca-infrastructure-overview.png)
 
-The Virtual Machines that are being used in this guide are using the following specifications:
+The virtual machines that are being used in this guide are using the following specifications:
 
 | Virtual Machine | Operating System     | CPU | Memory  | Hard Disk | IP Address       |
 |:----------------|:---------------------|:----|:--------|:----------|:-----------------|
@@ -106,7 +106,7 @@ Here is breakdown of the Servers and Workstations in this environment:
 * **TFS-DC01** the Domain Controller for the **TFS Labs** Domain. It is also needed to allow for Certificate distribution and for Group Policy updates to the **TFS Labs** Domain. It is also the LDAP CDP and AIA Publishing Location. **This guide assumes that you already know how to setup a basic Active Directory Domain Controller and Domain and have done this already prior to starting this guide**.
 * **TFS-ROOT-CA** is the Offline Root Certificate Authority and it is only used to issue the Root Certificate for the **TFS Labs** Domain. It signs the Certificate for the Subordinate Certificate Authority only and is left offline unless there is an issue with the Subordinate Certificate Authority. It is not a member of the **TFS Labs** Domain and has no additional software or services installed on it. Once the implementation of the Certificate Authority is complete it can be shutdown (but not deleted).
 * **TFS-CA01** is the Subordinate Certificate Authority and issues all Certificates within the **TFS Labs** Domain. It also handles the OCSP Role and CRL roles. It is a **TFS Labs** Domain member.
-* **TFS-WIN10** is a Workstation that is a member of the **TFS Labs** Domain, and it is used to ensure Certificates that are issued by the two Certificate Authorities are operating correctly. It is also used to ensure that Group Policy deployment of these certificates are working correctly. **This guide assumes that you can configure a Windows 10 Pro Virtual Machine prior to starting this guide.**
+* **TFS-WIN10** is a Workstation that is a member of the **TFS Labs** Domain, and it is used to ensure Certificates that are issued by the two Certificate Authorities are operating correctly. It is also used to ensure that Group Policy deployment of these certificates are working correctly. **This guide assumes that you can configure a Windows 10 Pro virtual machine prior to starting this guide.**
 
 ## Certificate Hierarchy Overview ##
 
@@ -135,7 +135,7 @@ In the deployment of Active Directory Certificate Services on the **TFS Labs** D
 * Utilize a Subordinate Enterprise CA for issuing Certificates to the **TFS Labs** Domain. This will always be online and will be used to issue all Certificates.
 * The Root Certificate will be valid for 10 Years and the Subordinate Certificate will be valid for 5 Years. All issued Certificates from the Subordinate CA will be valid for 1 Year only.
 * The Offline Root CA is only online for creating the Enterprise CA and is then shutdown and can isolated from the network in order to keep it safe.
-* Any files that need to be transferred to and from the Root CA is to be done with a Virtual Floppy Disk. This will be deleted at the end of the implementation phase and when needed in the future a new one should be created.
+* Any files that need to be transferred to and from the Root CA is to be done with a virtual floppy disk. This will be deleted at the end of the implementation phase and when needed in the future a new one should be created.
 * Auditing will be enabled on all Servers that are performing Certificate related tasks. This will write events to the Windows Event Log every time a Certificate is Issued, Revoked, Requested, etc.
 * CNAME records will be used when possible in the deployment to allow for the **TFS-CA01** Server to be split up in the future if needed.
 
@@ -145,7 +145,7 @@ There are a lot of very good reasons to use an Offline Root CA in your environme
 
 The Root CA is critical to your PKI and you don't want to risk having the Root CA compromised and having your Private Keys leaked. This would effectively invalidate every single Certificate in your organization.
 
-The best way to protect the Root CA is always to have it be completely unavailable to people on the network. It isn't needed in day to day operations, so having it online is not necessary and can put it at unnecessary risk. This also means that it is not enough to just have it turned off until needed, it shouldn't be accessible by anyone even when it is temporarily powered on. A lot of administrators don't even have a network connection to it and use Virtual Floppy Disks to transfer data between it and other Servers. It is cumbersome, but this happens so infrequently that it shouldn't be an issue. Some Virtualization platforms allow for Copy/Paste, but that should be disabled for the Root CA in order to minimize the attack surface on it.
+The best way to protect the Root CA is always to have it be completely unavailable to people on the network. It isn't needed in day to day operations, so having it online is not necessary and can put it at unnecessary risk. This also means that it is not enough to just have it turned off until needed, it shouldn't be accessible by anyone even when it is temporarily powered on. A lot of administrators don't even have a network connection to it and use virtual floppy disks to transfer data between it and other Servers. It is cumbersome, but this happens so infrequently that it shouldn't be an issue. Some virtualization platforms allow for Copy/Paste, but that should be disabled for the Root CA in order to minimize the attack surface on it.
 
 ## Registered IANA Number ##
 

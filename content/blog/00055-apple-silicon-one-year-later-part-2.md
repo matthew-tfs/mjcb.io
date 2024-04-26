@@ -90,7 +90,7 @@ At the end of the day, I didn't think the extra $400 for a bigger battery was wo
 
 ### Software ###
 
-The computer shipped with macOS Big Sur (version 11) by default, and since then it has been upgraded to macOS Ventura (version 13). I really don't have much to say about macOS in general, it is a very modern and stable Operating System. It did take a bit of getting used to since I never really used a Mac for an extended period of time, but I have since gotten the hang of it. Since I have been using Linux for almost 20 years, I definitely appreciate the underlying BSD architecture.
+The computer shipped with macOS Big Sur (version 11) by default, and since then it has been upgraded to macOS Ventura (version 13). I really don't have much to say about macOS in general, it is a very modern and stable operating system. It did take a bit of getting used to since I never really used a Mac for an extended period of time, but I have since gotten the hang of it. Since I have been using Linux for almost 20 years, I definitely appreciate the underlying BSD architecture.
 
 There has been a considerable amount of work on getting Linux to run on Apple Silicon devices through the [Asahi Linux](https://asahilinux.org/) project and the results have been very promising, but I have not tested it yet. I want to use the laptop as it was intended, with software that is fully supported by the vendor.
 

@@ -35,11 +35,11 @@ I have written about several Windows-based ARM devices in this blog before, for 
 
 I have owned two laptops that are ARM-based in the last few years, the original [Surface RT](/blog/2018/08/05/windows-on-arm/) and the [Lenovo Miix 630](/blog/2018/10/04/lenovo-miix-630/). There were a lot of downsides to both of these devices and that was due to a lot of factors:
 
-* Software that was not optimized to work on ARM. Windows is a portable Operating System that was designed from day one to work on multiple processor architectures, but parts of the User Space environment (mostly Win32) was never optimized particularly well for anything other than x86. Windows 8 and the Metro UI was designed to overcome part of this limitation, but it was not enough to make the user experience that memorable and lack of widespread adoption doomed this setup.
+* Software that was not optimized to work on ARM. Windows is a portable operating system that was designed from day one to work on multiple processor architectures, but parts of the User Space environment (mostly Win32) was never optimized particularly well for anything other than x86. Windows 8 and the Metro UI was designed to overcome part of this limitation, but it was not enough to make the user experience that memorable and lack of widespread adoption doomed this setup.
 * Lack of control of the processor and chipset. At the end of the day, if you are buying a processor and chipset from a provider such as Qualcomm, you can't really have them put in custom hardware optimizations for only your software. They design their chips to work on the most devices possible, so it is not feasible to produce custom chips for a specific vendor and for a specific device.
 * Apps. One of the reasons that Windows on ARM has had such lackluster adoption rates was due to the lack of applications. Creating a walled garden ecosystem only works if you have the support of application developers.
 
-I am confident that Apple will be successful with their transition to ARM because they have successfully created their own Apple Silicon processors and chipsets. They will easily optimize the hardware and software to work the best with their macOS Operating System, which is something that they are very good at doing already with iOS. The reason that the iPhone and other iOS devices have been so successful was partly due to their ability to have almost 100% control of the hardware and software. In the typical Apple fashion, if the product is not good they won't simply won't release it (hopefully).
+I am confident that Apple will be successful with their transition to ARM because they have successfully created their own Apple Silicon processors and chipsets. They will easily optimize the hardware and software to work the best with their macOS operating system, which is something that they are very good at doing already with iOS. The reason that the iPhone and other iOS devices have been so successful was partly due to their ability to have almost 100% control of the hardware and software. In the typical Apple fashion, if the product is not good they won't simply won't release it (hopefully).
 
 Oddly enough the best Windows ARM device I ever owned was the Nokia 830 Windows Phone running Windows Phone 8.1. It had the benefit of the Metro design interface without any of the legacy features from other versions of Windows.
 
@@ -47,7 +47,7 @@ Oddly enough the best Windows ARM device I ever owned was the Nokia 830 Windows 
 
 There are definitely some advantages that Mac computers will have using Apple Silicon over conventional x86 computers that is currently is use:
 
-* Optimized hardware for just one Operating System rather than multiple Operating Systems.
+* Optimized hardware for just one operating system rather than multiple operating systems.
 * Smaller logic boards and better thermals on all devices (hopefully).
 * Thinner and smaller devices (the most expected benefit).
 * Better battery life (again, hopefully).
@@ -58,7 +58,7 @@ Apple also has the benefit of having pretty much perfected the current iPad Pro 
 
 ## Apple Silicon Transition Period ##
 
-Apple has a plan to allow for the transition to their Apple Silicon based Mac computers. Their current offering is a development kit that will give developers the ability to port their applications in advance of the introduction of new Apple Silicon Mac computers. The development kit, known as the **Developer Transition Kit**, will be a modified Mac Mini with the A12Z SoC Processor, 16GB of memory and a 512GB SSD and a Beta version of the macOS Big Sur Operating System. This is the exact same processor that the current iPad Pro uses:
+Apple has a plan to allow for the transition to their Apple Silicon based Mac computers. Their current offering is a development kit that will give developers the ability to port their applications in advance of the introduction of new Apple Silicon Mac computers. The development kit, known as the **Developer Transition Kit**, will be a modified Mac Mini with the A12Z SoC Processor, 16GB of memory and a 512GB SSD and a Beta version of the macOS Big Sur operating system. This is the exact same processor that the current iPad Pro uses:
 
 ![Developer Transition Kit](/images/blog/00035/mac-mini-transition-kit.jpg)
 
@@ -78,12 +78,12 @@ These are not necessarily bad things. I have never found there to be any real po
 
 As part of their demonstration during the June 22nd event, they did showcase several virtualization solutions running natively on Apple Silicon:
 
-![Apple Silicon Virtualization](/images/blog/00035/apple-silicon-3rd-party.jpg)
+![Apple Silicon virtualization](/images/blog/00035/apple-silicon-3rd-party.jpg)
 
 The further lockdown of the Mac platform is an interesting thing to consider. At the end of the day, Apple is essentially turning the Mac line into giant iOS devices, with the same hardware and software. I personally don't have any issues with this, but there will definitely be people who have issues with it, voicing the same concerns that they already have the iOS.
 
 ## Will I Buy an Apple Silicon Mac? ##
 
-I'm undecided right now. As much as I am a fan of the iPhone and the iPad, I have never been particularly fond of the Mac itself as a platform. This is probably because I never even used a Mac device until I was in University, and I rarely dealt with them at any of my workplaces. I have never liked the way the macOS interface and workflow works, but I blame that on being a Windows user for the last 25 years. I should like macOS because it is a UNIX derived Operating System, but that is not enough for me. Oddly enough, the iPhone XS is without a doubt the best phone that I have ever owned and it is running the same software and Operating System that macOS will be in the next few years.
+I'm undecided right now. As much as I am a fan of the iPhone and the iPad, I have never been particularly fond of the Mac itself as a platform. This is probably because I never even used a Mac device until I was in University, and I rarely dealt with them at any of my workplaces. I have never liked the way the macOS interface and workflow works, but I blame that on being a Windows user for the last 25 years. I should like macOS because it is a UNIX derived operating system, but that is not enough for me. Oddly enough, the iPhone XS is without a doubt the best phone that I have ever owned and it is running the same software and operating system that macOS will be in the next few years.
 
 However, I am very interested to see the reviews on the initial Apple Silicon Mac computers. The one device that I am the most interested in is the the MacBook Air, and how the Apple Silicon architecture improves it. At that point I would seriously consider getting my first Mac computer. At the same time I am still a huge fan of the iPad, I have been using my iPad Air 3 with the Smart Keyboard for the last few weeks for productivity and have been very happy with it so I may end up getting an iPad Pro. The changes made recently to iPadOS have made it considerably more useful and easier to use, so only time will tell.

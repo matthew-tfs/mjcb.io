@@ -17,7 +17,7 @@ featureImage: "/images/blog/00032/thinkpad-t470-kde.png"
 draft: false
 ---
 
-I have had a bit of downtime due to the entire COVID-19 pandemic, so I decided to try installing some new Operating Systems on a spare laptop that I had brought home for work. I should really be studying for a few Certification exams, but since the testing centres are all closed and I don't really want to do any exams with an online proctor, I had to try and fill the time. I wanted to see if any of the laptops that I had at home was compatible enough to be used as a Hackintosh (which the Lenovo ThinkPad T470 apparently is), but I wanted to setup a laptop with only Linux since it has been a while that I have used Linux as a Workstation and I will be needing one in the next few weeks for a work project.
+I have had a bit of downtime due to the entire COVID-19 pandemic, so I decided to try installing some new operating systems on a spare laptop that I had brought home for work. I should really be studying for a few Certification exams, but since the testing centres are all closed and I don't really want to do any exams with an online proctor, I had to try and fill the time. I wanted to see if any of the laptops that I had at home was compatible enough to be used as a Hackintosh (which the Lenovo ThinkPad T470 apparently is), but I wanted to setup a laptop with only Linux since it has been a while that I have used Linux as a Workstation and I will be needing one in the next few weeks for a work project.
 
 I was an avid user of Gentoo Linux in the mid-2000's up until around 2011 and I realized that I haven't used Gentoo at all since. I have only ever used Linux in the Enterprise in the last 10 years, and I was using CentOS and RHEL since it was the most widely supported and the easiest to use for Linux Administrators. Obviously if I wanted to use Linux in 2020 there are lots of easier alternatives such as Ubuntu (which supports this laptop 100% out of the box), but where is the fun in that?
 
@@ -344,8 +344,8 @@ Aside from the standard hardware, there are a few other hardware components that
 * The TrackPoint and the associated buttons work correctly without any additional configuration.
 * The Function lock key on the keyboard works correctly.
 * The special keys (Mute, Volume Down, Volume Up, Microphone On/Off, Brightness Down, Brightness Up, Wireless On/Off, Bluetooth On/Off) work correctly.
-* The Thunderbolt port works correctly for charging the laptop, however I do not have any Thunderbolt devices to test it with. For USB-C devices, I was able to test an ASUS MB16AC Portable Monitor and it worked correctly (using the DisplayLink Kernel Module).
-* The Docking Port on the laptop appears to function (the Audio Drivers recognize that one is present), but I cannot test it right now because I don't have a Dock available.
+* The Thunderbolt port works correctly for charging the laptop, however I do not have any Thunderbolt devices to test it with. For USB-C devices, I was able to test an ASUS MB16AC Portable Monitor and it worked correctly (using the DisplayLink kernel module).
+* The Docking Port on the laptop appears to function (the audio drivers recognize that one is present), but I cannot test it right now because I don't have a Dock available.
 * The Smart Card port appears to work, however I don't have a card available to test it with.
 
 ## References ##

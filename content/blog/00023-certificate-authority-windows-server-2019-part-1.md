@@ -49,11 +49,11 @@ The Server that will be hosting the Offline Root Certificate Authority requires 
 
 The Server is setup as a standalone Windows Server and is never meant to be a member of an Active Directory Domain or even have any network connections to it. This means that it will require some local Security modifications that are normally handled through Group Policy from Active Directory. Since there is no connection to Active Directory, these changes will need to be applied locally.
 
-Since there are no Network Connections to and from this Virtual Machine, create a Virtual Floppy Disk that will be used for transferring files to and from the **TFS-ROOT-CA** Server. Name the file **RootCAFiles** (the file extension will vary based on whether you are using Hyper-V, VirtualBox or VMware) and store it in a location that will be available for all Virtual Machines that are being used. The first time that it is inserted into one of the Virtual Machines it will need to be formatted with the default settings.
+Since there are no Network Connections to and from this virtual machine, create a virtual floppy disk that will be used for transferring files to and from the **TFS-ROOT-CA** Server. Name the file **RootCAFiles** (the file extension will vary based on whether you are using Hyper-V, VirtualBox or VMware) and store it in a location that will be available for all virtual machines that are being used. The first time that it is inserted into one of the virtual machines it will need to be formatted with the default settings.
 
-Provision and configure a new Virtual Machine using the following settings:
+Provision and configure a new virtual machine using the following settings:
 
-1. Create a new Virtual Machine with the following settings:
+1. Create a new virtual machine with the following settings:
    * Virtual CPU - **1**
    * Virtual Memory - **4096 MB**
    * Virtual Hard Disk - **60 GB**
@@ -67,7 +67,7 @@ Provision and configure a new Virtual Machine using the following settings:
    * The Administrator account will be renamed to **CA-Admin** at a further step in this guide.
 5. There is no need to activate the Windows Server license, or even input a license key (make sure you are licensed though). If activation is ever needed on this Server, then the telephone option would be required in order to accomplish this since there is no network connection on this Server.
 6. On the root of the **C:\ Drive** create a folder called **RootCA** (C:\RootCA). This folder will store the Root Certificate, Subordinate Certificate and other necessary Certificate Files that are needed during the entire implementation process.
-7. Insert the **RootCAFiles** Virtual Floppy Disk into the Virtual Floppy Drive. Format the floppy disk with the default settings. Eject the disk when completed.
+7. Insert the **RootCAFiles** virtual floppy disk into the virtual floppy drive. Format the floppy disk with the default settings. Eject the disk when completed.
 8. Open the **Local Group Policy Editor** Console (gpedit.msc), confirm the following settings, and make any changes if necessary:
    * Modify the **Local Computer Policy &gt; Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options** settings to match the following:
       * **Accounts: Administrator account status** - Enabled
@@ -93,7 +93,7 @@ Provision and configure a new Virtual Machine using the following settings:
        * **Account lockout duration** - 30 minutes
        * **Reset account lockout counter after** - 30 minutes
 10. Restart the **TFS-ROOT-CA** Server to apply the updated security settings.
-11. **Optional:** Enable BitLocker in order to secure the **TFS-ROOT-CA** Virtual Machine while it is powered off or being stored in another location:
+11. **Optional:** Enable BitLocker in order to secure the **TFS-ROOT-CA** virtual machine while it is powered off or being stored in another location:
     1. Open the **Server Manager** Console (servermanager.exe), click on the **Manage** menu, and click on **Add Roles and Features** to start the installation wizard.
     2. On the **Before You Begin** screen, click the **Next** button to continue.
     3. On the **Installation Type** screen, select the option for **Role-based or feature-based installation** and click the **Next** button to continue.
@@ -110,15 +110,15 @@ Provision and configure a new Virtual Machine using the following settings:
         * **Configure TPM startup PIN:** Allow startup PIN with TPM
         * **Configure TPM startup key:** Allow startup key with TPM
         * **Configure TPM startup key and PIN:** Allow startup key and PIN with TP
-    11. Insert the **RootCAFiles** Virtual Floppy Disk.
+    11. Insert the **RootCAFiles** virtual floppy disk.
     12. Open **File Explorer** and go to **This PC**. Right-click on the **C:\ Drive** and select **Turn on BitLocker**.
     13. On the **BitLocker Drive Encryption setup** screen click the **Next** button to continue.
     14. On the **Preparing your drive for BitLocker** screen click the **Next** button to continue.
     15. On the **BitLocker Drive Encryption setup** screen, click the **Next** button to continue.
     16. On the **Choose how to unlock your drive at startup** screen, select the option to **Enter a password**.
-    17. On the **Create a password to unlock this drive** screen, enter the password that you want to use to unlock the drive at boot up. Make sure that you do not forget this password as it will require the Recovery Keys in order to get back into the **TFS-ROOT-CA** Virtual Machine. Ensure that you use a complex password for this and make it at least 14 characters in length. Click the **Next** button to continue.
+    17. On the **Create a password to unlock this drive** screen, enter the password that you want to use to unlock the drive at boot up. Make sure that you do not forget this password as it will require the Recovery Keys in order to get back into the **TFS-ROOT-CA** virtual machine. Ensure that you use a complex password for this and make it at least 14 characters in length. Click the **Next** button to continue.
     18. On the **How do you want to back up your recovery key?** screen, select the option to **Save to a file**. Save the file to the **A:\ Drive** (floppy disk). Click the **Next** button to continue.
-    19. Eject the **RootCAFiles** Virtual Floppy Disk and then backup the recovery key to another device before you continue. This is critical in case there is an issue with the BitLocker password.
+    19. Eject the **RootCAFiles** virtual floppy disk and then backup the recovery key to another device before you continue. This is critical in case there is an issue with the BitLocker password.
     20. On the **Choose how much of your drive to encrypt** screen, select the option to **Encrypt entire drive (slower but best for PCs and drives already in use)** and click the **Next** button.
     21. On the **Choose which encryption mode to use** screen, select the option for **New encryption mode (best for fixed drives on this devices)** and click the **Next** button to continue.
     22. On the **Are you ready to encrypt this drive?** screen, ensure that the **Run BitLocker system check box** is selected and then click the **Continue** button.
@@ -329,7 +329,7 @@ Certutil -getreg CA\CACertPublicationURLs
 
 Exporting the **Root Certificate CRL List** is needed in order to make it available on the **TFS-CA01** Server. The links to these files were referenced in the Certificate configuration, so they will need to be copied to the **Subordinate CA** Server for users to access these files.
 
-1. Add the **RootCAFiles** Virtual Floppy Disk to the **TFS-ROOT-CA** Virtual Machine.
+1. Add the **RootCAFiles** virtual floppy disk to the **TFS-ROOT-CA** virtual machine.
 2. Copy the contents of the **C:\Windows\System32\CertSrv\CertEnroll** folder to the **C:\RootCA** folder.
 3. Open the **Certificates** Console (certlm.msc) under the **Local Computer Account** and export the **TFS Labs Certificate Authority** Certificate from the **Trusted Root Certification Authorities** Store as a **DER encoded binary**. Save the file as **C:\RootCA\TFS Labs Certificate Authority.cer**.
 4. Copy the contents of the **C:\RootCA** folder to the **A:\ Drive**. The contents of the **A:\ Drive** should be the following:
@@ -340,7 +340,7 @@ A:\TFS Labs Certificate Authority.crl
 A:\TFS-ROOT-CA_TFS Labs Certificate Authority.crt
 ```
 
-5. Eject the **RootCAFiles** Virtual Floppy Disk.
+5. Eject the **RootCAFiles** virtual floppy disk.
 
 ## Certificate Authority in Windows Server 2019 ##
 

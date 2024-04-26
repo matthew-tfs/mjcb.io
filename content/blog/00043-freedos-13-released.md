@@ -21,11 +21,11 @@ I decided to give it a try on my oldest laptop, which is an **IBM ThinkPad 380ED
 
 ## FreeDOS ##
 
-FreeDOS is a free Operating System that is a clone of the MS-DOS Operating System. It is an Open Source project that has been actively developed for almost 30 years, and it is intended to be a drop-in replacement for MS-DOS. The idea is that if a computer supports MS-DOS, then there should be zero issues with using FreeDOS in it's place.
+FreeDOS is a free operating system that is a clone of the MS-DOS operating system. It is an Open Source project that has been actively developed for almost 30 years, and it is intended to be a drop-in replacement for MS-DOS. The idea is that if a computer supports MS-DOS, then there should be zero issues with using FreeDOS in it's place.
 
 I have used FreeDOS several times over the last 10 years, the first time was on an old MS-DOS system in a manufacturing plant while I was working at an MSP. That particular system was attached to a large CNC machine and had been running MS-DOS 6.22 since the late 1990's. It had no networking and people who wanted to use it would occasionally load files from a floppy disk to use it.
 
-Eventually the system failed due to a power issue which damaged it beyond repair. The replacement device from the vendor did not come with an Operating System, it did not have a floppy drive or CD-ROM drive, and I did not have any of the original installation disks as they were long gone. All I had to work with was the data on the old hard drive, and two USB ports on the new device. I decided to use FreeDOS instead of MS-DOS, as I was able to quickly install it using USB. I was able to bring over the custom software from the old hard drive using an IDE to USB converter, and the CNC machine was able to continue running just like it was before. This was back in 2012, and as far as I know it is still in operation to this day.
+Eventually the system failed due to a power issue which damaged it beyond repair. The replacement device from the vendor did not come with an operating system, it did not have a floppy drive or CD-ROM drive, and I did not have any of the original installation disks as they were long gone. All I had to work with was the data on the old hard drive, and two USB ports on the new device. I decided to use FreeDOS instead of MS-DOS, as I was able to quickly install it using USB. I was able to bring over the custom software from the old hard drive using an IDE to USB converter, and the CNC machine was able to continue running just like it was before. This was back in 2012, and as far as I know it is still in operation to this day.
 
 I also purchased several computers from Dell that gave me the option of shipping with FreeDOS instead of Windows. This was back before Dell would ship Linux as an option, but they had to ship the computer with "something" on the hard drive for it to leave the factory.
 
@@ -58,7 +58,7 @@ I used my IBM ThinkPad 380ED to test the installation of FreeDOS, and it worked 
 
 I won't go into the details on the process for installing FreeDOS as it is fairly straightforward and well documented. The only issue that I did have was that I was not able to get the provided FreeDOS boot disk to work correctly. I tried writing the image to a floppy disk several times, but it did not work for whatever reason.
 
-I ended up using a Windows 98 SE boot disk to load the FreeDOS installation CD and install the Operating System with all applications and games.
+I ended up using a Windows 98 SE boot disk to load the FreeDOS installation CD and install the operating system with all applications and games.
 
 ![FreeDOS on the IBM ThinkPad 380ED After Bootup](/images/blog/00043/freedos-13-bootup.png)
 
@@ -78,7 +78,7 @@ The original Command & Conquer games included multiplayer support using Null Mod
 
 ## Final Thoughts ##
 
-Overall, I was fairly impressed with the FreeDOS Operating System after my most recent exposure to it. I have always found it to be a very well made Operating System that is relatively easy to use, considering what it is trying to duplicate. At the end of the day, if I am just looking to play some older games it is considerably easier to just use an application such as [DOSBox](https://www.dosbox.com/) to do that, but there is nothing quite like playing a game on the original hardware.
+Overall, I was fairly impressed with the FreeDOS operating system after my most recent exposure to it. I have always found it to be a very well made operating system that is relatively easy to use, considering what it is trying to duplicate. At the end of the day, if I am just looking to play some older games it is considerably easier to just use an application such as [DOSBox](https://www.dosbox.com/) to do that, but there is nothing quite like playing a game on the original hardware.
 
 Sure I can just reboot into MS-DOS from Windows 9x (except with Windows Me), but if I have the option to use Open Source software instead I usually take it.
 

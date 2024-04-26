@@ -15,15 +15,15 @@ thumbnail: "/images/blog/00008/hyper-v-windows-10-boot-menu-2.png"
 draft: false
 ---
 
-I recently ran into an issue with my ThinkPad while trying to run VMware Workstation 15.0 when I had the Hyper-V role installed on Windows 10 Pro 1809. Having VMware installed at the same time as having the Hyper-V role installed is not an issue, but it is not possible to run both of them at the same time.
+I recently ran into an issue with my ThinkPad while trying to run VMware Workstation 15.0 when I had the Hyper-V role installed on Windows 10 Pro 1809. Having VMware installed at the same time as having the Hyper-V role installed is not an issue, but it is not possible to run both at the same time.
 
 ![This error message looks helpful, but it is not the issue in this case.](/images/blog/00008/vmware-error.png)
 
-By default, once the Hyper-V role is installed the ability to run another Virtualization solution on top of that is no longer possible. This is due to the way that Hyper-V manages the regular Windows Kernel and the way that it allocates resources and manages the hardware once it is loaded.
+By default, once the Hyper-V role is installed the ability to run another virtualization solution on top of that is no longer possible. This is due to the way that Hyper-V manages the regular Windows Kernel and the way that it allocates resources and manages the hardware once it is loaded.
 
-Obviously, removing the Hyper-V role when not using it is possible, but it would be very inconvenient to have to constantly install/remove roles just to use another Virtualization solution such as VMware. I have this same laptop setup to run VMware ESXi 6.5 on a different drive, but that requires me to effectively take the laptop offline while I run a Virtual Machine and I would prefer to use that drive for another Operating System (such as Linux).
+Obviously, removing the Hyper-V role when not using it is possible, but it would be very inconvenient to have to constantly install/remove roles just to use another virtualization solution such as VMware. I have this same laptop setup to run VMware ESXi 6.5 on a different drive, but that requires me to effectively take the laptop offline while I run a virtual machine and I would prefer to use that drive for another operating system (such as Linux).
 
-An easy solution to this issue is to create a new boot entry that disables Hyper-V at startup and will allow the use of another Virtualization platform (VMware, VirtualBox, etc). This is done using the **bcdedit** (Boot Command Data Edit) command.
+An easy solution to this issue is to create a new boot entry that disables Hyper-V at startup and will allow the use of another virtualization platform (VMware, VirtualBox, etc.). This is done using the **bcdedit** (Boot Command Data Edit) command.
 
 To do this, launch a Command Prompt as Administrator (PowerShell will not work). To see the existing boot entries run the **bcdedit** command:
 
@@ -68,7 +68,7 @@ bootmenupolicy          Standard
 hypervisorlaunchtype    Auto
 ```
 
-There is one command that needs to be run in order to duplicate the existing Windows 10 boot entry:
+There is one command that needs to be run to duplicate the existing Windows 10 boot entry:
 
 ```cmd
 bcdedit /copy {current} /d "Windows 10 No Hyper-V"
@@ -170,6 +170,6 @@ If everything worked correctly then VMware Workstation should work correctly. Hy
 
 ![This error message is expected and will always appear until the system is restarted.](/images/blog/00008/hyper-v-error.png)
 
-To use Hyper-V again all that needs to be done is reboot the system. While it is inconvenient to need to reboot a system in order to use a different Virtualization solution, it is not entirely common to have to run multiple Virtualization solutions on a single system, so this is certainly better than nothing.
+To use Hyper-V again all that needs to be done is reboot the system. While it is inconvenient to need to reboot a system to use a different virtualization solution, it is not entirely common to have to run multiple virtualization solutions on a single system, so this is certainly better than nothing.
 
 For more information, take a look at the [Microsoft Documentation](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bcdedit-command-line-options) for the bcdedit command.

@@ -92,7 +92,7 @@ I have released an updated version of this guide, here are the changes in this v
 * Updated the page size of the guide to letter, which makes it easier to print the guide if needed. 
 * Updated the title page of the guide to differentiate it from the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book.
 
-This is not a second edition or version 2.0 of the guide, it is a small quality of life update. I do not plan on updating this guide again since Windows Server 2019 is getting older and AD CS will not receive any major updates on that Operating System.
+This is not a second edition or version 2.0 of the guide, it is a small quality of life update. I do not plan on updating this guide again since Windows Server 2019 is getting older and AD CS will not receive any major updates on that operating system.
 
 ### Additional Materials ###
 

@@ -14,7 +14,7 @@ featureImage: "/images/blog/00020/spacex-in-flight-abort-test.jpg"
 draft: false
 ---
 
-It took ages to finally happen but the wait was worth it, and as usual the livecast was great:
+It took ages to finally happen, but the wait was worth it, and as usual the live cast was great:
 
 {{< youtube mhrkdHshb3E >}}
 

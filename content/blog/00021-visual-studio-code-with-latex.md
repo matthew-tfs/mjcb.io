@@ -27,15 +27,15 @@ I have written a follow-up post about using Visual Studio Code with LaTeX, mostl
 
 ## Introduction ##
 
-I try my best to make an effort to update my resume at least 2 or 3 times a year. Not necessarily because I am looking for a new job, but because I don't want to forget about certain accomplishments. 2019 was a very busy year for me and for the first time in almost 10 years I didn't update it once. The last time I updated it was in mid-2018, and at that time I had converted my resume from Word to [LaTeX](https://www.latex-project.org/).
+I try my best to update my resume at least 2 or 3 times a year. Not necessarily because I am looking for a new job, but because I don't want to forget about certain accomplishments. 2019 was a very busy year for me and for the first time in almost 10 years I didn't update it once. The last time I updated it was in mid-2018, and at that time I had converted my resume from Word to [LaTeX](https://www.latex-project.org/).
 
 At the time I didn't really have a good reason to use LaTeX for my resume, I just wanted to get a bit of experience using it. The biggest benefit to using LaTeX for my resume is the ability to use version control with Git. Office 365 has supported version control for a while now, but I have never been a big fan of it since I find it can create far too many snapshots and it is not always easy to search through everything.
 
-In the past I have just used LaTeX on Windows 10 with the [MiKTeX](https://miktex.org/) package, using the included [TeXworks](http://www.tug.org/texworks/) editor. TeXworks is a very basic and lightweight LaTeX editor in nature that is fast and easy to use. I am working on a new project this year that I want to use LaTeX for, but it is going to be a lot more complex than a multi-page resume so I want to use something that is a bit more robust.
+In the past I have just used LaTeX on Windows 10 with the [MiKTeX](https://miktex.org/) package, using the included [TeXworks](http://www.tug.org/texworks/) editor. TeXworks is a very basic and lightweight LaTeX editor in nature that is fast and easy to use. I am working on a new project this year that I want to use LaTeX for, but it is going to be a lot more complex than a multi-page resume, so I want to use something that is a bit more robust.
 
 I have been using [Visual Studio Code](https://code.visualstudio.com/) (VS Code) for the last few years and it is an amazing code editor and best of all it is free. For my usage, I have decided to use the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) plugin, which also uses the [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities) plugin. Since I am already familiar with MiKTeX, I decided to just stick with it over other LaTeX packages such at TeX Live. There is also a requirement to have Perl installed in order for it to work with the LaTeX Workshop plugin, and the quickest way to do that is to use a pre-built environment such as [Strawberry Perl](http://strawberryperl.com/).
 
-For this guide I am using Windows 10 Pro 1909 64-bit on my Workstation, and here are the versions of the other software as of the time of this writing:
+For this guide I am using Windows 10 Pro 1909 64-bit on my workstation, and here are the versions of the other software as of the time of this writing:
 
 * Visual Studio Code 64-bit v1.41 (System Installer)
 * MiKTeX 64-bit v2.9.7269
@@ -45,19 +45,19 @@ For this guide I am using Windows 10 Pro 1909 64-bit on my Workstation, and here
 
 ## Installing Visual Studio Code ##
 
-I won't go into the installation of VS Code since it is fairly straightforward, and accepting all of the default options should be fine. When you download it there are three options for installing it, User Installer, System Installer and Zip. It is your preference, and no matter how you install it there should be no issues using the LaTeX plugins with it.
+I won't go into the installation of VS Code since it is straightforward, and accepting all the default options should be fine. When you download it there are three options for installing it, User Installer, System Installer and Zip. It is your preference, and no matter how you install it there should be no issues using the LaTeX plugins with it.
 
 ![VS Code](/images/blog/00021/vs-code-installation-09.png "Default VS Code Window after installation.")
 
 ## Installing MiKTeX ##
 
-Like the installation of VS Code, I also won't go into the details on how to install it since it is very straightforward to do. Just accept all of the default options and everything should work. There are two post-installation tasks to do, and one thing to confirm after installation.
+Like the installation of VS Code, I also won't go into the details on how to install it since it is very straightforward to do. Just accept all the default options and everything should work. There are two post-installation tasks to do, and one thing to confirm after installation.
 
 Immediately after installation the MiKTeX Console should appear prompting you to update packages. Click on the "Update now" button and let the packages update. It should prompt you to restart the console when it completes.
 
 ![MiKTeX Installation](/images/blog/00021/miktex-installation-11.png "The number of packages that need to be updated will vary based on what version of MiKTex you installed.")
 
-When the MiKTeX Console reopens, you should be prompted to select a mode of operation. This is your choice, but if your workstation has multiple users you should select the option "Stay in user mode".
+When the MiKTeX Console reopens, you should be prompted to select a mode of operation. This is your choice, but if your workstation has multiple users, you should select the option "Stay in user mode".
 
 ![MiKTeX Installation](/images/blog/00021/miktex-installation-15.png "The Operation mode will determine where the configuration options are stored for you MiKTeX settings.")
 
@@ -65,11 +65,11 @@ You should also take a moment to confirm that the MiKTeX executables have been a
 
 ![MiKTeX PATH](/images/blog/00021/miktex-installation-path.png "Your PATH variables will vary, but make sure that MikTeX is present.")
 
-If everything looks good then proceed with installing Strawberry Perl.
+If everything looks good, then proceed with installing Strawberry Perl.
 
 ## Installing Strawberry Perl ##
 
-For the installation of Strawberry Perl, accept all of the default options. When the installation has completed, the Strawberry Perl executables should also have been automatically added to the System PATH:
+For the installation of Strawberry Perl, accept all the default options. When the installation has completed, the Strawberry Perl executables should also have been automatically added to the System PATH:
 
 ![Strawberry Perl PATH](/images/blog/00021/strawberry-perl-path.png "Your PATH variables will vary, but make sure that Strawberry Perl is present.")
 
@@ -91,9 +91,9 @@ Click on "LaTeX Workshop" and then click the "Install" button to install the ext
 
 ![LaTeX Workshop](/images/blog/00021/latex-workshop-03.png "The LaTeX Workshop plugin contains everything that you need for the LaTeX integration.")
 
-After the first extension is installed, click on "LaTeX Utilities" and then click the "Install" button to install the extension.
+After the first extension is installed, click on "LaTeX Utilities", and then click the "Install" button to install the extension.
 
-![laTeX Utilities](/images/blog/00021/latex-workshop-05.png "The LaTeX Utilities extension may not be needed for everyone, but it doesn't hurt to install it.")
+![LaTeX Utilities](/images/blog/00021/latex-workshop-05.png "The LaTeX Utilities extension may not be needed for everyone, but it doesn't hurt to install it.")
 
 That is all there is to it to install both extensions.
 

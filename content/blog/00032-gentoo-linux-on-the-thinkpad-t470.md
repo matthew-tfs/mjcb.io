@@ -17,13 +17,13 @@ featureImage: "/images/blog/00032/thinkpad-t470-kde.png"
 draft: false
 ---
 
-I have had a bit of downtime due to the entire COVID-19 pandemic, so I decided to try installing some new operating systems on a spare laptop that I had brought home for work. I should really be studying for a few Certification exams, but since the testing centres are all closed and I don't really want to do any exams with an online proctor, I had to try and fill the time. I wanted to see if any of the laptops that I had at home was compatible enough to be used as a Hackintosh (which the Lenovo ThinkPad T470 apparently is), but I wanted to setup a laptop with only Linux since it has been a while that I have used Linux as a Workstation and I will be needing one in the next few weeks for a work project.
+I have had a bit of downtime due to the entire COVID-19 pandemic, so I decided to try installing some new operating systems on a spare laptop that I had brought home for work. I should really be studying for a few Certification exams, but since the testing centres are all closed and I don't really want to do any exams with an online proctor, I had to try and fill the time. I wanted to see if any of the laptops that I had at home was compatible enough to be used as a Hackintosh (which the Lenovo ThinkPad T470 apparently is), but I wanted to setup a laptop with only Linux since it has been a while that I have used Linux as a workstation and I will be needing one in the next few weeks for a work project.
 
 I was an avid user of Gentoo Linux in the mid-2000's up until around 2011 and I realized that I haven't used Gentoo at all since. I have only ever used Linux in the Enterprise in the last 10 years, and I was using CentOS and RHEL since it was the most widely supported and the easiest to use for Linux Administrators. Obviously if I wanted to use Linux in 2020 there are lots of easier alternatives such as Ubuntu (which supports this laptop 100% out of the box), but where is the fun in that?
 
-I was originally brought to Gentoo years ago due to lack of proper wireless support from the other Linux distributions at the time, and the general lack of support for laptops that Linux had in the early 2000's. I was able to customize it to function very well on the Compaq Presario V2305CA laptop that I had at the time and I was able to get everything working.
+I was originally brought to Gentoo years ago due to lack of proper wireless support from the other Linux distributions at the time, and the general lack of support for laptops that Linux had in the early 2000's. I was able to customize it to function very well on the Compaq Presario V2305CA laptop that I had at the time, and I was able to get everything working.
 
-I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed the same. The last time I used it was on a single boot PC with an Intel Core 2 Duo and 8 GB of RAM. I had never used UEFI and I didn't own an SSD because they were expensive. I am very curious to see how much I can remember and if I can get this working without too much trouble. I am not going to be dual booting on this particular laptop since I don't need to, I am actually swapping out the existing hard drive for a new one just so I can preserve the existing Windows installation.
+I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed the same. The last time I used it was on a single boot PC with an Intel Core 2 Duo and 8 GB of RAM. I had never used UEFI, and I didn't own an SSD because they were expensive. I am very curious to see how much I can remember and if I can get this working without too much trouble. I am not going to be dual booting on this laptop since I don't need to, I am swapping out the existing hard drive for a new one just so I can preserve the existing Windows installation.
 
 {{< toc >}}
 
@@ -31,9 +31,9 @@ I know Gentoo has changed a lot since 2011, but I know a lot of it has stayed th
 
 ### Lenovo ThinkPad T470 Hardware Specifications ###
 
-At the end of the day this is a fairly basic 14" laptop and there isn't really a whole lot to say about it. The build quality feels slightly cheap compared to the more high-end Lenovo laptops such as the Lenovo ThinkPad T480s that I also use for work and the Lenovo ThinkPad P51 that is my daily driver. The port selection is actually very good, it has 3 USB ports, an SD Card slot and Thunderbolt 3 of all things, and even has a built-in Ethernet adapter. The screen is terrible, I can't think of anything positive to say about it. It is low resolution and not very bright, and I find it sometimes hard to read compared to better displays. There is also no backlit keyboard on this particular model, but it is available.
+At the end of the day this is a basic 14" laptop and there isn't really a whole lot to say about it. The build quality feels slightly cheap compared to the more high-end Lenovo laptops such as the Lenovo ThinkPad T480s that I also use for work and the Lenovo ThinkPad P51 that is my daily driver. The port selection is actually very good, it has 3 USB ports, an SD Card slot and Thunderbolt 3 of all things, and even has a built-in Ethernet adapter. The screen is terrible, I can't think of anything positive to say about it. It is low resolution and not very bright, and I find it sometimes hard to read compared to better displays. There is also no backlit keyboard on this model, but it is available.
 
-Here are the specifications for the particular model of Lenovo ThinkPad T470 that I am using:
+Here are the specifications for the model of Lenovo ThinkPad T470 that I am using:
 
 | Component         | Hardware                                                      |
 |:------------------|:--------------------------------------------------------------|
@@ -56,7 +56,7 @@ Here are the specifications for the particular model of Lenovo ThinkPad T470 tha
 
 ### Gentoo Installation ###
 
-I am not going to get into the details on how to perform a valid Stage 3 installation on this laptop, but I will post the relevant details on what needs to be done during installation and after installation in order to get everything working (and what I wasn't able to get working).
+I am not going to get into the details on how to perform a valid Stage 3 installation on this laptop, but I will post the relevant details on what needs to be done during installation and after installation in to get everything working (and what I wasn't able to get working).
 
 ### lscpu ###
 
@@ -121,7 +121,7 @@ Bus 0002 Device 0001: ID 1d6b:00003 Linux Foundation 3.0 root hub
 
 ### Hardware Status ###
 
-With Gentoo installed and configured, here is the status of all of the hardware after installing all software and configuring the Kernel:
+With Gentoo installed and configured, here is the status of all the hardware after installing all software and configuring the Kernel:
 
 | Device                | Working? | Notes                                           |
 |:----------------------|:---------|:------------------------------------------------|
@@ -168,7 +168,7 @@ Once the firmware has been installed, it can be enabled by activating the **i915
                [*]   Always enable userptr support
 ```
 
-In order to use the Intel module when compiling X, it also requires a modification to the **make.conf** file:
+To use the Intel module when compiling X, it also requires a modification to the **make.conf** file:
 
 ```console
 VIDEO_CARDS="intel i965"
@@ -273,7 +273,7 @@ You can quickly test that the Webcam is working by using the **luvcview** packag
 
 ### Smart Card Reader ###
 
-The Smart Card Reader is an embedded USB device and requires basic USB 3.0 support in order to function. It also requires an additional package to be installed in order to function:
+The Smart Card Reader is an embedded USB device and requires basic USB 3.0 support to function. It also requires an additional package to be installed to function:
 
 ```bash
 emerge sys-apps/pcsc-lite
@@ -283,7 +283,7 @@ Unfortunately I do not have any Smart Cards to test with it, so I cannot verify 
 
 ### SD Card Reader ###
 
-The SD Card Reader requires a few modules to be enabled in order to function, along with basic USB 3.0 support that should be already included in the Kernel configuration:
+The SD Card Reader requires a few modules to be enabled to function, along with basic USB 3.0 support that should be already included in the Kernel configuration:
 
 ```console
     Device Drivers  --->
@@ -335,7 +335,7 @@ POWER_SUPPLY_MANUFACTURER=Celxpert
 POWER_SUPPLY_SERIAL_NUMBER= 4394
 ```
 
-I am not sure how to setup the batteries to drain in parallel or having the external battery drain first, that is something that I will need to check later.
+I am not sure how to configure the batteries to drain in parallel or having the external battery drain first, that is something that I will need to check later.
 
 ### Other Devices ###
 
@@ -346,7 +346,7 @@ Aside from the standard hardware, there are a few other hardware components that
 * The special keys (Mute, Volume Down, Volume Up, Microphone On/Off, Brightness Down, Brightness Up, Wireless On/Off, Bluetooth On/Off) work correctly.
 * The Thunderbolt port works correctly for charging the laptop, however I do not have any Thunderbolt devices to test it with. For USB-C devices, I was able to test an ASUS MB16AC Portable Monitor and it worked correctly (using the DisplayLink kernel module).
 * The Docking Port on the laptop appears to function (the audio drivers recognize that one is present), but I cannot test it right now because I don't have a Dock available.
-* The Smart Card port appears to work, however I don't have a card available to test it with.
+* The Smart Card port appears to be detected, however I don't have a card available to test it with.
 
 ## References ##
 

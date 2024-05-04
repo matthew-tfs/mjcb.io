@@ -63,7 +63,7 @@ There are however some issues with Super Apps, and why they can cause potential 
 * If you lose access to your account, you lose access to many services simultaneously.
 * If you have all your data in one app, then it is in a single platform, and you are effectively stuck on that platform.
 
-The question is, why aren't Super Apps common outside of Asia? It is tough to say, but they do exist to a degree and more of them are coming. The one example that currently qualifies is [Uber](https://www.uber.com/), and [X (formerly Twitter)](https://x.com/) is planning on evolving into a Super App as time goes on.
+The question is, why aren't Super Apps common outside of Asia? It is tough to say, but they do exist to a degree and more of them are coming. The one example that currently qualifies is Uber, and X (formerly Twitter) is planning on evolving into a Super App as time goes on.
 
 What is Uber? It is a taxi service, it is a food delivery service, it runs errands for you, it delivers packages, and if you want to make money you can start driving for Uber and doing everything previously mentioned. All of this from the convenience of a single app. It doesn't have payments in the traditional sense, but I can load an Uber Wallet or use Uber gift cards and pay for things that way, and partially bypass the native payment processing in the operating system. Does this count as a Super App? That is certainly up for interpretation, but I think it is worthy of mentioning here. As for X (formerly Twitter), nothing has happened with it regarding adding additional functionality (payments is in their short-term plans), and it is currently just a social media app, but that can change in the future and that is currently the plan for it.
 
@@ -143,7 +143,7 @@ I am not defending Apple, but to blame Apple for the failures of any of these pl
 * Windows Phone was an excellent platform that was marketed towards consumers, but there was never any widespread app support from major companies.
 * Amazon Fire Phone was too expensive, and it had too many concessions to make it successful. It was based on Android, but lacked app support that you would expect from Android phones.
 
-I would get into other companies failures in the market such as LG or HTC and the issues that they had in the market, but those are both complicated cases and worthy of a separate post on what exactly went wrong.
+I would get into other failures in the market such as LG or HTC and the issues that they had, but those are both complicated cases and worthy of a separate post on what exactly went wrong.
 
 ## Future ##
 

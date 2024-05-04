@@ -16,7 +16,7 @@ draft: false
 
 So, this post ended up taking a lot longer to put together than I thought it would. I am still using the same MacBook Air (M1, 2020) that I was using 16 months ago when I wrote the first post, and I am still happy with the performance and the capabilities of it. I have owned it since February 2021 and been using it as my primary machine for over 2 full years now. Enough has been written on the capabilities and performance of Apple Silicon chips, so I am just going to talk about my experiences with it.
 
-I am normally quite hesitant of getting a first generation device, but I took a risk with getting the MacBook Air (M1, 2020) knowing Apple's track record with these things. After over 2 years I am still very happy with the device, and I think I definitely found the ARM device that I have been wanting for years.
+I am normally quite hesitant of getting a first-generation device, but I took a risk with getting the MacBook Air (M1, 2020) knowing Apple's track record with these things. After over 2 years I am still very happy with the device, and I think I found the ARM device that I have been wanting for years.
 
 While this post is titled "Apple Silicon, One Year Later", it is actually "Apple Silicon, Two Years Later" since I took so long to write it. This post is split into two parts, you can find the first part [here](/blog/2022/01/25/apple-silicon-one-year-later-part-1/).
 
@@ -24,13 +24,13 @@ While this post is titled "Apple Silicon, One Year Later", it is actually "Apple
 
 ## Apple Silicon ##
 
-It really came as no surprise to anyone when Apple announced that they were ditching Intel processors and moving to their own processors ([Apple Silicon](/blog/2020/06/28/apple-arm-transition/)) back in the summer of 2020. Apple had made considerable advancements to their SoC offerings on the iPhone and the iPad, so it was just a matter of time before they brought those advancements to their desktop products as well. Apple also had an advantage since iOS/iPadOS was always based on versions of macOS, so a lot of the "hard work" was already completed in regard to porting macOS to ARM and understanding the underlying architecture. They already understood how to run it as optimized as possible, since iOS devices run only on battery most of the time.
+It really came as no surprise to anyone when Apple announced that they were ditching Intel processors and moving to their own processors ([Apple Silicon](/blog/2020/06/28/apple-arm-transition/)) back in the summer of 2020. Apple had made considerable advancements to their SoC offerings on the iPhone and the iPad, so it was just a matter of time before they brought those advancements to their desktop products as well. Apple also had an advantage since iOS/iPadOS was always based on versions of macOS, so a lot of the "hard work" was already completed for porting macOS to ARM and understanding the underlying architecture. They already understood how to run it as optimized as possible, since iOS devices run only on battery most of the time.
 
 Apple is no stranger to changing architectures for their computers, the last time being when they moved from PowerPC to Intel. It had been over 15 years since that migration occurred back in 2006, but I don't remember there being too many issues with that transition. The use of Universal applications and Rosetta helped the transition go smoothly, and this won't be the last time that Rosetta would be used.
 
 ![Apple Silicon M1 basic architecture diagram.](/images/blog/00055/apple-silicon.jpg)
 
-The original M1 processor was the first Apple Silicon chip that was released by Apple. For a first generation device, it is extremely impressive and was used to power the following devices:
+The original M1 processor was the first Apple Silicon chip that was released by Apple. For a first-generation device, it is extremely impressive and was used to power the following devices:
 
 * iMac (24-inch, M1, 2021)
 * iPad Air (5th generation, 2022)
@@ -52,9 +52,9 @@ There are a few reasons why I went with the MacBook Air (M1, 2020) instead of th
 
 I wasn't overly concerned with the GPU specifications, or graphics in general as that is not a deciding factor for me owning a computer. Graphics capabilities have not been a deciding factor in buying a computer for many years for me. I don't play games on computers (and I sure wasn't going to do it on a Mac) or do any type of high intensity tasks that require a GPU. Most of the work that I do on a computer is done remotely on servers or other devices, so the speed of my device is not relevant to me.
 
-Overall, the MacBook Air (M1, 2020) looks similar to the Intel-based MacBook Air from 2018:
+Overall, the MacBook Air (M1, 2020) looks like the Intel-based MacBook Air from 2018:
 
-![MacBook Air (M1, 2020) in my home office with an ironic background.](/images/blog/00055/macbook-air-m1.jpg)
+![MacBook Air (M1, 2020) in my home office with an appropriate background.](/images/blog/00055/macbook-air-m1.jpg)
 
 ### Hardware Specifications ###
 
@@ -82,7 +82,7 @@ Since I was deciding between the MacBook Air and the MacBook Pro, I had to do a 
 | Dimensions       | **11.97" × 8.36" × 0.16" to 0.63"**       | **11.97" × 8.36" × 0.61"**                |
 | Base Cost        | **$1,299 (CAD)**                          | **$1,699 (CAD)**                          |
 
-The biggest differences between the two computers were the GPU, the battery and the base cost. The dimensions and weight weren't really an issue, but the MacBook Air is just slightly smaller overall, owing to the iconic shape of the MacBook Air. Specifications such as the screen, camera, connectivity, and input options are identical.
+The biggest differences between the two computers were the GPU, the battery, and the base cost. The dimensions and weight weren't really an issue, but the MacBook Air is just slightly smaller overall, owing to the iconic shape of the MacBook Air. Specifications such as the screen, camera, connectivity, and input options are identical.
 
 For the storage options, both computers offer 256 GB as standard, with 512 GB, 1 TB and 2 TB as additional options. For memory, 8 GB is standard, and 16 GB is the maximum (the limit of the M1 processor). The SSD and RAM are not upgradeable, and the options chosen at the time of purchase are what you are stuck with for the lifetime of the computer.
 
@@ -90,13 +90,13 @@ At the end of the day, I didn't think the extra $400 for a bigger battery was wo
 
 ### Software ###
 
-The computer shipped with macOS Big Sur (version 11) by default, and since then it has been upgraded to macOS Ventura (version 13). I really don't have much to say about macOS in general, it is a very modern and stable operating system. It did take a bit of getting used to since I never really used a Mac for an extended period of time, but I have since gotten the hang of it. Since I have been using Linux for almost 20 years, I definitely appreciate the underlying BSD architecture.
+The computer shipped with macOS Big Sur (version 11) by default, and since then it has been upgraded to macOS Ventura (version 13). I really don't have much to say about macOS in general, it is a very modern and stable operating system. It did take a bit of getting used to since I never really used a Mac for an extended period, but I have since gotten the hang of it. Since I have been using Linux for almost 20 years, I appreciate the underlying BSD architecture.
 
 There has been a considerable amount of work on getting Linux to run on Apple Silicon devices through the [Asahi Linux](https://asahilinux.org/) project and the results have been very promising, but I have not tested it yet. I want to use the laptop as it was intended, with software that is fully supported by the vendor.
 
 ### Limitations ###
 
-The first generation Apple Silicon M1 devices shipped without support for dual monitors (without workarounds), but that wasn't an issue for me since I moved to a single monitor setup around the time that I bought the MacBook Air.
+The first-generation Apple Silicon M1 devices shipped without support for dual monitors (without workarounds), but that wasn't an issue for me since I moved to a single monitor setup around the time that I bought the MacBook Air.
 
 There is also a lack of eGPU support, but that is not an issue for me since I never intended to use this device for gaming, and I don't have an eGPU to use with it anyways.
 
@@ -118,7 +118,7 @@ The MacBook Air (M1, 2020) has been my daily driver for over 2 full years and ha
 
 ### Applications ###
 
-Aside from the stock macOS applications that I use on a daily basis (Photos, Notes, Calendar, etc.), I also regularly use the following third-party applications:
+Aside from the stock macOS applications that I use daily (Photos, Notes, Calendar, etc.), I also regularly use the following third-party applications:
 
 * Family Tree Maker 2019
 * Foxit PDF Editor
@@ -135,9 +135,9 @@ Aside from the stock macOS applications that I use on a daily basis (Photos, Not
 
 There are also a few other applications that I use on a somewhat regular basis, including [Hugo](https://gohugo.io/) and [MacTeX](https://tug.org/mactex/), which are also available natively for Apple Silicon.
 
-All of these particular applications are running natively on the MacBook Air, and not using Darwin2 at all. Some of those applications were originally not compiled with support for Apple Silicon, but after almost 2 and a half years, all of the applications have been compiled to support it.
+All these applications are running natively on the MacBook Air, and not using Darwin2 at all. Some of those applications were originally not compiled with support for Apple Silicon, but after almost 2 and a half years, all the applications have been compiled to support it.
 
-The Activity Monitor shows the "Kind" of application that is currently running. On an Apple Silicon computer it will show either "Apple" or "Intel". An Apple application is running natively, and is compiled for Apple Silicon and Intel is using Darwin2 and is being converted to run.
+The Activity Monitor shows the "Kind" of application that is currently running. On an Apple Silicon computer, it will show either "Apple" or "Intel". An Apple application is running natively and is compiled for Apple Silicon and Intel is using Darwin2 and is being converted to run.
 
 An easy way to check is to sort the "Kind" column to see what type of application is running:
 
@@ -163,11 +163,11 @@ I ended up getting a subscription for [Parallels Desktop](https://www.parallels.
 
 It also offers a pre-packaged macOS 13 Ventura virtual machine that can be used for testing purposes.
 
-I won't go into how Parallels Desktop works or what the performance is like on the M1 processor, but for running the odd Windows application it works perfectly fine. Since I have a Microsoft 365 subscription, I am able to activate Windows 11 for "free" since it is included in my subscription. Parallels makes it extremely trivial to download and install Windows 11, and you can have it up and running in a few minutes after it is downloaded:
+I won't go into how Parallels Desktop works or what the performance is like on the M1 processor, but for running the odd Windows application it works perfectly fine. Since I have a Microsoft 365 subscription, I can activate Windows 11 for "free" since it is included in my subscription. Parallels makes it extremely trivial to download and install Windows 11, and you can have it up and running in a few minutes after it is downloaded:
 
 ![Windows 11 default desktop.](/images/blog/00055/windows-11-business.png)
 
-Overall, the performance is quite usable and I don't have any complaints. The Task Manager correctly identifies the architecture as Apple Silicon, as well as identifies the CPU details:
+Overall, the performance is quite usable, and I don't have any complaints. The Task Manager correctly identifies the architecture as Apple Silicon, as well as identifies the CPU details:
 
 ![Windows 11 Task Manager - Performance Tab.](/images/blog/00055/windows-11-task-manager.png)
 
@@ -175,17 +175,17 @@ At the end of the day, I only ever use Windows 11 on my MacBook Air to run the o
 
 ## Thoughts After 2 Years with Apple Silicon ##
 
-Since I have been using the MacBook Air (M1, 2020) for just over 2 years, I definitely have some things that I like and dislike about it (in no particular order).
+Since I have been using the MacBook Air (M1, 2020) for just over 2 years, I have some things that I like and dislike about it.
 
 ### Likes ###
 
-* The laptop ditches all of the legacy ports and just uses USB-C, and supports almost any dock solution.
+* The laptop ditches all the legacy ports and just uses USB-C and supports almost any dock solution.
 * The laptop holds up to the promise of instant on and instant sleep.
 * The battery does not drain when not in use unlike some other laptops.
 * The laptop has no fans, and it rarely heats up under heavy usage.
 * The battery life is fantastic, even after 2 years of usage.
-* All of the apps that I use on a daily basis have been ported to Apple Silicon, no emulation is being used.
-* All of my USB-C devices work without any issues. Existing devices such as portable DVD/Blu-ray drives, and USB peripherals also work perfectly.
+* All the apps that I use daily have been ported to Apple Silicon, no emulation is being used.
+* All my USB-C devices work without any issues. Existing devices such as portable DVD/Blu-ray drives, and USB peripherals also work perfectly.
 * With only 8 GB of RAM, the laptop is still extremely responsive. I routinely keep several dozen tabs open in Microsoft Edge, stream media, use Visual Studio Code, Remote Desktop and never have any slowdowns.
 
 I had never owned an Apple device other than an iPhone or iPad, and I never realized how convenient the integration is with things like iMessage and the ability to quickly transfer my AirPods between my laptop and my phone. Normally this is a pain to do on other platforms, but it works very well and very seamlessly.
@@ -193,14 +193,14 @@ I had never owned an Apple device other than an iPhone or iPad, and I never real
 ### Dislikes ###
 
 * The look of the MacBook Air is somewhat dated, but it is still a professional looking device.
-* Having only two USB-C ports is definitely a downside. Using a USB-C dock removes the issue altogether, and I travel with a USB-C dock in my laptop bag (Anker PowerExpand 8-in-1 USB-C) which works perfectly with the laptop.
+* Having only two USB-C ports is a downside. Using a USB-C dock removes the issue altogether, and I travel with a USB-C dock in my laptop bag (Anker PowerExpand 8-in-1 USB-C) which works perfectly with the laptop.
 * It would have been nice to put a third USB-C port on the right side of the device, especially since I sometimes use the laptop in locations where it would be convenient.
 
-I had a bit of a learning curve with macOS as I never used a Mac as my daily driver, and I was used to certain Windows-like shortcuts and features. After a week of using it I got the hang of it and I no longer have any major issues.
+I had a bit of a learning curve with macOS as I never used a Mac as my daily driver, and I was used to certain Windows-like shortcuts and features. After a week of using macOS I got the hang of it, and I no longer have any major issues.
 
 ## Recent Advancements with Apple Silicon ##
 
-Since the M1 processor was released in November, 2020, there have been several new versions and iterations of the processor family:
+Since the M1 processor was released in November 2020, there have been several new versions and iterations of the processor family:
 
 * M1 (November 10, 2020 - Present)
   * M1 Pro (October 18, 2021 - January 17, 2023)

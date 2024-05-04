@@ -46,4 +46,4 @@ This is why it is important to copyright your work. Even though copyright is imp
 
 ### Online Training Course ###
 
-Apparently there is a demand for an online training course related to this subject matter, so I will create my own after I release the second edition of my book.
+Apparently, there is a demand for an online training course related to this subject matter, so I will create my own after I release the second edition of my book.

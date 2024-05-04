@@ -3,7 +3,7 @@ title: "Travel Chromebook Experiment"
 slug: "travel-chromebook-experiment"
 date: "2023-09-25T21:22:00"
 author: "Matthew Burr"
-summary: "In September 2022 I took a 3 week trip to the Azores to visit family members, and to have my first real vacation since the end of 2019. I wasn't planning on taking my daily driver MacBook Air with me because I was concerned about it getting lost or damaged, but I wanted to take something with me in case I needed to do some work or to connect to anything at home. I ended up getting a Chromebook for the first time in several years, and it worked out exceptionally well, despite some minor limitations. I wanted to see if a Chromebook could actually be useful as a primary device for an extended period of time."
+summary: "In September 2022 I took a 3-week trip to the Azores to visit family members, and to have my first real vacation since the end of 2019. I wasn't planning on taking my daily driver MacBook Air with me because I was concerned about it getting lost or damaged, but I wanted to take something with me in case I needed to do some work or to connect to anything at home. I ended up getting a Chromebook for the first time in several years, and it worked out exceptionally well, despite some minor limitations. I wanted to see if a Chromebook could actually be useful as a primary device for an extended period."
 tags: [
     "ARM",
     "Chromebook",
@@ -18,7 +18,7 @@ draft: false
 
 **This post has been seriously delayed for multiple reasons, but I still wanted to post it despite starting it over a year ago. I still think that the content is relevant, and I already wrote this post, so I wanted to publish it anyways.**
 
-In September 2022 I took a 3 week trip to the Azores to visit family members, and to have my first real vacation since the end of 2019. I wasn't planning on taking my daily driver MacBook Air with me because I was concerned about it getting lost or damaged, but I wanted to take something with me in case I needed to do some work or to connect to anything at home. I ended up getting a Chromebook for the first time in several years, and it worked out exceptionally well, despite some minor limitations. I wanted to see if a Chromebook could actually be useful as a primary device for an extended period of time.
+In September 2022 I took a 3-week trip to the Azores to visit family members, and to have my first real vacation since the end of 2019. I wasn't planning on taking my daily driver MacBook Air with me because I was concerned about it getting lost or damaged, but I wanted to take something with me in case I needed to do some work or to connect to anything at home. I ended up getting a Chromebook for the first time in several years, and it worked out exceptionally well, despite some minor limitations. I wanted to see if a Chromebook could be useful as a primary device for an extended period.
 
 I also wanted a small portable device capable of playing media and some games for days when the weather was not the greatest, since the weather there could change rapidly.
 
@@ -32,11 +32,11 @@ Even though I was happy with the Chromebook, I ended up not keeping it and sold 
 
 I was able to get the Lenovo Chromebook Duet for under $300 when it was on sale at a local retailer. It included the tablet itself, detachable keyboard with touchpad, a magnetic kickstand, USB-C to audio dongle, and a charger with a USB-C cable. Overall, it was a good deal for a complete 2-in-1 Chromebook that included everything needed out of the box. It somewhat reminds me of the Surface Go with the size and look of the device, but this device was just slightly smaller.
 
-This particular Chromebook has support for using a stylus should you want one, but it requires a USI (Universal Stylus Initiative) stylus. There are multiple options available for these types of stylus devices, but since I don't have a need for one, I never tried one of them out.
+This Chromebook has support for using a stylus should you want one, but it requires a USI (Universal Stylus Initiative) stylus. There are multiple options available for these types of stylus devices, but since I don't have a need for one, I never tried one of them out.
 
 ### Gallery ###
 
-I think the Lenovo Chromebook Duet is a very well designed device and being a Lenovo device, feels premium. The Chromebook is split into three parts, the tablet itself, the detachable keyboard, and the detachable kickstand.
+I think the Lenovo Chromebook Duet is a very well-designed device and being a Lenovo device, feels premium. The Chromebook is split into three parts, the tablet itself, the detachable keyboard, and the detachable kickstand.
 
 The hardware is well built, and it certainly has the same look and feel of the Surface Go:
 
@@ -54,7 +54,7 @@ The hardware is well built, and it certainly has the same look and feel of the S
 
 ### Hardware Specifications ###
 
-The hardware specifications for the Lenovo Chromebook Duet (model ZA6F0008CA) are fairly good for a device of this class:
+The hardware specifications for the Lenovo Chromebook Duet (model ZA6F0008CA) are good for a device of this class:
 
 | Component        | Hardware                                                         |
 |:-----------------|:-----------------------------------------------------------------|
@@ -77,9 +77,9 @@ The hardware specifications for the Lenovo Chromebook Duet (model ZA6F0008CA) ar
 | Connectors       | <ul><li>1 x USB Type-C (Charging, DP)</li><li>1 x 5-Pin Keyboard connector</li></ul> |
 | Colour           | Ice Blue and Iron Grey                                           |
 
-This model seems to differ slightly from the model that is sold on the US Lenovo website, and that is because it is the Canadian version. The only two differences that I can see between this particular model and the one for sale on the US Lenovo website is the change from 64 GB to 128 GB for the onboard storage, and the French Bilingual keyboard.
+This model seems to differ slightly from the model that is sold on the US Lenovo website, and that is because it is the Canadian version. The only two differences that I can see between this model and the one for sale on the US Lenovo website is the change from 64 GB to 128 GB for the onboard storage, and the French Bilingual keyboard.
 
-The battery advertised a 10 hour lifetime, and after using the device for several weeks I believe that the manufacturers claims were fairly close to what they advertised. I was consistently getting around 8 hours with regular usage, and I usually only ever charged the device overnight.
+The battery advertised a 10-hour lifetime, and after using the device for several weeks I believe that the manufacturers claims were close to what they advertised. I was consistently getting around 8 hours with regular usage, and I usually only ever charged the device overnight.
 
 ## Linux Applications ###
 
@@ -89,9 +89,9 @@ Even though I had the ability to load Linux applications, there are only a few t
 
 ## Mobile Connectivity ##
 
-This Chromebook is lacking integrated LTE or 5G connectivity, but that isn't really a major issue since I always have my iPhone with me for pairing for Internet access.
+This Chromebook is lacking integrated LTE or 5G connectivity, but that isn't really a major issue since I always have my iPhone with me for pairing for internet access.
 
-I did however end up getting a Vodafone R219z Hotspot for the trip since it ended up only costing €50 (around $65 CAD) and it included a SIM card with unlimited data for 15 days (which was only a few days short of the trip). It was a fairly small device which was battery powered, and was very portable:
+I did however end up getting a Vodafone R219z Hotspot for the trip since it ended up only costing €50 (around $65 CAD) and it included a SIM card with unlimited data for 15 days (which was only a few days short of the trip). It was a small device which was battery powered, and was very portable:
 
 ![Vodafone R219z Hotspot.](/images/blog/00057/vodafone-r219z-hotspot.jpg)
 
@@ -101,34 +101,34 @@ The device itself had a basic web server that let you make configuration changes
 
 ![Vodafone R219z Hotspot usage statistics.](/images/blog/00057/gallery/vodafone-hotspot-04.png)
 
-It is good to know that the wireless options in the Azores have improved considerably since the last time that I was there. I will definitely keep that in mind for future trips, and I may even be able to work remotely in the future.
+It is good to know that the wireless options in the Azores have improved considerably since the last time that I was there. I will keep that in mind for future trips, and I may even be able to work remotely in the future.
 
 ## Home Connectivity ##
 
-I have a VPN server configured on my home network so that I am able to securely connect to any resources that I need to (I won't go into the specifics on what I use). This includes remotely connecting to my NAS and my MacBook Air. ChromeOS has native support for several VPN connections without the need for installing third-party applications, so that is quite handy, and it works well whenever that connection is needed.
+I have a VPN server configured on my home network so that I can securely connect to any resources that I need to (I won't go into the specifics on what I use). This includes remotely connecting to my NAS and my MacBook Air. ChromeOS has native support for several VPN connections without the need for installing third-party applications, so that is quite handy, and it works well whenever that connection is needed.
 
 I do use a VPN service for connecting to other locations, but since I am not getting paid to mention which one I am using I will just leave it at that. It was supported natively on ChromeOS and required no special configuration.
 
 ## Issues ##
 
-There are a few issues with this particular Chromebook that came up, but they were not serious enough to cause any major issues.
+There were a few issues with this Chromebook that came up, but they were not serious enough to cause any major issues.
 
-* The keyboard and touchpad are connected to a magnetic, 5-pin connector on the bottom of the tablet, and it seems to just be a USB device with a non-standard connector. Sometimes, the connection is not ideal after carrying the device around for extended periods of time and the connection needs to be redone. Once I figured that out I would just quickly reconnect the keyboard every time I opened it and that resolved the issue.
-* Leaving Linux apps running when the device goes to sleep can cause issues whenever the device is turned back on. This causes delays on the login screen when trying to log back in. I fixed this by closing any Linux apps before I put the device away for a few hours. This was just a minor tweak to my workflow and wasn't really a huge problem, but if I forgot to close the Linux apps I would immediately realize my mistake.
-* The storage was somewhat limited at only 128 GB and since there was no SD Card slot on the device, it made expanding the storage somewhat cumbersome. I had a USB key with some media on it that I plugged in whenever I needed access to it, but the downside was that because there was only one port on the device you couldn't also charge it at the same time. I used a small USB-C hub which allowed me to plug in a USB key and also charge the device.
+* The keyboard and touchpad are connected to a magnetic, 5-pin connector on the bottom of the tablet, and it seems to just be a USB device with a non-standard connector. Sometimes, the connection is not ideal after carrying the device around for extended periods of time and the connection needs to be redone. Once I figured that out, I would just quickly reconnect the keyboard every time I opened it and that resolved the issue.
+* Leaving Linux apps running when the device goes to sleep can cause issues whenever the device is turned back on. This causes delays on the login screen when trying to log back in. I fixed this by closing any Linux apps before I put the device away for a few hours. This was just a minor tweak to my workflow and wasn't really a huge problem, but if I forgot to close the Linux apps, I would immediately realize my mistake.
+* The storage was somewhat limited at only 128 GB and since there was no SD Card slot on the device, it made expanding the storage somewhat cumbersome. I had a USB key with some media on it that I plugged in whenever I needed access to it, but the downside was that because there was only one port on the device you couldn't also charge it at the same time. I used a small USB-C hub which allowed me to plug in a USB key and charge the device.
 * ChromeOS makes it very difficult to use multi-monitor support with certain multimedia applications. I would connect the Chromebook to a TV over an HDMI cable and whenever I tried to play media, I would just get a black screen. I never resolved this issue, but it appears to be a ChromeOS problem.
 
 ## Conclusions ##
 
-Would I use a Chromebook or ChromeOS again for an extended period of time?
+Would I use a Chromebook or ChromeOS again for an extended period?
 
 For a Chromebook, maybe, but probably not in this form factor. I prefer a more traditional laptop form factor, as the 2-in-1 tablets are great for some workflows, but as someone who does a lot of typing I found the form factor to be somewhat limited. It is also very awkward to use a device like this when you don't have a proper workspace to use. The tablet part of the Chromebook was perfectly fine to use for reading and watching videos, but I already have devices for that purpose, so adding this one into my workflow was not necessary. Like I said earlier in this post I do have an ASUS Chromebook C204 for testing purposes and it is much easier to use since it has the traditional laptop form factor.
 
 For ChromeOS, the inclusion of Linux apps and the existing option to use Android apps greatly expands the functionality of ChromeOS and makes the devices a lot more powerful and flexible to use. The regular web experience with the Chrome browser is exactly as it should be so there are no issues there.
 
-A major issue that I have is that I have no real "investment" in the Google ecosystem. I don't have an Android phone, I don't use Photos, Gmail, or Google Drive, and I don't use Google Docs. I really only use YouTube and that is about it. Trying to adapt my workflow to ChromeOS is somewhat cumbersome as I do most of my work in Office 365 and iCloud.
+A major issue that I have is that I have no real "investment" in the Google ecosystem. I don't have an Android phone, I don't use Photos, Gmail, or Google Drive, and I don't use Google Docs. I only use YouTube and that is about it. Trying to adapt my workflow to ChromeOS is somewhat cumbersome as I do most of my work in Office 365 and iCloud.
 
-Overall, it did everything that I needed it to do, although it could be a bit slow at times. However, it was also a $300 device, so my expectations were low and I wasn't disappointed.
+Overall, it did everything that I needed it to do, although it could be a bit slow at times. However, it was also a $300 device, so my expectations were low, and I wasn't disappointed.
 
 ## Links ##
 

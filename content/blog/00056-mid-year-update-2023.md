@@ -40,15 +40,15 @@ So, the only update I will provide is that I am still working on it, and I will 
 
 ## Next Projects ##
 
-I have already picked the topic for the next book that I am planning on writing. I am currently in the initial research phase and it will be a complete departure from my first book. It will be a technical book as well, but considerably different from what I have done before. I'll start actually working on it once I have completed everything else related to the PKI topics mentioned above. At that point I will most likely not revisit the AD CS subject in an in-depth manner anymore, and I will talk more about that when I publish everything.
+I have already picked the topic for the next book that I am planning on writing. I am currently in the initial research phase, and it will be a complete departure from my first book. It will be a technical book as well, but considerably different from what I have done before. I'll start working on it once I have completed everything else related to the PKI topics mentioned above. At that point I will most likely not revisit the AD CS subject in an in-depth manner anymore, and I will talk more about that when I publish everything.
 
-I will post all of my sources and research on my [docs.mjcb.io](https://docs.mjcb.io/) website when the book is published, hopefully no later than the end of 2024.
+I will post all my sources and research on my [docs.mjcb.io](https://docs.mjcb.io/) website when the book is published, hopefully no later than the end of 2024.
 
 ## Miscellaneous ##
 
-I don't really have much to say about the whole Twitter thing. I am fairly indifferent to it since I have never really used Twitter as a social media platform, and prior to the ownership changes in the fall of 2022 I had stopped going there for a some time. I had a Twitter account at one point which I closed back in 2018 when I purged most of my social media accounts, and I don't think I ever actually tweeted anything.
+I don't really have much to say about the whole Twitter thing. I am indifferent to it since I have never really used Twitter as a social media platform, and prior to the ownership changes in the fall of 2022 I had stopped going there for some time. I had a Twitter account at one point which I closed back in 2018 when I purged most of my social media accounts, and I don't think I ever actually tweeted anything.
 
-So I am not affected or concerned, or even really care what is going on with Twitter, or X as it is now called.
+So, I am not affected or concerned, or even really care what is going on with Twitter, or X as it is now called.
 
 Oddly enough the first time that I had ever heard of Twitter was way back in late 2006 or early 2007 when it was mentioned by Leo Laporte on [TWiT](https://twit.tv/). I was initially confused as to what he was even talking about.
 

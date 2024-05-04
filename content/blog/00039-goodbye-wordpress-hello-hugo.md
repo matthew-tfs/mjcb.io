@@ -16,7 +16,7 @@ thumbnail: "/images/blog/00039/hugo-logo.png"
 draft: false
 ---
 
-I have spent the last few days performing the migration from WordPress to Hugo and I think the change went fairly well considering some of the incompatibilities between the platforms. I wanted to write about the migration process from one platform/hosting provider to another, and the reasons why I wanted to make the change in the first place. Overall, the migration to Hugo went fairly well without too many major issues. There were some problems encountered along the way, but I was able to overcome them and complete the migration successfully.
+I have spent the last few days performing the migration from WordPress to Hugo and I think the change went well considering some of the incompatibilities between the platforms. I wanted to write about the migration process from one platform/hosting provider to another, and the reasons why I wanted to make the change in the first place. Overall, the migration to Hugo went well without too many major issues. There were some problems encountered along the way, but I was able to overcome them and complete the migration successfully.
 
 {{< toc >}}
 
@@ -36,7 +36,7 @@ Choosing WordPress for the CMS seemed like a very easy decision to make at the t
 * There were countless themes and plugins to pick from.
 * It was a mature platform that is constantly being updated.
 * It was portable, and I could easily move between hosting providers.
-* It was Open Source.
+* It was open-source.
 
 I never cared about the whole **Classic** to **Gutenberg** conversion on the WordPress default editor, as that conversion happened while I was "new" to WordPress. I still have no idea what the issue was that people were having, and why it was controversial.
 
@@ -44,17 +44,17 @@ Once I had settled on using WordPress for my website, I had to pick somewhere to
 
 ### Why WordPress.com? ###
 
-I decided to use [WordPress.com](https://wordpress.com/) to host my website instead of other hosting providers. Finding a host for a WordPress website is not an issue, I could probably throw a rock out of my window and hit a hosting service that could do it. I wanted something that was easy to setup and maintain, and I wanted the hassle of managing the backend server and software to be handled by someone else. I wanted a hosting provider that would keep everything up-to-date for me and provide things like analytics without requiring additional add-ons and configuration changes.
+I decided to use [WordPress.com](https://wordpress.com/) to host my website instead of other hosting providers. Finding a host for a WordPress website is not an issue, I could probably throw a rock out of my window and hit a hosting service that could do it. I wanted something that was easy to setup and maintain, and I wanted the hassle of managing the backend server and software to be handled by someone else. I wanted a hosting provider that would keep everything up to date for me and provide things like analytics without requiring additional add-ons and configuration changes.
 
 WordPress.com also supported custom themes and plugins, which was important to me as I wasn't quite sure what the website would require, so I wanted to cover every option just in case.
 
-### What's Wrong With WordPress.com? ###
+### What's Wrong with WordPress.com? ###
 
 There were some downsides to using WordPress.com as a hosting provider, and that was mostly the cost of the service and the speed of the service. It is very expensive to host a basic website with basic customizations (themes, plugins, etc.), and unlocking basic customizations seemed like a rip-off to me. My website also seemed slow and unresponsive to me on multiple locations, and that seemed unacceptable to me for virtually static content that didn't change. I would occasionally get alerts that the site was unresponsive or had high packet loss, which to me was unacceptable. I also utilized Cloudflare to try and alleviate the issues, which worked to a degree, but that is unacceptable to me.
 
-I also ended up not using a lot of WordPress plugins for multiple reasons. I felt like the plugins were not easy to customize, and the feedback plugins were absolutely terrible. I received dozens of bogus messages per day that were an absolute waste of time to sort through and answer questions from.
+I also ended up not using a lot of WordPress plugins for multiple reasons. I felt like the plugins were not easy to customize, and the feedback plugins were terrible. I received dozens of bogus messages per day that were an absolute waste of time to sort through and answer questions from.
 
-I was also not a fan of the way that WordPress handled the media library. I found it very cumbersome to manage images and other media and images would randomly stop appearing for no reason. I found out while migrating from WordPress.com to Hugo that images that I had deleted were still online and accessible, despite not appearing in the media library. I am not sure if that is a bug specific to WordPress or the hosting provider, but needless to say I was very unimpressed.
+I was also not a fan of the way that WordPress handled the media library. I found it very cumbersome to manage images and other media and images would randomly stop appearing for no reason. I found out while migrating from WordPress.com to Hugo that images that I had deleted were still online and accessible, despite not appearing in the media library. I am not sure if that is a bug specific to WordPress or the hosting provider, but I was very unimpressed.
 
 ## Hugo ##
 
@@ -62,7 +62,7 @@ I looked at static site generators at the time when I chose to use WordPress for
 
 ### Why Hugo? ###
 
-[Hugo](https://gohugo.io) is a static site generator, which takes plaintext content (Markdown files) and outputs an entire static website whenever a change is made. The best way to summarize Hugo is that is it boring, simple, fast and has very little overhead. It uses the [Go](https://go.dev/) programming language, which is insanely fast and easy to work with. It is also designed to be easily deployed without requiring complex dependencies, and supports automated deployments with Git. This means that you can stage your changes to your website on your local computer, commit your changes to Git, and those changes are automatically deployed to your website if the hosting platform supports it.
+[Hugo](https://gohugo.io) is a static site generator, which takes plaintext content (Markdown files) and outputs an entire static website whenever a change is made. The best way to summarize Hugo is that is it boring, simple, fast and has very little overhead. It uses the [Go](https://go.dev/) programming language, which is insanely fast and easy to work with. It is also designed to be easily deployed without requiring complex dependencies and supports automated deployments with Git. This means that you can stage your changes to your website on your local computer, commit your changes to Git, and those changes are automatically deployed to your website if the hosting platform supports it.
 
 Other reasons why I wanted to go with Hugo included:
 
@@ -70,7 +70,7 @@ Other reasons why I wanted to go with Hugo included:
 * Uses source control software.
 * Uses Markdown, which is very simple and easy to use (you can also use HTML if needed).
 * Very customizable.
-* It is Open Source.
+* It is open-source.
 
 The other benefit is the ease of use for creating content for my website. So much of my daily workflow is already in VS Code and Git, so moving my website to that was a no-brainer to me. It is incredibly easy to write content, test it, and deploy it, as it should be for anything.
 
@@ -92,7 +92,7 @@ Static content such as images are easy to embed at the same time, and don't requ
 
 ## Installing and Running Hugo ##
 
-Installing and running Hugo is not difficult to do at all, and a complete [Quick Start](https://gohugo.io/getting-started/quick-start/) guide is available on the Hugo website. This guide is very well done and there should be no issues in getting Hugo up and running if you follow it. I have included below the steps that I used to get Hugo running for me on Windows 11. Hugo is very simple, it installs as a single executable file at around 50 MB in size.
+Installing and running Hugo is not difficult to do at all, and a complete [Quick Start](https://gohugo.io/getting-started/quick-start/) guide is available on the Hugo website. This guide is very well done and there should be no issues in getting Hugo up and running if you follow it. I have included below the steps that I used to get Hugo running for me on Windows 11. Hugo is very simple. Hugo installs as a single executable file at around 50 MB in size.
 
 I am providing instructions on how to install Hugo on Windows 11, but I have also installed and tested Hugo using macOS. I am in the middle of migrating everything of mine to the macOS platform, and I tested it on the M1 MacBook Air as part of my migration testing for Hugo.
 
@@ -165,7 +165,7 @@ hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z Vend
 
 ### Running Hugo ###
 
-I won't go into the details on how to create a website with Hugo and install a theme, but it is fairly straightforward. Instructions on how to do this are included on the Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) guide.
+I won't go into the details on how to create a website with Hugo and install a theme, but it is straightforward. Instructions on how to do this are included on the Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) guide.
 
 One of the benefits of using Hugo over more complex solutions is the ability to quickly load your website and validate that things are working correctly. In this case, I can go right to the Git folder that has a copy of my website and run a local copy of the website:
 
@@ -218,13 +218,13 @@ Yes and no, but it went well considering the differences between the platforms. 
 
 I was able to recreate the entire website hierarchy that I had on WordPress without any issues. I was able to duplicate the URL format that I used with WordPress, so none of the posts and pages had any changes to their URL.
 
-I brought all of the images over, as well as any other media that I had hosted on WordPress.com. At the time I had around 40 posts, and they were very easy to convert to Markdown because I always wrote all of my posts in Notepad before putting them into the WordPress editor, so I didn't really have to do much to convert the posts to Markdown. The Shortcodes available in Hugo made the embedded Twitter posts and YouTube videos easy to insert into posts. A simple find/replace in VS Code removed a lot of the unneeded WordPress items.
+I brought all the images over, as well as any other media that I had hosted on WordPress.com. At the time I had around 40 posts, and they were very easy to convert to Markdown because I always wrote all my posts in Notepad before putting them into the WordPress editor, so I didn't really have to do much to convert the posts to Markdown. The Shortcodes available in Hugo made the embedded Twitter posts and YouTube videos easy to insert into posts. A simple find/replace in VS Code removed a lot of the unneeded WordPress items.
 
 The WordPress theme that I was using was obviously not compatible, but I found a few themes on the [Hugo Themes](https://themes.gohugo.io/) website that I liked. I went with the [Clarity](https://themes.gohugo.io/themes/hugo-clarity/) theme and made minor modifications to it.
 
 The biggest issue I had was with the images that I had been using, I had to manually go through all posts and insert links to the correct images. I also had to correct things like URL references that they were using.
 
-I probably spent around 6 hours converting everything and validating the changes, which in the long run isn't that much of an issue. I took the opportunity to cleanup the number of tags that I was using, as I did not realize how excessive they were. I decided to put a cap of 5 tags to posts, anything more is just excessive in my opinion. I will utilize also categories more often as well to differentiate content.
+I probably spent around 6 hours converting everything and validating the changes, which in the long run isn't that much of an issue. I took the opportunity to clean up the number of tags that I was using, as I did not realize how excessive they were. I decided to put a cap of 5 tags to posts, anything more is just excessive in my opinion. I will also utilize categories more often as well to differentiate content.
 
 Overall, the conversion was painless, worked perfectly and I am happy with the results.
 
@@ -247,6 +247,8 @@ Overall, VS Code and the extensions make managing a Hugo website very easy.
 ## Conclusion ##
 
 Hugo is an excellent option for creating static websites, and I was able to move from WordPress to Hugo without any major issues. My only issue with it was that I did not make the change earlier. I will very likely convert the [Ten Fifteen Solutions](https://tenfifteen.ca/) website in the future, as it is the last website I am running that uses WordPress.
+
+The biggest advantage to converting from WordPress to Hugo is that my website is no longer trapped in a database. The entire contents of the website are not in plaintext Markdown files, so it is trivial to quickly change the content without requiring cumbersome tools to do so. It allows the website to be even more portable, so if I need to convert to a different platform in the future, it will be even easier to do.
 
 ## Links ##
 

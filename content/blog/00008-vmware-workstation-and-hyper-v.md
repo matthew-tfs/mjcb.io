@@ -3,7 +3,7 @@ title: "VMware Workstation and Hyper-V"
 slug: "vmware-workstation-and-hyper-v"
 date: "2018-11-14T21:09:00"
 author: "Matthew Burr"
-summary: "I recently ran into an issue with my ThinkPad while trying to run VMware Workstation 15.0 when I had the Hyper-V role installed on Windows 10 Pro 1809. Having VMware installed at the same time as having the Hyper-V role installed is not an issue, but it is not possible to run both of them at the same time."
+summary: "I recently ran into an issue with my ThinkPad while trying to run VMware Workstation 15.0 when I had the Hyper-V role installed on Windows 10 Pro 1809. Having VMware installed at the same time as having the Hyper-V role installed is not an issue, but it is not possible to run both at the same time."
 tags: [
     "Guides",
     "Hyper-V",
@@ -21,7 +21,7 @@ I recently ran into an issue with my ThinkPad while trying to run VMware Worksta
 
 By default, once the Hyper-V role is installed the ability to run another virtualization solution on top of that is no longer possible. This is due to the way that Hyper-V manages the regular Windows Kernel and the way that it allocates resources and manages the hardware once it is loaded.
 
-Obviously, removing the Hyper-V role when not using it is possible, but it would be very inconvenient to have to constantly install/remove roles just to use another virtualization solution such as VMware. I have this same laptop setup to run VMware ESXi 6.5 on a different drive, but that requires me to effectively take the laptop offline while I run a virtual machine and I would prefer to use that drive for another operating system (such as Linux).
+Obviously, removing the Hyper-V role when not using it is possible, but it would be very inconvenient to have to constantly install/remove roles just to use another virtualization solution such as VMware. I have this same laptop setup to run VMware ESXi 6.5 on a different drive, but that requires me to effectively take the laptop offline while I run a virtual machine, and I would prefer to use that drive for another operating system (such as Linux).
 
 An easy solution to this issue is to create a new boot entry that disables Hyper-V at startup and will allow the use of another virtualization platform (VMware, VirtualBox, etc.). This is done using the **bcdedit** (Boot Command Data Edit) command.
 
@@ -173,3 +173,7 @@ If everything worked correctly then VMware Workstation should work correctly. Hy
 To use Hyper-V again all that needs to be done is reboot the system. While it is inconvenient to need to reboot a system to use a different virtualization solution, it is not entirely common to have to run multiple virtualization solutions on a single system, so this is certainly better than nothing.
 
 For more information, take a look at the [Microsoft Documentation](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bcdedit-command-line-options) for the bcdedit command.
+
+## Links ##
+
+* [BCDEdit Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bcdedit-command-line-options) ([Local Version](/docs/blog/00008/bcdedit_command-line_options.pdf))

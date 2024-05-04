@@ -3,7 +3,7 @@ title: "New Website"
 slug: "new-website"
 date: "2018-04-16T08:44:00"
 author: "Matthew Burr"
-summary: "Just a quick post about my new website and what I am planning to use it for. It was a long time coming, so hopefully I can commit to actually posting here often."
+summary: "Just a quick post about my new website and what I am planning to use it for. It was a long time coming, so hopefully I can commit to posting here often."
 tags: [
     "Website",
     "WordPress"

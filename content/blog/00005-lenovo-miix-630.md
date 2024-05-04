@@ -3,7 +3,7 @@ title: "Lenovo Miix 630"
 slug: "lenovo-miix-630"
 date: "2018-10-04T19:35:00"
 author: "Matthew Burr"
-summary: "I wanted to do a follow up my previous post about Windows on ARM since I have had some recent hands-on experience with this platform. I was able to obtain a Lenovo Miix 630 through a contract that I am working on and I have been using it in a daily basis for the last 2 months. I had wanted to give this platform a fair chance, and here is what I found out."
+summary: "I wanted to do a follow up my previous post about Windows on ARM since I have had some recent hands-on experience with this platform. I was able to obtain a Lenovo Miix 630 through a contract that I am working on, and I have been using it in a daily basis for the last 2 months. I had wanted to give this platform a fair chance, and here is what I found out."
 tags: [
     "ARM",
     "Lenovo",
@@ -23,11 +23,11 @@ I wanted to do a follow up my previous post about Windows on ARM since I have ha
 
 ## Windows 10 S Disclaimer ##
 
-I am going to start off by saying that I am not going to criticize this device for running Windows 10 S. I am also completely aware that it can be freely upgraded to Windows 10 Pro. In fact, I did upgrade it as part of this review so that I could run some benchmarking tools which were not compatible with Windows 10 S (I moved it back to S mode afterwards). I fully intended to run this device in S mode as part of the day to day usage of it from day one.
+I am going to start off by saying that I am not going to criticize this device for running Windows 10 S. I am also completely aware that it can be freely upgraded to Windows 10 Pro. In fact, I did upgrade it as part of this review so that I could run some benchmarking tools which were not compatible with Windows 10 S (I moved it back to S mode afterwards). I fully intended to run this device in S mode as part of the day-to-day usage of it from day one.
 
 ## Hardware Overview ##
 
-Overall, the Lenovo Miix 630 is very well designed, and it definitely feels like a premium device. The device itself is only 7.3mm thick and that is thanks to the fan-less design and the compact Qualcomm chipset. At 3.1 pounds it is a bit heavier than I would have expected, but that is not really a big deal.
+Overall, the Lenovo Miix 630 is very well designed, and it feels like a premium device. The device itself is only 7.3mm thick and that is thanks to the fan-less design and the compact Qualcomm chipset. At 3.1 pounds it is a bit heavier than I would have expected, but that is not really a big deal.
 
 The hardware is very well built, and looks very professional:
 
@@ -39,11 +39,11 @@ The hardware is very well built, and looks very professional:
 
 ![The Lenovo Miix 630 tablet](/images/blog/00005/gallery/lenovo-miix-630-closed-front.jpg)
 
-Just like the Surface Pro, the keyboard serves as a cover for the front of the device, but it also acts as the kickstand as well. The keyboard cover is very well designed, and is similar to the HP ENVY x2 (which in turn is based on the Qualcomm Reference Design for this platform). It attaches with powerful magnets at the bottom of the device and requires a bit of force to remove. Also like the Surface Pro, the keyboard also folds behind the device when you want to use it in Tablet mode without having to remove the cover entirely.
+Just like the Surface Pro, the keyboard serves as a cover for the front of the device, but it also acts as the kickstand as well. The keyboard cover is very well designed and is like the HP ENVY x2 (which in turn is based on the Qualcomm Reference Design for this platform). It attaches with powerful magnets at the bottom of the device and requires a bit of force to remove. Also like the Surface Pro, the keyboard also folds behind the device when you want to use it in Tablet mode without having to remove the cover entirely.
 
-The Lenovo Digital Pen attaches to the cover with a built-in holder that cannot be removed, and just like the Surface Pro the pen can also magnetically attach to the right side of the device when you are not using it. I would recommend using the built-in holder when transporting the Pen, since it is very likely to fall off. I don't have a lot to say about the accuracy or quality of the Pen itself, I only ever use it for annotating documents and never for drawing anything, but it seems to work well and is fairly similar to the Surface Pen.
+The Lenovo Digital Pen attaches to the cover with a built-in holder that cannot be removed, and just like the Surface Pro the pen can also magnetically attach to the right side of the device when you are not using it. I would recommend using the built-in holder when transporting the pen, since it is very likely to fall off. I don't have a lot to say about the accuracy or quality of the pen itself, I only ever use it for annotating documents and never for drawing anything, but it seems to work well and is like the Surface pen.
 
-The device itself has very few ports on it, just a single USB-C Port and a Headphone jack. To save space on the device, the SD Card and SIM Card share the same slot and is easily opened with the removal tool. If you require additional ports or would like to use USB A devices you have the option of using the device with a USB-C Hub. I had the [MECO 7 in 1 USB-C Hub](https://www.amazon.ca/gp/product/B07C5V1GJD/) and it worked perfectly and supported charging as well. It also works perfectly with a regular USB-C to USB A adapter as well. I normally use Bluetooth headphones now, but the few times I had to plug in my headphones it sounded perfectly fine. It even supported the microphone on my Jabra headset.
+The device itself has very few ports on it, just a single USB-C Port and a Headphone jack. To save space on the device, the SD Card and SIM Card share the same slot and is easily opened with the removal tool. If you require additional ports or would like to use USB A devices you have the option of using the device with a USB-C Hub. I had a basic USB-C hub and it worked perfectly, and supported charging as well. It also works perfectly with a regular USB-C to USB A adapter as well. I normally use Bluetooth headphones now, but the few times I had to plug in my headphones it sounded perfectly fine. It even supported the microphone on my Jabra headset.
 
 ## Hardware Specifications ##
 
@@ -64,7 +64,7 @@ The hardware specifications for the Lenovo Miix 630 are good for a device of thi
 | Dimensions       | Without keyboard: 210mm x 293mm x 7.3mm / 8.23" x 11.54" x 0.29" |
 | Weight           | <ul><li>With keyboard: 1.39 kg / 3.1 lbs</li><li>Without keyboard: 770 g / 1.7 lbs</li></ul> |
 | WLAN             | 802.11AC (2 x 2) WiFi                                            |
-| Bluetooth        | Bluetooth 4.1, Low-energy and security                           |
+| Bluetooth        | Bluetooth 4.1, Low-energy, and security                          |
 | WWAN             | LTE Cat 11                                                       |
 | Keyboard and Pen | <ul><li>Full sized backlit keyboard</li><li>Lenovo Digital Pen (uses AAAA battery)</li></ul> |
 | Connectors       | <ul><li>1 x USB Type-C (Charging, DP, 3.0)</li><li>1 x Micro SD card slot (on SIM tray)</li><li>1 x Nano SIM card slot</li><li>1 x Audio combo jack</li></ul> |
@@ -97,7 +97,7 @@ Something odd that I noticed was that there is an option to install the Windows 
 
 This issue is probably easy to fix, the Linux applications in the Microsoft Store probably just need to be recompiled for ARM.
 
-I have been using Edge as my primary browser for the past 6 months on all of my Windows 10 devices and I don't have anything bad to say about it. With support for extensions, I can easily add important tools such as uBlock Origin and RES. The fact that it handles multiple local media files (such as PDF) means that I didn't need to worry about adding applications such as Adobe Reader.
+I have been using Edge as my primary browser for the past 6 months on all my Windows 10 devices and I don't have anything bad to say about it. With support for extensions, I can easily add important tools such as uBlock Origin and RES. The fact that it handles multiple local media files (such as PDF) means that I didn't need to worry about adding applications such as Adobe Reader.
 
 Overall, the Windows on ARM experience is pretty much the same as you would expect from Windows 10 S mode on a regular x86 platform.
 
@@ -117,7 +117,7 @@ The laptop shipped with a SIM card for the Lenovo Connect service. It was suppos
 
 ![Lenovo Miix 630 Rogers LTE](/images/blog/00005/lenovo-miix-630-rogers-lte.png)
 
-Windows 10 is very good at managing LTE on the device, and things like quotas and suspending background services are easy to setup. I normally leave LTE disabled when I am not using it, but it is quite handy to leave it on and still receive notifications when the computer is suspended (and not take a hit on battery life). The mobile hotspot function also works quite well, but when you use that feature it is very easy to use all of your data if you are not careful.
+Windows 10 is very good at managing LTE on the device, and things like quotas and suspending background services are easy to setup. I normally leave LTE disabled when I am not using it, but it is quite handy to leave it on and still receive notifications when the computer is suspended (and not take a hit on battery life). The mobile hotspot function also works quite well, but when you use that feature it is very easy to use all your data if you are not careful.
 
 ## Performance ##
 
@@ -133,9 +133,9 @@ Overall, I am happy with the performance and the Lenovo Miix 630 fits well into 
 
 ## Issues ##
 
-No device is perfect, and this is definitely a first generation device, so I have encountered a few minor issues with the device. The most annoying issue is that sometimes I run into an issue with keystrokes not always being recorded. This is an intermittent issue that doesn't always happen. I find that when I have the keyboard lying flat instead of propped up the issue happens less frequently.
+No device is perfect, and this is a first-generation device, so I have encountered a few minor issues with the device. The most annoying issue is that sometimes I run into an issue with keystrokes not always being recorded. This is an intermittent issue that doesn't always happen. I find that when I have the keyboard lying flat instead of propped up the issue happens less frequently.
 
-Another annoying issue is with the screen always trying to automatically adjust the brightness. This only happens when it is on battery power, and I notice it when I am browsing the Internet. Whenever I open a tab in Edge, I notice the display quickly dims and then goes back up. I am not sure how to fix this, but I am thinking that it might just be a driver issue so hopefully a future update corrects this. The issue even occurs when I disable automatic brightness on the device. However, the issue never happens when it is plugged in.
+Another annoying issue is with the screen always trying to automatically adjust the brightness. This only happens when it is on battery power, and I notice it when I am browsing the internet. Whenever I open a tab in Edge, I notice the display quickly dims and then increases in brightness. I am not sure how to fix this, but I am thinking that it might just be a driver issue so hopefully a future update corrects this. The issue even occurs when I disable automatic brightness on the device. However, the issue never happens when it is plugged in.
 
 And this is very annoying:
 
@@ -145,7 +145,7 @@ This is a limitation of the Windows 10 S environment and nothing specific to Win
 
 ## Thoughts ##
 
-This is a first generation device and I think it has promise. The performance of the Qualcomm Snapdragon chips are getting better with every release and it won't take long for these chips to catch up to the offerings from Intel and AMD.
+This is a first-generation device and I think it has promise. The performance of the Qualcomm Snapdragon chips is getting better with every release, and it won't take long for these chips to catch up to the offerings from Intel and AMD.
 
 At the time of this writing, I was using the Windows 10 1803 update. When the 1809 update is released I will update this post if I notice any changes with the device.
 

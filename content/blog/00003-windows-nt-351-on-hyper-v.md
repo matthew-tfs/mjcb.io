@@ -18,7 +18,7 @@ draft: false
 
 I ran into a few issues with running this very old operating system as a virtual machine on Hyper-V a few days ago. I needed to do this for a personal project that I am working on, one that I have been thinking about doing for a while now. Since I ran into a few issues with getting this to work correctly, I thought I should share my findings and write a quick guide on how to get Windows NT 3.51 Server and Windows NT 3.51 Workstation running on Hyper-V.
 
-The issue that I kept encountering was the installer would constantly crash during installation because of a problem with the Network Adapter. I needed the ability to run Windows NT 3.51 Server as a Domain Controller instead of a standalone Server, so removing the Network Adapter at installation time was not an option for me.
+The issue that I kept encountering was the installer would constantly crash during installation because of a problem with the Network Adapter. I needed the ability to run Windows NT 3.51 Server as a Domain Controller instead of a standalone server, so removing the Network Adapter at installation time was not an option for me.
 
 {{< toc >}}
 
@@ -44,7 +44,7 @@ I had a lot of options for how I would undertake this project. I was certainly n
 
 ## Virtual Machine Settings ##
 
-There are a few specific settings that need to be created for these virtual machines to work correctly. I won't go into the specifics on how to create a virtual machine in Hyper-V, but here are the details on what the virtual machine settings need to be for both Windows NT 3.51 Server and Workstation:
+There are a few specific settings that need to be created for these virtual machines to work correctly. I won't go into the specifics on how to create a virtual machine in Hyper-V, but here are the details on what the virtual machine settings need to be for both Windows NT 3.51 Server and Windows NT 3.51 Workstation:
 
 * Generation: Generation 1
 * Memory: 64MB (you can use more memory if you want, but remember that it is a 32-bit operating system)
@@ -59,10 +59,10 @@ Once the virtual machine has been created, go into the virtual machine settings,
 * Remove the Default Network Adapter (not compatible with Windows NT 3.51).
 * Modify the BIOS settings by moving the floppy drive to top of list. The proper order should be Floppy, CD-ROM, IDE, Legacy Network Adapter.
 
-For the Network Adapter you have two options depending on how you intend on using the Server after the installation is completed:
+For the Network Adapter you have two options depending on how you intend on using the server after the installation is completed:
 
-* If you are setting the Server up as a Domain Controller, **add a Legacy Network Adapter and add it to the virtual network that you intend to use**. There is a setting that you will need to change during installation to prevent it from crashing.
-* If you are setting the Server up as a regular Server, **do not add the Legacy Network Adapter**. You will have to add the adapter after the installation is complete. If you are installing the Workstation this also applies.
+* If you are setting up the server up as a Domain Controller, **add a Legacy Network Adapter and add it to the virtual network that you intend to use**. There is a setting that you will need to change during installation to prevent it from crashing.
+* If you are setting up the server up as a regular server, **do not add the Legacy Network Adapter**. You will have to add the adapter after the installation is complete. If you are installing Windows NT 3.51 Workstation this also applies.
 
 An additional step that will help with the installation is to enable compatibility for older operating systems on the virtual machine. There is nowhere to set this in the Hyper-V Manager, it must be set with PowerShell:
 
@@ -126,7 +126,7 @@ If you installed Windows NT 3.5 with a Network Adapter you will be greeted with 
 
 ![Windows NT 3.51 Network Error](/images/blog/00003/windows-nt-3-51-network-error-1.png "If you check the Event Viewer, the error states that the Network failed to start.")
 
-To correct this issue all you need to do is go to the Control Panel, open the network settings, and set the Connection Type of the Network Adapter to **AutoSense**. Once the virtual machine restarts, the error message will be disappear, and the network will be available.
+To correct this issue all you need to do is go to the Control Panel, open the network settings, and set the Connection Type of the Network Adapter to **AutoSense**. Once the virtual machine restarts, the error message will disappear, and the network will be available.
 
 Once the Network settings have been configured, you should fix the Screen Resolution by changing it from 640x480 to 800x600. You will need to restart the virtual machine to apply the settings.
 

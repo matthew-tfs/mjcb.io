@@ -3,7 +3,7 @@ title: "Windows on ARM"
 slug: "windows-on-arm"
 date: "2018-08-05T14:31:00"
 author: "Matthew Burr"
-summary: "Not a lot of people realize that Windows can be used on more than just x86 and x64-based hardware. Windows NT was designed from day one to be portable on multiple hardware platforms and was supported at one time on the MIPS, Alpha, PowerPC and Itanium platforms."
+summary: "Not a lot of people realize that Windows can be used on more than just x86 and x64-based hardware. Windows NT was designed from day one to be portable on multiple hardware platforms and was supported at one time on the MIPS, Alpha, PowerPC, and Itanium platforms."
 tags: [
     "ARM",
     "Microsoft",
@@ -28,11 +28,11 @@ Not a lot of people realize that Windows can be used on more than just x86 and x
 
 There has been a mixed reception on these initial devices that have been released so far, but only time will tell if the platform is successful or not.
 
-It has been a few years since I have used a non-x86 device running Windows, and that is excluding the many Windows Phone 8/8.1 devices (ARM) that I used between 2012 to 2016 and my Xbox 360 console (PowerPC) that I owned around the same time. I had the opportunity to manage a few Itanium Servers running Windows around 2010 which had some unique challenges that I was not really used to at the time.
+It has been a few years since I have used a non-x86 device running Windows, and that is excluding the many Windows Phone 8/8.1 devices (ARM) that I used between 2012 to 2016 and my Xbox 360 console (PowerPC) that I owned around the same time. I had the opportunity to manage a few Itanium servers running Windows around 2010 which had some unique challenges that I was not really used to at the time.
 
-The first device that I ever used running Windows in a normal sense (Windows desktop/shell) on a non-x86 platform was the first generation Surface running Windows RT.
+The first device that I ever used running Windows in a normal sense (Windows desktop/shell) on a non-x86 platform was the first-generation Surface running Windows RT.
 
-## Windows on ARM (Round One - First Generation Surface) ##
+## Windows on ARM (Round One - First-Generation Surface) ##
 
 When the Surface line was first announced I was very excited, I bought the original Surface the day it became available for pre-order back in early October 2012. At the time it was certainly an interesting device, and the specifications are modest in comparison to devices that are available today:
 
@@ -59,7 +59,7 @@ Things were a lot different back then when Microsoft released the first Surface 
 
 I really enjoyed using the Surface RT when I had it. It functioned well as both a laptop and as a tablet and I always preferred it over using an iPad. I never had a problem with using Internet Explorer as the only browser, since Chrome was not available on the platform and Edge did not yet exist (yes, I like Edge, it is a great browser in my opinion).
 
-As time went on there were some fun little workarounds to the limitations that people discovered. I remember a few months after launch the ability to side load certain apps such as PuTTY with a minor workaround. I also played around with published Remote Desktop applications at the time which allowed me to load applications such as Visio on a device that was never really meant to support it. It wasn't a bad device, but it wasn't quite ready for the masses, and it was most definitely a first generation device. Since it was the first Surface device, the kickstand only had one position unlike the newer Surface tablets that can go to any position.
+As time went on there were some fun little workarounds to the limitations that people discovered. I remember a few months after launch the ability to side load certain apps such as PuTTY with a minor workaround. I also played around with published Remote Desktop applications at the time which allowed me to load applications such as Visio on a device that was never really meant to support it. It wasn't a bad device, but it wasn't quite ready for the masses, and it was most definitely a first-generation device. Since it was the first Surface device, the kickstand only had one position unlike the newer Surface tablets that can go to any position.
 
 After a few months I ended up selling it and buying an ASUS Ultrabook instead since I ran into several issues with some applications that I absolutely needed on a portable Windows device. Obviously, the Surface brand went on to be quite successful for Microsoft and my personal daily driver is a Surface Laptop, which I think is a fantastic device.
 
@@ -121,7 +121,7 @@ Some annoying restrictions that are a bit of a pain on S mode are lack on Comman
 
 ## The Future of Windows on ARM ##
 
-All I can say is that I hope the platform continues to evolve. The Snapdragon 1000 was announced, and Qualcomm released their roadmap up until 2023. Since Qualcomm basically never releases a roadmap, this was certainly a surprise to me. Intel has been struggling for the last few years with their product line, and since ARM does not have the same legacy baggage that x86 does, it may be possible with ARM to overtake Intel in the near future.
+All I can say is that I hope the platform continues to evolve. The Snapdragon 1000 was announced, and Qualcomm released their roadmap up until 2023. Since Qualcomm basically never releases a roadmap, this was certainly a surprise to me. Intel has been struggling for the last few years with their product line, and since ARM does not have the same legacy baggage that x86 does, it may be possible for ARM to overtake Intel in the future.
 
 Microsoft also is planning on retiring the Windows 10 S branding, since it is confusing to people. They are going to enhance the S mode functionality and make it easier to go back and forth between this mode without the need to reinstall the operating system.
 

@@ -3,7 +3,7 @@ title: "WSL Changes in Windows 10 1809"
 slug: "wsl-changes-in-1809"
 date: "2018-11-07T18:42:00"
 author: "Matthew Burr"
-summary: "I found a really good blog article about the changes that were made to the Windows Subsystem for Linux (WSL) in the Windows 10 1809 update (or whatever it will be called when they eventually release it again) on the Windows Command Line Blog."
+summary: "I found a good blog article about the changes that were made to the Windows Subsystem for Linux (WSL) in the Windows 10 1809 update (or whatever it will be called when they eventually release it again) on the Windows Command Line Blog."
 tags: [
     "Linux",
     "Microsoft",
@@ -21,8 +21,9 @@ I managed to install the 1809 update on my Surface Laptop and ThinkPad before th
 
 ![WSL Open Linux Shell from File Explorer](/images/blog/00007/wsl-open-shell.png)
 
-Also mentioned was support for WSL on ARM devices, so once I am able to get my Lenovo Miix 630 up to the 1809 update I will test to see if it works. This was an annoyance for me before with the WoA implementation, so if this works it will make the device even better than it already is for my usage.
+Also mentioned was support for WSL on ARM devices, so once I can get my Lenovo Miix 630 up to the 1809 update, I will test to see if it works. This was an annoyance for me before with the WoA implementation, so if this works it will make the device even better than it already is for my usage.
 
 ## Links ##
 
-* [What's New for WSL in the Windows 10 October 2018 Update](https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/)
+* [What's New for WSL in the Windows 10 October 2018 Update](https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/) ([Local Version](/docs/blog/00007/whats_new_for_wsl_in_the_windows_10_october_2018_update.pdf))
+

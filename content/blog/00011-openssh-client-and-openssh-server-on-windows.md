@@ -3,7 +3,7 @@ title: "OpenSSH Client and OpenSSH Server on Windows"
 slug: "openssh-client-and-openssh-server-on-windows"
 date: "2019-01-15T19:49:00"
 author: "Matthew Burr"
-summary: "One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. Certainly this was something that I never expected to happen."
+summary: "One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. Certainly, this was something that I never expected to happen, but it is a welcome change."
 tags: [
     "Microsoft",
     "Networking",
@@ -15,7 +15,7 @@ thumbnail: "/images/blog/00011/openssh-on-windows.png"
 draft: false
 ---
 
-One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. It is now incredibly easy to SSH into a Windows Workstation/Server using native tools that are now builtin to the operating system. In the past this was only possible by using complicated tools and odd workarounds in order to get an SSH-like implementation to work correctly. You can also use the SSH commands right from the Windows command line (CMD, PowerShell), without needing third-party tools or odd commands. This is a very nice change that Microsoft has added, since it is much easier to remotely manage a Windows through the Command Line instead of the GUI, and having the ability to use the same tools on both Windows and Linux is a big advantage.
+One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. It is now incredibly easy to SSH into a Windows device using native tools that are now built-in to the operating system. In the past this was only possible by using complicated tools and odd workarounds to get an SSH-like implementation to work correctly. You can also use the SSH commands right from the Windows command line (CMD, PowerShell), without needing third-party tools or odd commands. This is a very nice change that Microsoft has added, since it is much easier to remotely manage a Windows through the Command Line instead of the GUI, and having the ability to use the same tools on both Windows and Linux is a big advantage.
 
 **Note:** I have only tested this on Windows 10 Pro for Workstations (Version 1809 Build 17763.253) and on Windows Server 2019 Standard.
 
@@ -38,7 +38,7 @@ Highlight each option and click the **Install** button to install the feature. I
 
 ### Command Line Installation ###
 
-To install through the Command Line, open an elevated PowerShell console in order to proceed. To confirm that you are able to install the OpenSSH Client and OpenSSH Server features, run the following command:
+To install through the Command Line, open an elevated PowerShell console to proceed. To confirm that you can install the OpenSSH Client and OpenSSH Server features, run the following command:
 
 ```powershell
 Get-WindowsCapability -Online | findstr OpenSSH
@@ -60,7 +60,7 @@ Like installing through the Settings app, a restart should not be necessary afte
 
 ## Services Start ##
 
-In order to start using OpenSSH Server, the associated services will need to be started first. This can be done through either the Services MMC console or through the Command Line.
+To start using OpenSSH Server, the associated services will need to be started first. This can be done through either the Services MMC console or through the Command Line.
 
 ### Services MMC Console ###
 
@@ -75,7 +75,7 @@ Right-click on each service and select **Properties**. Under Service Status, cli
 
 ### Command Line Services ###
 
-To start the OpenSSH Server services and enable them to run automatically, there are a few command that you will need to run. To do this, open an elevated PowerShell console and run the following commands to start the OpenSSH Server:
+To start the OpenSSH Server services and enable them to run automatically, there are a few commands that you will need to run. To do this, open an elevated PowerShell console and run the following commands to start the OpenSSH Server:
 
 ```powershell
 Start-Service sshd
@@ -93,7 +93,7 @@ After this has been completed, you should be able to connect to your Windows ins
 
 ## Using OpenSSH Client ##
 
-The OpenSSH Client can be used exactly the same way as you would on any Linux/Unix host. It will work through the regular Command Line and in PowerShell:
+The OpenSSH Client can be used the same way as you would on any Linux/Unix host. It will work through the regular Command Line and in PowerShell:
 
 ```powershell
 PS C:\> ssh.exe
@@ -119,11 +119,11 @@ usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
            [user@]hostname [command]
 ```
 
-I won't go into the details on how to use any of these advanced options, there are very good tutorials on how to use the OpenSSH Client on other sites. The behaviour of OpenSSH Client on Windows should be almost exactly the same as on a Linux environment. So far I haven't run into any issues with connectivity.
+I won't go into the details on how to use any of these advanced options, there are very good tutorials on how to use the OpenSSH Client on other sites. The behaviour of OpenSSH Client on Windows should be almost the same as on a Linux environment. So far, I haven't run into any issues with connectivity.
 
 ## Connecting to OpenSSH Server ##
 
-There is nothing special required to connect to a Windows host, it behaves exactly the same way as any other SSH host. There are a few different username formats that you can use:
+There is nothing special required to connect to a Windows host, it behaves the same way as any other SSH host. There are a few different username formats that you can use:
 
 ```ini
 user@windows-host (Local User Account)
@@ -141,7 +141,7 @@ There is nothing more to OpenSSH Server, you can manage your Windows host from t
 
 ## Change the Default Shell ##
 
-By default when you login to a Windows installation with SSH, it defaults to the regular Command Prompt (cmd.exe). I prefer PowerShell for everyday usage, and it is easy to switch to PowerShell once you login, but you can change the default shell to save yourself some time if you are going to be using this feature often.
+By default, when you login to a Windows installation with SSH, it defaults to the regular Command Prompt (cmd.exe). I prefer PowerShell for everyday usage, and it is easy to switch to PowerShell once you login, but you can change the default shell to save yourself some time if you are going to be using this feature often.
 
 This is done through the Registry Editor, which will run with Administrator privileges. You need to navigate to the following key:
 
@@ -149,7 +149,7 @@ This is done through the Registry Editor, which will run with Administrator priv
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\OpenSSH
 ```
 
-Create a new string called DefaultShell and give it the following value:
+Create a new string called **DefaultShell** and give it the following value:
 
 ```ini
 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
@@ -163,7 +163,7 @@ If you do want to use Bash, just type in **bash.exe** to switch to it.
 
 ## Additional Settings ##
 
-There are a few customizations that you can do to the OpenSSH Server service if needed. Since this is a port of the OpenSSH Server, the customization is done in a very similar way. To begin, the directory where all of the associated executable files are found is in the **C:\Windows\System32\OpenSSH** directory:
+There are a few customizations that you can do to the OpenSSH Server service if needed. Since this is a port of the OpenSSH Server, the customization is done in a very similar way. To begin, the directory where all the associated executable files are found is in the **C:\Windows\System32\OpenSSH** directory:
 
 ![OpenSSH Directory](/images/blog/00011/openssh-server-directory.png "Sometimes needed for troubleshooting purposes.")
 
@@ -195,9 +195,9 @@ SyslogFacility LOCAL0
 LogLevel INFO
 ```
 
-You will need to restart the OpenSSH Server service in order to apply the change. Once the change has been made, the log file (**sshd.log**) can be found in the **C:\ProgramData\ssh\logs** directory. When you are finished troubleshooting, you should revert this change to prevent unnecessary logging for the OpenSSH service.
+You will need to restart the OpenSSH Server service to apply the change. Once the change has been made, the log file (**sshd.log**) can be found in the **C:\ProgramData\ssh\logs** directory. When you are finished troubleshooting, you should revert this change to prevent unnecessary logging for the OpenSSH service.
 
 ## Links ##
 
-* [SSH on Windows Server 2019](https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/)
+* [SSH on Windows Server 2019](https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/) ([Local Version](/docs/blog/00011/ssh-on-windows-10-and-server-2019.pdf))
 * [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)

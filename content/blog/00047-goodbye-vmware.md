@@ -16,7 +16,7 @@ draft: false
 
 I have had some time to think about it and I don't normally comment on things like this, but the recent news that Broadcom was acquiring VMware from Dell for approximately $61 billion has me quite concerned about the future of on-premises virtualization and what is going to happen to enterprise solutions like VMware. Perpetual software licenses are going away faster than ever, and once it is normalized there will be no going back.
 
-Companies that depend on critical on-premises solutions should be very concerned about this type of acquisition, as they are now at the mercy of a vendor who can effectively shut down their infrastructure if they wanted to, or deny them critical updates if they are not able to afford it.
+Companies that depend on critical on-premises solutions should be very concerned about this type of acquisition, as they are now at the mercy of a vendor who can effectively shut down their infrastructure if they wanted to or deny them critical updates if they are not able to afford it.
 
 The title of this post may seem a bit over the top, but I believe that Broadcom acquiring VMware is going to effectively kill the platform. I have been using VMware products in one form or another for the last 15 years, and it was the first virtualization tool that I ever used. Broadcom has a terrible track record with acquisitions (Symantec is a good example), and I currently deal with them in one way or another as part of my job. 
 
@@ -34,7 +34,7 @@ Some people will just recommend moving to other hypervisor platforms such as Hyp
 
 ## No More VMware? ##
 
-It is hard to say if VMware will still be a viable product to use for virtualization. With all of the push to "go to the Cloud", there is always going to be a requirement for companies to have an on-premise component. With the acquisition by Broadcom, I will likely not recommend VMware as a solution anymore, even though I have happily used VMware products for many years.
+It is hard to say if VMware will still be a viable product to use for virtualization. With all of the push to "go to the Cloud", there is always going to be a requirement for companies to have an on-premises component. With the acquisition by Broadcom, I will likely not recommend VMware as a solution anymore, even though I have happily used VMware products for many years.
 
 ## Links ##
 

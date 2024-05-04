@@ -3,7 +3,7 @@ title: "Retro Computers"
 slug: "retro-computers"
 date: "2022-01-14T22:25:00"
 author: "Matthew Burr"
-summary: "I have been collecting retro computers for the last few years, mostly replacing devices that I have owned since the early 2000's that I have gotten rid of. I spent a lot of time moving around between 2004 and 2011, and I wasn't always able to store things easily so I got into the habit of traveling light."
+summary: "I have been collecting retro computers for the last few years, mostly replacing devices that I have owned since the early 2000's that I have gotten rid of. I spent a lot of time moving around between 2004 and 2011, and I wasn't always able to store things easily, so I got into the habit of traveling light."
 tags: [
     "Retro",
     "Website"
@@ -12,7 +12,7 @@ categories: [ "Blog" ]
 draft: false
 ---
 
-I have been collecting retro computers for the last few years, mostly replacing devices that I have owned since the early 2000's that I have gotten rid of for various reasons. I spent a lot of time moving around the province of Ontario between 2004 and 2013 for school and for work, so I never really had a permanent place to store things. I also got into the habit of traveling light, as there is nothing worse than dragging things around that you don't really need. If I wanted to upgrade a device or replace it I would do that, but I would very rarely keep the old device.
+I have been collecting retro computers for the last few years, mostly replacing devices that I have owned since the early 2000's that I have gotten rid of for various reasons. I spent a lot of time moving around the province of Ontario between 2004 and 2013 for school and for work, so I never really had a permanent place to store things. I also got into the habit of traveling light, as there is nothing worse than dragging things around that you don't really need. If I wanted to upgrade a device or replace it, I would do that, but I would very rarely keep the old device.
 
 I'm not sure what you would consider to be a retro or vintage computer, but I consider anything to be retro if it meets the following conditions:
 
@@ -41,7 +41,7 @@ In this picture are the following computers from top to bottom:
 * IBM ThinkPad T22 (Type 2647)
 * IBM ThinkPad R51 (Type 2883)
 
-I will post some content about these computers when I have time to do so, and detail anything that I needed to do to get them working with their original operating systems. Some of these computers are quite old and may require component replacements, which I will definitely go into details on.
+I will post some content about these computers when I have time to do so, and detail anything that I needed to do to get them working with their original operating systems. Some of these computers are quite old and may require component replacements, which I will go into details on.
 
 ## Links ##
 

@@ -41,7 +41,7 @@ There is another way to handle email aliases on email servers, and that is with 
 
 ## Exchange Online Mail Flow Rules ##
 
-Mail Flow Rules (formerly known as Transport Rules in on-premises Exchange) are rules that are applied on an email domain that can identify and perform actions on emails that flow in and out of an organization. They are similar to regular Inbox rules that are applied in Outlook, except they are applied to all email rather than an individual mailbox and support many more options.
+Mail Flow Rules (formerly known as Transport Rules in on-premises Exchange) are rules that are applied on an email domain that can identify and perform actions on emails that flow in and out of an organization. They are like regular Inbox rules that are applied in Outlook, except they are applied to all email rather than an individual mailbox and support many more options.
 
 They support multiple options and conditions, but have many purposes such as:
 

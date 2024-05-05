@@ -47,7 +47,7 @@ As part of the **Building a Certificate Authority in Windows Server 2019** guide
 
 ## LaTeX with VS Code ##
 
-I started a few projects in late 2019 that heavily utilized LaTeX, and it had been many years since I had used it. I ended up utilizing VS Code with several plugins in order to create a very versatile LaTeX environment. Here are links to all of the posts that I have written about using Visual Studio Code with LaTeX:
+I started a few projects in late 2019 that heavily utilized LaTeX, and it had been many years since I had used it. I ended up utilizing VS Code with several plugins to create a very versatile LaTeX environment. Here are links to all the posts that I have written about using Visual Studio Code with LaTeX:
 
 * [Visual Studio Code with LaTeX](/blog/2020/01/23/visual-studio-code-with-latex/)
 * [Visual Studio Code with LaTeX – Follow-up](/blog/2020/07/20/visual-studio-code-with-latex-follow-up/)

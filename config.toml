@@ -7,16 +7,16 @@ paginate = 8
 googleAnalytics = "G-CN15CP4JCD"
 
 [params]
-    mainSections = ["blog", "publications", "retro"]
+    mainSections = ["blog", "publications"]
     intro = true
-    headline = "A website about Network and System Administration and other things that interest me."
-    description = "A website about Network and System Administration and other things that interest me."
+    headline = "A website about networking, system administration and other things that interest me."
+    description = "A website about networking, system administration and other things that interest me."
+    introDescription = "A website about networking, system administration and other things that interest me."
+    author = "Matthew Burr"
     email = "matthew@mjcb.io"
     opengraph = true
     dateFormat = "Monday, January 2, 2006"
     numberOfTagsShown = 14
-    author = "Matthew Burr"
-    introDescription = "A website about Networking, System Administration and other things that interest me."
     logo = "/images/logos/mjcbio.png"
     autoHeadingID = true
     rssSummary = true

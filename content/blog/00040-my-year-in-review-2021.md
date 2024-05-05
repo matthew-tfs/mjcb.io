@@ -37,7 +37,7 @@ Personally, I am also going to make more of an effort to take extended time off 
 
 ## 2022 Goals ##
 
-During the pandemic I purchased a lot of "retro" computers and devices off eBay and Kijiji that I wanted to do restoration on just for something to do during the various lockdowns. I wanted to collect a lot of the computers and devices that I had back in the early 2000's as I had gotten rid of them over the years for various reasons, and I guess I was feeling nostalgic. Window shopping on eBay while watching Netflix is never a good idea. I'm not really planning on making any posts on them as it isn't really that interesting (go to YouTube for things like that), but I may make a post on one of them.
+During the pandemic I purchased a lot of retro computers and devices off eBay and Kijiji that I wanted to do restoration on just for something to do during the various lockdowns. I wanted to collect a lot of the computers and devices that I had back in the early 2000's as I had gotten rid of them over the years for various reasons, and I guess I was feeling nostalgic. Window shopping on eBay while watching Netflix is never a good idea. I'm not really planning on making any posts on them as it isn't really that interesting (go to YouTube for things like that), but I may make a post on one of them.
 
 I am planning on updating my website for [Ten Fifteen Solutions](https://tenfifteen.ca/) which I launched several years ago. My recent migration to Hugo and Netlify showed me how easy it is, and the website is in desperate need of an update, so I am going to work on that over the next few weeks. It is also the last website I run that uses WordPress, so I am highly motivated to get rid of it.
 

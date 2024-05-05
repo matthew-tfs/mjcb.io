@@ -15,11 +15,11 @@ This cookie policy for **mjcb.io** describes how and why this website uses cooki
 
 Cookies are small data files that are placed on your computer or mobile device whenever you visit a website. Cookies are used by websites to store information and to provide reporting capabilities to a website.
 
-Cookies that are set by a website are called "first party cookies". Cookies that are set by services not managed by this website are called "third party cookies". Third party cookies enable functionality to be provided to this website such as analytics tracking. The third party company that manages these cookies can recognize your device when it visits this website and also when you visit other websites.
+Cookies that are set by a website are called "first-party cookies". Cookies that are set by services not managed by this website are called "third-party cookies". Third-party cookies enable functionality to be provided to this website such as analytics tracking. The third-party company that manages these cookies can recognize your device when it visits this website and when you visit other websites.
 
 ## Why Are Cookies Used on This Website? ##
 
-There are third party cookies used on this website, and that is for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way.
+There are third-party cookies used on this website, and that is for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way.
 
 For more information on how your information is used on this website, please refer to the [Privacy Policy](/privacy-policy).
 

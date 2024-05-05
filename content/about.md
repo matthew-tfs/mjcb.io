@@ -8,9 +8,9 @@ featureImage: "/images/author/matthew-burr.png"
 
 ## Overview ##
 
-My name is Matthew Burr and I am an IT consultant and contractor in the Greater Toronto Area.
+My name is Matthew Burr, and I am an IT consultant and contractor in the Greater Toronto Area.
 
-I have over 14 years of experience specializing in network and systems administration, as well as network security and network architecture. I have worked in various industries in my career including government, social media, manufacturing, non-profits, software development, retail and financial services.
+I have over 15 years of experience specializing in network and systems administration, as well as network security and network architecture. I have worked in various industries in my career including government, social media, manufacturing, non-profits, software development, retail, and financial services.
 
 I have also volunteered with various non-profit organizations in the GTA, both in IT and non-IT roles.
 
@@ -28,19 +28,19 @@ I am certified in various technologies, including Cisco, Microsoft, Palo Alto Ne
 
 ## Education ##
 
-I attended [Cambrian College of Applied Arts and Technology](https://cambriancollege.ca/) in Sudbury, Ontario from September 2006 to May 2009 where I received a diploma in Computer Systems Technology. I picked this particular institution because of the high rating of the program at the time, and the fact that many of the instructors worked directly for Cisco and Microsoft. I also liked Sudbury and Northern Ontario in general, which was an appealing aspect of choosing that institution over others that were closer to home.
+I attended [Cambrian College of Applied Arts and Technology](https://cambriancollege.ca/) in Sudbury, Ontario from September 2006 to May 2009 where I received a diploma in Computer Systems Technology (CETY). I picked this college because of the high rating of the program at the time, and the fact that many of the instructors worked directly for Cisco and Microsoft. I also liked Sudbury and Northern Ontario in general, which was an appealing aspect of choosing that institution over others that were closer to home.
 
-I look back fondly of my time at Cambrian College, I thank all of my success to the excellent instructors and resources that I had while I was there.
+I look back fondly of my time at Cambrian College, I thank all of success to the excellent instructors and resources that I had while I was there.
 
-At the end of my time at Cambrian College I was chosen to represent Cambrian College at the [Skills Ontario Competition](http://www.skillsontario.com/) in Waterloo, Ontario for IT and Networking Skills competition on May 5, 2009. I ended up winning first place in that category for that year. Several weeks later I went to the [Skills Canada Competition](https://www.skillscompetencescanada.com/) in Charlottetown, PEI for the IT and Networking Skills competition on May 21, 2009, and also got first place in that category as well.
+At the end of my time at Cambrian College I was chosen to represent my class at the [Skills Ontario](http://www.skillsontario.com/) competition in Waterloo, Ontario for IT and Network Support on May 5, 2009. I ended up winning first place in that competition. Several weeks later, I went to the [Skills Canada](https://www.skillscompetencescanada.com/) competition in Charlottetown, PEI for IT and Network Support on May 21, 2009, and I also won first place in that category as well.
 
-I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019 and 2021 at the Skills Ontario Competition in Toronto, Ontario.
+I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019, and 2021 at the Skills Ontario Competition in Toronto, Ontario. I have written about my [experience](/blog/2024/04/28/skills-competition-retrospective/) with this competition at both the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) and [Skills Canada](/blog/2024/05/21/skills-canada-2009-retrospective/) competitions. In recent years I have even spent some time volunteering at the Skills Ontario competition.
 
 ## Experience ##
 
-I mainly support Palo Alto Firewalls, Cisco Devices (Switches/Routers/Firewalls), AWS/Azure and virtually all Microsoft technologies. I have a great deal of experience with network design and implementation, and I have successfully deployed and supported complex networking solutions for several companies.
+I mainly support Palo Alto firewalls, Cisco devices (switches/routers/firewalls), AWS/Azure and virtually all Microsoft technologies. I have a great deal of experience with network design and implementation, and I have successfully deployed and supported complex networking solutions for several companies.
 
-As I have told employers in the past, I am not a developer. Even though I have a very good understanding of several programming languages (C, C++, C# and Java), I do not program for a living. I prefer the networking and systems administration side of IT and I only program as a hobby. I take those skills and I am able to apply it to the DevOps philosophy that has become so popular and necessary in the last few years.
+As I have told employers in the past, I am not a developer. Even though I have a very good understanding of several programming languages (C, C++, C#, and Java), I do not program for a living. I prefer the networking and systems administration side of IT and I only program as a hobby. I take those skills and I can apply it to the DevOps philosophy that has become so popular and necessary in the last few years.
 
 ## Publications ##
 
@@ -54,11 +54,11 @@ I am currently using the following equipment for my daily personal usage:
 * Apple iPhone 12 Pro Max
 * Dell Inspiron 14 2-in-1 (7435)
 
-I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all of my important virtual machines in Azure, I don't run anything locally.
+I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all my important virtual machines in Azure, I don't run anything locally.
 
 VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub involved.
 
-Even though I don't like to keep old things, I collect a few old laptops including several IBM ThinkPads and other legacy devices. I have also been getting into the whole retro computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
+Even though I don't like to keep old things, I collect old laptops and other legacy devices. I have also been getting into the whole retro computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
 
 ## Website Technology Stack ##
 
@@ -76,13 +76,13 @@ The contents of this website are available publicly on [GitHub](https://github.c
 
 I was born and raised in Lindsay, Ontario. I have lived and worked in the Greater Toronto Area since 2010.
 
-I made a decision several years ago to not use social media. I deleted my Facebook, Instagram and Twitter accounts in early 2018, and I have no plan on ever using those platforms again. I do not like the way that social media propagates false information and I do not want to participate in those platforms as a result of that.
+I decided several years ago to not use social media. I deleted my Facebook, Instagram, and Twitter accounts in early 2018, and I have no plan on ever using those platforms again. I do not like the way that social media propagates false information and I do not want to participate in those platforms because of that.
 
 ## Why Did I Create This Website? ##
 
-I created this website for a few reasons, mostly because I haven't had a significant web presence in a long time. I actually had a blog back in the early 2000's, but I never put a lot of effort into it at the time and it ended up being lost to the web (I actually don't even remember where it was hosted or what the address was). I wanted a permanent presence on the web that was completely under my control where I could showcase that I am currently working on, share my thoughts on certain topics, and share things that I find interesting.
+I created this website for a few reasons, mostly because I haven't had a significant web presence in a long time. I had a blog back in the early 2000's, but I never put a lot of effort into it at the time and it ended up being lost to the web (I don't even remember where it was hosted or what the address was). I wanted a permanent presence on the web that was completely under my control where I could showcase that I am currently working on, share my thoughts on certain topics, and share things that I find interesting.
 
-I may use this website to showcase things that I have created and may be for sale, but that will be on a specific basis and I will always be upfront about that.
+I may use this website to showcase things that I have created and may be for sale, but that will be on a specific basis, and I will always be upfront about that.
 
 I will never have any third-party advertisements on this website. Advertisements suck, and I only created this website because I wanted to, and I never intended to use advertisements to profit from it. I have moved this website to a free hosting provider since launching it back in 2018, so I don't exactly need to recoup any costs associated with the website since the costs are zero.
 
@@ -94,7 +94,7 @@ The views and opinions that are expressed on this website are mine alone, and do
 
 ## Cookie and Privacy Policy ##
 
-There are third party cookies used on this website, and that is only for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way. Blocking cookies will not cause any issues or affect the functionality of this website.
+There are third-party cookies used on this website, and that is only for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way. Blocking cookies will not cause any issues or affect the functionality of this website.
 
 Click [here](/cookie-policy/) to view the complete Cookie Policy for this website.
 

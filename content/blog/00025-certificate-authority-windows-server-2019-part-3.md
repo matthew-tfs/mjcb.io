@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:04:00"
 author: "Matthew Burr"
-summary: "Once the Certificate Authority has been created it is time to deploy those Certificates to the organization. Through the use of Group Policy with Active Directory, this is a fairly easy task, and can deploy the Certificates to the organization in only a few minutes."
+summary: "Once the Certificate Authority has been created it is time to deploy those Certificates to the organization. Using Group Policy with Active Directory, this is an easy task, and can deploy the Certificates to the organization in only a few minutes."
 tags: [
     "ADCS",
     "Guides",

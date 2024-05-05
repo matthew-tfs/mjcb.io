@@ -16,8 +16,8 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00022/adcs.png"
-featured: true
 draft: false
+featured: true
 ---
 
 <style type="text/css">

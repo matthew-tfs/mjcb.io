@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:08:00"
 author: "Matthew Burr"
-summary: "What good is a Certificate Authority in an Active Directory environment if there is no way to automatically deploy the Certificates? Luckily, with the use of Group Policy and a few configuration changes to Certificate Templates, this is a fairly easy task."
+summary: "What good is a Certificate Authority in an Active Directory environment if there is no way to automatically deploy the Certificates? Luckily, with the use of Group Policy and a few configuration changes to Certificate Templates, this is an easy task to perform."
 tags: [
     "ADCS",
     "Guides",

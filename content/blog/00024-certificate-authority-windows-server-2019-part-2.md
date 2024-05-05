@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:03:00"
 author: "Matthew Burr"
-summary: "Once the Root CA has been created, the Subordinate CA needed to be setup. This Subordinate CA is needed to do all of the work for the Certificate Authority. It will issue all Certificates to the organization and handle the day to day operations."
+summary: "Once the Root CA has been created, the Subordinate CA needs to be setup. This Subordinate CA is needed to do all the work for the Certificate Authority. It will issue all Certificates to the organization and handle the day-to-day operations."
 tags: [
     "ADCS",
     "Guides",

@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:07:00"
 author: "Matthew Burr"
-summary: "Certificates are not always one size fits all for an organization, but luckily it is fairly easy to customize the Certificates that are deployed to your organization."
+summary: "Certificates are not always one size fits all for an organization, but luckily it is easy to customize the Certificates that are deployed to your organization."
 tags: [
     "ADCS",
     "Guides",

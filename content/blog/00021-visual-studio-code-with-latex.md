@@ -13,8 +13,8 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00021/latex-cover.png"
 featureImage: "/images/blog/00021/latex-cover.png"
-featured: true
 draft: false
+featured: true
 ---
 
 LaTeX is a powerful typesetting language that has been used for decades by people looking to create documents without needing to worry about the look of it. I have been using it for the last few years for important documents, and I wanted to integrate it with my favourite editor prior to undertaking a large project using it. It works very well with Visual Studio Code to create a very effective LaTeX editor that also integrates well with revision control plugins.

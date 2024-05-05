@@ -7,7 +7,7 @@ aliases: [
 ]
 date: "2020-03-09T19:05:00"
 author: "Matthew Burr"
-summary: "For every Certificate Authority, it is inevitable that you are eventually going to need to revoke a Certificate for one reason or another. The Online Responder Role in Active Directory Certificate Services is capable of rapidly revoking Certificates and ensuring that users in your organization are notified as quickly as possible."
+summary: "For every Certificate Authority, it is inevitable that you are eventually going to need to revoke a certificate for one reason or another. The Online Responder Role in Active Directory Certificate Services is capable of rapidly revoking certificates and ensuring that users in your organization are notified as quickly as possible."
 tags: [
     "ADCS",
     "Guides",

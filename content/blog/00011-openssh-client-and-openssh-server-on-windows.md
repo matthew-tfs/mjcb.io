@@ -165,17 +165,15 @@ If you do want to use Bash, just type in **bash.exe** to switch to it.
 
 There are a few customizations that you can do to the OpenSSH Server service if needed. Since this is a port of the OpenSSH Server, the customization is done in a very similar way. To begin, the directory where all the associated executable files are found is in the **C:\Windows\System32\OpenSSH** directory:
 
-![OpenSSH Directory](/images/blog/00011/openssh-server-directory.png "Sometimes needed for troubleshooting purposes.")
+![OpenSSH Service Directory](/images/blog/00011/openssh-server-directory.png "Sometimes needed for troubleshooting purposes.")
 
 The other important directory for OpenSSH Server is the **C:\ProgramData\ssh** folder, which contains the configuration files and log files.
 
-![](/images/blog/00011/openssh-server-data-directory.png "This directory will be needed for troubleshooting and logging purposes.")
+![OpenSSH Data Directory](/images/blog/00011/openssh-server-data-directory.png "This directory will be needed for troubleshooting and logging purposes.")
 
 OpenSSH Server options, such as changing the login banner and locking down security options are done in the **C:\ProgramData\ssh\sshd_config** file.
 
-Not all options can be used on a Windows host. For more information, you can refer to the official Wiki article on what options are supported:
-
-[https://github.com/PowerShell/Win32-OpenSSH/wiki/sshd_config](https://github.com/PowerShell/Win32-OpenSSH/wiki/sshd_config)
+Not all options can be used on a Windows host. For more information, you can refer to the official [wiki article](https://github.com/PowerShell/Win32-OpenSSH/wiki/sshd_config) on what options are supported.
 
 ## Troubleshooting ##
 
@@ -199,5 +197,6 @@ You will need to restart the OpenSSH Server service to apply the change. Once th
 
 ## Links ##
 
+* [sshd_config](https://github.com/PowerShell/Win32-OpenSSH/wiki/sshd_config)
 * [SSH on Windows Server 2019](https://blogs.technet.microsoft.com/askpfeplat/2018/10/29/ssh-on-windows-server-2019/) ([Local Version](/docs/blog/00011/ssh-on-windows-10-and-server-2019.pdf))
 * [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)

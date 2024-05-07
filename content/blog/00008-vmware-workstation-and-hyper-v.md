@@ -158,13 +158,13 @@ There are two ways to boot Windows 10 to this new option:
 1. Hold Shift and select Restart from the Start Menu. Hold the Shift key until the system restarts.
 2. Go to **Settings**, **Update & Security**, **Recovery**. Under **Advanced Startup**, click **Restart now**.
 
-From the Option screen, choose the **Use another operating system** option:
+From the option screen, choose the **Use another operating system** option:
 
-![](/images/blog/00008/hyper-v-windows-10-boot-menu-1.png)
+![Windows 10 Boot Menu - Choose an option](/images/blog/00008/hyper-v-windows-10-boot-menu-1.png)
 
 The option to boot without Hyper-V should appear as an option:
 
-![](/images/blog/00008/hyper-v-windows-10-boot-menu-2.png)
+![Windows 10 Boot Menu - Choose an operating system](/images/blog/00008/hyper-v-windows-10-boot-menu-2.png)
 
 If everything worked correctly then VMware Workstation should work correctly. Hyper-V should not work, and show an error like this:
 

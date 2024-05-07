@@ -72,7 +72,7 @@ FreeDOS ships with several DOS games on the installation CD, and among them is t
 
 I still have my original Command & Conquer (Tiberian Dawn) disks that I have had since 1997, which was the DOS version of the game and not the Windows 95 version that was released later. Aside from the screen resolution being low, it works perfectly, including the videos, music, and mouse input.
 
-![Tiberian Dawn running on FreeDOS on the IBM ThinkPad 380ED](/images/blog/00043/freedos-13-cc.png)
+![Command & Conquer Tiberian Dawn running on FreeDOS on the IBM ThinkPad 380ED](/images/blog/00043/freedos-13-cc.png)
 
 The original Command & Conquer games included multiplayer support using Null Modem cables, which enabled local multiplayer support. It would be interesting to take one of my other laptops and attempt to use a Null Modem cable to test this functionality as I have not tried it in over 20 years, but that is a test for another day.
 

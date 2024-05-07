@@ -129,7 +129,7 @@ Skills Ontario gives out medals for the top three winners (gold, silver, and bro
 
 ![Skills Ontario 2009 Gold Medal.](/images/blog/00064/skills_ontario_gold_medal_side_01.jpg)
 
-In a crazy, it's a small world situation, I ended up working at the same company with another competitor for a short time. We didn't compete in the same year, but while I was going through everything for this post, I realized that I worked with someone who also competed in the IT and Network Support competition. We never directly worked together as he was in a different department, but it was a crazy coincidence and I wish I had known it at the time.
+In a crazy, it's a small world situation, I ended up working at the same company with another competitor for a short time. We didn't compete in the same year, but while I was going through everything for this post, I realized that I worked with someone who also competed in the IT and Network Support competition. We never directly worked together as he was in a different department at the company, but it was a crazy coincidence and I wish I had known it at the time.
 
 ## What Were the Next Steps? ##
 

@@ -3,7 +3,7 @@ title: "Skills Ontario 2009 Retrospective"
 slug: "skills-ontario-2009-retrospective"
 date: "2024-05-05T15:07:00"
 author: "Matthew Burr"
-summary: "I wanted to go into the details of the Skills Ontario competition that I attended in May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
+summary: "I wanted to go into the details of the Skills Ontario competition that I attended in early May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
 tags: [
     "Cambrian College",
     "CETY",
@@ -15,9 +15,12 @@ thumbnail: "/images/blog/00064/skills-ontario.png"
 draft: false
 ---
 
-I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
+I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
 
 It has been 15 years since I went to this competition, and I have written some [background](/blog/2024/04/28/skills-competition-retrospective/) information on how I became involved in the competition in the first place.
+
+* [Skills Competition Retrospective](/blog/2024/04/28/skills-competition-retrospective/)
+* [Skills Canada 2009 Retrospective](/blog/2024/05/21/skills-canada-2009-retrospective/)
 
 {{< toc >}}
 
@@ -59,8 +62,6 @@ Everything was timed during the competition, and there were milestones during th
 Even though I had over six weeks between the end of my classes on March 20, 2009, and the end of my placement on May 1, 2009, I didn't have much time to prepare for the competition. The program coordinator that asked me to go to the competition sent me a link to the [competition scope](/docs/blog/00064/skills_ontario_it_and_network_support_scope_2009.pdf) which was available on the Skills Ontario website, so that I had something to reference so I could preparing and studying for the competition. I did write my resume ahead of time as I needed it for my placement, and it was also needed for the competition as there was a job interview component.
 
 There was a cabling component to the competition, and the IT department at the college was nice enough to donate me a box of extra CAT 5E cabling so I could practice. I had done cabling in the three years that I was in college, but I had never had to do it in a hurry, so I made sure to practice ahead of the competition.
-
-![My desk at home after the Skills Ontario competition. You can see my Microsoft books on the shelf, plus the box of CAT 5E.](/images/blog/00064/home_desk_2009_01.jpg)
 
 During those few weeks until the competition I was spending my time doing my placement, which was an 8 to 5 job, and I was also working on weekends as a lab monitor at the college. I had previously worked as a student proctor at [The Glenn Crombie Centre](https://cambriancollege.ca/supports-services/accessibility-services/), which ended when I finished my last class at the college. As a side note, I really liked that job, it was quite rewarding. I met a lot of interesting people and in the process, I indirectly learned a lot about disabilities that people have that are not immediately obvious and how they affect learning.
 
@@ -173,6 +174,7 @@ I am also grateful with the support that Cambrian College provided to me for the
 
 ## Links ##
 
+* [Skills Canada](https://www.skillscompetencescanada.com/)
 * [Skills Ontario](https://www.skillsontario.com/)
 * [Skills Ontario - IT and Network Scope (2009)](/docs/blog/00064/skills_ontario_it_and_network_support_scope_2009.pdf)
 * [Skills Ontario - Results (2009)](/docs/blog/00064/skills_ontario_results_2009.pdf)

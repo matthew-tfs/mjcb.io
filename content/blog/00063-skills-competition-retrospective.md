@@ -18,12 +18,12 @@ featured: true
 
 On May 1, 2009, I finished the last day of my field placement at [Health Sciences North](https://hsnsudbury.ca/en) in Sudbury, Ontario, and completed the final course that I needed so that I could graduate from [Cambrian College](https://cambriancollege.ca/) in the [CETY (Computer Systems Technology)](https://catalog.cambriancollege.ca/cety/) program. The following week I travelled to Waterloo, Ontario to represent my college in the [Skills Ontario](https://www.skillsontario.com/) competition in the IT and Network Support category. I ended up winning first place in that competition, and I then travelled to Charlottetown, PEI a few weeks later to the [Skills Canada](https://www.skillscompetencescanada.com/en/) competition to compete again where I also won first place. It has been 15 years since I competed at both events, and I wanted to go over the experience.
 
-This is a multipart series on my experience at Cambrian College, the Skills Ontario, and the Skills Canada competitions. I attended the Skills Ontario competition in Waterloo, Ontario on May 5, 2009, and I attended the Skills Canada competition in Charlottetown, PEI on May 21 - 22, 2009. Information on both competitions can be found here:
+This is a multipart series on my experience at Cambrian College, the Skills Ontario, and the Skills Canada competitions. I attended the Skills Ontario competition in Waterloo, Ontario on May 5, 2009, and I attended the Skills Canada competition in Charlottetown, PEI from May 19 - 23, 2009. More information on both competitions can be found here:
 
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
 * [Skills Canada 2009 Retrospective](/blog/2024/05/21/skills-canada-2009-retrospective/)
 
-I decided to leave out names in these posts, as it happened so long ago, and I couldn't contact some of the involved people for permission to use their names.
+There is nothing significant about 15 years since these events, I just wanted to finally write something about these competitions. I am getting older, and I wanted to document it as best as I could since these were significant events for me. I am glad that I went to the trouble of taking photos and taking notes back when these events happened, as I had a bit of trouble remembering every single detail. It is entirely possible that I have misremembered some details, especially with the [Skills Canada Competition](/blog/2024/05/21/skills-canada-2009-retrospective/) as a lot happened over a short period of time. If I have made any errors or have left out important details, please [contact me](/about/#contact) and I will correct it.
 
 {{< toc >}}
 

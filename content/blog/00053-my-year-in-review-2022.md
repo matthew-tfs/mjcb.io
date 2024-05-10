@@ -8,7 +8,7 @@ tags: [
     "Website"
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00053/mjcbio.png"
+thumbnail: "/images/blog/00053/mjcb.png"
 draft: false
 ---
 

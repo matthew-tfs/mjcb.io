@@ -2,8 +2,7 @@ User-Agent: *
 Allow: /
 Sitemap: https://mjcb.io/sitemap.xml
 
-Disallow: /docs/blog/00064/*
-Disallow: /docs/blog/00065/*
+Disallow: /docs/*
 
 User-agent: GPTBot
 Disallow: /

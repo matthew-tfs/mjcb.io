@@ -50,7 +50,9 @@ WordPress.com also supported custom themes and plugins, which was important to m
 
 ### What's Wrong with WordPress.com? ###
 
-There were some downsides to using WordPress.com as a hosting provider, and that was mostly the cost of the service and the speed of the service. It is very expensive to host a basic website with basic customizations (themes, plugins, etc.), and unlocking basic customizations seemed like a rip-off to me. My website also seemed slow and unresponsive to me on multiple locations, and that seemed unacceptable to me for virtually static content that didn't change. I would occasionally get alerts that the site was unresponsive or had high packet loss, which to me was unacceptable. I also utilized Cloudflare to try and alleviate the issues, which worked to a degree, but that is unacceptable to me.
+There were some downsides to using WordPress.com as a hosting provider, and that was mostly the cost of the service and the speed of the service. It is very expensive to host a basic website with basic customizations (themes, plugins, etc.), and unlocking basic customizations seemed like a rip-off to me. My website also seemed slow and unresponsive to me on multiple occasions, and that seemed unacceptable to me for virtually static content that didn't change. I would occasionally get alerts that the site was unresponsive or had high packet loss, which to me was unacceptable. I also utilized Cloudflare to try and alleviate the issues, which worked to a degree, but that is unacceptable to me.
+
+I was paying a premium for WordPress.com and I was getting a poor experience from them. I shouldn't need to pursue third-party solutions to a paid solution that I am already paying a lot of money for.
 
 I also ended up not using a lot of WordPress plugins for multiple reasons. I felt like the plugins were not easy to customize, and the feedback plugins were terrible. I received dozens of bogus messages per day that were an absolute waste of time to sort through and answer questions from.
 
@@ -146,21 +148,31 @@ C:\Users\Matthew\AppData\Local\Programs\Microsoft VS Code\bin
 Installing Hugo can be performed using a single command:
 
 ```powershell
+scoop install hugo
+```
+
+If there were no issues with the installation, it should complete quickly:
+
+```powershell
 PS C:\Users\Matthew> scoop install hugo
-Installing 'hugo-extended' (0.91.1) [64bit]
-hugo_extended_0.91.1_windows-64bit.zip (16.1 MB) [============================================================] 100%
-Checking hash of hugo_extended_0.91.1_windows-64bit.zip ... ok.
-Extracting hugo_extended_0.91.1_windows-64bit.zip ... done.
-Linking ~\scoop\apps\hugo-extended\current => ~\scoop\apps\hugo-extended\0.91.1
+Installing 'hugo' (0.91.1) [64bit]
+hugo_0.91.1_windows-64bit.zip (16.1 MB) [============================================================] 100%
+Checking hash of hugo_0.91.1_windows-64bit.zip ... ok.
+Extracting hugo_0.91.1_windows-64bit.zip ... done.
+Linking ~\scoop\apps\hugo\current => ~\scoop\apps\hugo\0.91.1
 Creating shim for 'hugo'.
-'hugo-extended' (0.91.1) was installed successfully!
+'hugo' (0.91.1) was installed successfully!
 ```
 
 To validate that Hugo was installed, you can run a command to check the version that was installed:
 
 ```powershell
+hugo version
+```
+
+```powershell
 PS C:\Users\Matthew> hugo version
-hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
+hugo v0.91.1-F4235057 windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
 ```
 
 ### Running Hugo ###
@@ -178,7 +190,7 @@ The command runs Hugo (the **-D** option shows draft posts) and tells you which 
 ```powershell
 PS C:\Users\Matthew\Bitbucket\mjcb.io> hugo.exe server -D
 Start building sites …
-hugo v0.91.1-F4235057+extended windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
+hugo v0.91.1-F4235057 windows/amd64 BuildDate=2021-12-22T15:31:06Z VendorInfo=gohugoio
 
                    | EN
 -------------------+------

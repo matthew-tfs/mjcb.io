@@ -7,7 +7,8 @@ summary: "I found a useful resource a few days ago that lists all the known/majo
 tags: [
     "Azure",
     "Microsoft",
-    "Office 365"
+    "Office 365",
+    "Windows"
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00045/microsoft-logo.png"

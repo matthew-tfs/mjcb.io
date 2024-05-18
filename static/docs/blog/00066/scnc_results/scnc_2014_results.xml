@@ -1,0 +1,1718 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Matthew Burr</Author>
+  <LastAuthor>Matthew Burr</LastAuthor>
+  <Created>2024-05-14T20:13:08Z</Created>
+  <LastSaved>2024-05-15T22:21:06Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>21100</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
+  <WindowTopX>28800</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="SCNC 2014">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="207" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="155" ss:Span="1"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="605"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Team</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">First Name</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Last Name</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">#</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Skills Competition</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Luc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bergeron</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Precision Machining / Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cory</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mailman</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Precision Machining / Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mohamed (Ben)</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rahim</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Precision Machining / Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Carl</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bouvrette</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Precision Machining Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Alex</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoelzli</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Precision Machining Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jorn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Peeters</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">03S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Precision Machining Techniques d usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Samuel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daoust</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Olivier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Vandal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Joshua</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Donnelly – Robertson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Santiago</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Moros</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">William</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brush</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">McCarron</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">04PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechatronics Mecatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Carson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gustafson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">YK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">David</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lister</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Philippe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bergeron</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Frank</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jiang</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Von Drecht</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Raffael</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kurz</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">05S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Mechanical CADD Dessin industriel CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Metika</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Olanriksupak</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">06PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec CNC Machining Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trevor</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fandrick</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">06PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec CNC Machining Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tyler</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Magri</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">06PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec CNC Machining Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chantille</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Prince – Stagg</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Melodee</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Peters</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kimberly</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Allan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Shiv</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mangal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Zackarie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Harder</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brendan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Schmidt</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Software Solutions for Business TI Applications logicielles pour entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tommy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">St – Martin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jeffrey</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cloutier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Shawn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Guignard</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elijah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Schonewille</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NT</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Torin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dowe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Timothy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">LaTrace</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Justin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dambitis</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Autobody Repair / Tolerie-carosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Steven</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Le – Magueresse</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Autobody Repair / Tolerie-carosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marc – André</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Benoit</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Autobody Repair / Tolerie-carosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kevin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Disterhoft</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Autobody Repair Tolerie-carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jacob</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Wall</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Autobody Repair Tolerie-carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jérémy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lessard</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Autobody Repair Tolerie-carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tom</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Martin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Sheet Metal / Ferblanterie tolerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Steve</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lapointe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Sheet Metal / Ferblanterie tolerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">YK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Spencer</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tomlin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Sheet Metal / Ferblanterie tolerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kendrick</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Howe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Plumbing Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cody</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Beck</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Plumbing Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Michaël</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lavoie Vallée</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Plumbing Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Finley</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Beaton</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Winston</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lord</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Amanda</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Blue</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Zachary</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brown</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hudson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Schier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Deon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hua</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electronics / Electronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gabriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Santerre</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Web Site Developement / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Justin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Norris</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Web Site Developement / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Shawnee</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Holmes</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Web Site Developement / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Heyang</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Wei</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Matthew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Waggoner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">David</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lougheed</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jacob</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fluker</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicholas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hirtle</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">YK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicolas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Filteau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Travis</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gabryelski</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Simon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Vigneault</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Andrew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Land</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Electrical Installations / Installation electrique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brennan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roy – Bertin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">19PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automation and Control / Controle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Martin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ferland</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">19PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automation and Control / Controle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stephen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Simpson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">19PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automation and Control / Controle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marc – Olivier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">20PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Brick Masonry / Briquettage-maconnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nina</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Widmer</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">20PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Brick Masonry / Briquettage-maconnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Adam</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TenBruggencate</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">20PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Brick Masonry / Briquettage-maconnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rylan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dekok</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Justin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bennett</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Clément</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Plante</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dustin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sejdl</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Billy – Joe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">David – Provost</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jacob</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gallant</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">24S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cabinet Making / Ebenisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jessy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gouin – Labbé</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stephen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Greydanus</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Adam</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Corneau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Maxime</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gauvreau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Josiah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pilon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dallas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stadnyk</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">26S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jessica</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pruneau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Katelyn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Piercy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kiana</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stepp</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Vanessa</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Veilleux</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rebecca</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Blackburn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Abby</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Collver</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">29S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kaitlyn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoiles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">30PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Aesthetics / Esthetique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicole</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mclennon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">30PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Aesthetics / Esthetique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Geneviève</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Blouin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">30PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Aesthetics / Esthetique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Patricia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roque</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">31S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Léonie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Giroux</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">31S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kerstin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Betz</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">31S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Karine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ouellet</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rebekka</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Schmitt</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mandy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Yeung</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Julie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Robert</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sarah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lomholt -&#160; Farrell</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Carmen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Young</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">32S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Baking / Patisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Clark</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Holmes</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">James</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bowes</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stanton</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Larose</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brandon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Liang</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ethan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Raymond</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Matthew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dyck</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">33S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Automotive Service / Mecanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sarah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lavergne</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sébastien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rémillard</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Laetitia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chapchynski</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Laurence</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Thalia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Austin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mathieu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chiasson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">34S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Cooking / Cuisiner</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Smith</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kidd</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kassandra</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Plante Bilodeau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Vicky</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bouchard</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Catherine Elizabeth</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mathewson</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Beattie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">36S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gabriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lévesque</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gabriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tessier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dexter</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bracken</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Andrew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tutte</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicholas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Arnoldussen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">William</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Slingerland</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">37PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Landscape Gardening / Jardinier paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marc – Antoine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bettez</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">38PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Refrigeration and Air Conditioning / Refrigeration et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Keiran</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hodges</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">38PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Refrigeration and Air Conditioning / Refrigeration et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Aaron</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Wright</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">38PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Refrigeration and Air Conditioning / Refrigeration et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Josh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marshall</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Network Systems Administration / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">William</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lebel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Network Systems Administration / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jordan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Neufeld</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec IT Network Systems Administration / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brandon</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Holm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Network Systems Administrations / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Seth</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kushniryk</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Network Systems Administrations / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jarren</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mercado</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">39S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec IT Network Systems Administrations / Administration des systemes et des reseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roxanne</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kanak</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sydney</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Taylor</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tracey</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Landry</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fiona</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Siu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Graphic Design / Inforgraphie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Emma</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Graphic Design / Inforgraphie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tommy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Beke</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">40S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Graphic Design / Inforgraphie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Graham</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">McDowell Mills</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">51PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Industrial Mechanic Millwright / Mecanicien monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Peter</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lauser</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">51PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Industrial Mechanic Millwright / Mecanicien monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dylan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Haynes</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">51PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Industrial Mechanic Millwright / Mecanicien monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trevor</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ens</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Architectrual Technolgoy and Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jonah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lewis</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Architectrual Technolgoy and Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Joshua</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hay</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Architectrual Technolgoy and Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marc – Olivier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jean</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Architectural Technology and Design / Dessin et technologie architectural</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicholas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Wawryk</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Architectural Technology and Design / Dessin et technologie architectural</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kiziah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Magnaye</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">52S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Architectural Technology and Design / Dessin et technologie architectural</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sébastien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Perreault</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">53S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Outdoor Power and Recreation Equipment / Mecanique de vehicules de loirsir et d entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ben</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hill</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">53S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Outdoor Power and Recreation Equipment / Mecanique de vehicules de loirsir et d entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Austin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Swiderski</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">53S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Outdoor Power and Recreation Equipment / Mecanique de vehicules de loirsir et d entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Annabelle</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Foss</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Michael</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Stevantoni</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nialls</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cherak</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Shane</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">McLachlan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dane</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cutcliffe</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Isaiah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jabbour</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">82S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec TV and Video Production / Production televisuelle et video</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rachel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">83S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Search / Recherche d emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Haley</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Moriarity</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">83S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Search / Recherche d emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kristopher</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Meyer</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">83S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Search / Recherche d emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ormea</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chea</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">84S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Skill Demonstration / Presentation aptitudes professionnelles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jacob</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Manning</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">84S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Skill Demonstration / Presentation aptitudes professionnelles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Alysha</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cho</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">84S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Job Skill Demonstration / Presentation aptitudes professionnelles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Farah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hasan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">85S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Public Speaking / Discours prepare</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sara</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Grassick</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">85S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Public Speaking / Discours prepare</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mackenzie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Collins</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">85S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Public Speaking / Discours prepare</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">De Jesus</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Julia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Schroeder</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Eyan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Howlader</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Karanvir</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sidhu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Patty</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chomseng</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Monica</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sivongsa</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">87S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 3D Character Computer Animation / Animation informatisee 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brittany</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Calibaba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Eddie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Christensen – Jaworenko</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elijah</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Baluyan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Karmyn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Chretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Anastasia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cook</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Breanna</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Roy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">88S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec 2D Character Computer Animation / Animation informatisee 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Leedham</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">91PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Aircraft Maintenance / Entretien d aeronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kyle</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Duguid</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">91PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Aircraft Maintenance / Entretien d aeronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tyler</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brown</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">91PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Psec Aircraft Maintenance / Entretien d aeronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brittany</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Arsenault</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">92S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Workplace Safety / Securite sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jordan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MacLean</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">92S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Workplace Safety / Securite sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Doug</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DeBow</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">92S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Workplace Safety / Securite sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Philip</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Belanger</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Justin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fournier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cedrik</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lacroix</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Maxime</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marineau</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ethan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Glenwright</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Adrian</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Humphry</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Damian</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Parlee</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nicolas</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Parlee</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Drew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bulitz</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Brayden</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Miller</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Carter</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Park</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Joshua</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tysowski</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">93S</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ryan</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Green</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">94PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Heavy Equipment Service / Service de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jesse (Wyatt)</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ridsdale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">94PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Heavy Equipment Service / Service de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dayne</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Caron</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">94PS</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">PSec Heavy Equipment Service / Service de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pat</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">De La Sablonniere</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D1</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Steamfitter – Pipefitter / Tuyauterie et montage de conduites de vapeur</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tyler</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hamel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D1</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Steamfitter – Pipefitter / Tuyauterie et montage de conduites de vapeur</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Luc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Parent</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D1</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Steamfitter – Pipefitter / Tuyauterie et montage de conduites de vapeur</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Marilou</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fortin Blais</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Photography / Photographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gavin</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Walters</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Photography / Photographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Taryn</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fransen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">D2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Photography / Photographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,1312 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Matthew Burr</Author>
+  <LastAuthor>Matthew Burr</LastAuthor>
+  <Created>2024-05-13T20:11:33Z</Created>
+  <LastSaved>2024-05-15T21:20:21Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>21100</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
+  <WindowTopX>28800</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="SCNC 2012">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="205" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="65"
+   ss:DefaultRowHeight="16">
+   <Column ss:Index="2" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="305"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="605"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Team</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Competitor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Skills Competition</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Rank</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Patrice Lauzon</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03S – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Trevor Fandrick</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03S – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Daniel Hebblethwaite</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03S – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Shayne Rouxel</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03PS – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Justin Ferland</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03PS – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Clarke Johnstone</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">03PS – Precision Machining / Technique d’usinage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">David Da Costa</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Zachary Piskun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Shayne DeHaan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Travis Gaudet</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Simon Parent</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jean-Luc Côté</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">04PS – Mechatronics / Mécatronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">YT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Denis&#160; Godin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05PS – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Richard White</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05PS – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Richard Jennings</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05PS – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Carson Gustafson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05S – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kyle Logan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05S – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Milissa Lachance-Maillé</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">05S – Mechanical CADD / Dessin industriel – CDAO</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Dominic Nadeau</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">06PS – CNC Machining / Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Luc Boudreau</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">06PS – CNC Machining / Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Keenan&#160; Peterson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">06PS – CNC Machining / Usinage CNC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Heather Anderson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09PS – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Amanda Cook</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09PS – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ingrid Wieler</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09PS – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Matthew Ewen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09S – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Debby Petkau</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09S – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Cameron Gay</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">09S – IT-Software Solutions for Business / TI – Solutions logicielles pour les entreprises</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ryan Marsh</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10PS – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nic Kitt</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10PS – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Rémi&#160; Plante-Robidas</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10PS – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Antonio Lewis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10S – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jonathan Daigle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10S – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tyler Hireen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">10S – Welding / Soudage</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Marissa Halter</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">11PS – Offset Printing / Impression Offset</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Dylan Langille</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">11PS – Offset Printing / Impression Offset</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kathleen&#160; Dawe</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">11PS – Offset Printing / Impression Offset</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jordy Bartman</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13PS – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Steven Le-Magueresse</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13PS – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Erick Reade</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13PS – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">John Wiebe</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13S – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sébastien Beaulieu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13S – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jackson Campbell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">13S – Autobody Repair / Tôlerie – Carrosserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Christopher Wilson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">14PS – Sheet Metal Work / Ferblanterie – Tôlerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">YT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jake Montgomery</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">14PS – Sheet Metal Work / Ferblanterie – Tôlerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Richard Haché</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">14PS – Sheet Metal Work / Ferblanterie – Tôlerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ryan&#160; Voscek</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">15PS – Plumbing / Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jean-Sébastien Simard</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">15PS – Plumbing / Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jonathan Harding</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">15PS – Plumbing / Plomberie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kevin&#160; Russell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16PS – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Johnathan Black</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16PS – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Zander Erasmus</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16PS – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stephen Molyneaux</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16S – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Hudson Schier</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16S – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Colby&#160; Bromley</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">16S – Electronics / Électronique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jessica&#160; Lapointe</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17PS – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Benjamin Hohner-da Silva</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17PS – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Colin McQueen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17PS – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Zachary&#160; Seguin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17S – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tyler Blair</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17S – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Anthony Smith</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">17S – Web Site Development / Conception de sites Web</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">David&#160; Gagnon</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18PS – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Gordon Kearns</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18PS – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">YT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mike Trainor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18PS – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michaël&#160; Breton</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18S – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Steffan&#160; Adamchuk</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18S – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nathan&#160; Sampson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">18S – Electrical Installations / Installations électriques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Zack Hartle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">19PS – Automation and Control / Contrôle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Derrick MacDonald</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">19PS – Automation and Control / Contrôle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jesse Carlson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">19PS – Automation and Control / Contrôle et automatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jacob Bell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">20PS – Brick Masonry / Briquetage – Maçonnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Justin Vatcher</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">20PS – Brick Masonry / Briquetage – Maçonnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Joshua&#160; Pelletier</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">20PS – Brick Masonry / Briquetage – Maçonnerie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Leonhard&#160; Derksen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24PS – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bart VanHaaren</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24PS – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nick Poole</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24PS – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Keane Morrow</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24S – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michaël&#160; Labrèche St-Jean</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24S – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Steven&#160; Doerksen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">24S – Cabinetmaking / Ébénisterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Morgan Brown</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26PS – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Cody Malloch</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26PS – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Adam Tanner</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26PS – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Cole Chapman</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26S – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Benjamin Perrault</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26S – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Justin Lefebre</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">26S – Carpentry / Charpenterie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Dominique Mercier</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29PS – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tiffany Wood</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29PS – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nick Gaze</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29PS – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tiana Whitman</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29S – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Annabelle Boyer</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29S – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Niki Harris</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">29S – Hairstyling / Coiffure</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Chloe McCauley</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">30PS – Aesthetics / Esthétique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Joanie&#160; Arsenault</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">30PS – Aesthetics / Esthétique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michelle Bunch</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">30PS – Aesthetics / Esthétique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Donna Lu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">31S – Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stéphanie&#160; Roy</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">31S – Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nancy&#160; Mac</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">31S – Fashion Technology / Mode et création</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mélodie Perez-Mousseau</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32PS – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Melinda Patrice Burke</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32PS – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sharla Potrie</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32PS – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maude Moreau</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32S – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Peyton Carmichael</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32S – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Luis Aguilar</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">32S – Baking / Pâtisserie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tyler Kenyon</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33PS – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">John Spoelder</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33PS – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">James Bowes</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33PS – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alexandre Angers</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33S – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jared Buckley</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33S – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Douglas MacIntosh</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">33S – Automotive Service / Mécanique automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maxime&#160; Fortin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34PS – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Peter Keith</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34PS – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jacob Oikle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34PS – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Marysoleil Miron-Bonsant</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34S – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sébastien Rémillard</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34S – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jake&#160; MacDonald</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">34S – Cooking / Cuisine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maxime&#160; Renaud</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">35PS – Restaurant Service / Service de la restauration</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jeremy Torres</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">35PS – Restaurant Service / Service de la restauration</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tyler Hore</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36PS – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ryan Smith</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36PS – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Justin Codner</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36PS – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jordan Bain</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36S – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sébastien&#160; Bertrand</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36S – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sean&#160; Simpson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">36S – Car Painting / Peinture automobile</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Justin Schipper</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jack Vanden Broek</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Gabriel Bérubé</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mathieu&#160; Bérubé</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Colin Dewitt</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mackenzie Harman</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">37PS – Landscape Gardening / Jardinier Paysagiste</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Scheideman</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">38PS – Refrigeration and Air Conditioning / Réfrigération et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maxime Lafleur</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">38PS – Refrigeration and Air Conditioning / Réfrigération et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Walmsley</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">38PS – Refrigeration and Air Conditioning / Réfrigération et climatisation</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Brian Forward</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39PS – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jeff&#160; Hunter</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39PS – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jean-Philippe Desbiens</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39PS – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Param Preet&#160; Lobana</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39S – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Trevor Leslie</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39S – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">John&#160; Olano</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">39S – IT-Network Systems Administration / TI – Administration des systèmes et des réseaux informatiques</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sarah&#160; Rochefort Higgins</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40PS – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Danielle&#160; Giroux</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40PS – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Joseph Keen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40PS – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Isabelle Bélanger</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40S – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Emma Power</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40S – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Cacho</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40S – Graphic Design / Infographie</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Joseph Cinq-Mars</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">51PS – Industrial Mechanic / Millwright / Mécanicien – monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Matthew&#160; Enns</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">51PS – Industrial Mechanic / Millwright / Mécanicien – monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bronson Backshall</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">51PS – Industrial Mechanic / Millwright / Mécanicien – monteur industriel</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Josh&#160; Richard</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52PS – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Gravelle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52PS – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Becky DeKleyn</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52PS – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Nugent</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52S – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Evan Latos</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52S – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kevin Partyka</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">52S – Architectural Technology &amp; Design / Dessin et technologie architecturale</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Gerrad&#160; Wenzel</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">53S – Outdoor Power and Recreation Equipment / Mécanique de véhicules de loisir et d’entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stephen Mahrer</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">53S – Outdoor Power and Recreation Equipment / Mécanique de véhicules de loisir et d’entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jonathan&#160; Campbell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">53S – Outdoor Power and Recreation Equipment / Mécanique de véhicules de loisir et d’entretien</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stephanie Stanov</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Blake&#160; Hannahson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Layne Richardson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alex Greba</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Martin Calvo</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jean-Luc Oicle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">82S – TV / Video Production / Production télévisuelle/vidéo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Julia&#160; Ross</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">83S – Job Interview / Entrevue d’emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alexia Kuan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">83S – Job Interview / Entrevue d’emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Erica&#160; Badcock</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">83S – Job Interview / Entrevue d’emploi</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jerick Aranza</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">84S – Job Skill Demonstration / Présentation: aptitudes professionnelles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Carmen Thio</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">84S – Job Skill Demonstration / Présentation: aptitudes professionnelles</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Taylor&#160; Daigneault</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">85S – Prepared Speech / Discours préparé</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Molly Cross</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">85S – Prepared Speech / Discours préparé</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Emily Coles</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">85S – Prepared Speech / Discours préparé</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Josiah Stefani</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jamie Ruddick</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sam Bao</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ian Lee</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Agastya Kalra</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Belden&#160; Pham</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">87S – 3D Character Computer Animation / Animation informatisée 3D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Michael Gaudio</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Rebecca Moir</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stephanie&#160; Hunt</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alexandra&#160; Smith</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alex&#160; Pither</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Emma Campbell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">88S – 2D Character Computer Animation / Animation informatisée 2D</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">MB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Dylan Pereira</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">91PS – Aircraft Maintenance / Entretien d’aéronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">QC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Félix Fortin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">91PS – Aircraft Maintenance / Entretien d’aéronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">BC</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alexander&#160; Travis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">91PS – Aircraft Maintenance / Entretien d’aéronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Craig Slikker</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">91PS – Aircraft Maintenance / Entretien d’aéronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">NS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jasper Jackson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">91PS – Aircraft Maintenance / Entretien d’aéronefs</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">PE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jeremy Koughan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">92S – Workplace Safety / Sécurité sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tye Buettner</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">92S – Workplace Safety / Sécurité sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jordyn Terrault</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">92S – Workplace Safety / Sécurité sur le lieu de travail</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bo Chiasson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jayden Leister</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Taylor&#160; Pachal</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">SK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Rachel Machnee</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Anthony James Cagalawan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bernard Zuech</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Keith Martin Nicolas</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Linda Shen</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Cameron Wray</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Callum Campbell</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Jeffrey Samuelson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sheldon Marquis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">93S – Robotics / Robotique</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">YT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nathan Peterson</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">94PS – Heavy Equipment Service / Mécanique de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">GOLD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ON</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Lawrence Cameron</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">94PS – Heavy Equipment Service / Mécanique de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SILVER</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">AB</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Brad MacIntosh</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">94PS – Heavy Equipment Service / Mécanique de machinerie lourde</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">BRONZE</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

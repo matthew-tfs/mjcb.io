@@ -105,7 +105,7 @@ The closing ceremony was the next day at the Waterloo Memorial Recreation Comple
 
 When they got to the **IT and Network Support (Post Secondary)** competition, I was extremely nervous. They called the third place and second place winners, and it wasn't me. I think for those moments I wasn't even breathing. All I thought was that I blew it, I didn't win, I didn't even get into the top three. The announcer then called my name for first place, and I was so shocked that I just stood up and looked at my teacher and he kept waving at me to go up to the stage. It was a weird day for me.
 
-## Results ##
+### Results ###
 
 The year of the Skills Ontario competition I came in first place in the **IT and Network Support (Post Secondary)** competition, and the other student from my program came in fifth place.
 
@@ -129,7 +129,7 @@ Skills Ontario gives out medals for the top three winners (gold, silver, and bro
 
 In a crazy, it's a small world situation, I ended up working at the same company with another competitor for a short time. We didn't compete in the same year, but while I was going through everything for this post, I realized that I worked with someone who also competed in the IT and Network Support competition. We never directly worked together as he was in a different department at the company, but it was a crazy coincidence and I wish I had known it at the time.
 
-## What Were the Next Steps? ##
+### What Were the Next Steps? ###
 
 By winning first place in the competition, I immediately qualified for the Skills Canada competition that was happening later in May 2009.
 
@@ -200,9 +200,9 @@ Overall, Cambrian College has completely dominated the IT and Network Support co
 [^6]: Virtual Skills Ontario Competition. Cambrian College sent no competitors to this event.
 [^7]: In-person Skills Ontario competition. Cambrian College sent no competitors to the IT Network Systems Administration competition.
 [^8]: Most competitors that Cambrian College has ever sent to Skills Ontario (28 competitors in 15 competitions).
-[^9]: Cambrian College only sent one student for the IT Network Systems Administration competition.
+[^9]: Cambrian College only sent one student for the IT Network Systems Administration competition. This year also featured the most competitors in that specific competition.
 
-Since 2005 there have been 15 post-secondary institutions that have competed in the IT and Network Support competition at Skills Ontario. Students from Cambrian College have won the most medals overall, and have won first place the most times by a wide margin:
+Since 2005 there have been 17 post-secondary institutions that have competed in the IT and Network Support competition at Skills Ontario. Students from Cambrian College have won the most medals overall, and have won first place the most times by a wide margin:
 
 | Post-Secondary Institution | Gold Medals | Silver Medals | Bronze Medals | Total  |
 |:---------------------------|:------------|:--------------|:--------------|:-------|

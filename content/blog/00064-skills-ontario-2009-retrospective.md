@@ -125,7 +125,7 @@ There were nine students total that year from six different colleges competing t
 
 Skills Ontario gives out medals for the top three winners (gold, silver, and bronze), so I technically won gold in my competition. I still have my medals from Skills Ontario and Skills Canada, and here is the gold medal that I won at the Skills Ontario competition:
 
-![Skills Ontario 2009 Gold Medal.](/images/blog/00064/skills_ontario_gold_medal_side_01.jpg)
+![Skills Ontario 2009 Gold Medal. OTSC stands for Ontario Technical Skills Competition.](/images/blog/00064/skills_ontario_gold_medal_side_01.jpg)
 
 In a crazy, it's a small world situation, I ended up working at the same company with another competitor for a short time. We didn't compete in the same year, but while I was going through everything for this post, I realized that I worked with someone who also competed in the IT and Network Support competition. We never directly worked together as he was in a different department at the company, but it was a crazy coincidence and I wish I had known it at the time.
 
@@ -190,7 +190,7 @@ Overall, Cambrian College has completely dominated the IT and Network Support co
 | [2021](/docs/blog/00064/otsc_results/otsc_2021_results.pdf) Results[^6] | N/A         | N/A         | 6           |
 | [2022](/docs/blog/00064/otsc_results/otsc_2022_results.pdf) Results[^7] | N/A         | N/A         | 5           |
 | [2023](/docs/blog/00064/otsc_results/otsc_2023_results.pdf) Results[^8] | 10th Place  | 15th Place  | 16          |
-| 2024 Results[^9]                                                        | Pending     | Pending     | Pending     |
+| [2024](/docs/blog/00064/otsc_results/otsc_2023_results.pdf) Results[^9] | 7th Place   | N/A         | 18     |
 
 [^1]: First year that Cambrian College sent students to the Skills Ontario competition.
 [^2]: First year that Cambrian College qualified for the Skills Canada competition.
@@ -200,13 +200,13 @@ Overall, Cambrian College has completely dominated the IT and Network Support co
 [^6]: Virtual Skills Ontario Competition. Cambrian College sent no competitors to this event.
 [^7]: In-person Skills Ontario competition. Cambrian College sent no competitors to the IT Network Systems Administration competition.
 [^8]: Most competitors that Cambrian College has ever sent to Skills Ontario (28 competitors in 15 competitions).
-[^9]: Results for the 2024 Skills Ontario competition will be released on May 17, 2024.
+[^9]: Cambrian College only sent one student for the IT Network Systems Administration competition.
 
 Since 2005 there have been 15 post-secondary institutions that have competed in the IT and Network Support competition at Skills Ontario. Students from Cambrian College have won the most medals overall, and have won first place the most times by a wide margin:
 
 | Post-Secondary Institution | Gold Medals | Silver Medals | Bronze Medals | Total  |
 |:---------------------------|:------------|:--------------|:--------------|:-------|
-| Algonquin College          | 1           | 1             | 1             | 3      |
+| Algonquin College          | 1           | 2             | 2             | 5      |
 | Cambrian College           | **8**       | **5**         | **5**         | **18** |
 | Canadore College           | 0           | 0             | 1             | 1      |
 | Centennial College         | 1           | 4             | 2             | 7      |
@@ -214,11 +214,13 @@ Since 2005 there have been 15 post-secondary institutions that have competed in 
 | Durham College             | 4           | 4             | 3             | 11     |
 | Fanshawe College           | 1           | 0             | 1             | 2      |
 | Humber College             | 0           | 1             | 1             | 2      |
+| Loyalist College           | 0           | 0             | 0             | 0      |
 | Mohawk College             | 0           | 0             | 1             | 1      |
 | Niagara College            | 0           | 0             | 0             | 0      |
+| Northern College           | 0           | 0             | 0             | 0      |
 | Seneca College             | 0           | 0             | 0             | 0      |
 | Sheridan College           | 0           | 0             | 0             | 0      |
-| St. Clair College          | 3           | 3             | 2             | 8      |
+| St. Clair College          | 3           | 3             | 3             | 9      |
 | St. Lawrence College       | 0           | 0             | 0             | 0      |
 | Waterloo Networks Inc.     | 0           | 0             | 0             | 0      |
 

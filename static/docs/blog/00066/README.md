@@ -29,3 +29,9 @@ I retrieved most of the results for Skills Canada from the Wayback Machine. Here
 There do not appear to be any results available online for any Skills Canada competition prior to 2002.
 
 I copied the results information into spreadsheets for each year. I used the Excel 2004 XML Spreadsheet (.xml) format because it stores information in plain text and works well with Git. It is readable with Microsoft Excel and LibreOffice Calc.
+
+## scnc_it_and_network_support_results.xml ##
+
+This file tracks the ranking of all post-secondary institutions in the IT and Network Support competition.
+
+I used the Excel 2004 XML Spreadsheet (.xml) format because it stores information in plain text and works well with Git. It is readable with Microsoft Excel and LibreOffice Calc.

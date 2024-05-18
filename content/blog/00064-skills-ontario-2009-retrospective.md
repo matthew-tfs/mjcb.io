@@ -190,7 +190,7 @@ Overall, Cambrian College has completely dominated the IT and Network Support co
 | [2021](/docs/blog/00064/otsc_results/otsc_2021_results.pdf) Results[^6] | N/A         | N/A         | 6           |
 | [2022](/docs/blog/00064/otsc_results/otsc_2022_results.pdf) Results[^7] | N/A         | N/A         | 5           |
 | [2023](/docs/blog/00064/otsc_results/otsc_2023_results.pdf) Results[^8] | 10th Place  | 15th Place  | 16          |
-| [2024](/docs/blog/00064/otsc_results/otsc_2023_results.pdf) Results[^9] | 7th Place   | N/A         | 18     |
+| [2024](/docs/blog/00064/otsc_results/otsc_2024_results.pdf) Results[^9] | 7th Place   | N/A         | 18          |
 
 [^1]: First year that Cambrian College sent students to the Skills Ontario competition.
 [^2]: First year that Cambrian College qualified for the Skills Canada competition.

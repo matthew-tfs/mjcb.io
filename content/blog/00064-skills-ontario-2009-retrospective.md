@@ -3,7 +3,7 @@ title: "Skills Ontario 2009 Retrospective"
 slug: "skills-ontario-2009-retrospective"
 date: "2024-05-05T15:07:00"
 author: "Matthew Burr"
-summary: "I wanted to go into the details of the Skills Ontario competition that I attended in early May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
+summary: "I wanted to go into the details of the Skills Ontario competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
 tags: [
     "Cambrian College",
     "CETY",
@@ -15,7 +15,7 @@ thumbnail: "/images/blog/00064/skills-ontario.png"
 draft: false
 ---
 
-I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
+I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
 
 It has been 15 years since I went to this competition, and I have written some [background](/blog/2024/04/28/skills-competition-retrospective/) information on how I became involved in the competition in the first place. I have also written a follow-up on my experience at the [Skills Canada](/blog/2024/05/21/skills-canada-2009-retrospective/) competition that happened a few weeks later in May 2009.
 
@@ -23,9 +23,9 @@ It has been 15 years since I went to this competition, and I have written some [
 
 ## Disclaimer ##
 
-This is not a post describing in-depth details on the Skills Ontario competition or how to win it. This post is just describing my experience with Skills Ontario and the events leading up to the event and everything that happened afterwards.
+This is not a post describing in-depth details on the Skills Ontario or Skills Canada competition and how to win those competitions. This post is just describing my experience with Skills Ontario and Skills Canada, and the events leading up to the event and everything that happened afterwards. This also happened 15 years ago, nothing that I could say is no longer relevant as the competitions have changed since then.
 
-All information that I discuss or reference in this post is based on information that can already be found on the Skills Ontario website. All documents that I link to that are related to Skills Ontario are the property of Skills Ontario. They have not been modified in any way.
+All information that I discuss or reference in this post is based on information that can be found on the Skills Ontario and Skills Canada website. All documents that I link to that are related to those competitions are the property of Skills Ontario and Skills Canada. They have not been modified in any way.
 
 ## What is Skills Ontario? ##
 
@@ -41,7 +41,7 @@ On a high-level, the competition was basically a day-long practical examination 
 
 > To evaluate each competitor's skills and to recognize outstanding competitors for excellence and professionalism in the field of IT and network support.
 
-It was actually a great way to bookend by [college program](/blog/2024/04/28/skills-competition-retrospective/#computer-systems-technology-cety-program), as it included everything that I had learned during my time there. This applied to the other competitors from the other colleges as well, as their programs were mostly similar.
+It was actually a great way to bookend my [college program](/blog/2024/04/28/skills-competition-retrospective/#computer-systems-technology-cety-program), as it included everything that I had learned during my time there. This applied to the other competitors from the other colleges as well, as their programs were mostly similar.
 
 There were six major components in the competition, and they included the following categories and grading:
 

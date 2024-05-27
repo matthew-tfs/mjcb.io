@@ -187,6 +187,8 @@ I do daily and monthly backups of all my important data:
 * I backup my MacBook Air and iCloud files daily using Time Machine. This process is entirely automated and requires no user intervention to start the backup process.
 * I perform a full backup once a month of all files. This includes all **Documents** and **NAS Media** files that were defined earlier in this post.
 
+I also utilize [Active Backup for Microsoft 365](https://www.synology.com/en-global/dsm/feature/active_backup_office365) for backing up data in my Office 365 tenant to my Synology NAS. This is an automated process that occurs on it's own schedule.
+
 Whenever a full backup is performed of my data, at least one of the offsite backups is swapped as soon as possible and the previously offsite backup is updated.
 
 ### Backup Automation ###
@@ -202,6 +204,7 @@ There are two cloud services that I need to backup manually first, and that is f
     * If I have only made changes to one or two repositories, I will just export the changed repositories and not bother with a full backup.
     * These files are stored with my **Documents** files and are backed up with those files.
 * Export my Office 365 mailboxes to PST files:
+    * I use Active Backup for Microsoft 365 with my Synology NAS, but I still want an offline backup of my email.
     * I don't bother doing this from the Office 365 Admin portal, I just use Outlook to export the mailboxes because it is faster, and the data is already downloaded.
     * As much as PST files are hated by systems administrators, they are the most convenient way to export entire mailboxes in a convenient manner and can be backed up in a matter of minutes.
     * These files are stored with my **Documents** files and are backed up with those files.

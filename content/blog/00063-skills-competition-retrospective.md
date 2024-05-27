@@ -104,9 +104,9 @@ Cambrian College and the CETY program had only started sending students to Skill
 
 | Year | Skills Ontario  | Skills Canada |
 |:-----|:----------------|:--------------|
-| 2005 | Silver          |               |
+| 2005 | Silver          | N/A           |
 | 2006 | Gold            | Bronze        |
-| 2007 | Gold and Silver |               |
+| 2007 | Gold and Silver | N/A           |
 | 2008 | Gold and Bronze | Silver        |
 
 Until that point no one from Cambrian College had ever won first place at the Skills Canada competition in the IT and Network Support competition. In 2006 they won third place, and in 2008 they won second place.

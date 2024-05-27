@@ -211,7 +211,7 @@ Since 2005 there have been 17 post-secondary institutions that have competed in 
 | Canadore College           | 0           | 0             | 1             | 1      |
 | Centennial College         | 1           | 4             | 2             | 7      |
 | Conestoga College          | 0           | 0             | 1             | 1      |
-| Durham College             | 4           | 4             | 3             | 11     |
+| Durham College             | 4           | 4             | 3             | **11** |
 | Fanshawe College           | 1           | 0             | 1             | 2      |
 | Humber College             | 0           | 1             | 1             | 2      |
 | Loyalist College           | 0           | 0             | 0             | 0      |
@@ -220,7 +220,7 @@ Since 2005 there have been 17 post-secondary institutions that have competed in 
 | Northern College           | 0           | 0             | 0             | 0      |
 | Seneca College             | 0           | 0             | 0             | 0      |
 | Sheridan College           | 0           | 0             | 0             | 0      |
-| St. Clair College          | 3           | 3             | 3             | 9      |
+| St. Clair College          | 3           | 3             | 3             | **9**  |
 | St. Lawrence College       | 0           | 0             | 0             | 0      |
 | Waterloo Networks Inc.     | 0           | 0             | 0             | 0      |
 

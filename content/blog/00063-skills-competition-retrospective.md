@@ -133,7 +133,7 @@ I volunteered as a judge for the Skills Ontario competition for a few years in 2
 
 ## Skills Ontario and Skills Canada Competitions ##
 
-More information on my experiences with the Skills Ontario and Skills Canada 2009 competitions can be found here:
+More information on my experiences with the Skills Ontario and Skills Canada competitions in 2009 can be found here:
 
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
 * [Skills Canada 2009 Retrospective](/blog/2024/05/21/skills-canada-2009-retrospective/)

@@ -33,7 +33,7 @@ Skills Ontario is a non-profit organization that promotes careers in the skille
 
 > To champion and stimulate the development of world-class technological and employability skills in Ontario youth.
 
-They do this by hosting an [annual competition](https://www.skillsontario.com/competitions-and-challenges) in over 70 different fields, which is used to showcase the different trades that you can get into by attending post-secondary schools. There are many [competitions](https://www.skillsontario.com/skills-ontario-competition) that are hosted by Skills Ontario every year, and there are secondary and post-secondary competition scopes in many different fields. I competed in the **IT and Network Support (Post Secondary)** competition which sent students from several different colleges in Ontario.
+They do this by hosting an Olympic-style [annual competition](https://www.skillsontario.com/competitions-and-challenges) in over 70 different fields, which is used to showcase the different trades that you can get into by attending post-secondary schools. There are many [competitions](https://www.skillsontario.com/skills-ontario-competition) that are hosted by Skills Ontario every year, and there are secondary and post-secondary competition scopes in many different fields. I competed in the **IT and Network Support (Post Secondary)** competition which sent students from several different colleges in Ontario.
 
 ## What is the IT and Network Competition? ##
 
@@ -53,6 +53,8 @@ There were six major components in the competition, and they included the follow
 6. Job Interview (5%)
 
 Everything was timed during the competition, and there were milestones during the exam to ensure that you were on track to finish by the end of the day. If you started to get too far behind, then you would be forced to move onto the next section. The job interview component was done at random times and took around 15 minutes to complete. At the time I thought it was an unnecessary component, but in hindsight it was smart that the organizers included it.
+
+There was no internet access at all during the competition, it was completely air gapped. There was only one exception and it was due to a requirement with installing required packages in CentOS. This section required a judge to supervise the student, and it was timed. If you were not able to get the required files in that time frame, you were not able to get them at all and you would lose marks.
 
 ## Skills Ontario Preparation ##
 
@@ -127,6 +129,8 @@ Skills Ontario gives out medals for the top three winners (gold, silver, and bro
 
 ![Skills Ontario 2009 Gold Medal. OTSC stands for Ontario Technical Skills Competition.](/images/blog/00064/skills_ontario_gold_medal_side_01.jpg)
 
+A few weeks later I was mailed several documents from Skills Ontario acknowledging my participation in the competition. I was also sent several items from sponsors of the competition, including tools and other things related to my trade. I still have all of those items today, they are a great reminder of that day.
+
 In a crazy, it's a small world situation, I ended up working at the same company with another competitor for a short time. We didn't compete in the same year, but while I was going through everything for this post, I realized that I worked with someone who also competed in the IT and Network Support competition. We never directly worked together as he was in a different department at the company, but it was a crazy coincidence and I wish I had known it at the time.
 
 ### What Were the Next Steps? ###
@@ -139,7 +143,7 @@ When the question came up if I would go, I obviously said yes. I will talk more 
 
 In 2018 and 2019 I volunteered as a judge at the event in the same competition, although it has been renamed to the **IT Network Systems Administration** competition. This time the event was held at the Toronto Congress Centre in Etobicoke, Ontario.
 
-I couldn't take any photos prior to or after the competition in 2009. I ended up leaving my phone at the hotel room as I simply didn't need it. One of the biggest issues that I had with Skills Ontario was that as a competitor, there was no opportunity to see the event as it happens. You are so focused on what you are doing, and you can't just walk around. I thought that during the lunch break we would be able to walk around, but I realized afterwards that we couldn't do that as to keep the other competitors from talking to each other.
+I couldn't take any photos prior to or after the competition in 2009. I ended up not taking my phone as I simply didn't need it, and my teacher told me the morning of the competition to just leave it at the hotel room. One of the biggest issues that I had with Skills Ontario was that as a competitor, there was no opportunity to see the event as it happens. You are so focused on what you are doing, and you can't just walk around. I thought that during the lunch break we would be able to walk around, but I realized afterwards that we couldn't do that as to keep the other competitors from talking to each other.
 
 Years later, I took a lot of photos while I was at the Skills Ontario event in 2018 and 2019, some of which can be found below:
 

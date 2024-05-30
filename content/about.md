@@ -3,7 +3,7 @@ title: "About"
 showDate: false
 showReadTime: false
 showShare: false
-featureImage: "/images/author/matthew-burr.png"
+featureImage: "/images/about/matthew-burr.png"
 ---
 
 ## Overview ##

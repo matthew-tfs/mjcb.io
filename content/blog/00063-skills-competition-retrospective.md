@@ -21,9 +21,9 @@ On May 1, 2009, I finished the last day of my field placement at [Health Science
 This is a multipart series on my experience at Cambrian College, the Skills Ontario, and the Skills Canada competitions. I attended the Skills Ontario competition in Waterloo, Ontario on May 5, 2009, and I attended the Skills Canada competition in Charlottetown, PEI from May 19 - 23, 2009. More information on both competitions can be found here:
 
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
-* [Skills Canada 2009 Retrospective](/blog/2024/05/21/skills-canada-2009-retrospective/)
+* [Skills Canada 2009 Retrospective](/blog/2024/05/30/skills-canada-2009-retrospective/)
 
-There is nothing significant about 15 years since these events, I just wanted to finally write something about these competitions. I am getting older, and I wanted to document it as best as I could since these were important events for me. I am glad that I went to the trouble of taking photos and taking notes back when these events happened when I could, as I had a bit of trouble remembering every single detail. It is entirely possible that I have misremembered some details, especially with the [Skills Canada Competition](/blog/2024/05/21/skills-canada-2009-retrospective/) as a lot happened over a short period of time. I have also found that a lot of details have been lost, so I wanted to take the time to document what I could.
+There is nothing significant about 15 years since these events, I just wanted to finally write something about these competitions. I am getting older, and I wanted to document it as best as I could since these were important events for me. I am glad that I went to the trouble of taking photos and taking notes back when these events happened when I could, as I had a bit of trouble remembering every single detail. It is entirely possible that I have misremembered some details, especially with the [Skills Canada Competition](/blog/2024/05/30/skills-canada-2009-retrospective/) as a lot happened over a short period of time. I have also found that a lot of details have been lost, so I wanted to take the time to document what I could.
 
 This series of posts ended up getting a lot of additions and corrections. This is due to me finding additional details that I had written down, or things that I decided to add as I thought they were important details to mention. If I have made any errors or have left out important details, please [contact me](/about/#contact) and I will correct it.
 
@@ -123,7 +123,7 @@ I won first place in the IT and Network Support category at the Skills Ontario c
 
 ![Skills Ontario and Skills Canada Gold Medals (2009).](/images/blog/00063/skills_ontario_skills_canada_gold_medals.jpg)
 
-After the Skills Canada competition I was given an all-expenses paid trip from Cisco to travel to Cisco's main campus in San Jose. I got to meet a lot of the people from the Cisco Networking Academy and provided feedback on my experiences using their curriculum and other course materials. They were also nice enough to send me home with a lot of free equipment and other stuff.
+After the Skills Canada competition I was given an [all-expenses paid trip](/blog/2024/05/24/skills-canada-2009-retrospective/#san-jose) from Cisco to travel to Cisco's main campus in San Jose. I got to meet a lot of the people from the Cisco Networking Academy and provided feedback on my experiences using their curriculum and other course materials. They were also nice enough to send me home with a lot of free equipment and other stuff.
 
 A former classmate of mine who now works for Cambrian College sent me a photo a few years ago showing me a banner with my name in my old classroom:
 
@@ -136,7 +136,7 @@ I volunteered as a judge for the Skills Ontario competition for a few years in 2
 More information on my experiences with the Skills Ontario and Skills Canada competitions in 2009 can be found here:
 
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
-* [Skills Canada 2009 Retrospective](/blog/2024/05/21/skills-canada-2009-retrospective/)
+* [Skills Canada 2009 Retrospective](/blog/2024/05/30/skills-canada-2009-retrospective/)
 
 ## Links ##
 

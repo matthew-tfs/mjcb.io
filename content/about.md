@@ -34,7 +34,7 @@ I look back fondly of my time at Cambrian College, I thank all of success to the
 
 At the end of my time at Cambrian College I was chosen to represent my class at the [Skills Ontario](http://www.skillsontario.com/) competition in Waterloo, Ontario for IT and Network Support on May 5, 2009. I ended up winning first place in that competition. Several weeks later, I went to the [Skills Canada](https://www.skillscompetencescanada.com/) competition in Charlottetown, PEI for IT and Network Support on May 21, 2009, and I also won first place in that category as well.
 
-I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019, and 2021 at the Skills Ontario Competition in Toronto, Ontario. I have written about my [experience](/blog/2024/04/28/skills-competition-retrospective/) with this competition at both the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) and [Skills Canada](/blog/2024/05/21/skills-canada-2009-retrospective/) competitions. In recent years I have even spent some time volunteering at the Skills Ontario competition.
+I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019, and 2021 at the Skills Ontario Competition in Toronto, Ontario. I have written about my [experience](/blog/2024/04/28/skills-competition-retrospective/) with this competition at both the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) and [Skills Canada](/blog/2024/05/30/skills-canada-2009-retrospective/) competitions. In recent years I have even spent some time volunteering at the Skills Ontario competition.
 
 ## Experience ##
 

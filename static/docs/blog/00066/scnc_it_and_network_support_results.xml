@@ -16,10 +16,10 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>17440</WindowHeight>
-  <WindowWidth>28040</WindowWidth>
-  <WindowTopX>2780</WindowTopX>
-  <WindowTopY>1500</WindowTopY>
+  <WindowHeight>8976</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -79,11 +79,13 @@
  </Styles>
  <Worksheet ss:Name="SCNC Results">
   <Table ss:ExpandedColumnCount="26" ss:ExpandedRowCount="32" x:FullColumns="1"
-   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="185"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="23" ss:Span="21"/>
-   <Column ss:Index="24" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="23"/>
-   <Row ss:AutoFitHeight="0" ss:Height="50">
+   x:FullRows="1" ss:DefaultColumnWidth="64.8" ss:DefaultRowHeight="16.05">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="184.8"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="22.799999999999997"
+    ss:Span="21"/>
+   <Column ss:Index="24" ss:StyleID="s62" ss:AutoFitWidth="0"
+    ss:Width="22.799999999999997"/>
+   <Row ss:AutoFitHeight="0" ss:Height="49.949999999999996">
     <Cell ss:Index="2" ss:StyleID="s64"><Data ss:Type="Number">2002</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="Number">2003</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="Number">2004</Data></Cell>

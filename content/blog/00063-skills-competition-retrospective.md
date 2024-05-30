@@ -123,7 +123,7 @@ I won first place in the IT and Network Support category at the Skills Ontario c
 
 ![Skills Ontario and Skills Canada Gold Medals (2009).](/images/blog/00063/skills_ontario_skills_canada_gold_medals.jpg)
 
-After the Skills Canada competition I was given an [all-expenses paid trip](/blog/2024/05/24/skills-canada-2009-retrospective/#san-jose) from Cisco to travel to Cisco's main campus in San Jose. I got to meet a lot of the people from the Cisco Networking Academy and provided feedback on my experiences using their curriculum and other course materials. They were also nice enough to send me home with a lot of free equipment and other stuff.
+After the Skills Canada competition I was given an [all-expenses paid trip](/blog/2024/05/30/skills-canada-2009-retrospective/#san-jose) from Cisco to travel to Cisco's main campus in San Jose. I got to meet a lot of the people from the Cisco Networking Academy and provided feedback on my experiences using their curriculum and other course materials. They were also nice enough to send me home with a lot of free equipment and other stuff.
 
 A former classmate of mine who now works for Cambrian College sent me a photo a few years ago showing me a banner with my name in my old classroom:
 

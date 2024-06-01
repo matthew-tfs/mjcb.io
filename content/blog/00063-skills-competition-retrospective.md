@@ -18,7 +18,7 @@ featured: true
 
 On May 1, 2009, I finished the last day of my field placement at [Health Sciences North](https://hsnsudbury.ca/en) in Sudbury, Ontario, and completed the final course that I needed so that I could graduate from [Cambrian College](https://cambriancollege.ca/) in the [CETY (Computer Systems Technology)](https://catalog.cambriancollege.ca/cety/) program. The following week I travelled to Waterloo, Ontario to represent my college in the [Skills Ontario](https://www.skillsontario.com/) competition in the IT and Network Support category. I ended up winning first place in that competition, and I then travelled to Charlottetown, PEI a few weeks later to the [Skills Canada](https://www.skillscompetencescanada.com/en/) competition to compete again where I also won first place. It has been 15 years since I competed at both events, and I wanted to go over the experience.
 
-This is a multipart series on my experience at Cambrian College, the Skills Ontario, and the Skills Canada competitions. I attended the Skills Ontario competition in Waterloo, Ontario on May 5, 2009, and I attended the Skills Canada competition in Charlottetown, PEI from May 19 - 23, 2009. More information on both competitions can be found here:
+This is a multipart series on my experience at Cambrian College, the Skills Ontario, and the Skills Canada competitions. I attended the Skills Ontario competition in Waterloo, Ontario from May 4 to May 6, 2009, and I attended the Skills Canada competition in Charlottetown, PEI from May 19 - 23, 2009. More information on both competitions can be found here:
 
 * [Skills Ontario 2009 Retrospective](/blog/2024/05/05/skills-ontario-2009-retrospective/)
 * [Skills Canada 2009 Retrospective](/blog/2024/05/30/skills-canada-2009-retrospective/)
@@ -119,7 +119,7 @@ My immediate reaction was that I was the wrong choice. I thought there were at l
 
 ## How Did I Do? ##
 
-I won first place in the IT and Network Support category at the Skills Ontario competition on May 5, 2009. This qualified me to compete at the Skills Canada competition a few weeks later, and I won first place in the IT and Network Support category at the Skills Canada competition on May 22, 2009. Skills Ontario and Skills Canada gives out medals for the top three winners (gold, silver, and bronze), so I technically won gold in my competitions:
+I won first place in the IT and Network Support category at the Skills Ontario competition in 2009. This qualified me to compete at the Skills Canada competition a few weeks later, and I won first place in the IT and Network Support category at the Skills Canada competition on May 22, 2009. Skills Ontario and Skills Canada gives out medals for the top three winners (gold, silver, and bronze), so I technically won gold in my competitions:
 
 ![Skills Ontario and Skills Canada Gold Medals (2009).](/images/blog/00063/skills_ontario_skills_canada_gold_medals.jpg)
 

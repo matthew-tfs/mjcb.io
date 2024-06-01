@@ -170,7 +170,7 @@ The IT and Network Support competition scope was modified after 2009 to include 
 
 The closing ceremony took place at the University of PEI on the final day of the competition. Before the closing ceremonies began, Team Ontario posed for a group photo before entering the hall:
 
-![Team Ontario 2009. It is hard to see, but I am at the very top of the photo, tenth from the left.](/images/blog/00066/team_ontario_2009.jpg)
+![Team Ontario 2009. It is hard to see, but I am at the very top of the photo, tenth from the left.](/images/blog/00066/05_awards_ceremony/awards_ceremony_01.jpg)
 
 Skills Ontario maintains a page on their website of [Team Ontario photos](https://www.skillsontario.com/skills-canada-national-competition#Pictures) from past events. The photo that I posted above was a scanned copy of a photo that they mailed me back in June 2009.
 
@@ -180,15 +180,15 @@ During the closing ceremony the only speaker that I remember the most was Mike H
 
 When they started announcing winners for the competitions they eventually got to the IT and Network Support competition, and they did the awards for the Secondary students first:
 
-![IT and Network Support - Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_01.jpg)
+![IT and Network Support - Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_02.jpg)
 
 Once they started announcing the Post-Secondary awards, I was starting to panic, and I was getting nervous. I don't think I was even moving, I was just clapping whenever other people were while I was waiting for the announcements. They called the winners for third and second place and it wasn't me. The only thought on my mind was that I blew it, I didn't even make the top three. My only goal for Skills Canada wasn't even to win, it was to at least get into the top three. They then called my name for first place. Once again, I froze up and one of the other competitors told me to get on stage:
 
-![IT and Network Support - Post-Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_02.jpg)
+![IT and Network Support - Post-Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_03.jpg)
 
 After the closing ceremonies were completed, the Secondary and Post-Secondary winners met for a group photo. We also met with a local Cisco representative who congratulated us on our wins at the competition:
 
-![IT and Network Support - Post-Secondary and Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_03.jpg)
+![IT and Network Support - Post-Secondary and Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_04.jpg)
 
 After everything was done, I flew home later that day.
 

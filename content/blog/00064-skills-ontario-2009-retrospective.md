@@ -3,7 +3,7 @@ title: "Skills Ontario 2009 Retrospective"
 slug: "skills-ontario-2009-retrospective"
 date: "2024-05-05T15:07:00"
 author: "Matthew Burr"
-summary: "I wanted to go into the details of the Skills Ontario competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
+summary: "I wanted to go into the details of the Skills Ontario competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition took place from May 4 to May 6, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended."
 tags: [
     "Cambrian College",
     "CETY",
@@ -15,7 +15,7 @@ thumbnail: "/images/blog/00064/skills-ontario.png"
 draft: false
 ---
 
-I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition was on Tuesday May 5, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
+I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition took place from May 4 to May 6, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
 
 It has been 15 years since I went to this competition, and I have written some [background](/blog/2024/04/28/skills-competition-retrospective/) information on how I became involved in the competition in the first place. I have also written a follow-up on my experience at the [Skills Canada](/blog/2024/05/30/skills-canada-2009-retrospective/) competition that happened a few weeks later in May 2009.
 

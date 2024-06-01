@@ -1,10 +1,6 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019 Part 6 - Certificate Template Deployment"
 slug: "certificate-authority-windows-server-2019-part-6"
-aliases: [
-    "/blog/2020/03/09/certificate-authority-windows-server-2019-part-6/",
-    "/2020/03/09/certificate-authority-windows-server-2019-part-6/"
-]
 date: "2020-03-09T19:07:00"
 author: "Matthew Burr"
 summary: "Certificates are not always one size fits all for an organization, but luckily it is easy to customize the Certificates that are deployed to your organization."

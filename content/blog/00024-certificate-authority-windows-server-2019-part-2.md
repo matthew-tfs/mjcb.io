@@ -1,10 +1,6 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019 Part 2 - Subordinate CA Setup"
 slug: "certificate-authority-windows-server-2019-part-2"
-aliases: [
-    "/blog/2020/03/09/certificate-authority-windows-server-2019-part-2/",
-    "/2020/03/09/certificate-authority-windows-server-2019-part-2/"
-]
 date: "2020-03-09T19:03:00"
 author: "Matthew Burr"
 summary: "Once the Root CA has been created, the Subordinate CA needs to be setup. This Subordinate CA is needed to do all the work for the Certificate Authority. It will issue all Certificates to the organization and handle the day-to-day operations."

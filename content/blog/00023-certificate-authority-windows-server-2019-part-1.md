@@ -1,10 +1,6 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019 Part 1 - Offline Root CA Setup"
 slug: "certificate-authority-windows-server-2019-part-1"
-aliases: [
-    "/blog/2020/03/09/certificate-authority-windows-server-2019-part-1/",
-    "/2020/03/09/certificate-authority-windows-server-2019-part-1/"
-]
 date: "2020-03-09T19:02:00"
 author: "Matthew Burr"
 summary: "The first step in establishing a two-tier Certificate Authority is the creation of the Root Certificate. The Root Certificate is the most important part of the Certificate Authority, and it is critical that this is setup properly and securely from day one."

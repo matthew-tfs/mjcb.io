@@ -1,10 +1,6 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019 Part 8 - Final Steps"
 slug: "certificate-authority-windows-server-2019-part-8"
-aliases: [
-    "/blog/2020/03/09/certificate-authority-windows-server-2019-part-8/",
-    "/2020/03/09/certificate-authority-windows-server-2019-part-8/"
-]
 date: "2020-03-09T19:09:00"
 author: "Matthew Burr"
 summary: "The conclusion to this 8-part series on creating a Certificate Authority in Windows Server 2019 using Active Directory Certificate Services."

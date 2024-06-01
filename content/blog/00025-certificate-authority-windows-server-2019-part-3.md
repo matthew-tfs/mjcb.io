@@ -1,10 +1,6 @@
 ---
 title: "Building a Certificate Authority in Windows Server 2019 Part 3 - Deploy Root and Subordinate Certificates"
 slug: "certificate-authority-windows-server-2019-part-3"
-aliases: [
-    "/blog/2020/03/09/certificate-authority-windows-server-2019-part-3/",
-    "/2020/03/09/certificate-authority-windows-server-2019-part-3/"
-]
 date: "2020-03-09T19:04:00"
 author: "Matthew Burr"
 summary: "Once the Certificate Authority has been created it is time to deploy those Certificates to the organization. Using Group Policy with Active Directory, this is an easy task, and can deploy the Certificates to the organization in only a few minutes."

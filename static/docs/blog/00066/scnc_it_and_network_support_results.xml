@@ -16,7 +16,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>8976</WindowHeight>
+  <WindowHeight>8796</WindowHeight>
   <WindowWidth>23040</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -162,7 +162,7 @@
     <Cell ss:StyleID="s65"/>
     <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data></Cell>
     <Cell ss:StyleID="s65"/>
-    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
     <Cell ss:StyleID="s71"/>
     <Cell ss:StyleID="s71"/>
    </Row>
@@ -190,7 +190,7 @@
     <Cell ss:StyleID="s65"/>
     <Cell ss:StyleID="s65"/>
     <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data></Cell>
     <Cell ss:StyleID="s71"/>
     <Cell ss:StyleID="s71"/>
    </Row>
@@ -357,7 +357,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="Number">1</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
-    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
     <Cell ss:StyleID="s71"/>
     <Cell ss:StyleID="s71"/>
    </Row>

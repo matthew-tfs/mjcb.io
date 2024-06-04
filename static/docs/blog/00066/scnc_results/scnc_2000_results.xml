@@ -1,0 +1,1093 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Matthew Burr</Author>
+  <LastAuthor>Matthew Burr</LastAuthor>
+  <Created>2024-06-04T00:08:39Z</Created>
+  <LastSaved>2024-06-04T01:25:21Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8796</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="SCNC 2000">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="196" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:Width="189.6"/>
+   <Column ss:StyleID="s63" ss:Width="177"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="139.19999999999999"/>
+   <Row ss:Height="15.600000000000001" ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Medal</Data></Cell>
+    <Cell><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Region</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">AESTHETICS (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Manon BÉLANGER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Mélissa BOUCHARD</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Kyla BAST</Data></Cell>
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">ARCHITECTURAL CADD (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Frédéric BEAUDIN</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Cheryl NIELSEN</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah MISSER WHITTON</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">ARCHITECTURAL CADD (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Christian ROBERT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Brad BARBER</Data></Cell>
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">James FARRINGTON</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">AUTO SERVICE (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Martin ST-ONGE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan LOMAX</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Gerry FOSTER</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">AUTO SERVICE (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Chad MCCONNELL</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Mark DYER</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Paul SMITH</Data></Cell>
+    <Cell><Data ss:Type="String">New Brunswick</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">AUTOBODY REPAIR (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Derek MOLINSKI</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Serge DESROSIERS</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Leigh SPENCER</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">AUTOBODY REPAIR (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Richard LEWANDOWSKI</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Ken SIEPMAN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Ken KERBY</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">BAKING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Nadia LACHANCE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">BAKING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Justin PELCHAT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Stephanie BEDFORD</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jennifer GOW</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">BRICK MASONRY (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Alain LAROCHELLE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Darrin HOPE</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Peter MASTALIR</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CABINETMAKING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Dan DESROCHES</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Robin WICKENS</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Rob SABO</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CABINETMAKING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Randy GUNNINK</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Bruno LÉVESQUE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Chuck CLOSE</Data></Cell>
+    <Cell><Data ss:Type="String">Nova Scotia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CARPENTRY (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Chad BUHR</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan SPARKS</Data></Cell>
+    <Cell><Data ss:Type="String">Nova Scotia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CARPENTRY (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Cory MOHR</Data></Cell>
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Éric FERRON</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">COMPUTER ANIMATION (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Erik LARSSON</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Steve MUMFORD</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Erik PETERSON</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan BROWN</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">BJ Adam HARDER</Data></Cell>
+    <Cell><Data ss:Type="String">Yukon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Brian IRVIN</Data></Cell>
+    <Cell><Data ss:Type="String">Yukon</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CULINARY ARTS (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Mathieu MCKALE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Willi POHL</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Lindsey MACDONALD</Data></Cell>
+    <Cell><Data ss:Type="String">Prince Edward Island</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">CULINARY ARTS (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan RANGER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Garry GOSSE</Data></Cell>
+    <Cell><Data ss:Type="String">Prince Edward Island</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan SKELTON</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">ELECTRICAL WIRING (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Éric DUBÉ</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Wayne ANDERCHEK</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Calvin KORCHINOS</Data></Cell>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">ELECTRONICS (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Éric LAPLANTE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Brendan MORAN</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher RAZL</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">ELECTRONICS (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Sébastien BOULAIS</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Mark PEETERS</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Toby PARSONS</Data></Cell>
+    <Cell><Data ss:Type="String">Nova Scotia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">FLORISTRY (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Vicky PERREAULT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Faith DAHL</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Isabelle NOLIN</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">GRAPHIC DESIGN / PRE-PRESS (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Manon THERRIEN</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Christopher CARDOSO</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">INDUSTRIAL MAINTENANCE (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Stéphane LÉGER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">André ARCAND</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Randy REARDON</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">INDUSTRIAL WIRING (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Éric BEAUMIER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Steve FRENSCH</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Gary TWYNE</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">INTERNET: WEB PAGE DESIGN (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Esmond RUSLIM</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan YU</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Denis AUBÉ</Data></Cell>
+    <Cell><Data ss:Type="String">New Brunswick</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Charles BERNARD</Data></Cell>
+    <Cell><Data ss:Type="String">New Brunswick</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">David POGSON</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Matthew KLASSEN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">JOB INTERVIEW (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Irene LEMIEUX-ROBINSON</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Arun CHETTIAR</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Gord STEPHENSON</Data></Cell>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">JOB SKILL PRESENTATION (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Sarah MACLACHLAN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Dianne JAGER</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Robert CLARKE</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">LADIES' HAIRSTYLING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Melissa BUNKER</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Crystal MORIN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jesse MANTEI</Data></Cell>
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">LADIES' HAIRSTYLING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Jennifer PEARSON</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Charity DEMYEN</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Kerri SMITH</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">LANDSCAPE GARDENING (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Simon PLANTE</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Rémi POIRIER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan JONES</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Laura SLIMMON</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">MECHANICAL CADD (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Nicolas LEBLANC</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Cory EARLE</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Adam DAY</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">MECHANICAL CADD (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Leigh SABEAN</Data></Cell>
+    <Cell><Data ss:Type="String">Nova Scotia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Étienne BRÛLÉ</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Kurt LORENZ</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">MECHATRONICS (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Carl BOUCHARD</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Philippe SIROIS</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Benoît ARCAND</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Marc LAMBERT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan PEPPER</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jim ACKERT</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">MEN'S HAIRSTYLING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Cyndi CANTIN</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Leslie DAVIS</Data></Cell>
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">MEN'S HAIRSTYLING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Véronique BOILY</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Miranda ROY</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Christina BRAKE</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PLUMBING (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan BALDWIN</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo BRIAND</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Henry HEINRICHS</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PRECISION MACHINING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Jean-Marc FILION</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PRECISION MACHINING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Christian DESBIENS</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Shane STORIE</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PRECISION MACHINING (CNC) (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Yannick GODBOUT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PREPARED SPEECH (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Nathan WOODWORTH</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Marc COOPER</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jeremy SAWATZKY</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">PRINCIPLES OF TECHNOLOGY (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Vu LE</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Erica MALLARD</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jeremy FRIESEN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">REFRIGERATION (Integrated)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Jean-Philippe DUGRÉ</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Adam HEASMAN</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Charles MERCER</Data></Cell>
+    <Cell><Data ss:Type="String">New Brunswick</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">RESTAURANT SERVICE (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Stéphanie DUPONT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Barbara GUEVARA</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">RESTAURANT SERVICE (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Julie NOEL DE TILLY</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">SMALL POWERED EQUIPMENT (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan LAUZON</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Jason HEAL</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan BYRNE</Data></Cell>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">TV &amp; VIDEO PRODUCTION (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Keith EIDSE</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Lindsey ANDERSON</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Kali LAING-DIXON</Data></Cell>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Brie-Anne JEFFERSON</Data></Cell>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Shannon BENNETT</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Adam RAFUSE</Data></Cell>
+    <Cell><Data ss:Type="String">Newfoundland</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">WELDING (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Brett STEFANIC</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Jean Claude DUVAL-WEIDMAN</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Martin GAUTHIER</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">WELDING (Post Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Chad HANSEN</Data></Cell>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Ken MCKAY</Data></Cell>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Jonathan ROBERT</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:MergeAcross="2" ss:StyleID="s70"><Data ss:Type="String">WOMEN'S APPAREL DESIGN (Secondary)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Mélanie MARTEL</Data></Cell>
+    <Cell><Data ss:Type="String">Québec</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Jean-Paul CORBEIL</Data></Cell>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Sally RUAN</Data></Cell>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>0</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="SCNC 2000 Totals">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="13" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s65" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="166.2"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="58.2" ss:Span="3"/>
+   <Row ss:Height="15.600000000000001" ss:StyleID="s66">
+    <Cell><Data ss:Type="String">Region</Data></Cell>
+    <Cell><Data ss:Type="String">Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Quebec</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ontario</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Manitoba</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">British Columbia</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Alberta</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Newfoundland &amp; Labrador</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.4">
+    <Cell><Data ss:Type="String">Saskatchewan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Nova Scotia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Northwest Territories</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Brunswick</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prince Edward Island</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Yukon</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>0</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

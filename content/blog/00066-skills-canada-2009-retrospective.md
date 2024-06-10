@@ -180,15 +180,15 @@ During the closing ceremony the only speaker that I remember the most was Mike H
 
 When they started announcing winners for the competitions they eventually got to the IT and Network Support competition, and they did the awards for the Secondary students first:
 
-![IT and Network Support - Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_02.jpg)
+![IT and Network Support competition winners (Secondary).](/images/blog/00066/05_awards_ceremony/awards_ceremony_02.jpg)
 
 Once they started announcing the Post-Secondary awards, I was starting to panic, and I was getting nervous. I don't think I was even moving, I was just clapping whenever other people were while I was waiting for the announcements. They called the winners for third and second place and it wasn't me. The only thought on my mind was that I blew it, I didn't even make the top three. My only goal for Skills Canada wasn't even to win, it was to at least get into the top three. They then called my name for first place. Once again, I froze up and one of the other competitors told me to get on stage:
 
-![IT and Network Support - Post-Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_03.jpg)
+![IT and Network Support competition winners (Post-Secondary).](/images/blog/00066/05_awards_ceremony/awards_ceremony_03.jpg)
 
-After the closing ceremonies were completed, the Secondary and Post-Secondary winners met for a group photo. We also met with a local Cisco representative who congratulated us on our wins at the competition:
+After the closing ceremonies were completed, the Secondary and Post-Secondary winners met for a group photo outside of the venue. We also met with the local Cisco Networking Academy representative who congratulated us on our wins at the competition, and also posed with a photo with us:
 
-![IT and Network Support - Post-Secondary and Secondary winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_04.jpg)
+![IT and Network Support competition winners.](/images/blog/00066/05_awards_ceremony/awards_ceremony_04.jpg)
 
 After everything was done, I flew home later that day.
 
@@ -204,15 +204,15 @@ Unlike the Skills Ontario competition, I was the only representative from my col
 
 Skills Canada gives out medals for the top three winners (gold, silver, and bronze), so I technically won gold in my competition. I still have my medals from Skills Ontario and Skills Canada, and here is the gold medal that I won at the Skills Canada competition:
 
-![Skills Canada 2009 Gold Medal. This was for the 15th Skills Canada competition.](/images/blog/00066/skills_canada_gold_medal_side_01.jpg)
+![Skills Canada 2009 Gold Medal. This was for the 15th Skills Canada (SCNC) competition.](/images/blog/00066/skills_canada_gold_medal_side_01.jpg)
 
 Also competing that year were students from four provinces in the IT and Network Support competition in the Secondary school competition:
 
-| Ranking | City and Province            |
-|:--------|:-----------------------------|
-| 1       | Chilliwack, British Columbia | 
-| 2       | Orléans, Ontario             |
-| 3       | Calgary, Alberta             |
+| Ranking | City and Province                     |
+|:--------|:--------------------------------------|
+| 1       | Chilliwack, British Columbia          |
+| 2       | Orléans, Ontario                      |
+| 3       | Calgary, Alberta                      |
 
 I attended my graduation at Cambrian College on May 28, 2009. I ended up getting a special mention during graduation as I was the first Cambrian College student to ever win gold at Skills Canada in any competition. I didn't know that mention was happening until right before I went onstage to get my diploma. The weirdest part about that mention was that they handed everyone cards with our information on it (name and program) right before, and my card had a lot of writing on it. For a quick second I thought there was some issue, like I was a credit short and couldn't graduate. Fortunately, it all worked out.
 
@@ -234,15 +234,15 @@ Even though I won first place in my competition at Skills Canada, I did not qual
 
 Unfortunately, there were two things working against me for WorldSkills. It was not a qualifying year (2008 and 2010 were), and I was older than 22 years old at the time of the competition (I was 23). I was ineligible no matter what. It would have been interesting to be a part of it, but I am happy with everything that I accomplished at Skills Ontario and Skills Canada.
 
-## San Jose ##
+## San Jose Trip ##
 
 As part of winning first place in the IT and Network Support competition at Skills Canada, Cisco awarded me an all-expenses paid trip to San Jose, California to visit their campus and meet with the Cisco Networking Academy staff. I went with one one of my teachers, and I also went with the winner from the Secondary competition, plus the winners from the [Skills USA](https://www.skillsusa.org/) competitions. It wasn't a long trip, I was only in San Jose from July 23 to July 26, 2009.
 
-I didn't take a lot of photos while I was there, and the ones that I did take were not the best quality photos:
+I didn't take a lot of photos while I was there, and the ones that I did take were not the best quality photos (my BlackBerry Curve 8330 took terrible photos):
 
 ![I had to get a photo of one of the Cisco signs on their campus while I was there.](/images/blog/00066/cisco_campus_san_jose.jpg)
 
-I won't get into the details on everything that I did while I was there, but it was very generous of them to send me on the trip as I was no longer a student and I was about to start my first job outside of college in an IT-related field.
+I won't get into the details on everything that I did while I was there, but it was very generous of them to send me on the trip as I was no longer a student and I was about to start my first job outside of college in an IT-related field. It was a unique experience and I am fortunate that I was able to do it.
 
 ## Cambrian College Skills Canada Results ##
 
@@ -264,40 +264,50 @@ I went over all previous results of the times that Cambrian College has gone to 
 [^1]: First time attending Skills Canada and medalling in the IT and Network Support competition.
 [^2]: First time winning gold for IT and Network Support at Skills Canada.
 
-From a Team Ontario perspective, Team Ontario has medalled 13 times since 2002:
+From a Team Ontario perspective, Team Ontario has medalled 14 times since 2000 in the IT and Network Support competition:
 
-| Year                                                                                     | Event | Location            | Gold    | Silver  | Bronze  |
-|:-----------------------------------------------------------------------------------------|:------|:--------------------|:--------|:--------|:--------|
-| [2002](/docs/blog/00066/scnc_results/scnc_2002_results.xml) Results[^3]                  | 8th   | Vancouver, BC       | PE      | MB      | BC      |
-| [2003](/docs/blog/00066/scnc_results/scnc_2003_results.xml) Results                      | 9th   | Kitchener, ON       | PE      | NB      | NS      |
-| [2004](/docs/blog/00066/scnc_results/scnc_2004_results.xml) Results                      | 10th  | Winnipeg, MB        | AB      | QC      | **ON**  |
-| [2005](/docs/blog/00066/scnc_results/scnc_2005_results.xml) Results                      | 11th  | Edmonton, AB        | **ON**  | AB      | PE      |
-| [2006](/docs/blog/00066/scnc_results/scnc_2006_results.xml) Results                      | 12th  | Halifax, NS         | QC      | PE      | **ON**  |
-| [2007](/docs/blog/00066/scnc_results/scnc_2007_results.xml) Results                      | 13th  | Saskatoon, SK       | NL      | BC      | NS      |
-| [2008](/docs/blog/00066/scnc_results/scnc_2008_results.xml) Results                      | 14th  | Calgary, AB         | AB      | **ON**  | QC      |
-| [2009](/docs/blog/00066/scnc_results/scnc_2009_results.xml) Results                      | 15th  | Charlottetown, PEI  | **ON**  | NL      | AB      |
-| [2010](/docs/blog/00066/scnc_results/scnc_2010_results.xml) Results                      | 16th  | Waterloo, ON        | QC      | MB      | NL      |
-| [2011](/docs/blog/00066/scnc_results/scnc_2011_results.xml) Results                      | 17th  | Quebec City, QB     | **ON**  | BC      | NL      |
-| [2012](/docs/blog/00066/scnc_results/scnc_2012_results.xml) Results                      | 18th  | Edmonton, AB        | NL      | PE      | QC      |
-| [2013](/docs/blog/00066/scnc_results/scnc_2013_results.xml) Results                      | 19th  | Vancouver, BC       | NL      | PE      | BC      |
-| [2014](/docs/blog/00066/scnc_results/scnc_2014_results.xml) Results                      | 20th  | Toronto, ON         | **ON**  | QC      | MB      |
-| [2015](/docs/blog/00066/scnc_results/scnc_2015_results.xml) Results                      | 21st  | Saskatoon, SK       | MB      | QC      | **ON**  |
-| [2016](/docs/blog/00066/scnc_results/scnc_2016_results.xml) Results                      | 22nd  | Moncton, NB         | QC      | **ON**  | BC      |
-| [2017](/docs/blog/00066/scnc_results/scnc_2017_results.xml) Results                      | 23rd  | Winnipeg, MB        | **ON**  | NL      | BC      |
-| [2018](/docs/blog/00066/scnc_results/scnc_2018_results.xml) Results                      | 24th  | Edmonton, AB        | NL      | MB      | QC      |
-| [2019](/docs/blog/00066/scnc_results/scnc_2019_results.pdf) Results                      | 25th  | Halifax, NS         | BC      | MB      | QC      |
-| ~~2020 Results~~[^4]                                                                     | 26th  | ~~Vancouver, BC~~   | N/A     | N/A     | N/A     |
-| [2021](/docs/blog/00066/scnc_results/scnc_2021_results.pdf) Results[^5]                  | 27th  | ~~Quebec City, QB~~ | **ON**  | AB      | NL      |
-| [2022](/docs/blog/00066/scnc_results/scnc_2022_results.pdf) Results                      | 28th  | Vancouver, BC       | BC      | **ON**  | AB      |
-| [2023](/docs/blog/00066/scnc_results/scnc_2023_results/scnc_2023_results_it.pdf) Results | 29th  | Winnipeg, MB        | MB      | **ON**  | NL      |
-| 2024 Results[^6]                                                                         | 30th  | Quebec City, QB     | Pending | Pending | Pending |
+| Year                                                                    | Event | Location            | Gold    | Silver  | Bronze  |
+|:------------------------------------------------------------------------|:------|:--------------------|:--------|:--------|:--------|
+| 1994 Results[^3]                                                        | 1st   | Hamilton, ON        | ?       | ?       | ?       |
+| 1995 Results[^4]                                                        | N/A   | N/A                 | N/A     | N/A     | N/A     |
+| 1996 Results                                                            | 2nd   | Montréal, QC        | ?       | ?       | ?       |
+| 1997 Results                                                            | 3rd   | Red Deer, AB        | ?       | ?       | ?       |
+| 1998 Results                                                            | 4th   | Vancouver, BC       | ?       | ?       | ?       |
+| 1999 Results[^5]                                                        | 5th   | Kitchener, ON       | NS      | ?       | ?       |
+| [2000](/docs/blog/00066/scnc_results/scnc_2000_results.xml) Results[^6] | 6th   | Quebec City, QB     | N/A     | N/A     | N/A     |
+| [2001](/docs/blog/00066/scnc_results/scnc_2001_results.xml) Results     | 7th   | Edmonton, AB        | PE      | NL      | NS      |
+| [2002](/docs/blog/00066/scnc_results/scnc_2002_results.xml) Results     | 8th   | Vancouver, BC       | PE      | MB      | BC      |
+| [2003](/docs/blog/00066/scnc_results/scnc_2003_results.xml) Results     | 9th   | Kitchener, ON       | PE      | NB      | NS      |
+| [2004](/docs/blog/00066/scnc_results/scnc_2004_results.xml) Results     | 10th  | Winnipeg, MB        | AB      | QC      | **ON**  |
+| [2005](/docs/blog/00066/scnc_results/scnc_2005_results.xml) Results     | 11th  | Edmonton, AB        | **ON**  | AB      | PE      |
+| [2006](/docs/blog/00066/scnc_results/scnc_2006_results.xml) Results     | 12th  | Halifax, NS         | QC      | PE      | **ON**  |
+| [2007](/docs/blog/00066/scnc_results/scnc_2007_results.xml) Results     | 13th  | Saskatoon, SK       | NL      | BC      | NS      |
+| [2008](/docs/blog/00066/scnc_results/scnc_2008_results.xml) Results     | 14th  | Calgary, AB         | AB      | **ON**  | QC      |
+| [2009](/docs/blog/00066/scnc_results/scnc_2009_results.xml) Results     | 15th  | Charlottetown, PEI  | **ON**  | NL      | AB      |
+| [2010](/docs/blog/00066/scnc_results/scnc_2010_results.xml) Results     | 16th  | Waterloo, ON        | QC      | MB      | NL      |
+| [2011](/docs/blog/00066/scnc_results/scnc_2011_results.xml) Results     | 17th  | Quebec City, QB     | **ON**  | BC      | NL      |
+| [2012](/docs/blog/00066/scnc_results/scnc_2012_results.xml) Results     | 18th  | Edmonton, AB        | NL      | PE      | QC      |
+| [2013](/docs/blog/00066/scnc_results/scnc_2013_results.xml) Results     | 19th  | Vancouver, BC       | NL      | PE      | BC      |
+| [2014](/docs/blog/00066/scnc_results/scnc_2014_results.xml) Results     | 20th  | Toronto, ON         | **ON**  | QC      | MB      |
+| [2015](/docs/blog/00066/scnc_results/scnc_2015_results.xml) Results     | 21st  | Saskatoon, SK       | MB      | QC      | **ON**  |
+| [2016](/docs/blog/00066/scnc_results/scnc_2016_results.xml) Results     | 22nd  | Moncton, NB         | QC      | **ON**  | BC      |
+| [2017](/docs/blog/00066/scnc_results/scnc_2017_results.xml) Results     | 23rd  | Winnipeg, MB        | **ON**  | NL      | BC      |
+| [2018](/docs/blog/00066/scnc_results/scnc_2018_results.xml) Results     | 24th  | Edmonton, AB        | NL      | MB      | QC      |
+| [2019](/docs/blog/00066/scnc_results/scnc_2019_results.pdf) Results     | 25th  | Halifax, NS         | BC      | MB      | QC      |
+| ~~2020 Results~~[^7]                                                    | 26th  | ~~Vancouver, BC~~   | N/A     | N/A     | N/A     |
+| [2021](/docs/blog/00066/scnc_results/scnc_2021_results.pdf) Results[^8] | 27th  | ~~Quebec City, QB~~ | **ON**  | AB      | NL      |
+| [2022](/docs/blog/00066/scnc_results/scnc_2022_results.pdf) Results     | 28th  | Vancouver, BC       | BC      | **ON**  | AB      |
+| [2023](/docs/blog/00066/scnc_results/scnc_2023_results.pdf) Results     | 29th  | Winnipeg, MB        | MB      | **ON**  | NL      |
+| [2024](/docs/blog/00066/scnc_results/scnc_2024_results.pdf) Results     | 30th  | Quebec City, QB     | MB      | BC      | **ON**  |
 
-[^3]: The earliest competition results that are publicly available on the Skills Canada website.
-[^4]: The Skills Canada competition for this year was cancelled due to COVID-19.
-[^5]: The Skills Canada competition for this year was hosted virtually due to COVID-19.
-[^6]: The Skills Canada 2024 competition will take place from May 29 to June 1, 2024. Results for the Skills Canada competition will be available in June 2024.
+[^3]: This is the first year of the Skills Canada (SCNC) competition.
+[^4]: There was no Skills Canada competition held in 1995.
+[^5]: I was unable to find the Silver and Bronze winners of the IT and Network Support competition in 1999.
+[^6]: The earliest complete competition results that are publicly available on the Skills Canada websites. There was no IT and Network Support scope in 2000.
+[^7]: The Skills Canada competition for this year was cancelled due to COVID-19.
+[^8]: The Skills Canada competition for this year was hosted virtually due to COVID-19.
 
-Cambrian College has medalled 7 times in the IT and Network Support competition since 2004:
+Cambrian College has medalled 7 times in the IT and Network Support competition since 2004 (when Team Ontario has medalled in the competition):
 
 | Year | Gold    | Silver  | Bronze  | Ontario Post-Secondary |
 |:-----|:--------|:--------|:--------|:-----------------------|
@@ -314,7 +324,7 @@ Cambrian College has medalled 7 times in the IT and Network Support competition 
 | 2021 | **ON**  | AB      | NL      | Durham College         |
 | 2022 | BC      | **ON**  | AB      | Durham College         |
 | 2023 | MB      | **ON**  | NL      | St. Clair College      |
-| 2024 | Pending | Pending | Pending | Pending                |
+| 2024 | MB      | BC      | **ON**  | St. Clair College      |
 
 Just to further analyze the results, it turns out that Cambrian College has been the leader in medals for Team Ontario for the last 20 years. Cambrian College has medalled 7 times, which is considerably more than the other colleges in Ontario:
 
@@ -324,9 +334,9 @@ Just to further analyze the results, it turns out that Cambrian College has been
 | Durham College         | 1       | 1       | 0       | 2            |
 | **Cambrian College**   | **3**   | **2**   | **2**   | **7**        |
 | Fanshawe College       | 1       | 0       | 1       | 2            |
-| St. Clair College      | 1       | 0       | 0       | 1            |
+| St. Clair College      | 0       | 1       | 1       | 2            |
 
-Just like with Skills Ontario, Cambrian College absolutely dominates that Skills Canada competition. They have the most medals overall in the IT and Network Support competition.
+Just like with Skills Ontario, Cambrian College absolutely dominates that Skills Canada competition. They have the most medals overall from an Ontario college in the IT and Network Support competition in the last 20 years.
 
 ## Skills Canada Legacy ##
 

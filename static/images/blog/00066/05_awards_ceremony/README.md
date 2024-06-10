@@ -1,4 +1,4 @@
-## Skills Canada 2009 IT and Networking Support Competition Winners (left to right) ##
+## Skills Canada 2009 IT and Network Support Competition Winners ##
 
 ### awards_ceremony_01.jpg ###
 

@@ -11,7 +11,7 @@ tags: [
     "Windows"
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00011/openssh-on-windows.png"
+thumbnail: "/images/blog/00011/openssh-logo.png"
 draft: false
 ---
 

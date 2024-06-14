@@ -9,8 +9,7 @@ tags: [
     "Windows",
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00016/windows-xp-logo.png"
-featureImage: "/images/blog/00016/windows-xp-logo.png"
+thumbnail: "/images/blog/00016/microsoft-logo.png"
 draft: false
 ---
 

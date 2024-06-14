@@ -10,7 +10,7 @@ tags: [
     "Windows"
 ]
 categories: [ "Blog" ]
-thumbnail: "/images/blog/00012/windows-server-active-directory-logo.png"
+thumbnail: "/images/blog/00012/microsoft-logo.png"
 draft: false
 ---
 

@@ -59,6 +59,10 @@ This guide is also meant to be used by developers, network administrators and sy
 
 ## Updates and Additional Materials ##
 
+### July 15, 2024 Update ###
+
+* Minor fixes to the template and metadata for the guide. The content of the guide was not changed.
+
 ### Additional Materials ###
 
 There are several resources for expanding upon the functionality of this guide:

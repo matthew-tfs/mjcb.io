@@ -17,7 +17,8 @@ googleAnalytics = "G-CN15CP4JCD"
     opengraph = true
     dateFormat = "Monday, January 2, 2006"
     numberOfTagsShown = 14
-    logo = "/images/logos/mjcbio.png"
+    logo = "/images/mjcb.png"
+    iconsDir = "/"
     autoHeadingID = true
     rssSummary = true
     largeTwitterCard = true
@@ -98,16 +99,6 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 60
 
     [[menu.social]]
-        name = "tfs"
-        url = "https://tenfifteen.ca/"
-        weight = 10
-
-    [[menu.social]]
-        name = "github"
-        url = "https://github.com/matthew-tfs/"
-        weight = 20
-
-    [[menu.social]]
         name = "rss"
         url = "index.xml"
-        weight = 30
+        weight = 10

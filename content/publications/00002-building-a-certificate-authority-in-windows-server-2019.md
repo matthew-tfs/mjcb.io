@@ -81,18 +81,23 @@ This guide is also meant to be used by developers, network administrators and sy
 
 I have released an updated version of this guide, here are the changes in this version:
 
-* Added a proper Introduction section to the guide, which is used to explain how the guide is organized. It also establishes requirements for testing the steps in the guide.
+* Added a proper introduction section to the guide, which is used to explain how the guide is organized. It also establishes requirements for testing the steps in the guide.
 * Added additional details to the Active Directory Domain Services setup and deployment.
 * Added additional details to the Root CA and Subordinate CA setup and deployment.
 * Fixed several typos and grammatical errors in the guide.
 * Increased the size of the images and screenshots in the guide to make them easier to read.
 * Modified the formatting of the embedded configuration files to make them easier to read.
-* Replaced the command to enable double escaping in IIS, as the previous command was outdated.
+* Replaced the command to enable double escaping in IIS, as the previous command was outdated and deprecated.
 * Updated the look of the guide to match the style of the [AD CS on Windows Server 2022](/publications/adcs-on-windows-server-2022/) guide. This improves readability for CLI commands that need to be entered, as well as standardizes the look of all elements the guide.
 * Updated the page size of the guide to letter, which makes it easier to print the guide if needed. 
 * Updated the title page of the guide to differentiate it from the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book.
 
 This is not a second edition or version 2.0 of the guide, it is a small quality of life update. I do not plan on updating this guide again since Windows Server 2019 is getting older and AD CS will not receive any major updates on that operating system.
+
+### July 15, 2024 Update ###
+
+* Minor fixes to the template and metadata for the guide.
+* Fixed an error in the page footer for the guide.
 
 ### Additional Materials ###
 

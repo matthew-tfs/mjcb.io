@@ -32,7 +32,7 @@ I attended [Cambrian College of Applied Arts and Technology](https://cambriancol
 
 At the end of my time at Cambrian College I was chosen to represent my class at the [Skills Ontario](http://www.skillsontario.com/) competition in Waterloo, Ontario for IT and Network Support from May 4 to May 6, 2009. I ended up winning first place in that competition. Several weeks later, I went to the [Skills Canada](https://www.skillscompetencescanada.com/) competition in Charlottetown, PEI for IT and Network Support from May 19 to May 23, 2009, and I also won first place in that category as well.
 
-I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019, and 2021 at the Skills Ontario Competition in Toronto, Ontario. I have written about my [experience](/blog/2024/04/28/skills-competition-retrospective/) with this competition at both the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) and [Skills Canada](/blog/2024/05/30/skills-canada-2009-retrospective/) competitions. In recent years I have even spent some time volunteering at the Skills Ontario competition.
+I strongly believe in this competition and what it stands for, and I have even volunteered as a judge for that competition in May 2018, 2019, and 2021 at the Skills Ontario Competition in Toronto, Ontario. I have written about my [experience](/blog/2024/04/28/skills-competition-retrospective/) with this competition at both the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) and [Skills Canada](/blog/2024/05/30/skills-canada-2009-retrospective/) competitions.
 
 ## Experience ##
 
@@ -50,7 +50,6 @@ I am currently using the following equipment for my daily personal usage:
 
 * Apple MacBook Air (M1, 2020)
 * Apple iPhone 12 Pro Max
-* Dell Inspiron 14 2-in-1 (7435)
 
 I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all my important virtual machines in Azure, I don't run anything locally.
 
@@ -62,9 +61,10 @@ Even though I don't like to keep old things, I collect old laptops and other leg
 
 This website was previously hosted on [WordPress.com](https://wordpress.com/) up until the end of 2021 and was moved to a different [platform and hosting provider](/blog/2021/12/23/goodbye-wordpress-hello-hugo/). Currently, this website is using the following platforms for content management and hosting:
 
+* [Cloudflare](https://www.cloudflare.com/) - For DNS hosting and various other services.
 * [GitHub](https://github.com/) - For hosting the website's Git repository.
 * [Hugo](https://gohugo.io/) - For content management and static HTML generation.
-* [Netlify](https://www.netlify.com/) - For website hosting and DNS.
+* [Netlify](https://www.netlify.com/) - For website hosting.
 
 I am using the [Hugo Clarity](https://github.com/chipzoller/hugo-clarity) theme with very minor modifications.
 

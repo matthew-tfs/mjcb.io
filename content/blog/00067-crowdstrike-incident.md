@@ -41,6 +41,10 @@ I am a fan of Dave Plummer's YouTube channel ([Dave's Garage](https://www.youtub
 
 {{< youtube wAzEJxOo1ts >}}
 
+Dave Plummer posted a follow-up video about this topic on July 24, 2024:
+
+{{< youtube ZHrayP-Y71Q >}}
+
 At the end of the day this was a massive failure on CrowdStrike's part:
 
 * They pushed an update which was invalid. The CrowdStrike QA team should have found this issue.
@@ -76,6 +80,7 @@ Only time will tell on how this outage will affect the IT landscape.
 
 * [CrowdStrike](https://www.crowdstrike.com/)
 * [Dave's Garage - CrowdStrike IT Outage Explained by a Windows Developer](https://www.youtube.com/watch?v=wAzEJxOo1ts)
+* [Dave's Garage - CrowdStrike Update: Latest News, Lessons Learned from a Retired Microsoft Engineer](https://www.youtube.com/watch?v=ZHrayP-Y71Q)
 * [Dave's Garage - YouTube Channel](https://www.youtube.com/@DavesGarage)
 * [KB5042421](https://support.microsoft.com/en-us/topic/kb5042421-crowdstrike-issue-impacting-windows-endpoints-causing-an-0x50-or-0x7e-error-message-on-a-blue-screen-b1c700e0-7317-4e95-aeee-5d67dd35b92f) ([KB5042421 Windows 10](/docs/blog/00067/KB5042421_windows_10.pdf)) ([KB5042421 Windows 11](/docs/blog/00067/KB5042421_windows_11.pdf))
 * [KB5042426](https://support.microsoft.com/en-us/topic/kb5042426-crowdstrike-issue-impacting-windows-servers-causing-an-0x50-or-0x7e-error-message-on-a-blue-screen-0d7741f7-aca1-4487-8a54-bd431cb49455) ([KB5042426 Hyper-V Hosts](/docs/blog/00067/KB5042426_hyper-v_hosts.pdf)) ([KB5042426 Physical Hosts](/docs/blog/00067/KB5042426_physical_hosts.pdf))

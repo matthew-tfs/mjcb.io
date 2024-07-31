@@ -25,6 +25,8 @@ Since this is an on-going event, I will update this post as more information is 
 
 **July 24, 2024 Update:** CrowdStrike has released a [Preliminary Post Incident Review (PIR)](https://www.crowdstrike.com/wp-content/uploads/2024/07/CrowdStrike-PIR-Executive-Summary.pdf) regarding the issue.
 
+**July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the issue was able to cause the issue in the Windows kernel in the first place.
+
 {{< toc >}}
 
 ## What Happened? ##
@@ -90,4 +92,5 @@ Only time will tell on how this outage will affect the IT landscape.
 * [KB5042426](https://support.microsoft.com/en-us/topic/kb5042426-crowdstrike-issue-impacting-windows-servers-causing-an-0x50-or-0x7e-error-message-on-a-blue-screen-0d7741f7-aca1-4487-8a54-bd431cb49455) ([KB5042426 Hyper-V Hosts](/docs/blog/00067/kb5042426_hyper-v_hosts.pdf)) ([KB5042426 Physical Hosts](/docs/blog/00067/kb5042426_physical_hosts.pdf))
 * [KB5042429](https://support.microsoft.com/en-us/topic/kb5042429-new-recovery-tool-to-help-with-crowdstrike-issue-impacting-windows-devices-d3928eaa-160c-4b19-ae64-930e2fa68194) ([KB5042429 Windows PE](/docs/blog/00067/kb5042429_windows_pe.pdf)) ([KB5042429 Safe Mode](/docs/blog/00067/kb5042429_safe_mode.pdf))
 * [Microsoft Blog - Helping our customers through the CrowdStrike outage](https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/) ([Local Version](/docs/blog/00067/microsoft_blog_helping_our_customers_through_the_crowdstrike_outage.pdf))
+* [Microsoft Blog - Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) ([Local Version](/docs/blog/00067/windows_security_best_practices_for_integrating_and_managing_security_tools.pdf))
 * [Remediation and Guidance Hub: Falcon Content Update for Windows Hosts](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/) ([Local Version](/docs/blog/00067/falcon_content_update_remediation_and_guidance_hub.pdf))

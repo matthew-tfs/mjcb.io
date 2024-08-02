@@ -22,7 +22,7 @@ I have good memories of the Xbox 360, and it is the console that I have played t
 
 With the backwards compatible options on my current Xbox Series X console, I still play a lot of Xbox 360 games on a regular basis. I also have a 100+ game collection of Xbox 360 games that I have been collecting for the last few years. The closure of the Xbox 360 Marketplace got me to get a few games that I was missing, as I was uncertain of how the closure would affect things.
 
-Anyways, since it was the end of the line for the Xbox 360, I took two of my Xbox 360 consoles out of storage and took a picture of them:
+Anyways, since it was the end of the line for the Xbox 360, I took my Xbox 360 consoles out of storage and took a picture of them:
 
 ![My Xbox 360 consoles from over the years. Xbox 360 (Original), Xbox 360 E and the Xbox 360 Slim.](/images/blog/00068/xbox-360-family-portrait.jpg)
 

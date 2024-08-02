@@ -25,7 +25,7 @@ Since this is an on-going event, I will update this post as more information is 
 
 **July 24, 2024 Update:** CrowdStrike has released a [Preliminary Post Incident Review (PIR)](https://www.crowdstrike.com/wp-content/uploads/2024/07/CrowdStrike-PIR-Executive-Summary.pdf) regarding the issue.
 
-**July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the issue was able to cause the issue in the Windows kernel in the first place.
+**July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the corrupted file was able to cause the issue in the Windows kernel in the first place.
 
 {{< toc >}}
 

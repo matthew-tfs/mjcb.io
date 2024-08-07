@@ -27,6 +27,8 @@ Since this is an on-going event, I will update this post as more information is 
 
 **July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the corrupted file was able to cause the issue in the Windows kernel in the first place.
 
+**August 6, 2024 Update:** CrowdStrike has released the [RCA Exec Summary](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) for the incident.
+
 {{< toc >}}
 
 ## What Happened? ##
@@ -84,6 +86,7 @@ Only time will tell on how this outage will affect the IT landscape.
 
 * [CrowdStrike](https://www.crowdstrike.com/)
 * [CrowdStrike - Preliminary Post Incident Review (PIR) - July 24, 2024](https://www.crowdstrike.com/wp-content/uploads/2024/07/CrowdStrike-PIR-Executive-Summary.pdf) ([Local Version](/docs/blog/00067/crowdstrike_pir_executive_summary.pdf))
+* [CrowdStrike - Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)  ([Local Version](/docs/blog/00067/crowdstrike_channel_file_291_incident_root_cause_analysis_08.06.2024.pdf))
 * [CrowdStrike - Technical Details: Falcon Content Update for Windows Hosts](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) ([Local Version](/docs/blog/00067/crowdstrike_technical_details_falcon_update_for_windows_hosts.pdf))
 * [Dave's Garage - CrowdStrike IT Outage Explained by a Windows Developer](https://www.youtube.com/watch?v=wAzEJxOo1ts)
 * [Dave's Garage - CrowdStrike Update: Latest News, Lessons Learned from a Retired Microsoft Engineer](https://www.youtube.com/watch?v=ZHrayP-Y71Q)

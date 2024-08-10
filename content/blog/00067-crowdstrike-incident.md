@@ -23,12 +23,6 @@ Full disclosure, I have never worked with CrowdStrike before, but I am familiar 
 
 Since this is an on-going event, I will update this post as more information is revealed. The CrowdStrike CEO has been called to testify in Congress about the incident, so that will be interesting to see if it happens.
 
-**July 24, 2024 Update:** CrowdStrike has released a [Preliminary Post Incident Review (PIR)](https://www.crowdstrike.com/wp-content/uploads/2024/07/CrowdStrike-PIR-Executive-Summary.pdf) regarding the issue.
-
-**July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the corrupted file was able to cause the issue in the Windows kernel in the first place.
-
-**August 6, 2024 Update:** CrowdStrike has released the [RCA Exec Summary](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) for the incident.
-
 {{< toc >}}
 
 ## What Happened? ##
@@ -81,6 +75,12 @@ There are a few ways to avoid this issue in the future, the most obvious method 
 The most obvious way to avoid an issue like this in the future is to avoid using the same security product on workstations and servers. More diversity is required to ensure that a single vendor is not able to crash all devices in the organization at the same time. The problem with this approach is that security companies are aggressive in the sales phase and want their software on everything.
 
 Only time will tell on how this outage will affect the IT landscape.
+
+## Updates ##
+
+* **July 24, 2024 Update:** CrowdStrike has released a [Preliminary Post Incident Review (PIR)](https://www.crowdstrike.com/wp-content/uploads/2024/07/CrowdStrike-PIR-Executive-Summary.pdf) regarding the issue.
+* **July 30, 2024 Update:** Microsoft has released an [update](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/) regarding the incident, and how the corrupted file was able to cause the issue in the Windows kernel in the first place.
+* **August 6, 2024 Update:** CrowdStrike has released the [RCA Exec Summary](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) for the incident.
 
 ## Links ##
 

@@ -20,7 +20,7 @@ Modern Vintage Gamer posted a [video](https://www.youtube.com/watch?v=eQxUutzKsm
 
 I have good memories of the Xbox 360, and it is the console that I have played the most over the years. I never really used Xbox Live that much with the original Xbox, but I spent a lot of time playing online with people with the Xbox 360. This was a combination of having actual reliable internet access in the late 2000's, and the money to afford an Xbox Live subscription. I had the original Xbox when I was in high school, and I spent a lot of time playing with friends. I played many 8 player Halo CE games with 2 Xboxes over a crossover cable, which was a lot of fun at the time and is something that does not really seem to happen anymore.
 
-With the backwards compatible options on my current Xbox Series X console, I still play a lot of Xbox 360 games on a regular basis. I also have a 100+ game collection of Xbox 360 games that I have been collecting for the last few years. The closure of the Xbox 360 Marketplace got me to get a few games that I was missing, as I was uncertain of how the closure would affect things.
+With the backwards compatible options on my current Xbox Series X console, I still play a lot of Xbox 360 games on a regular basis. I also have a 100+ collection of physical Xbox 360 games that I have been collecting for the last few years. The closure of the Xbox 360 Marketplace got me to get a few games that I was missing, as I was uncertain of how the closure would affect things.
 
 Anyways, since it was the end of the line for the Xbox 360, I took my Xbox 360 consoles out of storage and took a picture of them:
 

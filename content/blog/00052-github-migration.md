@@ -28,7 +28,7 @@ The license can be viewed [here](https://github.com/matthew-tfs/mjcb.io/blob/mai
 
 ## Additional Information ##
 
-I have also removed all sharing options for Facebook, LinkedIn, and X (formerly Twitter). The ability to copy the link to each post is still available, should someone want to share any posts on this website. I don't particularly care for any of those platforms, and if someone wishes to share anything from my website, they can just use the regular URL and share it using that method.
+I have also removed all sharing options for Facebook, LinkedIn, and X (formerly Twitter). The ability to copy the link to each post is still available, should someone want to share any posts on this website to those platforms. I don't particularly care for any of those platforms, and if someone wishes to share anything from my website, they can just use the regular URL and share it using that method as the regular URL will always work.
 
 If anyone is wondering why I keep a few text files in the root of the repository with copies of links in it, this is a copy of the hierarchy of links for the website. I maintain that list in case I migrate the site to another platform in the future.
 

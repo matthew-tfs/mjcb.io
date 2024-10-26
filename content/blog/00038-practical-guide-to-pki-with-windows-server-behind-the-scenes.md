@@ -125,4 +125,4 @@ In all seriousness, my first lesson learned is to not underestimate the amount o
 ## Links ##
 
 * [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
-* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.io/l/pki-book)
+* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.io/l/practical-guide-to-pki-with-windows-server-first-edition)

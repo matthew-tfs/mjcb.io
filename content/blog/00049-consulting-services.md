@@ -36,5 +36,5 @@ I usually get back to potential clients within 24 hours. My rates are negotiable
 * [Building a Certificate Authority in Windows Server 2019](https://store.mjcb.io/l/building-a-ca-in-windows-server-2019)
 * [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/)
 * [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
-* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.io/l/pki-book)
+* [Practical Guide to PKI with Windows Server - First Edition (Gumroad)](https://store.mjcb.io/l/practical-guide-to-pki-with-windows-server-first-edition)
 * [Ten Fifteen Solutions](https://tenfifteen.ca/)

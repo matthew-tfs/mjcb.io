@@ -78,25 +78,32 @@ googleAnalytics = "G-CN15CP4JCD"
         weight = 30
 
     [[menu.main]]
+        identifier = "store"
+        name = "Store"
+        url = "https://store.mjcb.io/"
+        target = "_blank"
+        weight = 40
+
+    [[menu.main]]
         identifier = "docs"
         name = "Docs"
         url = "https://docs.mjcb.io/"
         target = "_blank"
-        weight = 40
+        weight = 50
 
     [[menu.main]]
         identifier = "about"
         name = "About"
         title = "About"
         url = "/about/"
-        weight = 50
+        weight = 60
 
     [[menu.main]]
         identifier = "archives"
         name = "Archives"
         title = "Archives"
         url = "/archives/"
-        weight = 60
+        weight = 70
 
     [[menu.social]]
         name = "rss"

@@ -23,7 +23,7 @@ Just like the [Building a Certificate Authority in Windows Server 2019](/publica
 **This is a free download, and is available on Gumroad for distribution (enter $0 when checking out).**
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://mjcb.gumroad.com/l/adcs-on-windows-server-2022/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
+    <a href="https://store.mjcb.io/l/adcs-on-windows-server-2022/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
 </div>
 
 This guide is the successor to the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide that I released in early 2022. It is also based on the multi-part [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) guide that I released in the summer of 2023.
@@ -72,4 +72,4 @@ There are several resources for expanding upon the functionality of this guide:
 
 ## Links ##
 
-* [AD CS on Windows Server 2022 (Gumroad)](https://mjcb.gumroad.com/l/adcs-on-windows-server-2022/)
+* [AD CS on Windows Server 2022 (Gumroad)](https://store.mjcb.io/l/adcs-on-windows-server-2022/)

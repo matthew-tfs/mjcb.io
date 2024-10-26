@@ -40,7 +40,7 @@ Now available for download, the **Building a Certificate Authority in Windows Se
 **This is a free download, and is available on Gumroad for distribution (enter $0 when checking out).**
 
 <div style="text-align:center; padding-top: 0px; padding-bottom: 25px;">
-    <a href="https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
+    <a href="https://store.mjcb.io/l/building-a-ca-in-windows-server-2019/" style="color: #ffffff; cursor: pointer;" class="button mt-1" role="button" title="Download on Gumroad">Download on Gumroad</a>
 </div>
 
 This guide is based on the [Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/) guide series that I released in early 2020, as well as the [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/) book that I published in the fall of 2021.
@@ -108,4 +108,4 @@ There are several resources for expanding upon the functionality of this guide:
 
 ## Links ##
 
-* [Building a Certificate Authority in Windows Server 2019 (Gumroad)](https://mjcb.gumroad.com/l/building-a-ca-in-windows-server-2019/)
+* [Building a Certificate Authority in Windows Server 2019 (Gumroad)](https://store.mjcb.io/l/building-a-ca-in-windows-server-2019/)

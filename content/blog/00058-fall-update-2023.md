@@ -16,7 +16,7 @@ I have released some new and updated publications in the last week that I wanted
 
 ## AD CS on Windows Server 2022 ##
 
-On October 25, 2023 I released a new guide, [AD CS on Windows Server 2022](/publications/adcs-on-windows-server-2022/), which is available for free. Just like the other publications that I offer, it is available for download on [Gumroad](https://mjcb.gumroad.com/l/adcs-on-windows-server-2022). I [mentioned](/blog/2023/07/26/mid-year-update-2023/) a few months ago that I was probably going to charge for this guide, but I decided that I would rather offer it for free just like the previous version.
+On October 25, 2023 I released a new guide, [AD CS on Windows Server 2022](/publications/adcs-on-windows-server-2022/), which is available for free. Just like the other publications that I offer, it is available for download on [Gumroad](https://store.mjcb.io/l/adcs-on-windows-server-2022). I [mentioned](/blog/2023/07/26/mid-year-update-2023/) a few months ago that I was probably going to charge for this guide, but I decided that I would rather offer it for free just like the previous version.
 
 This guide is a successor to the [Building a Certificate Authority in Windows Server 2019](/publications/building-a-certificate-authority-in-windows-server-2019/) guide that I released in the spring of 2022. It has been updated for Windows Server 2022, and is also based on the [AD CS on Windows Server 2022](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2022/) web guide that I released over the summer.
 

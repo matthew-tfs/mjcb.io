@@ -80,4 +80,4 @@ My next book project will be about a completely different topic, and I will be h
 ## Links ##
 
 * [Practical Guide to PKI with Windows Server - First Edition (Amazon)](https://a.co/d/1UDoSit)
-* [Practical Guide to PKI with Windows Server - (Gumroad)](https://mjcb.gumroad.com/l/pki-book)
+* [Practical Guide to PKI with Windows Server - (Gumroad)](https://store.mjcb.io/l/pki-book)

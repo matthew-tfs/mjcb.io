@@ -13,6 +13,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00061/backups.png"
+toc: true
 draft: false
 ---
 
@@ -25,8 +26,6 @@ It has been sometime since I have personally dealt with data loss that has serio
 There are more options than I can count that you can use to backup your files automatically, but if you don't use those tools properly then the solution is ultimately worthless. I could give real world examples when enterprise grade backup solutions failed a company, but all you need to know is that data loss from misconfigured backups happens more than you might think, and it is extremely disruptive to a company to lose data from production systems. What usually always happens is that backups are setup by a single person, it is not well understood or documented, that person leaves the company, and the people left behind just assume that the backups are being taken care of. It is only when an attempt is made to restore data that it is discovered that there is an issue with their backups, and they have to attempt to recover whatever they can.
 
 I have always kept backups of my important data, but it was never really a formal procedure until recently. I wasn't performing complete backups often enough to protect all my data, which left gaps in the process and that was causing me some anxiety once I realized that. Recently, I discovered several old backups of my data that I made between in 2001 and 2004 that I had stored at a family members house without realizing it. This was an interesting surprise, and I found out that I have files on my current laptop that I have been shuffling around for over 20 years. I didn't decide to formalize my backup strategy because of data loss or some issue, it was just a task that I had been putting off and I finally got around to doing it.
-
-{{< toc >}}
 
 ## World Backup Day ##
 

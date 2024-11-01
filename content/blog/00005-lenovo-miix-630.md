@@ -14,12 +14,11 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00005/lenovo-miix-630.jpg"
 featureImage: "/images/blog/00005/lenovo-miix-630.jpg"
+toc: true
 draft: false
 ---
 
 I wanted to do a follow up my previous post about Windows on ARM since I have had some recent hands-on experience with this platform. I was able to obtain a Lenovo Miix 630 through a contract that I am working on, and I have been using it in a daily basis for the last 2 months. I had wanted to give this platform a fair chance, and here is what I found out.
-
-{{< toc >}}
 
 ## Windows 10 S Disclaimer ##
 

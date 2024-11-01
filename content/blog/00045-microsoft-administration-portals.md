@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00045/microsoft-logo.png"
+toc: true
 draft: false
 ---
 

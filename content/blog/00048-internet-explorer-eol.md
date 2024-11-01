@@ -11,6 +11,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00048/internet-explorer.png"
+toc: true
 draft: false
 ---
 

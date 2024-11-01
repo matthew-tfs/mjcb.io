@@ -12,14 +12,13 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00064/skills-ontario.png"
+toc: true
 draft: false
 ---
 
 I wanted to go into the details of the [Skills Ontario](https://www.skillsontario.com/) competition that I attended in early May 2009, and go over the entire experience. It has been 15 years since I competed at the Skills Ontario competition. The Skills Ontario competition took place from May 4 to May 6, 2009, at the RIM Park and Manulife Financial Sportsplex in Waterloo, Ontario. I won first place in the IT and Network Support competition which qualified me for Skills Canada in late May 2009, which I also attended.
 
 It has been 15 years since I went to this competition, and I have written some [background](/blog/2024/04/28/skills-competition-retrospective/) information on how I became involved in the competition in the first place. I have also written a follow-up on my experience at the [Skills Canada](/blog/2024/05/30/skills-canada-2009-retrospective/) competition that happened a few weeks later in May 2009.
-
-{{< toc >}}
 
 ## Disclaimer ##
 

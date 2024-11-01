@@ -12,14 +12,13 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00011/openssh-logo.png"
+toc: true
 draft: false
 ---
 
 One of the biggest and most welcome changes to the Windows 10 1809 update and in Windows Server 2019 was the addition of the OpenSSH Client and OpenSSH Server features. It is now incredibly easy to SSH into a Windows device using native tools that are now built-in to the operating system. In the past this was only possible by using complicated tools and odd workarounds to get an SSH-like implementation to work correctly. You can also use the SSH commands right from the Windows command line (CMD, PowerShell), without needing third-party tools or odd commands. This is a very nice change that Microsoft has added, since it is much easier to remotely manage a Windows through the Command Line instead of the GUI, and having the ability to use the same tools on both Windows and Linux is a big advantage.
 
 **Note:** I have only tested this on Windows 10 Pro for Workstations (Version 1809 Build 17763.253) and on Windows Server 2019 Standard.
-
-{{< toc >}}
 
 ## Installation ##
 

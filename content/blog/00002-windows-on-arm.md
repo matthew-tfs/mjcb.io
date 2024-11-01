@@ -13,14 +13,13 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00002/surface-rt.jpg"
+toc: true
 draft: false
 ---
 
 I have been thinking about this topic for a long time and I was trying to think of what I really wanted to say. One of things that really bothers me with technology (and I guess other parts of life as well), is that people are not always well informed on what is going on. I have been working in IT for almost a decade and the amount of false information and misconceptions that I hear on an almost nearly basis is absolutely maddening. I have heard so much incorrect information on Windows, Linux, Networking, the Cloud and Security and I have probably spent more time correcting people instead of fixing things or implementing new solutions for them.
 
 I am not a Microsoft apologist (as I have been accused of in the past by some people), but I feel as though the misconceptions and unfair criticism of Windows 10 and Windows 10 S is unjustified and I want to try and give a fair rundown on where Windows as a platform is going and why it is a good thing that Microsoft is going in that direction. Windows on ARM is an interesting development and I am very interested in it.
-
-{{< toc >}}
 
 ## Windows NT and Non-x86 Platforms ##
 

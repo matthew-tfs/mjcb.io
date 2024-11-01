@@ -12,6 +12,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00004/commodore-logo-small.png"
 featureImage: "/images/blog/00004/commodore-logo.png"
+toc: true
 draft: false
 ---
 
@@ -20,8 +21,6 @@ draft: false
 In parts 4 and 5 of the series, he even has one of the engineers ([Bil Herd](https://en.wikipedia.org/wiki/Bil_Herd)) that actually worked at Commodore give his input and insight to the design of some of the systems.
 
 I will update this post occasionally as this series is a work in progress, and The 8-Bit Guy seems to be continually adding to it.
-
-{{< toc >}}
 
 ## Commodore History Series ##
 

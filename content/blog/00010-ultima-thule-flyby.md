@@ -23,6 +23,6 @@ I have been following the New Horizons mission since its launch in January 2006,
 
 It is going to be an interesting year for space exploration and space launches in 2019, and I am very excited for all of it.
 
-## Additional Reading ##
+## Links ##
 
 * [New Horizons - Wikipedia](https://en.wikipedia.org/wiki/New_Horizons)

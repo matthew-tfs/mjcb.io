@@ -13,6 +13,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00021/latex-cover.png"
 featureImage: "/images/blog/00021/latex-cover.png"
+toc: true
 draft: false
 featured: true
 ---
@@ -22,8 +23,6 @@ LaTeX is a powerful typesetting language that has been used for decades by peopl
 I have written a follow-up post about using Visual Studio Code with LaTeX, mostly about the extensions that I also use with it as well as with additional configuration items:
 
 [Visual Studio Code with LaTeX – Follow-up](/blog/2020/07/20/visual-studio-code-with-latex-follow-up/)
-
-{{< toc >}}
 
 ## Introduction ##
 

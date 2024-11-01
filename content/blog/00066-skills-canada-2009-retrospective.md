@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00066/skills-canada.png"
+toc: true
 draft: false
 ---
 
@@ -20,8 +21,6 @@ After writing about the Skills Ontario competition I also wanted to go into the 
 It has been 15 years since I went to this competition, and I have written some [background](/blog/2024/04/28/skills-competition-retrospective/) information on how I became involved in the competition in the first place. I also talked about what got me to Skills Canada in my post about the [Skills Ontario](/blog/2024/05/05/skills-ontario-2009-retrospective/) competition that I wrote about a few weeks ago.
 
 I am not sure what the reason is, but Skills Canada does not keep a good record of past events. Finding information is quite difficult and I am not sure why Skills Canada does not keep a proper archive of their previous events. I kept everything from the 2009 Skills Canada event when I was involved with the competition, which was a good decision at the time as most of those documents and media files are no longer available. Fortunately, I was able to find most of the remaining information that I needed for this post using the [Wayback Machine](https://wayback.archive.org).
-
-{{< toc >}}
 
 ## Disclaimer ##
 

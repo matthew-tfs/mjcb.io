@@ -10,12 +10,11 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00062/apple.png"
+toc: true
 draft: false
 ---
 
 On March 21, 2024, the United States Justice Department and 16 States filed suit against Apple for monopolistic practices in the smartphone market. The main allegation is that Apple has violated antitrust laws by making it difficult for competitors and other third-parties to interoperate with the iPhone (and with iOS), and as a result they have a monopoly on the smartphone market in the US. This was certainly an interesting thing to hear about and it seems to have come out of nowhere. It is a complex case, and despite what others are saying, it is not completely related to the whole "green bubble" situation with iMessage.
-
-{{< toc >}}
 
 ## Disclaimer ##
 

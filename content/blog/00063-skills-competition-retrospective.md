@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00063/skills-logo.png"
+toc: true
 draft: false
 featured: true
 ---
@@ -26,8 +27,6 @@ This is a multipart series on my experience at Cambrian College, the Skills Onta
 There is nothing significant about 15 years since these events, I just wanted to finally write something about these competitions. I am getting older, and I wanted to document it as best as I could since these were important events for me. I am glad that I went to the trouble of taking photos and taking notes back when these events happened when I could, as I had a bit of trouble remembering every single detail. It is entirely possible that I have misremembered some details, especially with the [Skills Canada Competition](/blog/2024/05/30/skills-canada-2009-retrospective/) as a lot happened over a short period of time. I have also found that a lot of details have been lost, so I wanted to take the time to document what I could.
 
 This series of posts ended up getting a lot of additions and corrections. This is due to me finding additional details that I had written down, or things that I decided to add as I thought they were important details to mention. If I have made any errors or have left out important details, please [contact me](/about/#contact) and I will correct it.
-
-{{< toc >}}
 
 ## Disclaimer ##
 

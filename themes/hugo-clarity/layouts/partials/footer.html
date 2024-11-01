@@ -1,5 +1,5 @@
 {{- $s := .Site.Params }}
-{{ $t := .Site.Title }}
+{{- $c := default .Site.Title .Site.Copyright  }}
 {{- if or .Params.enableMathNotation $s.enableMathNotation }}
   {{ partialCached "math" . }}
 {{- end }}
@@ -7,7 +7,7 @@
 {{- $defaultFooterLogo := printf "%s%s" $iconsDir "apple-touch-icon.png"}}
 <footer class="footer">
   <div class="footer_inner wrap pale">
-    <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $t }}">
+    <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $c }}">
     <p><strong><a href="/">mjcb.io</a></strong> | <strong><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a></strong> | <strong><a href="/privacy-policy/">Privacy Policy</a></strong> | {{ .Site.Copyright }}</p>
     {{- partialCached "top" .}}
   </div>

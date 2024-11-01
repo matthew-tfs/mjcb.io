@@ -13,6 +13,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00057/google-chrome.png"
 featureImage: "/images/blog/00057/chromebook-portugal.jpg"
+toc: true
 draft: false
 ---
 
@@ -25,8 +26,6 @@ I also wanted a small portable device capable of playing media and some games fo
 I did some research and ended up getting the Lenovo Chromebook Duet (10.1") 2-in-1 (model ZA6F0008CA), which worked exceptionally well, despite the somewhat limited specifications of the device. This is the second ARM-based Lenovo device that I have owned in the last few years, the first being the [Lenovo Miix 630](/blog/2018/10/04/lenovo-miix-630/) which ran Windows 10.
 
 Even though I was happy with the Chromebook, I ended up not keeping it and sold it on eBay a few months after I got back from my trip. I do keep an ASUS Chromebook C204 (model C204MA-SS02-CB) around so that I always have a Chromebook for testing things. The trick with that device is to occasionally power it on to ensure that it is up to date.
-
-{{< toc >}}
 
 ## Lenovo Chromebook Duet (10.1") 2-in-1 ##
 

@@ -21,7 +21,7 @@ I had made several plans to work on Certifications and complete additional train
 
 I started several new projects that I did not complete entirely in 2020, but those projects should be competed in the first few months of 2021.
 
-## This Website in Statistics ##
+## Website Statistics ##
 
 2020 turned out to be the best year ever for my website and blog. I posted the greatest number of articles and I have seen the most traffic I have ever had. I didn't create this site because I cared about the number of visitors, but it is nice to see that people are seeing what I am working on.
 

@@ -11,6 +11,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00034/this-is-fine.jpg"
 featureImage: "/images/blog/00034/this-is-fine.jpg"
+toc: true
 draft: false
 ---
 

@@ -10,6 +10,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00040/mjcb.png"
+toc: true
 draft: false
 ---
 

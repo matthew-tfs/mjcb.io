@@ -13,6 +13,7 @@ tags: [
 categories: [ "Publications" ]
 thumbnail: "/images/publications/adcs-on-windows-server-2022/adcs-on-windows-server-2022-thumbnail.png"
 featureImage: "/images/publications/adcs-on-windows-server-2022/adcs-on-windows-server-2022-featured.png"
+toc: true
 featured: true
 ---
 

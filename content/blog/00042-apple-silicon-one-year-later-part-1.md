@@ -13,6 +13,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00042/apple-m1.png"
+toc: true
 draft: false
 ---
 
@@ -23,8 +24,6 @@ I was always disappointed with those devices, and I never really found something
 What ended up happening is that I ended up finding the perfect device, and it is now the only device that I use.
 
 This post ended up being a lot longer than I had planned and went on some tangents, but you can find the second part [here](/blog/2023/05/22/apple-silicon-two-years-later-part-2/).
-
-{{< toc >}}
 
 ## Why Do I Care About This? ##
 

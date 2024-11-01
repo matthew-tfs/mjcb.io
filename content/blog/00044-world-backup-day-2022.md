@@ -11,6 +11,7 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00044/world-backup-day-globe-2022.png"
 featureImage: "/images/blog/00044/world-backup-day-logo-2022.png"
+toc: true
 draft: false
 ---
 

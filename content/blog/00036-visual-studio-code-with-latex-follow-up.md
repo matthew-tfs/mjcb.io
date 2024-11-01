@@ -14,14 +14,13 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00036/latex-extras-cover-image.png"
 featureImage: "/images/blog/00036/latex-extras-cover-image.png"
+toc: true
 draft: false
 ---
 
 I posted an article about using [Visual Studio Code with LaTeX](/blog/2020/01/23/visual-studio-code-with-latex/) earlier this year and I wanted to do a follow-up with some of the additional extensions that I have been utilizing since then, as well as some of the extra configuration items that I have been using as I have made this environment my primary LaTeX editor.
 
 All the extensions that I have added can be found within [Visual Studio Code](https://code.visualstudio.com). I have also linked the locations at the end of this post since there is additional information located at those sites.
-
-{{< toc >}}
 
 ## Extensions ##
 

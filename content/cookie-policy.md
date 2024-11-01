@@ -3,13 +3,12 @@ title: "Cookie Policy"
 showDate: false
 showReadTime: false
 showShare: false
+toc: true
 ---
 
 **This agreement is in effect as of July 31, 2018.**
 
 This cookie policy for **mjcb.io** describes how and why this website uses cookies and similar technologies to recognize you when you visit the [https://mjcb.io](https://mjcb.io) website. It explains what these technologies are and why they are used, as well as your rights to control the usage of them on this website.
-
-{{< toc >}}
 
 ## What Are Cookies? ##
 

@@ -13,14 +13,13 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00003/windows-nt-3-51-oldshell.png"
 featureImage: "/images/blog/00003/windows-nt-3-51-oldshell.png"
+toc: true
 draft: false
 ---
 
 I ran into a few issues with running this very old operating system as a virtual machine on Hyper-V a few days ago. I needed to do this for a personal project that I am working on, one that I have been thinking about doing for a while now. Since I ran into a few issues with getting this to work correctly, I thought I should share my findings and write a quick guide on how to get Windows NT 3.51 Server and Windows NT 3.51 Workstation running on Hyper-V.
 
 The issue that I kept encountering was the installer would constantly crash during installation because of a problem with the Network Adapter. I needed the ability to run Windows NT 3.51 Server as a Domain Controller instead of a standalone server, so removing the Network Adapter at installation time was not an option for me.
-
-{{< toc >}}
 
 ## Software ##
 

@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00067/crowdstrike-logo.png"
+toc: true
 draft: false
 ---
 
@@ -22,8 +23,6 @@ The issue occurred because of a bad update that was deployed to the CrowdStrike 
 Full disclosure, I have never worked with CrowdStrike before, but I am familiar with their software. The solutions that they provide are not unique, and there are other vendors that provide similar software. Because it is 2024 all these solutions are somehow "AI integrated", at least from their marketing teams.
 
 Since this is an on-going event, I will update this post as more information is revealed. The CrowdStrike CEO has been called to testify in Congress about the incident, so that will be interesting to see if it happens.
-
-{{< toc >}}
 
 ## Updates ##
 

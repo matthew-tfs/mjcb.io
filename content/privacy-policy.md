@@ -3,6 +3,7 @@ title: "Privacy Policy"
 showDate: false
 showReadTime: false
 showShare: false
+toc: true
 ---
 
 **This agreement is in effect as of July 31, 2018.**
@@ -13,8 +14,6 @@ This privacy policy for **mjcb.io** describes how and why this website might col
 * Engage with this website in other related ways, including any sales, marketing, or other events.
 
 Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with the policies and practices outlines in this notice, then do not use this website. If you still have any questions or concerns, please send an email to **privacy**[at]**mjcb**[dot]**io** with your questions.
-
-{{< toc >}}
 
 ## Commitment To Privacy ##
 

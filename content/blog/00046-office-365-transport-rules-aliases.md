@@ -12,14 +12,13 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00046/microsoft-exchange-online.png"
+toc: true
 draft: false
 ---
 
 I ran into a somewhat annoying issue with using Mail Flow Rules with Exchange Online to modify the subject header on emails that were sent to aliases on some of my Office 365 accounts. I wanted to modify the email subject of those emails to show what alias it was meant for, and I figured I should share that process here if someone else runs into the same issue. This isn't something that I do very often, and I was doing it wrong from the beginning, hence why I was having an issue.
 
 Creating these Mail Flow Rules is not a difficult task to perform, but if you use the wrong settings in the rule creation process, then it will not work exactly as intended. Just for reference, I still use Office 365 and Microsoft 365 interchangeably in a lot of cases. I will just add it to the list of branding choices by Microsoft that I don't always agree with or follow and knowing Microsoft they will just change it again in the future.
-
-{{< toc >}}
 
 ## Purpose ##
 

@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00028/adcs.png"
+toc: true
 draft: false
 ---
 
@@ -36,8 +37,6 @@ Now available for purchase, a complete book version of this guide. Includes an e
 </div>
 
 **Note:** This guide is archived and is no longer updated on this website. For any future updates to this guide, please refer to the [version](https://docs.mjcb.io/microsoft/windows-server/windows-server-roles-features/adcs/adcs-windows-server-2019/adcs-windows-server-2019-part-6/) that can be found on [docs.mjcb.io](https://docs.mjcb.io/).
-
-{{< toc >}}
 
 ## 6.1 User Certificate Template Creation ##
 

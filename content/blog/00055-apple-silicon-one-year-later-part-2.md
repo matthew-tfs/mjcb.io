@@ -11,6 +11,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00055/apple-m1.png"
+toc: true
 draft: false
 ---
 
@@ -19,8 +20,6 @@ So, this post ended up taking a lot longer to put together than I thought it wou
 I am normally quite hesitant of getting a first-generation device, but I took a risk with getting the MacBook Air (M1, 2020) knowing Apple's track record with these things. After over 2 years I am still very happy with the device, and I think I found the ARM device that I have been wanting for years.
 
 While this post is titled "Apple Silicon, One Year Later", it is actually "Apple Silicon, Two Years Later" since I took so long to write it. This post is split into two parts, you can find the first part [here](/blog/2022/01/25/apple-silicon-one-year-later-part-1/).
-
-{{< toc >}}
 
 ## Apple Silicon ##
 

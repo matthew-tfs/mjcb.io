@@ -12,12 +12,11 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00035/apple-silicon.jpg"
 featureImage: "/images/blog/00035/apple-silicon.jpg"
+toc: true
 draft: false
 ---
 
 It has been a rumour for many years that Apple was finally going to ditch Intel and use their own custom processors in all their devices, the exact same ones that they have been utilizing in their iOS devices for the last few years.
-
-{{< toc >}}
 
 ## Apple Silicon ##
 

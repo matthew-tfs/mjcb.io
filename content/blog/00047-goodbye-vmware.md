@@ -11,6 +11,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00047/vmware-logo.png"
+toc: true
 draft: false
 ---
 

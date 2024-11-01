@@ -11,14 +11,13 @@ tags: [
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00038/pki-book-vscode.png"
 featureImage: "/images/blog/00038/pki-book-vscode.png"
+toc: true
 draft: false
 ---
 
 I wanted to go into the details on why I wrote this book and focus on what I learned while writing it. I will also go into the details on the process of writing the book and what tools I used. Writing a book was much harder than I ever thought it would be, but I wanted to document the process as best as I could, if other people be interested in doing the same. As difficult as it was, I would certainly do it again now that I know what to expect.
 
 For the page for the book, go to [Practical Guide to PKI with Windows Server - First Edition](/publications/practical-guide-to-pki-with-windows-server-first-edition/).
-
-{{< toc >}}
 
 ## Writing a Book ##
 

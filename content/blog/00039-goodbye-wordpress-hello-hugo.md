@@ -13,12 +13,11 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00039/hugo-logo.png"
+toc: true
 draft: false
 ---
 
 I have spent the last few days performing the migration from WordPress to Hugo and I think the change went well considering some of the incompatibilities between the platforms. I wanted to write about the migration process from one platform/hosting provider to another, and the reasons why I wanted to make the change in the first place. Overall, the migration to Hugo went well without too many major issues. There were some problems encountered along the way, but I was able to overcome them and complete the migration successfully.
-
-{{< toc >}}
 
 ## WordPress ##
 

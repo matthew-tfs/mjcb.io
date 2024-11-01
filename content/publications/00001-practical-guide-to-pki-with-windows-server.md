@@ -15,6 +15,7 @@ tags: [
 categories: [ "Publications" ]
 thumbnail: "/images/publications/practical-guide-to-pki-with-windows-server-first-edition/practical-guide-to-pki-with-windows-server-first-edition-thumbnail.png"
 featureImage: "/images/publications/practical-guide-to-pki-with-windows-server-first-edition/practical-guide-to-pki-with-windows-server-first-edition-featured.png"
+toc: true
 featured: true
 ---
 

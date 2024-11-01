@@ -13,6 +13,7 @@ tags: [
 categories: [ "Publications" ]
 thumbnail: "/images/publications/building-a-certificate-authority-in-windows-server-2019/building-a-certificate-authority-in-windows-server-2019-thumbnail.png"
 featureImage: "/images/publications/building-a-certificate-authority-in-windows-server-2019/building-a-certificate-authority-in-windows-server-2019-featured.png"
+toc: true
 ---
 
 <style type="text/css">

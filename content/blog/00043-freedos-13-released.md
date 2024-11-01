@@ -12,6 +12,7 @@ tags: [
 ]
 categories: [ "Blog" ]
 thumbnail: "/images/blog/00043/freedos-fish.png"
+toc: true
 draft: false
 ---
 

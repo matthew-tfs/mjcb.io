@@ -17,9 +17,6 @@
   gtag('config', 'G-CN15CP4JCD');
 </script>
 <meta charset="utf-8">
-{{ if .Params.noindex }}
-<meta name="robots" content="noindex" />
-{{ end }}
 {{- with $params.ga_verify }}
   <meta name="google-site-verification" content="{{ . }}">
 {{- end }}
@@ -54,5 +51,3 @@
   <link rel="stylesheet" href="{{ relURL . }}">
   {{- end }}
 {{- end }}
-
-{{- partial "scripts/google/tag-manager" (dict "noscript" false) }}

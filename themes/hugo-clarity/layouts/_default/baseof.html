@@ -27,7 +27,6 @@
     id="documentTop"
     data-lang="{{ .Lang }}"
   >
-    {{- partialCached "scripts/google/tag-manager" (dict "noscript" true) }}
     {{- partial "header" . }}
     <main>
       {{- block "main" . }}{{ end }}
@@ -35,7 +34,7 @@
 
     {{- partialCached "icons" . }}
     {{- partialCached "footer" . }}
-    {{- partialCached "scripts/index" . }}
+    {{- partialCached "scripts" . }}
     {{- partialCached "hooks/body-end" . }}
 
     {{ partial "gdpr-notice.html" }}

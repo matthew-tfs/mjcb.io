@@ -17,7 +17,7 @@ other = "Empfohlene Artikel"
 other = "Neueste Artikel"
 
 [404_title]
-other = "Verirrt"
+other = "Verloren"
 
 [could_not_find]
 other = "Die gesuchte Seite konnte nicht gefunden werden"
@@ -50,7 +50,7 @@ other = "Alle Serien"
 other = "Inhalt"
 
 [reading_time]
-other = "Lesezeit {{ .ReadingTime }} Min."
+other = "{{ .ReadingTime }} min lesen"
 
 [series_posts]
 other = "Beiträge in dieser Serie"

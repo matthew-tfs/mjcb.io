@@ -75,6 +75,6 @@ I will update this post occasionally as this series is a work in progress, and T
 ## Links ##
 
 * [Bil Herd](https://en.wikipedia.org/wiki/Bil_Herd)
-* [Commodore History Playlist](https://www.youtube.com/playlist?list=PLfABUWdDse7Y6LLPlfsHKcvBCgqaudzVY)
-* [The 8-Bit Guy Website](https://www.the8bitguy.com/)
-* [The 8-Bit Guy YouTube Channel](https://www.youtube.com/c/The8BitGuy)
+* [The 8-Bit Guy - Commodore History Playlist](https://www.youtube.com/playlist?list=PLfABUWdDse7Y6LLPlfsHKcvBCgqaudzVY)
+* [The 8-Bit Guy - Website](https://www.the8bitguy.com/)
+* [The 8-Bit Guy - YouTube Channel](https://www.youtube.com/c/The8BitGuy)

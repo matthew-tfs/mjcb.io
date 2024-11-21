@@ -25,7 +25,7 @@ googleAnalytics = "G-CN15CP4JCD"
     enforceLightMode = true
     ga_analytics = "G-CN15CP4JCD"
     enableSearch = true
-    codeLineNumbers = true
+    codeLineNumbers = false
     mobileNavigation = "right"
     ignoreErrors = [ "error-remote-getjson" ]
 

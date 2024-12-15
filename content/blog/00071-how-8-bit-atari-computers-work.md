@@ -25,7 +25,7 @@ Here is the Atari history video:
 
 ## Links ##
 
-* [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600)
-* [Atari XEGS](https://en.wikipedia.org/wiki/Atari_XEGS)
 * [The 8-Bit Guy - Website](https://www.the8bitguy.com/)
 * [The 8-Bit Guy - YouTube Channel](https://www.youtube.com/c/The8BitGuy)
+* [Wikipedia - Atari 2600](https://en.wikipedia.org/wiki/Atari_2600)
+* [Wikipedia - Atari XEGS](https://en.wikipedia.org/wiki/Atari_XEGS)

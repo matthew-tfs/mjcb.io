@@ -105,7 +105,8 @@ If you would like to contact me by email, feel free to send me a message at **ma
 ## Links ##
 
 * [Amazon Author Profile](https://www.amazon.com/author/matthewburr/)
+* [docs.mjcb.io](https://docs.mjcb.io/)
 * [GitHub](https://github.com/matthew-tfs/)
-* [Gumroad Profile](https://store.mjcb.io/)
+* [Gumroad Store](https://store.mjcb.io/)
 * [Public PGP Key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xb455b8191a2763ec)
 * [Ten Fifteen Solutions](https://tenfifteen.ca/)

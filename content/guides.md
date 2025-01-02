@@ -30,15 +30,15 @@ As part of the **AD CS on Windows Server 2022** guide series, there is currently
 
 This guide is a multi-part series on how to configure Active Directory Certificate Services in Windows Server 2019. I spent a lot of time on this since this is a very difficult subject and the configuration is quite involved. I originally wrote a basic version of this guide back in mid-2015 when I was using Windows Server 2012 R2. I have updated it for use with Windows Server 2019 and I have also added a lot more details and configuration details.
 
-* [Introduction - Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019)
-* [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1)
-* [Part 2 - Subordinate CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-2)
-* [Part 3 - Deploy Root and Subordinate Certificate](/blog/2020/03/09/certificate-authority-windows-server-2019-part-3)
-* [Part 4 - Certificate Revocation Policies](/blog/2020/03/09/certificate-authority-windows-server-2019-part-4)
-* [Part 5 - Private Key Archive and Recovery](/blog/2020/03/09/certificate-authority-windows-server-2019-part-5)
-* [Part 6 - Certificate Template Deployment](/blog/2020/03/09/certificate-authority-windows-server-2019-part-6)
-* [Part 7 - Certificate Auto-Enrollment](/blog/2020/03/09/certificate-authority-windows-server-2019-part-7)
-* [Part 8 - Final Steps](/blog/2020/03/09/certificate-authority-windows-server-2019-part-8)
+* [Introduction - Building a Certificate Authority in Windows Server 2019](/blog/2020/03/09/certificate-authority-windows-server-2019/)
+* [Part 1 - Offline Root CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-1/)
+* [Part 2 - Subordinate CA Setup](/blog/2020/03/09/certificate-authority-windows-server-2019-part-2/)
+* [Part 3 - Deploy Root and Subordinate Certificate](/blog/2020/03/09/certificate-authority-windows-server-2019-part-3/)
+* [Part 4 - Certificate Revocation Policies](/blog/2020/03/09/certificate-authority-windows-server-2019-part-4/)
+* [Part 5 - Private Key Archive and Recovery](/blog/2020/03/09/certificate-authority-windows-server-2019-part-5/)
+* [Part 6 - Certificate Template Deployment](/blog/2020/03/09/certificate-authority-windows-server-2019-part-6/)
+* [Part 7 - Certificate Auto-Enrollment](/blog/2020/03/09/certificate-authority-windows-server-2019-part-7/)
+* [Part 8 - Final Steps](/blog/2020/03/09/certificate-authority-windows-server-2019-part-8/)
 
 As part of the **Building a Certificate Authority in Windows Server 2019** guide series, there are two related publications available from this website:
 

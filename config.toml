@@ -1,7 +1,7 @@
 baseURL = "https://mjcb.io/"
 languageCode = "en-us"
 title = "mjcb.io"
-copyright = "Copyright © 2018 - 2024 Matthew Burr"
+copyright = "Copyright © 2018 - 2025 Matthew Burr"
 theme = "hugo-clarity"
 paginate = 8
 googleAnalytics = "G-CN15CP4JCD"

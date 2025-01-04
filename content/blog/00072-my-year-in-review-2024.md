@@ -73,7 +73,7 @@ I only really post on this website when I get time or there is something that I 
 
 ### AI Tools ###
 
-I haven’t really said a lot about AI on this website, and it is because I really have no interest in it. I don’t use it for anything, I don’t depend on it for anything, and at the end of the day it is just another tech fad that will probably go away. I have tried several AI tools over the last few months and I have never found them to be particularly useful. At the end of the day, I am getting tired of hearing about it.
+I haven’t really said a lot about AI on this website, and it is because I really have no interest in it. I don’t use it for anything, I don’t depend on it for anything, and at the end of the day it is just another tech fad that will probably go away. I have tried several AI tools over the last few months and I have never found them to be particularly useful. At the end of the day I don't care about AI, and I am getting tired of hearing about it.
 
 I recently upgraded to macOS Sequoia 15.2 which came with Apple Intelligence. It is not useful, but it is quite humorous in the way that it tries to summarize things like email notifications for me.
 
@@ -81,9 +81,11 @@ I recently upgraded to macOS Sequoia 15.2 which came with Apple Intelligence. It
 
 I am not a fan of social media at all. I find it to be a complete waste of time, and I have serious issues with the way that it is used to spread misinformation on a large scale.
 
-Out of curiosity I have also been trying out [Bluesky](https://bsky.app/) and created a [profile](https://bsky.app/profile/mjcb.io). I never used Twitter, and I have certainly never used X, and I never really understood the appeal of it.
+Out of curiosity I have also been trying out [Bluesky](https://bsky.app/) and created a [profile](https://bsky.app/profile/mjcb.io). I never used Twitter, and I have certainly never used X, and I never really understood the appeal of it. I find the experience to be a strange unfiltered echo chamber, so I probably won't keep it around for long.
 
-While I don't really consider it to be social media, I have had just about enough with LinkedIn. The site is a shell of its former self, and is just full of influencers who post nonsense all day long. I turned off all notifications, uninstalled the app from my phone and I try to make an effort to check the site a few times a month. If anyone is trying to contact me, LinkedIn is not the way to do so.
+While I don't really consider it to be social media, I have had just about enough with LinkedIn. The site is a shell of its former self, and is just full of influencers who post complete nonsense all day long. Over the last few months I have turned off all notifications and uninstalled the app from my phone. I try to make an effort to check the site a few times a month, which I usually forget to do. If anyone is trying to contact me, LinkedIn is not the way to do so.
+
+I have also been testing Discord for a future project that I am working on. If I end up using it I will post more information in the future.
 
 ## 2025 Goals ##
 
@@ -93,7 +95,7 @@ I will make an effort to post some networking content in 2025. I have had the ta
 
 ### Practical Guide to PKI with Windows Server - Second Edition ###
 
-I have been asked a lot about this recently and this is still happening. I wasn't able to work on it a lot over the last few months, but I have been able to work on it without too many distractions lately and it is getting close to being completed. I use GitHub to track issues with the book, and I am down to about 30 tasks that need to be completed. This may sound like a lot to do, but that is down from almost 160 issues from the beginning of 2024.
+I have been asked a lot about this recently and this is still happening. I wasn't able to work on it a lot over the last few months due to other commitments, but I have been able to work on it without too many distractions lately and it is getting close to being completed. I use GitHub to track issues with the book, and I am down to about 30 tasks that need to be completed. This may sound like a lot left to do, but that is down from almost 160 issues from the beginning of 2024. The book is a lot different from the first edition, and has taken a lot of time to put together. I have not just updated a few screenshots and added a few details, there is a lot of differences that go more in-depth on the subject matter. This is all based on feedback I received for the first edition.
 
 I won't get into the details, but I have rewritten a lot of the book due to feedback from some testers that I gave early copies to. I won't commit to anything, but it should hopefully be done in the next few months.
 

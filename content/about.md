@@ -42,7 +42,9 @@ As I have told employers in the past, I am not a developer. Even though I have a
 
 ## Publications ##
 
-I have released several publications over the last few years, all of which can be found on the [Publications](/publications/) page. Some of these publications are available for free, and some are available for purchase. All publications that I have released are available on [Gumroad](https://store.mjcb.io/) and [Amazon](https://www.amazon.com/author/matthewburr/), and those are the only two platforms that I use to release content on. If you find any of my publications elsewhere, please [contact](#contact) me.
+I have released several publications over the last few years, all of which can be found on the [Publications](/publications/) page. Some of these publications are available for free, and some are available for purchase. All publications that I have released are available on [Gumroad](https://store.mjcb.io/) and [Amazon](https://www.amazon.com/author/matthewburr/), and those are the only two platforms that I use to release content on.
+
+If you find any of my publications elsewhere, please [contact](#contact) me.
 
 ## Daily Drivers ##
 
@@ -51,9 +53,9 @@ I am currently using the following equipment for my daily personal usage:
 * Apple MacBook Air (M1, 2020)
 * Apple iPhone 12 Pro Max
 
-I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all my important virtual machines in Azure, I don't run anything locally.
+I also have an HP EliteDesk 600 G3 Mini (Intel Core i5-7500T, 32 GB RAM, Windows Server 2022) that I use for running virtual machines on Hyper-V, and that is only for testing purposes. I run all my important virtual machines on cloud services, and I don't run anything locally that I rely on.
 
-VS Code is my text editor of choice, and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub involved.
+VS Code is my text editor of choice and as the IDE for all projects that I do. Most of my daily workflow uses VS Code in some capacity, usually with GitHub involved.
 
 Even though I don't like to keep old things, I collect old laptops and other legacy devices. I have also been getting into the whole retro computing craze and revisiting a lot of the computers I used when I was a kid, including the Commodore 64 and early DOS machines.
 
@@ -92,7 +94,7 @@ The views and opinions that are expressed on this website are mine alone, and do
 
 ## Cookie and Privacy Policy ##
 
-There are third-party cookies used on this website, and that is only for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way. Blocking cookies will not cause any issues or affect the functionality of this website.
+There are no third-party cookies used on this website. [Simple Analytics](https://www.simpleanalytics.com/) is being used on this website, and there are no cookies required for that platform to function. Blocking cookies will not cause any issues or affect the functionality of this website.
 
 Click [here](/cookie-policy/) to view the complete Cookie Policy for this website.
 

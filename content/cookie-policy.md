@@ -8,7 +8,7 @@ toc: true
 
 **This agreement is in effect as of July 31, 2018.**
 
-This cookie policy for **mjcb.io** describes how and why this website uses cookies and similar technologies to recognize you when you visit the [https://mjcb.io](https://mjcb.io) website. It explains what these technologies are and why they are used, as well as your rights to control the usage of them on this website.
+This cookie policy for **mjcb.io** describes how and why this website uses cookies and similar technologies to recognize you when you visit the [https://mjcb.io/](/) website. It explains what these technologies are and why they are used, as well as your rights to control the usage of them on this website.
 
 ## What Are Cookies? ##
 
@@ -18,15 +18,15 @@ Cookies that are set by a website are called "first-party cookies". Cookies that
 
 ## Why Are Cookies Used on This Website? ##
 
-There are third-party cookies used on this website, and that is for Google Analytics. This is used entirely for reporting purposes and those cookies are not used in any other way.
+There are no third-party cookies used on this website.
 
-For more information on how your information is used on this website, please refer to the [Privacy Policy](/privacy-policy).
+For more information on how your information is used on this website, please refer to the [Privacy Policy](/privacy-policy/).
 
 ## How Can I Control Cookies? ##
 
 Your internet browser should allow you to disable cookies for specific websites, or for all websites altogether.
 
-Disabling cookies on this website, or specifically for Google Analytics, will not affect the functionality of this website in any way whatsoever.
+Disabling cookies on this website will not affect the functionality of this website in any way whatsoever.
 
 ## Contact Information ##
 
@@ -34,4 +34,4 @@ If you have any questions or comments about the privacy policy as outlined above
 
 ## Cookie Policy Updates ##
 
-This cookie policy was last updated on August 1, 2022.
+This cookie policy was last updated on February 9, 2025.

@@ -4,7 +4,6 @@ title = "mjcb.io"
 copyright = "Copyright © 2018 - 2025 Matthew Burr"
 theme = "hugo-clarity"
 paginate = 8
-googleAnalytics = "G-CN15CP4JCD"
 
 [params]
     mainSections = ["blog", "publications"]
@@ -23,7 +22,6 @@ googleAnalytics = "G-CN15CP4JCD"
     rssSummary = true
     largeTwitterCard = true
     enforceLightMode = true
-    ga_analytics = "G-CN15CP4JCD"
     enableSearch = true
     codeLineNumbers = false
     mobileNavigation = "right"

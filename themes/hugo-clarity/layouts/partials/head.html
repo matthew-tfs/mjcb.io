@@ -9,13 +9,8 @@
   {{- end }}
 {{- end }}
 <title>{{ with $title }}{{ . }} {{ $separator }} {{ end }}{{ .Site.Title }}</title>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CN15CP4JCD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-CN15CP4JCD');
-</script>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 <meta charset="utf-8">
 {{- with $params.ga_verify }}
   <meta name="google-site-verification" content="{{ . }}">
